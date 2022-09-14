@@ -1,0 +1,13 @@
+"""Length""", "Total" , "Leavers" , "Stayers"
+"""30 days or less""",206,107,99
+"""31 to 60 days""",73,19,54
+"""61 to 90 days""",59,15,44
+"""91 to 180 days""",71,34,37
+"""181 to 365 days""",49,1,48
+"""366 to 730 Days (1-2 Yrs)""",27,1,26
+"""731 to 1,095 Days (2-3 Yrs)""",8,0,8
+"""1,096 to 1,460 Days (3-4 Yrs)""",17,0,17
+"""1,461 to 1,825 Days (5-5 Yrs)""",9,0,9
+"""More than 1,825 Days (>5 Yrs)""",56,2,54
+"""Data Not Collected""",0,0,0
+"""Total""",575,179,396

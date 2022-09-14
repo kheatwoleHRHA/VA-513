@@ -1,0 +1,17 @@
+ch_status_persons,total,population,start_date,end_date,question,household_type,count
+Chronically Homeless ,197,all_persons,2021-11-01,2021-11-30,Q26b,without_children,176
+Chronically Homeless ,197,all_persons,2021-11-01,2021-11-30,Q26b,with_children_and_adults,21
+Chronically Homeless ,197,all_persons,2021-11-01,2021-11-30,Q26b,with_only_children,0
+Chronically Homeless ,197,all_persons,2021-11-01,2021-11-30,Q26b,unknown_household_type,0
+Not Chronically Homeless,1265,all_persons,2021-11-01,2021-11-30,Q26b,without_children,732
+Not Chronically Homeless,1265,all_persons,2021-11-01,2021-11-30,Q26b,with_children_and_adults,491
+Not Chronically Homeless,1265,all_persons,2021-11-01,2021-11-30,Q26b,with_only_children,27
+Not Chronically Homeless,1265,all_persons,2021-11-01,2021-11-30,Q26b,unknown_household_type,15
+Client Doesn't Know/Client Refused,20,all_persons,2021-11-01,2021-11-30,Q26b,without_children,17
+Client Doesn't Know/Client Refused,20,all_persons,2021-11-01,2021-11-30,Q26b,with_children_and_adults,3
+Client Doesn't Know/Client Refused,20,all_persons,2021-11-01,2021-11-30,Q26b,with_only_children,0
+Client Doesn't Know/Client Refused,20,all_persons,2021-11-01,2021-11-30,Q26b,unknown_household_type,0
+Data Not Collected,69,all_persons,2021-11-01,2021-11-30,Q26b,without_children,53
+Data Not Collected,69,all_persons,2021-11-01,2021-11-30,Q26b,with_children_and_adults,13
+Data Not Collected,69,all_persons,2021-11-01,2021-11-30,Q26b,with_only_children,2
+Data Not Collected,69,all_persons,2021-11-01,2021-11-30,Q26b,unknown_household_type,1

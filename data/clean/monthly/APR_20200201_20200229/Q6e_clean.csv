@@ -1,0 +1,6 @@
+time_for_record_entry,number_of_project_entry_records,number_of_project_exit_records,population,start_date,end_date,question
+0 days,224,183,data_quality,2020-02-01,2020-02-29,Q6e
+1-3 days,18,24,data_quality,2020-02-01,2020-02-29,Q6e
+4-6 days,17,9,data_quality,2020-02-01,2020-02-29,Q6e
+7-10 days,1,1,data_quality,2020-02-01,2020-02-29,Q6e
+11+ days,96,108,data_quality,2020-02-01,2020-02-29,Q6e

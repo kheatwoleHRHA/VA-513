@@ -1,0 +1,16 @@
+veteran_status_persons,total,population,start_date,end_date,question,household_type,count
+Chronically Homeless Veteran,16,all_persons,2019-09-01,2019-09-30,Q25a,without_children,16
+Chronically Homeless Veteran,16,all_persons,2019-09-01,2019-09-30,Q25a,with_children_and_adults,0
+Chronically Homeless Veteran,16,all_persons,2019-09-01,2019-09-30,Q25a,unknown_household_type,0
+Non-Chronically Homeless Veteran,22,all_persons,2019-09-01,2019-09-30,Q25a,without_children,18
+Non-Chronically Homeless Veteran,22,all_persons,2019-09-01,2019-09-30,Q25a,with_children_and_adults,3
+Non-Chronically Homeless Veteran,22,all_persons,2019-09-01,2019-09-30,Q25a,unknown_household_type,1
+Not a Veteran,776,all_persons,2019-09-01,2019-09-30,Q25a,without_children,567
+Not a Veteran,776,all_persons,2019-09-01,2019-09-30,Q25a,with_children_and_adults,209
+Not a Veteran,776,all_persons,2019-09-01,2019-09-30,Q25a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,all_persons,2019-09-01,2019-09-30,Q25a,without_children,0
+Client Doesn't Know/Client Refused,0,all_persons,2019-09-01,2019-09-30,Q25a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,all_persons,2019-09-01,2019-09-30,Q25a,unknown_household_type,0
+Data Not Collected,6,all_persons,2019-09-01,2019-09-30,Q25a,without_children,2
+Data Not Collected,6,all_persons,2019-09-01,2019-09-30,Q25a,with_children_and_adults,4
+Data Not Collected,6,all_persons,2019-09-01,2019-09-30,Q25a,unknown_household_type,0

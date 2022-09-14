@@ -1,0 +1,53 @@
+time_prior_to_housing,total,population,start_date,end_date,question,household_type,count
+7 days or less,29,all_persons,2014-11-01,2014-11-30,Q22e,without_children,15
+7 days or less,29,all_persons,2014-11-01,2014-11-30,Q22e,with_children_and_adults,14
+7 days or less,29,all_persons,2014-11-01,2014-11-30,Q22e,with_only_children,0
+7 days or less,29,all_persons,2014-11-01,2014-11-30,Q22e,unknown_household_type,0
+8 to 14 days,2,all_persons,2014-11-01,2014-11-30,Q22e,without_children,2
+8 to 14 days,2,all_persons,2014-11-01,2014-11-30,Q22e,with_children_and_adults,0
+8 to 14 days,2,all_persons,2014-11-01,2014-11-30,Q22e,with_only_children,0
+8 to 14 days,2,all_persons,2014-11-01,2014-11-30,Q22e,unknown_household_type,0
+15 to 21 days,2,all_persons,2014-11-01,2014-11-30,Q22e,without_children,2
+15 to 21 days,2,all_persons,2014-11-01,2014-11-30,Q22e,with_children_and_adults,0
+15 to 21 days,2,all_persons,2014-11-01,2014-11-30,Q22e,with_only_children,0
+15 to 21 days,2,all_persons,2014-11-01,2014-11-30,Q22e,unknown_household_type,0
+22 to 30 days,3,all_persons,2014-11-01,2014-11-30,Q22e,without_children,1
+22 to 30 days,3,all_persons,2014-11-01,2014-11-30,Q22e,with_children_and_adults,2
+22 to 30 days,3,all_persons,2014-11-01,2014-11-30,Q22e,with_only_children,0
+22 to 30 days,3,all_persons,2014-11-01,2014-11-30,Q22e,unknown_household_type,0
+31 to 60 days,16,all_persons,2014-11-01,2014-11-30,Q22e,without_children,8
+31 to 60 days,16,all_persons,2014-11-01,2014-11-30,Q22e,with_children_and_adults,8
+31 to 60 days,16,all_persons,2014-11-01,2014-11-30,Q22e,with_only_children,0
+31 to 60 days,16,all_persons,2014-11-01,2014-11-30,Q22e,unknown_household_type,0
+61 to 180 days,48,all_persons,2014-11-01,2014-11-30,Q22e,without_children,26
+61 to 180 days,48,all_persons,2014-11-01,2014-11-30,Q22e,with_children_and_adults,22
+61 to 180 days,48,all_persons,2014-11-01,2014-11-30,Q22e,with_only_children,0
+61 to 180 days,48,all_persons,2014-11-01,2014-11-30,Q22e,unknown_household_type,0
+181 to 365 days,19,all_persons,2014-11-01,2014-11-30,Q22e,without_children,16
+181 to 365 days,19,all_persons,2014-11-01,2014-11-30,Q22e,with_children_and_adults,3
+181 to 365 days,19,all_persons,2014-11-01,2014-11-30,Q22e,with_only_children,0
+181 to 365 days,19,all_persons,2014-11-01,2014-11-30,Q22e,unknown_household_type,0
+366-730 days (1-2 years),9,all_persons,2014-11-01,2014-11-30,Q22e,without_children,9
+366-730 days (1-2 years),9,all_persons,2014-11-01,2014-11-30,Q22e,with_children_and_adults,0
+366-730 days (1-2 years),9,all_persons,2014-11-01,2014-11-30,Q22e,with_only_children,0
+366-730 days (1-2 years),9,all_persons,2014-11-01,2014-11-30,Q22e,unknown_household_type,0
+731 days or more,15,all_persons,2014-11-01,2014-11-30,Q22e,without_children,15
+731 days or more,15,all_persons,2014-11-01,2014-11-30,Q22e,with_children_and_adults,0
+731 days or more,15,all_persons,2014-11-01,2014-11-30,Q22e,with_only_children,0
+731 days or more,15,all_persons,2014-11-01,2014-11-30,Q22e,unknown_household_type,0
+Total (persons moved into housing),143,all_persons,2014-11-01,2014-11-30,Q22e,without_children,94
+Total (persons moved into housing),143,all_persons,2014-11-01,2014-11-30,Q22e,with_children_and_adults,49
+Total (persons moved into housing),143,all_persons,2014-11-01,2014-11-30,Q22e,with_only_children,0
+Total (persons moved into housing),143,all_persons,2014-11-01,2014-11-30,Q22e,unknown_household_type,0
+Not yet moved into housing,19,all_persons,2014-11-01,2014-11-30,Q22e,without_children,3
+Not yet moved into housing,19,all_persons,2014-11-01,2014-11-30,Q22e,with_children_and_adults,16
+Not yet moved into housing,19,all_persons,2014-11-01,2014-11-30,Q22e,with_only_children,0
+Not yet moved into housing,19,all_persons,2014-11-01,2014-11-30,Q22e,unknown_household_type,0
+Data not collected,91,all_persons,2014-11-01,2014-11-30,Q22e,without_children,67
+Data not collected,91,all_persons,2014-11-01,2014-11-30,Q22e,with_children_and_adults,24
+Data not collected,91,all_persons,2014-11-01,2014-11-30,Q22e,with_only_children,0
+Data not collected,91,all_persons,2014-11-01,2014-11-30,Q22e,unknown_household_type,0
+Total persons,253,all_persons,2014-11-01,2014-11-30,Q22e,without_children,164
+Total persons,253,all_persons,2014-11-01,2014-11-30,Q22e,with_children_and_adults,89
+Total persons,253,all_persons,2014-11-01,2014-11-30,Q22e,with_only_children,0
+Total persons,253,all_persons,2014-11-01,2014-11-30,Q22e,unknown_household_type,0

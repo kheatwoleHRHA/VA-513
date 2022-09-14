@@ -1,0 +1,7 @@
+"""Income Change by Income Category (Universe: Adult Stayers with Income Information at Start and Annual Assessment)""", "Had Income Category at Start and Did Not Have It at Annual Assessment" , "Retained Income  Category But Had Less $ at Annual Assessment Than at Start" , "Retained Income Category and Same $ at Annual Assessment as at Start" , "Retained Income Category and Increased $ at Annual Assessment" , "Did Not Have the Income Category at Start and Gained the Income Category at Annual Assessment" , "Did Not Have the Income Category at Start or at Annual Assessment" , "Total Adults (including those with No Income)" , "Performance Measure: Adults who Gained or Increased Income from Start to Annual Assessment, Average Gain" , "Performance measure: Percent of persons who accomplished this measure"
+"""Number of Adults with Earned Income (ie.e, Employment Income)""",0,1,7,1,2,43,58,4,0.07
+"""Average Change in Earned Income""",0.0,-50.0,0,25.0,1026.0,0,0,861.75,0
+"""Number of Adults with Other Income""",0,4,14,16,3,21,58,19,0.33
+"""Average Change in Other Income""",0.0,-655.75,0,896.19,752.0,0,0,873.42,0
+"""Number of Adults with Any Income (i.e., Total Income)""",0,5,18,18,4,9,58,23,0.4
+"""Average Change in Overall Income""",0.0,-534.6,0,830.06,932.5,0,296,871.35,0

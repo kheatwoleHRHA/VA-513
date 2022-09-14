@@ -1,0 +1,16 @@
+veteran_status_households,total,population,start_date,end_date,question,household_type,count
+Chronically Homeless Veteran,7,all_households,2016-02-01,2016-02-29,Q25b,without_children,7
+Chronically Homeless Veteran,7,all_households,2016-02-01,2016-02-29,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,7,all_households,2016-02-01,2016-02-29,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,12,all_households,2016-02-01,2016-02-29,Q25b,without_children,9
+Non-Chronically Homeless Veteran,12,all_households,2016-02-01,2016-02-29,Q25b,with_children_and_adults,3
+Non-Chronically Homeless Veteran,12,all_households,2016-02-01,2016-02-29,Q25b,unknown_household_type,0
+Not a Veteran,335,all_households,2016-02-01,2016-02-29,Q25b,without_children,275
+Not a Veteran,335,all_households,2016-02-01,2016-02-29,Q25b,with_children_and_adults,60
+Not a Veteran,335,all_households,2016-02-01,2016-02-29,Q25b,unknown_household_type,0
+Client Doesn't Know/Client Refused,2,all_households,2016-02-01,2016-02-29,Q25b,without_children,2
+Client Doesn't Know/Client Refused,2,all_households,2016-02-01,2016-02-29,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,2,all_households,2016-02-01,2016-02-29,Q25b,unknown_household_type,0
+Data Not Collected,6,all_households,2016-02-01,2016-02-29,Q25b,without_children,6
+Data Not Collected,6,all_households,2016-02-01,2016-02-29,Q25b,with_children_and_adults,0
+Data Not Collected,6,all_households,2016-02-01,2016-02-29,Q25b,unknown_household_type,0

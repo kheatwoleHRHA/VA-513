@@ -1,0 +1,7 @@
+,"Total" , "Without Children" , "With Children and Adults" , "With Only Children" , "Unknown Household Type"
+"""Adults""",840,686,151,0,3
+"""Children""",245,0,230,15,0
+"""Client Doesn't Know/Client Refused""",1,0,0,0,1
+"""Data Not Collected""",8,0,0,0,8
+"""Total""",1094,686,381,15,12
+"""For PSH and RRH - the total persons served who moved into housing""",125,83,42,0,0

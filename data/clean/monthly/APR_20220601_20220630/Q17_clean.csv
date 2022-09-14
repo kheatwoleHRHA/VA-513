@@ -1,0 +1,49 @@
+income_sources,population,start_date,end_date,question,status,count
+Earned Income,adults,2022-06-01,2022-06-30,Q17,income_at_start,270
+Earned Income,adults,2022-06-01,2022-06-30,Q17,income_at_latest_annual_assessment_for_stayers,9
+Earned Income,adults,2022-06-01,2022-06-30,Q17,income_at_exit_for_leavers,52
+Unemployment Insurance,adults,2022-06-01,2022-06-30,Q17,income_at_start,3
+Unemployment Insurance,adults,2022-06-01,2022-06-30,Q17,income_at_latest_annual_assessment_for_stayers,0
+Unemployment Insurance,adults,2022-06-01,2022-06-30,Q17,income_at_exit_for_leavers,0
+Supplemental Security Income (SSI),adults,2022-06-01,2022-06-30,Q17,income_at_start,166
+Supplemental Security Income (SSI),adults,2022-06-01,2022-06-30,Q17,income_at_latest_annual_assessment_for_stayers,21
+Supplemental Security Income (SSI),adults,2022-06-01,2022-06-30,Q17,income_at_exit_for_leavers,25
+Social Security Disability Insurance (SSDI),adults,2022-06-01,2022-06-30,Q17,income_at_start,108
+Social Security Disability Insurance (SSDI),adults,2022-06-01,2022-06-30,Q17,income_at_latest_annual_assessment_for_stayers,12
+Social Security Disability Insurance (SSDI),adults,2022-06-01,2022-06-30,Q17,income_at_exit_for_leavers,8
+VA Service - Connected Disability Compensation,adults,2022-06-01,2022-06-30,Q17,income_at_start,10
+VA Service - Connected Disability Compensation,adults,2022-06-01,2022-06-30,Q17,income_at_latest_annual_assessment_for_stayers,1
+VA Service - Connected Disability Compensation,adults,2022-06-01,2022-06-30,Q17,income_at_exit_for_leavers,2
+VA Non-Service Connected Disability Pension,adults,2022-06-01,2022-06-30,Q17,income_at_start,6
+VA Non-Service Connected Disability Pension,adults,2022-06-01,2022-06-30,Q17,income_at_latest_annual_assessment_for_stayers,3
+VA Non-Service Connected Disability Pension,adults,2022-06-01,2022-06-30,Q17,income_at_exit_for_leavers,1
+Private Disability Insurance,adults,2022-06-01,2022-06-30,Q17,income_at_start,1
+Private Disability Insurance,adults,2022-06-01,2022-06-30,Q17,income_at_latest_annual_assessment_for_stayers,0
+Private Disability Insurance,adults,2022-06-01,2022-06-30,Q17,income_at_exit_for_leavers,1
+Worker's Compensation,adults,2022-06-01,2022-06-30,Q17,income_at_start,0
+Worker's Compensation,adults,2022-06-01,2022-06-30,Q17,income_at_latest_annual_assessment_for_stayers,0
+Worker's Compensation,adults,2022-06-01,2022-06-30,Q17,income_at_exit_for_leavers,0
+Temporary Assistance for Needy Families (TANF),adults,2022-06-01,2022-06-30,Q17,income_at_start,24
+Temporary Assistance for Needy Families (TANF),adults,2022-06-01,2022-06-30,Q17,income_at_latest_annual_assessment_for_stayers,0
+Temporary Assistance for Needy Families (TANF),adults,2022-06-01,2022-06-30,Q17,income_at_exit_for_leavers,5
+General Assistance (GA),adults,2022-06-01,2022-06-30,Q17,income_at_start,0
+General Assistance (GA),adults,2022-06-01,2022-06-30,Q17,income_at_latest_annual_assessment_for_stayers,0
+General Assistance (GA),adults,2022-06-01,2022-06-30,Q17,income_at_exit_for_leavers,0
+Retirement Income from Social Security,adults,2022-06-01,2022-06-30,Q17,income_at_start,24
+Retirement Income from Social Security,adults,2022-06-01,2022-06-30,Q17,income_at_latest_annual_assessment_for_stayers,5
+Retirement Income from Social Security,adults,2022-06-01,2022-06-30,Q17,income_at_exit_for_leavers,4
+Pension or retirement income from a former job,adults,2022-06-01,2022-06-30,Q17,income_at_start,7
+Pension or retirement income from a former job,adults,2022-06-01,2022-06-30,Q17,income_at_latest_annual_assessment_for_stayers,0
+Pension or retirement income from a former job,adults,2022-06-01,2022-06-30,Q17,income_at_exit_for_leavers,1
+Child Support,adults,2022-06-01,2022-06-30,Q17,income_at_start,16
+Child Support,adults,2022-06-01,2022-06-30,Q17,income_at_latest_annual_assessment_for_stayers,0
+Child Support,adults,2022-06-01,2022-06-30,Q17,income_at_exit_for_leavers,4
+Alimony and other spousal support,adults,2022-06-01,2022-06-30,Q17,income_at_start,0
+Alimony and other spousal support,adults,2022-06-01,2022-06-30,Q17,income_at_latest_annual_assessment_for_stayers,0
+Alimony and other spousal support,adults,2022-06-01,2022-06-30,Q17,income_at_exit_for_leavers,0
+Other Source,adults,2022-06-01,2022-06-30,Q17,income_at_start,16
+Other Source,adults,2022-06-01,2022-06-30,Q17,income_at_latest_annual_assessment_for_stayers,0
+Other Source,adults,2022-06-01,2022-06-30,Q17,income_at_exit_for_leavers,1
+Adults with Income Information at Start and Annual Assessment/Exit,adults,2022-06-01,2022-06-30,Q17,income_at_start,0
+Adults with Income Information at Start and Annual Assessment/Exit,adults,2022-06-01,2022-06-30,Q17,income_at_latest_annual_assessment_for_stayers,54
+Adults with Income Information at Start and Annual Assessment/Exit,adults,2022-06-01,2022-06-30,Q17,income_at_exit_for_leavers,0

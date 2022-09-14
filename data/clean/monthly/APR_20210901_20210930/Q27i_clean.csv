@@ -1,0 +1,14 @@
+income_sources_exit,ao_youth_with_disabling_condition,ao_youth_without_disabling_condition,ao_total_youth,ao_percent_with_disabling_condition_by_source,ac_youth_with_disabling_condition,ac_youth_without_disabling_condition,ac_total_youth,ac_percent_with_disabling_condition_by_source,co_youth_with_disabling_condition,co_youth_without_disabling_condition,co_total_youth,co_percent_with_disabling_condition_by_source,uk_youth_with_disabling_condition,uk_youth_without_disabling_condition,uk_total_youth,uk_percent_with_disabling_condition_by_source,population,start_date,end_date,question
+Earned Income,0,1,1,0.0,0,0,0,0.0,0,0,0,0.0,0,0,0,0.0,youth,2021-09-01,2021-09-30,Q27i
+Supplemental Security Income (SSI),0,0,0,0.0,0,0,0,0.0,0,0,0,0.0,0,0,0,0.0,youth,2021-09-01,2021-09-30,Q27i
+Social Security Disability Insurance (SSDI),0,0,0,0.0,0,0,0,0.0,0,0,0,0.0,0,0,0,0.0,youth,2021-09-01,2021-09-30,Q27i
+VA Service-Connected Disability Compensation,0,0,0,0.0,0,0,0,0.0,0,0,0,0.0,0,0,0,0.0,youth,2021-09-01,2021-09-30,Q27i
+Private Disability Insurance,0,0,0,0.0,0,0,0,0.0,0,0,0,0.0,0,0,0,0.0,youth,2021-09-01,2021-09-30,Q27i
+Worker's Compensation,0,0,0,0.0,0,0,0,0.0,0,0,0,0.0,0,0,0,0.0,youth,2021-09-01,2021-09-30,Q27i
+Temporary Assistance for Needy Families (TANF),0,0,0,0.0,0,0,0,0.0,0,0,0,0.0,0,0,0,0.0,youth,2021-09-01,2021-09-30,Q27i
+Retirement Income from Social Security,0,0,0,0.0,0,0,0,0.0,0,0,0,0.0,0,0,0,0.0,youth,2021-09-01,2021-09-30,Q27i
+Pension or retirement income from a former job,0,0,0,0.0,0,0,0,0.0,0,0,0,0.0,0,0,0,0.0,youth,2021-09-01,2021-09-30,Q27i
+Child Support,0,0,0,0.0,0,0,0,0.0,0,0,0,0.0,0,0,0,0.0,youth,2021-09-01,2021-09-30,Q27i
+Other source,0,0,0,0.0,0,0,0,0.0,0,0,0,0.0,0,0,0,0.0,youth,2021-09-01,2021-09-30,Q27i
+No Sources,1,6,7,0.14,0,2,2,0.0,0,0,0,0.0,0,0,0,0.0,youth,2021-09-01,2021-09-30,Q27i
+Unduplicated Total Youth,1,7,8,NA,0,2,2,NA,0,0,0,NA,0,0,0,NA,youth,2021-09-01,2021-09-30,Q27i

@@ -1,0 +1,9 @@
+, "Total" , "Without Children" , "With Children and Adults" , "Unknown Household Type"
+"""Male""",216,168,47,1
+"""Female""",202,95,107,0
+"""No Single Gender""",0,0,0,0
+"""Questioning""",0,0,0,0
+"""Transgender""",4,4,0,0
+"""Client Doesn't Know/Client Refused""",0,0,0,0
+"""Data Not Collected""",0,0,0,0
+"""Subtotal""",422,267,154,1

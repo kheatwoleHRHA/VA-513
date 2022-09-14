@@ -1,0 +1,22 @@
+gender_identity,total,population,start_date,end_date,question,household_type,count
+Male,331,adults,2019-06-01,2019-06-30,Q10a,without_children,295
+Male,331,adults,2019-06-01,2019-06-30,Q10a,with_children_and_adults,36
+Male,331,adults,2019-06-01,2019-06-30,Q10a,unknown_household_type,0
+Female,378,adults,2019-06-01,2019-06-30,Q10a,without_children,273
+Female,378,adults,2019-06-01,2019-06-30,Q10a,with_children_and_adults,105
+Female,378,adults,2019-06-01,2019-06-30,Q10a,unknown_household_type,0
+No Single Gender,0,adults,2019-06-01,2019-06-30,Q10a,without_children,0
+No Single Gender,0,adults,2019-06-01,2019-06-30,Q10a,with_children_and_adults,0
+No Single Gender,0,adults,2019-06-01,2019-06-30,Q10a,unknown_household_type,0
+Questioning,0,adults,2019-06-01,2019-06-30,Q10a,without_children,0
+Questioning,0,adults,2019-06-01,2019-06-30,Q10a,with_children_and_adults,0
+Questioning,0,adults,2019-06-01,2019-06-30,Q10a,unknown_household_type,0
+Transgender,0,adults,2019-06-01,2019-06-30,Q10a,without_children,0
+Transgender,0,adults,2019-06-01,2019-06-30,Q10a,with_children_and_adults,0
+Transgender,0,adults,2019-06-01,2019-06-30,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2019-06-01,2019-06-30,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2019-06-01,2019-06-30,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2019-06-01,2019-06-30,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2019-06-01,2019-06-30,Q10a,without_children,0
+Data Not Collected,0,adults,2019-06-01,2019-06-30,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2019-06-01,2019-06-30,Q10a,unknown_household_type,0

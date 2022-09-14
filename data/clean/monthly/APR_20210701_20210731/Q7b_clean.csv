@@ -1,0 +1,17 @@
+pit_month,total,population,start_date,end_date,question,household_type,count
+January,0,all_persons,2021-07-01,2021-07-31,Q7b,without_children,0
+January,0,all_persons,2021-07-01,2021-07-31,Q7b,with_children_and_adults,0
+January,0,all_persons,2021-07-01,2021-07-31,Q7b,with_only_children,0
+January,0,all_persons,2021-07-01,2021-07-31,Q7b,unknown_household_type,0
+April,0,all_persons,2021-07-01,2021-07-31,Q7b,without_children,0
+April,0,all_persons,2021-07-01,2021-07-31,Q7b,with_children_and_adults,0
+April,0,all_persons,2021-07-01,2021-07-31,Q7b,with_only_children,0
+April,0,all_persons,2021-07-01,2021-07-31,Q7b,unknown_household_type,0
+July,996,all_persons,2021-07-01,2021-07-31,Q7b,without_children,620
+July,996,all_persons,2021-07-01,2021-07-31,Q7b,with_children_and_adults,347
+July,996,all_persons,2021-07-01,2021-07-31,Q7b,with_only_children,16
+July,996,all_persons,2021-07-01,2021-07-31,Q7b,unknown_household_type,13
+October,0,all_persons,2021-07-01,2021-07-31,Q7b,without_children,0
+October,0,all_persons,2021-07-01,2021-07-31,Q7b,with_children_and_adults,0
+October,0,all_persons,2021-07-01,2021-07-31,Q7b,with_only_children,0
+October,0,all_persons,2021-07-01,2021-07-31,Q7b,unknown_household_type,0

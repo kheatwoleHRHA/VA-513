@@ -1,0 +1,21 @@
+persons_served,total,population,start_date,end_date,question,household_type,count
+Adults,1093,all_persons,2021-09-01,2021-09-30,Q7a,without_children,886
+Adults,1093,all_persons,2021-09-01,2021-09-30,Q7a,with_children_and_adults,204
+Adults,1093,all_persons,2021-09-01,2021-09-30,Q7a,with_only_children,0
+Adults,1093,all_persons,2021-09-01,2021-09-30,Q7a,unknown_household_type,3
+Children,322,all_persons,2021-09-01,2021-09-30,Q7a,without_children,0
+Children,322,all_persons,2021-09-01,2021-09-30,Q7a,with_children_and_adults,298
+Children,322,all_persons,2021-09-01,2021-09-30,Q7a,with_only_children,24
+Children,322,all_persons,2021-09-01,2021-09-30,Q7a,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_persons,2021-09-01,2021-09-30,Q7a,without_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2021-09-01,2021-09-30,Q7a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_persons,2021-09-01,2021-09-30,Q7a,with_only_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2021-09-01,2021-09-30,Q7a,unknown_household_type,1
+Data Not Collected,9,all_persons,2021-09-01,2021-09-30,Q7a,without_children,0
+Data Not Collected,9,all_persons,2021-09-01,2021-09-30,Q7a,with_children_and_adults,0
+Data Not Collected,9,all_persons,2021-09-01,2021-09-30,Q7a,with_only_children,0
+Data Not Collected,9,all_persons,2021-09-01,2021-09-30,Q7a,unknown_household_type,9
+For PSH and RRH - the total persons served who moved into housing,122,all_persons,2021-09-01,2021-09-30,Q7a,without_children,86
+For PSH and RRH - the total persons served who moved into housing,122,all_persons,2021-09-01,2021-09-30,Q7a,with_children_and_adults,36
+For PSH and RRH - the total persons served who moved into housing,122,all_persons,2021-09-01,2021-09-30,Q7a,with_only_children,0
+For PSH and RRH - the total persons served who moved into housing,122,all_persons,2021-09-01,2021-09-30,Q7a,unknown_household_type,0

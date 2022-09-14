@@ -1,0 +1,33 @@
+race,total,population,start_date,end_date,question,household_type,count
+White,745,all_persons,2021-06-01,2021-06-30,Q12a,without_children,524
+White,745,all_persons,2021-06-01,2021-06-30,Q12a,with_children_and_adults,207
+White,745,all_persons,2021-06-01,2021-06-30,Q12a,with_only_children,9
+White,745,all_persons,2021-06-01,2021-06-30,Q12a,unknown_household_type,5
+"Black, African American, or African",292,all_persons,2021-06-01,2021-06-30,Q12a,without_children,179
+"Black, African American, or African",292,all_persons,2021-06-01,2021-06-30,Q12a,with_children_and_adults,102
+"Black, African American, or African",292,all_persons,2021-06-01,2021-06-30,Q12a,with_only_children,9
+"Black, African American, or African",292,all_persons,2021-06-01,2021-06-30,Q12a,unknown_household_type,2
+Asian or Asian American,11,all_persons,2021-06-01,2021-06-30,Q12a,without_children,3
+Asian or Asian American,11,all_persons,2021-06-01,2021-06-30,Q12a,with_children_and_adults,5
+Asian or Asian American,11,all_persons,2021-06-01,2021-06-30,Q12a,with_only_children,0
+Asian or Asian American,11,all_persons,2021-06-01,2021-06-30,Q12a,unknown_household_type,3
+"American Indian, Alaska Native, or Indigenous",3,all_persons,2021-06-01,2021-06-30,Q12a,without_children,3
+"American Indian, Alaska Native, or Indigenous",3,all_persons,2021-06-01,2021-06-30,Q12a,with_children_and_adults,0
+"American Indian, Alaska Native, or Indigenous",3,all_persons,2021-06-01,2021-06-30,Q12a,with_only_children,0
+"American Indian, Alaska Native, or Indigenous",3,all_persons,2021-06-01,2021-06-30,Q12a,unknown_household_type,0
+Native Hawaiian or Pacific Islander,8,all_persons,2021-06-01,2021-06-30,Q12a,without_children,5
+Native Hawaiian or Pacific Islander,8,all_persons,2021-06-01,2021-06-30,Q12a,with_children_and_adults,3
+Native Hawaiian or Pacific Islander,8,all_persons,2021-06-01,2021-06-30,Q12a,with_only_children,0
+Native Hawaiian or Pacific Islander,8,all_persons,2021-06-01,2021-06-30,Q12a,unknown_household_type,0
+Multiple Races,85,all_persons,2021-06-01,2021-06-30,Q12a,without_children,36
+Multiple Races,85,all_persons,2021-06-01,2021-06-30,Q12a,with_children_and_adults,46
+Multiple Races,85,all_persons,2021-06-01,2021-06-30,Q12a,with_only_children,3
+Multiple Races,85,all_persons,2021-06-01,2021-06-30,Q12a,unknown_household_type,0
+Client Doesn't Know/Client Refused,3,all_persons,2021-06-01,2021-06-30,Q12a,without_children,3
+Client Doesn't Know/Client Refused,3,all_persons,2021-06-01,2021-06-30,Q12a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,3,all_persons,2021-06-01,2021-06-30,Q12a,with_only_children,0
+Client Doesn't Know/Client Refused,3,all_persons,2021-06-01,2021-06-30,Q12a,unknown_household_type,0
+Data Not Collected,13,all_persons,2021-06-01,2021-06-30,Q12a,without_children,3
+Data Not Collected,13,all_persons,2021-06-01,2021-06-30,Q12a,with_children_and_adults,7
+Data Not Collected,13,all_persons,2021-06-01,2021-06-30,Q12a,with_only_children,0
+Data Not Collected,13,all_persons,2021-06-01,2021-06-30,Q12a,unknown_household_type,3

@@ -1,0 +1,5 @@
+summary,population,start_date,end_date,question,status,count
+Average Length,all_persons,2015-02-01,2015-02-28,Q22b,leavers,30
+Average Length,all_persons,2015-02-01,2015-02-28,Q22b,stayers,608
+Median Length,all_persons,2015-02-01,2015-02-28,Q22b,leavers,2
+Median Length,all_persons,2015-02-01,2015-02-28,Q22b,stayers,88

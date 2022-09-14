@@ -1,0 +1,9 @@
+, "Total" , "Without Children" , "Adults in HH with Children and Adults" , "Children in HH with Children and Adults" , "With Only Children" , "Unknown Household Type"
+"""Mental Health Disorder""",189,152,34,3,0,0
+"""Alcohol Use Disorder""",36,36,0,0,0,0
+"""Drug Use Disorder""",29,25,4,0,0,0
+"""Both Alcohol and Drug Use Disorders""",30,30,0,0,0,0
+"""Chronic Health Condition""",86,73,10,3,0,0
+"""HIV/AIDS""",86,79,7,0,0,0
+"""Development Disability""",45,29,7,9,0,0
+"""Physical Disability""",103,87,14,2,0,0

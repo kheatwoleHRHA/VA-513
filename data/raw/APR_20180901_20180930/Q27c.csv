@@ -1,0 +1,9 @@
+, "Total" , "Without Children" , "With Children and Adults" , "With Only Children" , "Unknown Household Type"
+"""Male""",10,3,2,5,0
+"""Female""",12,2,7,3,0
+"""No Single Gender""",0,0,0,0,0
+"""Questioning""",0,0,0,0,0
+"""Transgender""",0,0,0,0,0
+"""Client Doesn't Know/Client Refused""",0,0,0,0,0
+"""Data Not Collected""",0,0,0,0,0
+"""Total""",22,5,9,8,0

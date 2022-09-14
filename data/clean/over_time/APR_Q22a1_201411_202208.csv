@@ -1,0 +1,2069 @@
+length,total,population,start_date,end_date,question,status,count
+30 days or less,233,all_persons,2014-11-01,2014-11-30,Q22a1,leavers,133
+30 days or less,233,all_persons,2014-11-01,2014-11-30,Q22a1,stayers,100
+31 to 60 days,80,all_persons,2014-11-01,2014-11-30,Q22a1,leavers,16
+31 to 60 days,80,all_persons,2014-11-01,2014-11-30,Q22a1,stayers,64
+61 to 90 days,53,all_persons,2014-11-01,2014-11-30,Q22a1,leavers,14
+61 to 90 days,53,all_persons,2014-11-01,2014-11-30,Q22a1,stayers,39
+91 to 180 days,58,all_persons,2014-11-01,2014-11-30,Q22a1,leavers,7
+91 to 180 days,58,all_persons,2014-11-01,2014-11-30,Q22a1,stayers,51
+181 to 365 days,33,all_persons,2014-11-01,2014-11-30,Q22a1,leavers,3
+181 to 365 days,33,all_persons,2014-11-01,2014-11-30,Q22a1,stayers,30
+366 to 730 Days (1-2 Yrs),16,all_persons,2014-11-01,2014-11-30,Q22a1,leavers,0
+366 to 730 Days (1-2 Yrs),16,all_persons,2014-11-01,2014-11-30,Q22a1,stayers,16
+"731 to 1,095 Days (2-3 Yrs)",13,all_persons,2014-11-01,2014-11-30,Q22a1,leavers,0
+"731 to 1,095 Days (2-3 Yrs)",13,all_persons,2014-11-01,2014-11-30,Q22a1,stayers,13
+"1,096 to 1,460 Days (3-4 Yrs)",13,all_persons,2014-11-01,2014-11-30,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",13,all_persons,2014-11-01,2014-11-30,Q22a1,stayers,13
+"1,461 to 1,825 Days (5-5 Yrs)",10,all_persons,2014-11-01,2014-11-30,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",10,all_persons,2014-11-01,2014-11-30,Q22a1,stayers,10
+"More than 1,825 Days (>5 Yrs)",43,all_persons,2014-11-01,2014-11-30,Q22a1,leavers,0
+"More than 1,825 Days (>5 Yrs)",43,all_persons,2014-11-01,2014-11-30,Q22a1,stayers,43
+Data Not Collected,0,all_persons,2014-11-01,2014-11-30,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2014-11-01,2014-11-30,Q22a1,stayers,0
+30 days or less,239,all_persons,2014-12-01,2014-12-31,Q22a1,leavers,122
+30 days or less,239,all_persons,2014-12-01,2014-12-31,Q22a1,stayers,117
+31 to 60 days,65,all_persons,2014-12-01,2014-12-31,Q22a1,leavers,16
+31 to 60 days,65,all_persons,2014-12-01,2014-12-31,Q22a1,stayers,49
+61 to 90 days,54,all_persons,2014-12-01,2014-12-31,Q22a1,leavers,16
+61 to 90 days,54,all_persons,2014-12-01,2014-12-31,Q22a1,stayers,38
+91 to 180 days,76,all_persons,2014-12-01,2014-12-31,Q22a1,leavers,15
+91 to 180 days,76,all_persons,2014-12-01,2014-12-31,Q22a1,stayers,61
+181 to 365 days,41,all_persons,2014-12-01,2014-12-31,Q22a1,leavers,11
+181 to 365 days,41,all_persons,2014-12-01,2014-12-31,Q22a1,stayers,30
+366 to 730 Days (1-2 Yrs),15,all_persons,2014-12-01,2014-12-31,Q22a1,leavers,0
+366 to 730 Days (1-2 Yrs),15,all_persons,2014-12-01,2014-12-31,Q22a1,stayers,15
+"731 to 1,095 Days (2-3 Yrs)",18,all_persons,2014-12-01,2014-12-31,Q22a1,leavers,0
+"731 to 1,095 Days (2-3 Yrs)",18,all_persons,2014-12-01,2014-12-31,Q22a1,stayers,18
+"1,096 to 1,460 Days (3-4 Yrs)",10,all_persons,2014-12-01,2014-12-31,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",10,all_persons,2014-12-01,2014-12-31,Q22a1,stayers,10
+"1,461 to 1,825 Days (5-5 Yrs)",12,all_persons,2014-12-01,2014-12-31,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",12,all_persons,2014-12-01,2014-12-31,Q22a1,stayers,12
+"More than 1,825 Days (>5 Yrs)",43,all_persons,2014-12-01,2014-12-31,Q22a1,leavers,0
+"More than 1,825 Days (>5 Yrs)",43,all_persons,2014-12-01,2014-12-31,Q22a1,stayers,43
+Data Not Collected,0,all_persons,2014-12-01,2014-12-31,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2014-12-01,2014-12-31,Q22a1,stayers,0
+30 days or less,250,all_persons,2015-01-01,2015-01-31,Q22a1,leavers,142
+30 days or less,250,all_persons,2015-01-01,2015-01-31,Q22a1,stayers,108
+31 to 60 days,76,all_persons,2015-01-01,2015-01-31,Q22a1,leavers,6
+31 to 60 days,76,all_persons,2015-01-01,2015-01-31,Q22a1,stayers,70
+61 to 90 days,49,all_persons,2015-01-01,2015-01-31,Q22a1,leavers,18
+61 to 90 days,49,all_persons,2015-01-01,2015-01-31,Q22a1,stayers,31
+91 to 180 days,79,all_persons,2015-01-01,2015-01-31,Q22a1,leavers,12
+91 to 180 days,79,all_persons,2015-01-01,2015-01-31,Q22a1,stayers,67
+181 to 365 days,42,all_persons,2015-01-01,2015-01-31,Q22a1,leavers,0
+181 to 365 days,42,all_persons,2015-01-01,2015-01-31,Q22a1,stayers,42
+366 to 730 Days (1-2 Yrs),15,all_persons,2015-01-01,2015-01-31,Q22a1,leavers,0
+366 to 730 Days (1-2 Yrs),15,all_persons,2015-01-01,2015-01-31,Q22a1,stayers,15
+"731 to 1,095 Days (2-3 Yrs)",18,all_persons,2015-01-01,2015-01-31,Q22a1,leavers,0
+"731 to 1,095 Days (2-3 Yrs)",18,all_persons,2015-01-01,2015-01-31,Q22a1,stayers,18
+"1,096 to 1,460 Days (3-4 Yrs)",11,all_persons,2015-01-01,2015-01-31,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",11,all_persons,2015-01-01,2015-01-31,Q22a1,stayers,11
+"1,461 to 1,825 Days (5-5 Yrs)",12,all_persons,2015-01-01,2015-01-31,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",12,all_persons,2015-01-01,2015-01-31,Q22a1,stayers,12
+"More than 1,825 Days (>5 Yrs)",44,all_persons,2015-01-01,2015-01-31,Q22a1,leavers,0
+"More than 1,825 Days (>5 Yrs)",44,all_persons,2015-01-01,2015-01-31,Q22a1,stayers,44
+Data Not Collected,0,all_persons,2015-01-01,2015-01-31,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2015-01-01,2015-01-31,Q22a1,stayers,0
+30 days or less,226,all_persons,2015-02-01,2015-02-28,Q22a1,leavers,120
+30 days or less,226,all_persons,2015-02-01,2015-02-28,Q22a1,stayers,106
+31 to 60 days,75,all_persons,2015-02-01,2015-02-28,Q22a1,leavers,11
+31 to 60 days,75,all_persons,2015-02-01,2015-02-28,Q22a1,stayers,64
+61 to 90 days,67,all_persons,2015-02-01,2015-02-28,Q22a1,leavers,23
+61 to 90 days,67,all_persons,2015-02-01,2015-02-28,Q22a1,stayers,44
+91 to 180 days,81,all_persons,2015-02-01,2015-02-28,Q22a1,leavers,17
+91 to 180 days,81,all_persons,2015-02-01,2015-02-28,Q22a1,stayers,64
+181 to 365 days,45,all_persons,2015-02-01,2015-02-28,Q22a1,leavers,1
+181 to 365 days,45,all_persons,2015-02-01,2015-02-28,Q22a1,stayers,44
+366 to 730 Days (1-2 Yrs),19,all_persons,2015-02-01,2015-02-28,Q22a1,leavers,1
+366 to 730 Days (1-2 Yrs),19,all_persons,2015-02-01,2015-02-28,Q22a1,stayers,18
+"731 to 1,095 Days (2-3 Yrs)",18,all_persons,2015-02-01,2015-02-28,Q22a1,leavers,0
+"731 to 1,095 Days (2-3 Yrs)",18,all_persons,2015-02-01,2015-02-28,Q22a1,stayers,18
+"1,096 to 1,460 Days (3-4 Yrs)",11,all_persons,2015-02-01,2015-02-28,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",11,all_persons,2015-02-01,2015-02-28,Q22a1,stayers,11
+"1,461 to 1,825 Days (5-5 Yrs)",13,all_persons,2015-02-01,2015-02-28,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",13,all_persons,2015-02-01,2015-02-28,Q22a1,stayers,13
+"More than 1,825 Days (>5 Yrs)",44,all_persons,2015-02-01,2015-02-28,Q22a1,leavers,0
+"More than 1,825 Days (>5 Yrs)",44,all_persons,2015-02-01,2015-02-28,Q22a1,stayers,44
+Data Not Collected,0,all_persons,2015-02-01,2015-02-28,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2015-02-01,2015-02-28,Q22a1,stayers,0
+30 days or less,213,all_persons,2015-03-01,2015-03-31,Q22a1,leavers,139
+30 days or less,213,all_persons,2015-03-01,2015-03-31,Q22a1,stayers,74
+31 to 60 days,81,all_persons,2015-03-01,2015-03-31,Q22a1,leavers,31
+31 to 60 days,81,all_persons,2015-03-01,2015-03-31,Q22a1,stayers,50
+61 to 90 days,62,all_persons,2015-03-01,2015-03-31,Q22a1,leavers,17
+61 to 90 days,62,all_persons,2015-03-01,2015-03-31,Q22a1,stayers,45
+91 to 180 days,61,all_persons,2015-03-01,2015-03-31,Q22a1,leavers,8
+91 to 180 days,61,all_persons,2015-03-01,2015-03-31,Q22a1,stayers,53
+181 to 365 days,53,all_persons,2015-03-01,2015-03-31,Q22a1,leavers,4
+181 to 365 days,53,all_persons,2015-03-01,2015-03-31,Q22a1,stayers,49
+366 to 730 Days (1-2 Yrs),16,all_persons,2015-03-01,2015-03-31,Q22a1,leavers,0
+366 to 730 Days (1-2 Yrs),16,all_persons,2015-03-01,2015-03-31,Q22a1,stayers,16
+"731 to 1,095 Days (2-3 Yrs)",13,all_persons,2015-03-01,2015-03-31,Q22a1,leavers,0
+"731 to 1,095 Days (2-3 Yrs)",13,all_persons,2015-03-01,2015-03-31,Q22a1,stayers,13
+"1,096 to 1,460 Days (3-4 Yrs)",14,all_persons,2015-03-01,2015-03-31,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",14,all_persons,2015-03-01,2015-03-31,Q22a1,stayers,14
+"1,461 to 1,825 Days (5-5 Yrs)",10,all_persons,2015-03-01,2015-03-31,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",10,all_persons,2015-03-01,2015-03-31,Q22a1,stayers,10
+"More than 1,825 Days (>5 Yrs)",49,all_persons,2015-03-01,2015-03-31,Q22a1,leavers,0
+"More than 1,825 Days (>5 Yrs)",49,all_persons,2015-03-01,2015-03-31,Q22a1,stayers,49
+Data Not Collected,0,all_persons,2015-03-01,2015-03-31,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2015-03-01,2015-03-31,Q22a1,stayers,0
+30 days or less,193,all_persons,2015-04-01,2015-04-30,Q22a1,leavers,129
+30 days or less,193,all_persons,2015-04-01,2015-04-30,Q22a1,stayers,64
+31 to 60 days,41,all_persons,2015-04-01,2015-04-30,Q22a1,leavers,11
+31 to 60 days,41,all_persons,2015-04-01,2015-04-30,Q22a1,stayers,30
+61 to 90 days,47,all_persons,2015-04-01,2015-04-30,Q22a1,leavers,20
+61 to 90 days,47,all_persons,2015-04-01,2015-04-30,Q22a1,stayers,27
+91 to 180 days,59,all_persons,2015-04-01,2015-04-30,Q22a1,leavers,16
+91 to 180 days,59,all_persons,2015-04-01,2015-04-30,Q22a1,stayers,43
+181 to 365 days,72,all_persons,2015-04-01,2015-04-30,Q22a1,leavers,4
+181 to 365 days,72,all_persons,2015-04-01,2015-04-30,Q22a1,stayers,68
+366 to 730 Days (1-2 Yrs),17,all_persons,2015-04-01,2015-04-30,Q22a1,leavers,1
+366 to 730 Days (1-2 Yrs),17,all_persons,2015-04-01,2015-04-30,Q22a1,stayers,16
+"731 to 1,095 Days (2-3 Yrs)",14,all_persons,2015-04-01,2015-04-30,Q22a1,leavers,0
+"731 to 1,095 Days (2-3 Yrs)",14,all_persons,2015-04-01,2015-04-30,Q22a1,stayers,14
+"1,096 to 1,460 Days (3-4 Yrs)",14,all_persons,2015-04-01,2015-04-30,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",14,all_persons,2015-04-01,2015-04-30,Q22a1,stayers,14
+"1,461 to 1,825 Days (5-5 Yrs)",10,all_persons,2015-04-01,2015-04-30,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",10,all_persons,2015-04-01,2015-04-30,Q22a1,stayers,10
+"More than 1,825 Days (>5 Yrs)",49,all_persons,2015-04-01,2015-04-30,Q22a1,leavers,0
+"More than 1,825 Days (>5 Yrs)",49,all_persons,2015-04-01,2015-04-30,Q22a1,stayers,49
+Data Not Collected,0,all_persons,2015-04-01,2015-04-30,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2015-04-01,2015-04-30,Q22a1,stayers,0
+30 days or less,129,all_persons,2015-05-01,2015-05-31,Q22a1,leavers,58
+30 days or less,129,all_persons,2015-05-01,2015-05-31,Q22a1,stayers,71
+31 to 60 days,61,all_persons,2015-05-01,2015-05-31,Q22a1,leavers,10
+31 to 60 days,61,all_persons,2015-05-01,2015-05-31,Q22a1,stayers,51
+61 to 90 days,29,all_persons,2015-05-01,2015-05-31,Q22a1,leavers,2
+61 to 90 days,29,all_persons,2015-05-01,2015-05-31,Q22a1,stayers,27
+91 to 180 days,67,all_persons,2015-05-01,2015-05-31,Q22a1,leavers,7
+91 to 180 days,67,all_persons,2015-05-01,2015-05-31,Q22a1,stayers,60
+181 to 365 days,66,all_persons,2015-05-01,2015-05-31,Q22a1,leavers,5
+181 to 365 days,66,all_persons,2015-05-01,2015-05-31,Q22a1,stayers,61
+366 to 730 Days (1-2 Yrs),18,all_persons,2015-05-01,2015-05-31,Q22a1,leavers,0
+366 to 730 Days (1-2 Yrs),18,all_persons,2015-05-01,2015-05-31,Q22a1,stayers,18
+"731 to 1,095 Days (2-3 Yrs)",14,all_persons,2015-05-01,2015-05-31,Q22a1,leavers,0
+"731 to 1,095 Days (2-3 Yrs)",14,all_persons,2015-05-01,2015-05-31,Q22a1,stayers,14
+"1,096 to 1,460 Days (3-4 Yrs)",14,all_persons,2015-05-01,2015-05-31,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",14,all_persons,2015-05-01,2015-05-31,Q22a1,stayers,14
+"1,461 to 1,825 Days (5-5 Yrs)",11,all_persons,2015-05-01,2015-05-31,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",11,all_persons,2015-05-01,2015-05-31,Q22a1,stayers,11
+"More than 1,825 Days (>5 Yrs)",50,all_persons,2015-05-01,2015-05-31,Q22a1,leavers,0
+"More than 1,825 Days (>5 Yrs)",50,all_persons,2015-05-01,2015-05-31,Q22a1,stayers,50
+Data Not Collected,0,all_persons,2015-05-01,2015-05-31,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2015-05-01,2015-05-31,Q22a1,stayers,0
+30 days or less,162,all_persons,2015-06-01,2015-06-30,Q22a1,leavers,73
+30 days or less,162,all_persons,2015-06-01,2015-06-30,Q22a1,stayers,89
+31 to 60 days,68,all_persons,2015-06-01,2015-06-30,Q22a1,leavers,20
+31 to 60 days,68,all_persons,2015-06-01,2015-06-30,Q22a1,stayers,48
+61 to 90 days,50,all_persons,2015-06-01,2015-06-30,Q22a1,leavers,16
+61 to 90 days,50,all_persons,2015-06-01,2015-06-30,Q22a1,stayers,34
+91 to 180 days,75,all_persons,2015-06-01,2015-06-30,Q22a1,leavers,27
+91 to 180 days,75,all_persons,2015-06-01,2015-06-30,Q22a1,stayers,48
+181 to 365 days,69,all_persons,2015-06-01,2015-06-30,Q22a1,leavers,30
+181 to 365 days,69,all_persons,2015-06-01,2015-06-30,Q22a1,stayers,39
+366 to 730 Days (1-2 Yrs),20,all_persons,2015-06-01,2015-06-30,Q22a1,leavers,1
+366 to 730 Days (1-2 Yrs),20,all_persons,2015-06-01,2015-06-30,Q22a1,stayers,19
+"731 to 1,095 Days (2-3 Yrs)",16,all_persons,2015-06-01,2015-06-30,Q22a1,leavers,1
+"731 to 1,095 Days (2-3 Yrs)",16,all_persons,2015-06-01,2015-06-30,Q22a1,stayers,15
+"1,096 to 1,460 Days (3-4 Yrs)",13,all_persons,2015-06-01,2015-06-30,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",13,all_persons,2015-06-01,2015-06-30,Q22a1,stayers,13
+"1,461 to 1,825 Days (5-5 Yrs)",11,all_persons,2015-06-01,2015-06-30,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",11,all_persons,2015-06-01,2015-06-30,Q22a1,stayers,11
+"More than 1,825 Days (>5 Yrs)",51,all_persons,2015-06-01,2015-06-30,Q22a1,leavers,1
+"More than 1,825 Days (>5 Yrs)",51,all_persons,2015-06-01,2015-06-30,Q22a1,stayers,50
+Data Not Collected,0,all_persons,2015-06-01,2015-06-30,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2015-06-01,2015-06-30,Q22a1,stayers,0
+30 days or less,204,all_persons,2015-07-01,2015-07-31,Q22a1,leavers,97
+30 days or less,204,all_persons,2015-07-01,2015-07-31,Q22a1,stayers,107
+31 to 60 days,81,all_persons,2015-07-01,2015-07-31,Q22a1,leavers,24
+31 to 60 days,81,all_persons,2015-07-01,2015-07-31,Q22a1,stayers,57
+61 to 90 days,30,all_persons,2015-07-01,2015-07-31,Q22a1,leavers,7
+61 to 90 days,30,all_persons,2015-07-01,2015-07-31,Q22a1,stayers,23
+91 to 180 days,73,all_persons,2015-07-01,2015-07-31,Q22a1,leavers,18
+91 to 180 days,73,all_persons,2015-07-01,2015-07-31,Q22a1,stayers,55
+181 to 365 days,53,all_persons,2015-07-01,2015-07-31,Q22a1,leavers,5
+181 to 365 days,53,all_persons,2015-07-01,2015-07-31,Q22a1,stayers,48
+366 to 730 Days (1-2 Yrs),18,all_persons,2015-07-01,2015-07-31,Q22a1,leavers,0
+366 to 730 Days (1-2 Yrs),18,all_persons,2015-07-01,2015-07-31,Q22a1,stayers,18
+"731 to 1,095 Days (2-3 Yrs)",14,all_persons,2015-07-01,2015-07-31,Q22a1,leavers,0
+"731 to 1,095 Days (2-3 Yrs)",14,all_persons,2015-07-01,2015-07-31,Q22a1,stayers,14
+"1,096 to 1,460 Days (3-4 Yrs)",14,all_persons,2015-07-01,2015-07-31,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",14,all_persons,2015-07-01,2015-07-31,Q22a1,stayers,14
+"1,461 to 1,825 Days (5-5 Yrs)",9,all_persons,2015-07-01,2015-07-31,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",9,all_persons,2015-07-01,2015-07-31,Q22a1,stayers,9
+"More than 1,825 Days (>5 Yrs)",51,all_persons,2015-07-01,2015-07-31,Q22a1,leavers,0
+"More than 1,825 Days (>5 Yrs)",51,all_persons,2015-07-01,2015-07-31,Q22a1,stayers,51
+Data Not Collected,0,all_persons,2015-07-01,2015-07-31,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2015-07-01,2015-07-31,Q22a1,stayers,0
+30 days or less,140,all_persons,2015-08-01,2015-08-31,Q22a1,leavers,32
+30 days or less,140,all_persons,2015-08-01,2015-08-31,Q22a1,stayers,108
+31 to 60 days,78,all_persons,2015-08-01,2015-08-31,Q22a1,leavers,12
+31 to 60 days,78,all_persons,2015-08-01,2015-08-31,Q22a1,stayers,66
+61 to 90 days,61,all_persons,2015-08-01,2015-08-31,Q22a1,leavers,1
+61 to 90 days,61,all_persons,2015-08-01,2015-08-31,Q22a1,stayers,60
+91 to 180 days,61,all_persons,2015-08-01,2015-08-31,Q22a1,leavers,25
+91 to 180 days,61,all_persons,2015-08-01,2015-08-31,Q22a1,stayers,36
+181 to 365 days,58,all_persons,2015-08-01,2015-08-31,Q22a1,leavers,5
+181 to 365 days,58,all_persons,2015-08-01,2015-08-31,Q22a1,stayers,53
+366 to 730 Days (1-2 Yrs),18,all_persons,2015-08-01,2015-08-31,Q22a1,leavers,1
+366 to 730 Days (1-2 Yrs),18,all_persons,2015-08-01,2015-08-31,Q22a1,stayers,17
+"731 to 1,095 Days (2-3 Yrs)",15,all_persons,2015-08-01,2015-08-31,Q22a1,leavers,0
+"731 to 1,095 Days (2-3 Yrs)",15,all_persons,2015-08-01,2015-08-31,Q22a1,stayers,15
+"1,096 to 1,460 Days (3-4 Yrs)",13,all_persons,2015-08-01,2015-08-31,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",13,all_persons,2015-08-01,2015-08-31,Q22a1,stayers,13
+"1,461 to 1,825 Days (5-5 Yrs)",12,all_persons,2015-08-01,2015-08-31,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",12,all_persons,2015-08-01,2015-08-31,Q22a1,stayers,12
+"More than 1,825 Days (>5 Yrs)",51,all_persons,2015-08-01,2015-08-31,Q22a1,leavers,0
+"More than 1,825 Days (>5 Yrs)",51,all_persons,2015-08-01,2015-08-31,Q22a1,stayers,51
+Data Not Collected,0,all_persons,2015-08-01,2015-08-31,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2015-08-01,2015-08-31,Q22a1,stayers,0
+30 days or less,203,all_persons,2015-09-01,2015-09-30,Q22a1,leavers,73
+30 days or less,203,all_persons,2015-09-01,2015-09-30,Q22a1,stayers,130
+31 to 60 days,95,all_persons,2015-09-01,2015-09-30,Q22a1,leavers,19
+31 to 60 days,95,all_persons,2015-09-01,2015-09-30,Q22a1,stayers,76
+61 to 90 days,63,all_persons,2015-09-01,2015-09-30,Q22a1,leavers,15
+61 to 90 days,63,all_persons,2015-09-01,2015-09-30,Q22a1,stayers,48
+91 to 180 days,78,all_persons,2015-09-01,2015-09-30,Q22a1,leavers,22
+91 to 180 days,78,all_persons,2015-09-01,2015-09-30,Q22a1,stayers,56
+181 to 365 days,50,all_persons,2015-09-01,2015-09-30,Q22a1,leavers,8
+181 to 365 days,50,all_persons,2015-09-01,2015-09-30,Q22a1,stayers,42
+366 to 730 Days (1-2 Yrs),27,all_persons,2015-09-01,2015-09-30,Q22a1,leavers,15
+366 to 730 Days (1-2 Yrs),27,all_persons,2015-09-01,2015-09-30,Q22a1,stayers,12
+"731 to 1,095 Days (2-3 Yrs)",15,all_persons,2015-09-01,2015-09-30,Q22a1,leavers,0
+"731 to 1,095 Days (2-3 Yrs)",15,all_persons,2015-09-01,2015-09-30,Q22a1,stayers,15
+"1,096 to 1,460 Days (3-4 Yrs)",14,all_persons,2015-09-01,2015-09-30,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",14,all_persons,2015-09-01,2015-09-30,Q22a1,stayers,14
+"1,461 to 1,825 Days (5-5 Yrs)",12,all_persons,2015-09-01,2015-09-30,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",12,all_persons,2015-09-01,2015-09-30,Q22a1,stayers,12
+"More than 1,825 Days (>5 Yrs)",51,all_persons,2015-09-01,2015-09-30,Q22a1,leavers,0
+"More than 1,825 Days (>5 Yrs)",51,all_persons,2015-09-01,2015-09-30,Q22a1,stayers,51
+Data Not Collected,0,all_persons,2015-09-01,2015-09-30,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2015-09-01,2015-09-30,Q22a1,stayers,0
+30 days or less,213,all_persons,2015-10-01,2015-10-31,Q22a1,leavers,68
+30 days or less,213,all_persons,2015-10-01,2015-10-31,Q22a1,stayers,145
+31 to 60 days,108,all_persons,2015-10-01,2015-10-31,Q22a1,leavers,37
+31 to 60 days,108,all_persons,2015-10-01,2015-10-31,Q22a1,stayers,71
+61 to 90 days,75,all_persons,2015-10-01,2015-10-31,Q22a1,leavers,15
+61 to 90 days,75,all_persons,2015-10-01,2015-10-31,Q22a1,stayers,60
+91 to 180 days,81,all_persons,2015-10-01,2015-10-31,Q22a1,leavers,26
+91 to 180 days,81,all_persons,2015-10-01,2015-10-31,Q22a1,stayers,55
+181 to 365 days,43,all_persons,2015-10-01,2015-10-31,Q22a1,leavers,8
+181 to 365 days,43,all_persons,2015-10-01,2015-10-31,Q22a1,stayers,35
+366 to 730 Days (1-2 Yrs),19,all_persons,2015-10-01,2015-10-31,Q22a1,leavers,3
+366 to 730 Days (1-2 Yrs),19,all_persons,2015-10-01,2015-10-31,Q22a1,stayers,16
+"731 to 1,095 Days (2-3 Yrs)",14,all_persons,2015-10-01,2015-10-31,Q22a1,leavers,0
+"731 to 1,095 Days (2-3 Yrs)",14,all_persons,2015-10-01,2015-10-31,Q22a1,stayers,14
+"1,096 to 1,460 Days (3-4 Yrs)",15,all_persons,2015-10-01,2015-10-31,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",15,all_persons,2015-10-01,2015-10-31,Q22a1,stayers,15
+"1,461 to 1,825 Days (5-5 Yrs)",11,all_persons,2015-10-01,2015-10-31,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",11,all_persons,2015-10-01,2015-10-31,Q22a1,stayers,11
+"More than 1,825 Days (>5 Yrs)",51,all_persons,2015-10-01,2015-10-31,Q22a1,leavers,0
+"More than 1,825 Days (>5 Yrs)",51,all_persons,2015-10-01,2015-10-31,Q22a1,stayers,51
+Data Not Collected,0,all_persons,2015-10-01,2015-10-31,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2015-10-01,2015-10-31,Q22a1,stayers,0
+30 days or less,172,all_persons,2015-11-01,2015-11-30,Q22a1,leavers,59
+30 days or less,172,all_persons,2015-11-01,2015-11-30,Q22a1,stayers,113
+31 to 60 days,150,all_persons,2015-11-01,2015-11-30,Q22a1,leavers,43
+31 to 60 days,150,all_persons,2015-11-01,2015-11-30,Q22a1,stayers,107
+61 to 90 days,63,all_persons,2015-11-01,2015-11-30,Q22a1,leavers,18
+61 to 90 days,63,all_persons,2015-11-01,2015-11-30,Q22a1,stayers,45
+91 to 180 days,96,all_persons,2015-11-01,2015-11-30,Q22a1,leavers,13
+91 to 180 days,96,all_persons,2015-11-01,2015-11-30,Q22a1,stayers,83
+181 to 365 days,40,all_persons,2015-11-01,2015-11-30,Q22a1,leavers,4
+181 to 365 days,40,all_persons,2015-11-01,2015-11-30,Q22a1,stayers,36
+366 to 730 Days (1-2 Yrs),16,all_persons,2015-11-01,2015-11-30,Q22a1,leavers,0
+366 to 730 Days (1-2 Yrs),16,all_persons,2015-11-01,2015-11-30,Q22a1,stayers,16
+"731 to 1,095 Days (2-3 Yrs)",11,all_persons,2015-11-01,2015-11-30,Q22a1,leavers,0
+"731 to 1,095 Days (2-3 Yrs)",11,all_persons,2015-11-01,2015-11-30,Q22a1,stayers,11
+"1,096 to 1,460 Days (3-4 Yrs)",17,all_persons,2015-11-01,2015-11-30,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",17,all_persons,2015-11-01,2015-11-30,Q22a1,stayers,17
+"1,461 to 1,825 Days (5-5 Yrs)",12,all_persons,2015-11-01,2015-11-30,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",12,all_persons,2015-11-01,2015-11-30,Q22a1,stayers,12
+"More than 1,825 Days (>5 Yrs)",52,all_persons,2015-11-01,2015-11-30,Q22a1,leavers,0
+"More than 1,825 Days (>5 Yrs)",52,all_persons,2015-11-01,2015-11-30,Q22a1,stayers,52
+Data Not Collected,0,all_persons,2015-11-01,2015-11-30,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2015-11-01,2015-11-30,Q22a1,stayers,0
+30 days or less,164,all_persons,2015-12-01,2015-12-31,Q22a1,leavers,49
+30 days or less,164,all_persons,2015-12-01,2015-12-31,Q22a1,stayers,115
+31 to 60 days,113,all_persons,2015-12-01,2015-12-31,Q22a1,leavers,40
+31 to 60 days,113,all_persons,2015-12-01,2015-12-31,Q22a1,stayers,73
+61 to 90 days,83,all_persons,2015-12-01,2015-12-31,Q22a1,leavers,33
+61 to 90 days,83,all_persons,2015-12-01,2015-12-31,Q22a1,stayers,50
+91 to 180 days,100,all_persons,2015-12-01,2015-12-31,Q22a1,leavers,48
+91 to 180 days,100,all_persons,2015-12-01,2015-12-31,Q22a1,stayers,52
+181 to 365 days,49,all_persons,2015-12-01,2015-12-31,Q22a1,leavers,1
+181 to 365 days,49,all_persons,2015-12-01,2015-12-31,Q22a1,stayers,48
+366 to 730 Days (1-2 Yrs),17,all_persons,2015-12-01,2015-12-31,Q22a1,leavers,2
+366 to 730 Days (1-2 Yrs),17,all_persons,2015-12-01,2015-12-31,Q22a1,stayers,15
+"731 to 1,095 Days (2-3 Yrs)",10,all_persons,2015-12-01,2015-12-31,Q22a1,leavers,0
+"731 to 1,095 Days (2-3 Yrs)",10,all_persons,2015-12-01,2015-12-31,Q22a1,stayers,10
+"1,096 to 1,460 Days (3-4 Yrs)",18,all_persons,2015-12-01,2015-12-31,Q22a1,leavers,1
+"1,096 to 1,460 Days (3-4 Yrs)",18,all_persons,2015-12-01,2015-12-31,Q22a1,stayers,17
+"1,461 to 1,825 Days (5-5 Yrs)",9,all_persons,2015-12-01,2015-12-31,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",9,all_persons,2015-12-01,2015-12-31,Q22a1,stayers,9
+"More than 1,825 Days (>5 Yrs)",55,all_persons,2015-12-01,2015-12-31,Q22a1,leavers,0
+"More than 1,825 Days (>5 Yrs)",55,all_persons,2015-12-01,2015-12-31,Q22a1,stayers,55
+Data Not Collected,0,all_persons,2015-12-01,2015-12-31,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2015-12-01,2015-12-31,Q22a1,stayers,0
+30 days or less,195,all_persons,2016-01-01,2016-01-31,Q22a1,leavers,64
+30 days or less,195,all_persons,2016-01-01,2016-01-31,Q22a1,stayers,131
+31 to 60 days,97,all_persons,2016-01-01,2016-01-31,Q22a1,leavers,32
+31 to 60 days,97,all_persons,2016-01-01,2016-01-31,Q22a1,stayers,65
+61 to 90 days,62,all_persons,2016-01-01,2016-01-31,Q22a1,leavers,19
+61 to 90 days,62,all_persons,2016-01-01,2016-01-31,Q22a1,stayers,43
+91 to 180 days,85,all_persons,2016-01-01,2016-01-31,Q22a1,leavers,22
+91 to 180 days,85,all_persons,2016-01-01,2016-01-31,Q22a1,stayers,63
+181 to 365 days,48,all_persons,2016-01-01,2016-01-31,Q22a1,leavers,0
+181 to 365 days,48,all_persons,2016-01-01,2016-01-31,Q22a1,stayers,48
+366 to 730 Days (1-2 Yrs),23,all_persons,2016-01-01,2016-01-31,Q22a1,leavers,2
+366 to 730 Days (1-2 Yrs),23,all_persons,2016-01-01,2016-01-31,Q22a1,stayers,21
+"731 to 1,095 Days (2-3 Yrs)",8,all_persons,2016-01-01,2016-01-31,Q22a1,leavers,0
+"731 to 1,095 Days (2-3 Yrs)",8,all_persons,2016-01-01,2016-01-31,Q22a1,stayers,8
+"1,096 to 1,460 Days (3-4 Yrs)",17,all_persons,2016-01-01,2016-01-31,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",17,all_persons,2016-01-01,2016-01-31,Q22a1,stayers,17
+"1,461 to 1,825 Days (5-5 Yrs)",10,all_persons,2016-01-01,2016-01-31,Q22a1,leavers,1
+"1,461 to 1,825 Days (5-5 Yrs)",10,all_persons,2016-01-01,2016-01-31,Q22a1,stayers,9
+"More than 1,825 Days (>5 Yrs)",55,all_persons,2016-01-01,2016-01-31,Q22a1,leavers,0
+"More than 1,825 Days (>5 Yrs)",55,all_persons,2016-01-01,2016-01-31,Q22a1,stayers,55
+Data Not Collected,0,all_persons,2016-01-01,2016-01-31,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2016-01-01,2016-01-31,Q22a1,stayers,0
+30 days or less,206,all_persons,2016-02-01,2016-02-29,Q22a1,leavers,107
+30 days or less,206,all_persons,2016-02-01,2016-02-29,Q22a1,stayers,99
+31 to 60 days,73,all_persons,2016-02-01,2016-02-29,Q22a1,leavers,19
+31 to 60 days,73,all_persons,2016-02-01,2016-02-29,Q22a1,stayers,54
+61 to 90 days,59,all_persons,2016-02-01,2016-02-29,Q22a1,leavers,15
+61 to 90 days,59,all_persons,2016-02-01,2016-02-29,Q22a1,stayers,44
+91 to 180 days,71,all_persons,2016-02-01,2016-02-29,Q22a1,leavers,34
+91 to 180 days,71,all_persons,2016-02-01,2016-02-29,Q22a1,stayers,37
+181 to 365 days,49,all_persons,2016-02-01,2016-02-29,Q22a1,leavers,1
+181 to 365 days,49,all_persons,2016-02-01,2016-02-29,Q22a1,stayers,48
+366 to 730 Days (1-2 Yrs),27,all_persons,2016-02-01,2016-02-29,Q22a1,leavers,1
+366 to 730 Days (1-2 Yrs),27,all_persons,2016-02-01,2016-02-29,Q22a1,stayers,26
+"731 to 1,095 Days (2-3 Yrs)",8,all_persons,2016-02-01,2016-02-29,Q22a1,leavers,0
+"731 to 1,095 Days (2-3 Yrs)",8,all_persons,2016-02-01,2016-02-29,Q22a1,stayers,8
+"1,096 to 1,460 Days (3-4 Yrs)",17,all_persons,2016-02-01,2016-02-29,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",17,all_persons,2016-02-01,2016-02-29,Q22a1,stayers,17
+"1,461 to 1,825 Days (5-5 Yrs)",9,all_persons,2016-02-01,2016-02-29,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",9,all_persons,2016-02-01,2016-02-29,Q22a1,stayers,9
+"More than 1,825 Days (>5 Yrs)",56,all_persons,2016-02-01,2016-02-29,Q22a1,leavers,2
+"More than 1,825 Days (>5 Yrs)",56,all_persons,2016-02-01,2016-02-29,Q22a1,stayers,54
+Data Not Collected,0,all_persons,2016-02-01,2016-02-29,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2016-02-01,2016-02-29,Q22a1,stayers,0
+30 days or less,219,all_persons,2016-03-01,2016-03-31,Q22a1,leavers,87
+30 days or less,219,all_persons,2016-03-01,2016-03-31,Q22a1,stayers,132
+31 to 60 days,72,all_persons,2016-03-01,2016-03-31,Q22a1,leavers,28
+31 to 60 days,72,all_persons,2016-03-01,2016-03-31,Q22a1,stayers,44
+61 to 90 days,54,all_persons,2016-03-01,2016-03-31,Q22a1,leavers,16
+61 to 90 days,54,all_persons,2016-03-01,2016-03-31,Q22a1,stayers,38
+91 to 180 days,64,all_persons,2016-03-01,2016-03-31,Q22a1,leavers,23
+91 to 180 days,64,all_persons,2016-03-01,2016-03-31,Q22a1,stayers,41
+181 to 365 days,48,all_persons,2016-03-01,2016-03-31,Q22a1,leavers,2
+181 to 365 days,48,all_persons,2016-03-01,2016-03-31,Q22a1,stayers,46
+366 to 730 Days (1-2 Yrs),29,all_persons,2016-03-01,2016-03-31,Q22a1,leavers,1
+366 to 730 Days (1-2 Yrs),29,all_persons,2016-03-01,2016-03-31,Q22a1,stayers,28
+"731 to 1,095 Days (2-3 Yrs)",8,all_persons,2016-03-01,2016-03-31,Q22a1,leavers,0
+"731 to 1,095 Days (2-3 Yrs)",8,all_persons,2016-03-01,2016-03-31,Q22a1,stayers,8
+"1,096 to 1,460 Days (3-4 Yrs)",12,all_persons,2016-03-01,2016-03-31,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",12,all_persons,2016-03-01,2016-03-31,Q22a1,stayers,12
+"1,461 to 1,825 Days (5-5 Yrs)",13,all_persons,2016-03-01,2016-03-31,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",13,all_persons,2016-03-01,2016-03-31,Q22a1,stayers,13
+"More than 1,825 Days (>5 Yrs)",55,all_persons,2016-03-01,2016-03-31,Q22a1,leavers,0
+"More than 1,825 Days (>5 Yrs)",55,all_persons,2016-03-01,2016-03-31,Q22a1,stayers,55
+Data Not Collected,0,all_persons,2016-03-01,2016-03-31,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2016-03-01,2016-03-31,Q22a1,stayers,0
+30 days or less,156,all_persons,2016-04-01,2016-04-30,Q22a1,leavers,58
+30 days or less,156,all_persons,2016-04-01,2016-04-30,Q22a1,stayers,98
+31 to 60 days,94,all_persons,2016-04-01,2016-04-30,Q22a1,leavers,18
+31 to 60 days,94,all_persons,2016-04-01,2016-04-30,Q22a1,stayers,76
+61 to 90 days,37,all_persons,2016-04-01,2016-04-30,Q22a1,leavers,6
+61 to 90 days,37,all_persons,2016-04-01,2016-04-30,Q22a1,stayers,31
+91 to 180 days,69,all_persons,2016-04-01,2016-04-30,Q22a1,leavers,26
+91 to 180 days,69,all_persons,2016-04-01,2016-04-30,Q22a1,stayers,43
+181 to 365 days,54,all_persons,2016-04-01,2016-04-30,Q22a1,leavers,2
+181 to 365 days,54,all_persons,2016-04-01,2016-04-30,Q22a1,stayers,52
+366 to 730 Days (1-2 Yrs),34,all_persons,2016-04-01,2016-04-30,Q22a1,leavers,5
+366 to 730 Days (1-2 Yrs),34,all_persons,2016-04-01,2016-04-30,Q22a1,stayers,29
+"731 to 1,095 Days (2-3 Yrs)",7,all_persons,2016-04-01,2016-04-30,Q22a1,leavers,0
+"731 to 1,095 Days (2-3 Yrs)",7,all_persons,2016-04-01,2016-04-30,Q22a1,stayers,7
+"1,096 to 1,460 Days (3-4 Yrs)",13,all_persons,2016-04-01,2016-04-30,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",13,all_persons,2016-04-01,2016-04-30,Q22a1,stayers,13
+"1,461 to 1,825 Days (5-5 Yrs)",13,all_persons,2016-04-01,2016-04-30,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",13,all_persons,2016-04-01,2016-04-30,Q22a1,stayers,13
+"More than 1,825 Days (>5 Yrs)",55,all_persons,2016-04-01,2016-04-30,Q22a1,leavers,0
+"More than 1,825 Days (>5 Yrs)",55,all_persons,2016-04-01,2016-04-30,Q22a1,stayers,55
+Data Not Collected,0,all_persons,2016-04-01,2016-04-30,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2016-04-01,2016-04-30,Q22a1,stayers,0
+30 days or less,141,all_persons,2016-05-01,2016-05-31,Q22a1,leavers,49
+30 days or less,141,all_persons,2016-05-01,2016-05-31,Q22a1,stayers,92
+31 to 60 days,90,all_persons,2016-05-01,2016-05-31,Q22a1,leavers,25
+31 to 60 days,90,all_persons,2016-05-01,2016-05-31,Q22a1,stayers,65
+61 to 90 days,66,all_persons,2016-05-01,2016-05-31,Q22a1,leavers,25
+61 to 90 days,66,all_persons,2016-05-01,2016-05-31,Q22a1,stayers,41
+91 to 180 days,67,all_persons,2016-05-01,2016-05-31,Q22a1,leavers,12
+91 to 180 days,67,all_persons,2016-05-01,2016-05-31,Q22a1,stayers,55
+181 to 365 days,57,all_persons,2016-05-01,2016-05-31,Q22a1,leavers,10
+181 to 365 days,57,all_persons,2016-05-01,2016-05-31,Q22a1,stayers,47
+366 to 730 Days (1-2 Yrs),27,all_persons,2016-05-01,2016-05-31,Q22a1,leavers,0
+366 to 730 Days (1-2 Yrs),27,all_persons,2016-05-01,2016-05-31,Q22a1,stayers,27
+"731 to 1,095 Days (2-3 Yrs)",7,all_persons,2016-05-01,2016-05-31,Q22a1,leavers,0
+"731 to 1,095 Days (2-3 Yrs)",7,all_persons,2016-05-01,2016-05-31,Q22a1,stayers,7
+"1,096 to 1,460 Days (3-4 Yrs)",13,all_persons,2016-05-01,2016-05-31,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",13,all_persons,2016-05-01,2016-05-31,Q22a1,stayers,13
+"1,461 to 1,825 Days (5-5 Yrs)",13,all_persons,2016-05-01,2016-05-31,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",13,all_persons,2016-05-01,2016-05-31,Q22a1,stayers,13
+"More than 1,825 Days (>5 Yrs)",57,all_persons,2016-05-01,2016-05-31,Q22a1,leavers,0
+"More than 1,825 Days (>5 Yrs)",57,all_persons,2016-05-01,2016-05-31,Q22a1,stayers,57
+Data Not Collected,0,all_persons,2016-05-01,2016-05-31,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2016-05-01,2016-05-31,Q22a1,stayers,0
+30 days or less,139,all_persons,2016-06-01,2016-06-30,Q22a1,leavers,39
+30 days or less,139,all_persons,2016-06-01,2016-06-30,Q22a1,stayers,100
+31 to 60 days,80,all_persons,2016-06-01,2016-06-30,Q22a1,leavers,17
+31 to 60 days,80,all_persons,2016-06-01,2016-06-30,Q22a1,stayers,63
+61 to 90 days,59,all_persons,2016-06-01,2016-06-30,Q22a1,leavers,14
+61 to 90 days,59,all_persons,2016-06-01,2016-06-30,Q22a1,stayers,45
+91 to 180 days,87,all_persons,2016-06-01,2016-06-30,Q22a1,leavers,29
+91 to 180 days,87,all_persons,2016-06-01,2016-06-30,Q22a1,stayers,58
+181 to 365 days,45,all_persons,2016-06-01,2016-06-30,Q22a1,leavers,15
+181 to 365 days,45,all_persons,2016-06-01,2016-06-30,Q22a1,stayers,30
+366 to 730 Days (1-2 Yrs),33,all_persons,2016-06-01,2016-06-30,Q22a1,leavers,8
+366 to 730 Days (1-2 Yrs),33,all_persons,2016-06-01,2016-06-30,Q22a1,stayers,25
+"731 to 1,095 Days (2-3 Yrs)",6,all_persons,2016-06-01,2016-06-30,Q22a1,leavers,0
+"731 to 1,095 Days (2-3 Yrs)",6,all_persons,2016-06-01,2016-06-30,Q22a1,stayers,6
+"1,096 to 1,460 Days (3-4 Yrs)",14,all_persons,2016-06-01,2016-06-30,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",14,all_persons,2016-06-01,2016-06-30,Q22a1,stayers,14
+"1,461 to 1,825 Days (5-5 Yrs)",12,all_persons,2016-06-01,2016-06-30,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",12,all_persons,2016-06-01,2016-06-30,Q22a1,stayers,12
+"More than 1,825 Days (>5 Yrs)",58,all_persons,2016-06-01,2016-06-30,Q22a1,leavers,0
+"More than 1,825 Days (>5 Yrs)",58,all_persons,2016-06-01,2016-06-30,Q22a1,stayers,58
+Data Not Collected,0,all_persons,2016-06-01,2016-06-30,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2016-06-01,2016-06-30,Q22a1,stayers,0
+30 days or less,192,all_persons,2016-07-01,2016-07-31,Q22a1,leavers,36
+30 days or less,192,all_persons,2016-07-01,2016-07-31,Q22a1,stayers,156
+31 to 60 days,79,all_persons,2016-07-01,2016-07-31,Q22a1,leavers,10
+31 to 60 days,79,all_persons,2016-07-01,2016-07-31,Q22a1,stayers,69
+61 to 90 days,85,all_persons,2016-07-01,2016-07-31,Q22a1,leavers,31
+61 to 90 days,85,all_persons,2016-07-01,2016-07-31,Q22a1,stayers,54
+91 to 180 days,63,all_persons,2016-07-01,2016-07-31,Q22a1,leavers,9
+91 to 180 days,63,all_persons,2016-07-01,2016-07-31,Q22a1,stayers,54
+181 to 365 days,36,all_persons,2016-07-01,2016-07-31,Q22a1,leavers,8
+181 to 365 days,36,all_persons,2016-07-01,2016-07-31,Q22a1,stayers,28
+366 to 730 Days (1-2 Yrs),31,all_persons,2016-07-01,2016-07-31,Q22a1,leavers,2
+366 to 730 Days (1-2 Yrs),31,all_persons,2016-07-01,2016-07-31,Q22a1,stayers,29
+"731 to 1,095 Days (2-3 Yrs)",7,all_persons,2016-07-01,2016-07-31,Q22a1,leavers,1
+"731 to 1,095 Days (2-3 Yrs)",7,all_persons,2016-07-01,2016-07-31,Q22a1,stayers,6
+"1,096 to 1,460 Days (3-4 Yrs)",14,all_persons,2016-07-01,2016-07-31,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",14,all_persons,2016-07-01,2016-07-31,Q22a1,stayers,14
+"1,461 to 1,825 Days (5-5 Yrs)",11,all_persons,2016-07-01,2016-07-31,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",11,all_persons,2016-07-01,2016-07-31,Q22a1,stayers,11
+"More than 1,825 Days (>5 Yrs)",59,all_persons,2016-07-01,2016-07-31,Q22a1,leavers,1
+"More than 1,825 Days (>5 Yrs)",59,all_persons,2016-07-01,2016-07-31,Q22a1,stayers,58
+Data Not Collected,0,all_persons,2016-07-01,2016-07-31,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2016-07-01,2016-07-31,Q22a1,stayers,0
+30 days or less,267,all_persons,2016-08-01,2016-08-31,Q22a1,leavers,74
+30 days or less,267,all_persons,2016-08-01,2016-08-31,Q22a1,stayers,193
+31 to 60 days,129,all_persons,2016-08-01,2016-08-31,Q22a1,leavers,30
+31 to 60 days,129,all_persons,2016-08-01,2016-08-31,Q22a1,stayers,99
+61 to 90 days,73,all_persons,2016-08-01,2016-08-31,Q22a1,leavers,20
+61 to 90 days,73,all_persons,2016-08-01,2016-08-31,Q22a1,stayers,53
+91 to 180 days,82,all_persons,2016-08-01,2016-08-31,Q22a1,leavers,22
+91 to 180 days,82,all_persons,2016-08-01,2016-08-31,Q22a1,stayers,60
+181 to 365 days,34,all_persons,2016-08-01,2016-08-31,Q22a1,leavers,0
+181 to 365 days,34,all_persons,2016-08-01,2016-08-31,Q22a1,stayers,34
+366 to 730 Days (1-2 Yrs),31,all_persons,2016-08-01,2016-08-31,Q22a1,leavers,3
+366 to 730 Days (1-2 Yrs),31,all_persons,2016-08-01,2016-08-31,Q22a1,stayers,28
+"731 to 1,095 Days (2-3 Yrs)",4,all_persons,2016-08-01,2016-08-31,Q22a1,leavers,0
+"731 to 1,095 Days (2-3 Yrs)",4,all_persons,2016-08-01,2016-08-31,Q22a1,stayers,4
+"1,096 to 1,460 Days (3-4 Yrs)",15,all_persons,2016-08-01,2016-08-31,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",15,all_persons,2016-08-01,2016-08-31,Q22a1,stayers,15
+"1,461 to 1,825 Days (5-5 Yrs)",12,all_persons,2016-08-01,2016-08-31,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",12,all_persons,2016-08-01,2016-08-31,Q22a1,stayers,12
+"More than 1,825 Days (>5 Yrs)",58,all_persons,2016-08-01,2016-08-31,Q22a1,leavers,0
+"More than 1,825 Days (>5 Yrs)",58,all_persons,2016-08-01,2016-08-31,Q22a1,stayers,58
+Data Not Collected,0,all_persons,2016-08-01,2016-08-31,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2016-08-01,2016-08-31,Q22a1,stayers,0
+30 days or less,222,all_persons,2016-09-01,2016-09-30,Q22a1,leavers,92
+30 days or less,222,all_persons,2016-09-01,2016-09-30,Q22a1,stayers,130
+31 to 60 days,180,all_persons,2016-09-01,2016-09-30,Q22a1,leavers,92
+31 to 60 days,180,all_persons,2016-09-01,2016-09-30,Q22a1,stayers,88
+61 to 90 days,82,all_persons,2016-09-01,2016-09-30,Q22a1,leavers,17
+61 to 90 days,82,all_persons,2016-09-01,2016-09-30,Q22a1,stayers,65
+91 to 180 days,90,all_persons,2016-09-01,2016-09-30,Q22a1,leavers,20
+91 to 180 days,90,all_persons,2016-09-01,2016-09-30,Q22a1,stayers,70
+181 to 365 days,46,all_persons,2016-09-01,2016-09-30,Q22a1,leavers,5
+181 to 365 days,46,all_persons,2016-09-01,2016-09-30,Q22a1,stayers,41
+366 to 730 Days (1-2 Yrs),29,all_persons,2016-09-01,2016-09-30,Q22a1,leavers,0
+366 to 730 Days (1-2 Yrs),29,all_persons,2016-09-01,2016-09-30,Q22a1,stayers,29
+"731 to 1,095 Days (2-3 Yrs)",4,all_persons,2016-09-01,2016-09-30,Q22a1,leavers,0
+"731 to 1,095 Days (2-3 Yrs)",4,all_persons,2016-09-01,2016-09-30,Q22a1,stayers,4
+"1,096 to 1,460 Days (3-4 Yrs)",14,all_persons,2016-09-01,2016-09-30,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",14,all_persons,2016-09-01,2016-09-30,Q22a1,stayers,14
+"1,461 to 1,825 Days (5-5 Yrs)",13,all_persons,2016-09-01,2016-09-30,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",13,all_persons,2016-09-01,2016-09-30,Q22a1,stayers,13
+"More than 1,825 Days (>5 Yrs)",58,all_persons,2016-09-01,2016-09-30,Q22a1,leavers,0
+"More than 1,825 Days (>5 Yrs)",58,all_persons,2016-09-01,2016-09-30,Q22a1,stayers,58
+Data Not Collected,0,all_persons,2016-09-01,2016-09-30,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2016-09-01,2016-09-30,Q22a1,stayers,0
+30 days or less,186,all_persons,2016-10-01,2016-10-31,Q22a1,leavers,81
+30 days or less,186,all_persons,2016-10-01,2016-10-31,Q22a1,stayers,105
+31 to 60 days,100,all_persons,2016-10-01,2016-10-31,Q22a1,leavers,25
+31 to 60 days,100,all_persons,2016-10-01,2016-10-31,Q22a1,stayers,75
+61 to 90 days,84,all_persons,2016-10-01,2016-10-31,Q22a1,leavers,17
+61 to 90 days,84,all_persons,2016-10-01,2016-10-31,Q22a1,stayers,67
+91 to 180 days,127,all_persons,2016-10-01,2016-10-31,Q22a1,leavers,25
+91 to 180 days,127,all_persons,2016-10-01,2016-10-31,Q22a1,stayers,102
+181 to 365 days,48,all_persons,2016-10-01,2016-10-31,Q22a1,leavers,6
+181 to 365 days,48,all_persons,2016-10-01,2016-10-31,Q22a1,stayers,42
+366 to 730 Days (1-2 Yrs),30,all_persons,2016-10-01,2016-10-31,Q22a1,leavers,1
+366 to 730 Days (1-2 Yrs),30,all_persons,2016-10-01,2016-10-31,Q22a1,stayers,29
+"731 to 1,095 Days (2-3 Yrs)",5,all_persons,2016-10-01,2016-10-31,Q22a1,leavers,0
+"731 to 1,095 Days (2-3 Yrs)",5,all_persons,2016-10-01,2016-10-31,Q22a1,stayers,5
+"1,096 to 1,460 Days (3-4 Yrs)",13,all_persons,2016-10-01,2016-10-31,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",13,all_persons,2016-10-01,2016-10-31,Q22a1,stayers,13
+"1,461 to 1,825 Days (5-5 Yrs)",13,all_persons,2016-10-01,2016-10-31,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",13,all_persons,2016-10-01,2016-10-31,Q22a1,stayers,13
+"More than 1,825 Days (>5 Yrs)",59,all_persons,2016-10-01,2016-10-31,Q22a1,leavers,1
+"More than 1,825 Days (>5 Yrs)",59,all_persons,2016-10-01,2016-10-31,Q22a1,stayers,58
+Data Not Collected,0,all_persons,2016-10-01,2016-10-31,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2016-10-01,2016-10-31,Q22a1,stayers,0
+30 days or less,225,all_persons,2016-11-01,2016-11-30,Q22a1,leavers,87
+30 days or less,225,all_persons,2016-11-01,2016-11-30,Q22a1,stayers,138
+31 to 60 days,96,all_persons,2016-11-01,2016-11-30,Q22a1,leavers,14
+31 to 60 days,96,all_persons,2016-11-01,2016-11-30,Q22a1,stayers,82
+61 to 90 days,70,all_persons,2016-11-01,2016-11-30,Q22a1,leavers,14
+61 to 90 days,70,all_persons,2016-11-01,2016-11-30,Q22a1,stayers,56
+91 to 180 days,142,all_persons,2016-11-01,2016-11-30,Q22a1,leavers,16
+91 to 180 days,142,all_persons,2016-11-01,2016-11-30,Q22a1,stayers,126
+181 to 365 days,62,all_persons,2016-11-01,2016-11-30,Q22a1,leavers,1
+181 to 365 days,62,all_persons,2016-11-01,2016-11-30,Q22a1,stayers,61
+366 to 730 Days (1-2 Yrs),29,all_persons,2016-11-01,2016-11-30,Q22a1,leavers,0
+366 to 730 Days (1-2 Yrs),29,all_persons,2016-11-01,2016-11-30,Q22a1,stayers,29
+"731 to 1,095 Days (2-3 Yrs)",5,all_persons,2016-11-01,2016-11-30,Q22a1,leavers,1
+"731 to 1,095 Days (2-3 Yrs)",5,all_persons,2016-11-01,2016-11-30,Q22a1,stayers,4
+"1,096 to 1,460 Days (3-4 Yrs)",10,all_persons,2016-11-01,2016-11-30,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",10,all_persons,2016-11-01,2016-11-30,Q22a1,stayers,10
+"1,461 to 1,825 Days (5-5 Yrs)",16,all_persons,2016-11-01,2016-11-30,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",16,all_persons,2016-11-01,2016-11-30,Q22a1,stayers,16
+"More than 1,825 Days (>5 Yrs)",59,all_persons,2016-11-01,2016-11-30,Q22a1,leavers,0
+"More than 1,825 Days (>5 Yrs)",59,all_persons,2016-11-01,2016-11-30,Q22a1,stayers,59
+Data Not Collected,0,all_persons,2016-11-01,2016-11-30,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2016-11-01,2016-11-30,Q22a1,stayers,0
+30 days or less,221,all_persons,2016-12-01,2016-12-31,Q22a1,leavers,94
+30 days or less,221,all_persons,2016-12-01,2016-12-31,Q22a1,stayers,127
+31 to 60 days,90,all_persons,2016-12-01,2016-12-31,Q22a1,leavers,16
+31 to 60 days,90,all_persons,2016-12-01,2016-12-31,Q22a1,stayers,74
+61 to 90 days,74,all_persons,2016-12-01,2016-12-31,Q22a1,leavers,19
+61 to 90 days,74,all_persons,2016-12-01,2016-12-31,Q22a1,stayers,55
+91 to 180 days,146,all_persons,2016-12-01,2016-12-31,Q22a1,leavers,53
+91 to 180 days,146,all_persons,2016-12-01,2016-12-31,Q22a1,stayers,93
+181 to 365 days,82,all_persons,2016-12-01,2016-12-31,Q22a1,leavers,14
+181 to 365 days,82,all_persons,2016-12-01,2016-12-31,Q22a1,stayers,68
+366 to 730 Days (1-2 Yrs),34,all_persons,2016-12-01,2016-12-31,Q22a1,leavers,4
+366 to 730 Days (1-2 Yrs),34,all_persons,2016-12-01,2016-12-31,Q22a1,stayers,30
+"731 to 1,095 Days (2-3 Yrs)",4,all_persons,2016-12-01,2016-12-31,Q22a1,leavers,0
+"731 to 1,095 Days (2-3 Yrs)",4,all_persons,2016-12-01,2016-12-31,Q22a1,stayers,4
+"1,096 to 1,460 Days (3-4 Yrs)",9,all_persons,2016-12-01,2016-12-31,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",9,all_persons,2016-12-01,2016-12-31,Q22a1,stayers,9
+"1,461 to 1,825 Days (5-5 Yrs)",16,all_persons,2016-12-01,2016-12-31,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",16,all_persons,2016-12-01,2016-12-31,Q22a1,stayers,16
+"More than 1,825 Days (>5 Yrs)",60,all_persons,2016-12-01,2016-12-31,Q22a1,leavers,0
+"More than 1,825 Days (>5 Yrs)",60,all_persons,2016-12-01,2016-12-31,Q22a1,stayers,60
+Data Not Collected,0,all_persons,2016-12-01,2016-12-31,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2016-12-01,2016-12-31,Q22a1,stayers,0
+30 days or less,213,all_persons,2017-01-01,2017-01-31,Q22a1,leavers,74
+30 days or less,213,all_persons,2017-01-01,2017-01-31,Q22a1,stayers,139
+31 to 60 days,97,all_persons,2017-01-01,2017-01-31,Q22a1,leavers,36
+31 to 60 days,97,all_persons,2017-01-01,2017-01-31,Q22a1,stayers,61
+61 to 90 days,77,all_persons,2017-01-01,2017-01-31,Q22a1,leavers,32
+61 to 90 days,77,all_persons,2017-01-01,2017-01-31,Q22a1,stayers,45
+91 to 180 days,115,all_persons,2017-01-01,2017-01-31,Q22a1,leavers,58
+91 to 180 days,115,all_persons,2017-01-01,2017-01-31,Q22a1,stayers,57
+181 to 365 days,77,all_persons,2017-01-01,2017-01-31,Q22a1,leavers,20
+181 to 365 days,77,all_persons,2017-01-01,2017-01-31,Q22a1,stayers,57
+366 to 730 Days (1-2 Yrs),35,all_persons,2017-01-01,2017-01-31,Q22a1,leavers,0
+366 to 730 Days (1-2 Yrs),35,all_persons,2017-01-01,2017-01-31,Q22a1,stayers,35
+"731 to 1,095 Days (2-3 Yrs)",8,all_persons,2017-01-01,2017-01-31,Q22a1,leavers,0
+"731 to 1,095 Days (2-3 Yrs)",8,all_persons,2017-01-01,2017-01-31,Q22a1,stayers,8
+"1,096 to 1,460 Days (3-4 Yrs)",8,all_persons,2017-01-01,2017-01-31,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",8,all_persons,2017-01-01,2017-01-31,Q22a1,stayers,8
+"1,461 to 1,825 Days (5-5 Yrs)",12,all_persons,2017-01-01,2017-01-31,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",12,all_persons,2017-01-01,2017-01-31,Q22a1,stayers,12
+"More than 1,825 Days (>5 Yrs)",61,all_persons,2017-01-01,2017-01-31,Q22a1,leavers,1
+"More than 1,825 Days (>5 Yrs)",61,all_persons,2017-01-01,2017-01-31,Q22a1,stayers,60
+Data Not Collected,0,all_persons,2017-01-01,2017-01-31,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2017-01-01,2017-01-31,Q22a1,stayers,0
+30 days or less,200,all_persons,2017-02-01,2017-02-28,Q22a1,leavers,90
+30 days or less,200,all_persons,2017-02-01,2017-02-28,Q22a1,stayers,110
+31 to 60 days,81,all_persons,2017-02-01,2017-02-28,Q22a1,leavers,32
+31 to 60 days,81,all_persons,2017-02-01,2017-02-28,Q22a1,stayers,49
+61 to 90 days,61,all_persons,2017-02-01,2017-02-28,Q22a1,leavers,30
+61 to 90 days,61,all_persons,2017-02-01,2017-02-28,Q22a1,stayers,31
+91 to 180 days,63,all_persons,2017-02-01,2017-02-28,Q22a1,leavers,20
+91 to 180 days,63,all_persons,2017-02-01,2017-02-28,Q22a1,stayers,43
+181 to 365 days,65,all_persons,2017-02-01,2017-02-28,Q22a1,leavers,12
+181 to 365 days,65,all_persons,2017-02-01,2017-02-28,Q22a1,stayers,53
+366 to 730 Days (1-2 Yrs),40,all_persons,2017-02-01,2017-02-28,Q22a1,leavers,1
+366 to 730 Days (1-2 Yrs),40,all_persons,2017-02-01,2017-02-28,Q22a1,stayers,39
+"731 to 1,095 Days (2-3 Yrs)",10,all_persons,2017-02-01,2017-02-28,Q22a1,leavers,0
+"731 to 1,095 Days (2-3 Yrs)",10,all_persons,2017-02-01,2017-02-28,Q22a1,stayers,10
+"1,096 to 1,460 Days (3-4 Yrs)",8,all_persons,2017-02-01,2017-02-28,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",8,all_persons,2017-02-01,2017-02-28,Q22a1,stayers,8
+"1,461 to 1,825 Days (5-5 Yrs)",17,all_persons,2017-02-01,2017-02-28,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",17,all_persons,2017-02-01,2017-02-28,Q22a1,stayers,17
+"More than 1,825 Days (>5 Yrs)",60,all_persons,2017-02-01,2017-02-28,Q22a1,leavers,0
+"More than 1,825 Days (>5 Yrs)",60,all_persons,2017-02-01,2017-02-28,Q22a1,stayers,60
+Data Not Collected,0,all_persons,2017-02-01,2017-02-28,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2017-02-01,2017-02-28,Q22a1,stayers,0
+30 days or less,199,all_persons,2017-03-01,2017-03-31,Q22a1,leavers,92
+30 days or less,199,all_persons,2017-03-01,2017-03-31,Q22a1,stayers,107
+31 to 60 days,66,all_persons,2017-03-01,2017-03-31,Q22a1,leavers,15
+31 to 60 days,66,all_persons,2017-03-01,2017-03-31,Q22a1,stayers,51
+61 to 90 days,47,all_persons,2017-03-01,2017-03-31,Q22a1,leavers,18
+61 to 90 days,47,all_persons,2017-03-01,2017-03-31,Q22a1,stayers,29
+91 to 180 days,61,all_persons,2017-03-01,2017-03-31,Q22a1,leavers,24
+91 to 180 days,61,all_persons,2017-03-01,2017-03-31,Q22a1,stayers,37
+181 to 365 days,56,all_persons,2017-03-01,2017-03-31,Q22a1,leavers,11
+181 to 365 days,56,all_persons,2017-03-01,2017-03-31,Q22a1,stayers,45
+366 to 730 Days (1-2 Yrs),42,all_persons,2017-03-01,2017-03-31,Q22a1,leavers,2
+366 to 730 Days (1-2 Yrs),42,all_persons,2017-03-01,2017-03-31,Q22a1,stayers,40
+"731 to 1,095 Days (2-3 Yrs)",11,all_persons,2017-03-01,2017-03-31,Q22a1,leavers,0
+"731 to 1,095 Days (2-3 Yrs)",11,all_persons,2017-03-01,2017-03-31,Q22a1,stayers,11
+"1,096 to 1,460 Days (3-4 Yrs)",8,all_persons,2017-03-01,2017-03-31,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",8,all_persons,2017-03-01,2017-03-31,Q22a1,stayers,8
+"1,461 to 1,825 Days (5-5 Yrs)",11,all_persons,2017-03-01,2017-03-31,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",11,all_persons,2017-03-01,2017-03-31,Q22a1,stayers,11
+"More than 1,825 Days (>5 Yrs)",65,all_persons,2017-03-01,2017-03-31,Q22a1,leavers,1
+"More than 1,825 Days (>5 Yrs)",65,all_persons,2017-03-01,2017-03-31,Q22a1,stayers,64
+Data Not Collected,0,all_persons,2017-03-01,2017-03-31,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2017-03-01,2017-03-31,Q22a1,stayers,0
+30 days or less,164,all_persons,2017-04-01,2017-04-30,Q22a1,leavers,66
+30 days or less,164,all_persons,2017-04-01,2017-04-30,Q22a1,stayers,98
+31 to 60 days,91,all_persons,2017-04-01,2017-04-30,Q22a1,leavers,42
+31 to 60 days,91,all_persons,2017-04-01,2017-04-30,Q22a1,stayers,49
+61 to 90 days,41,all_persons,2017-04-01,2017-04-30,Q22a1,leavers,11
+61 to 90 days,41,all_persons,2017-04-01,2017-04-30,Q22a1,stayers,30
+91 to 180 days,39,all_persons,2017-04-01,2017-04-30,Q22a1,leavers,15
+91 to 180 days,39,all_persons,2017-04-01,2017-04-30,Q22a1,stayers,24
+181 to 365 days,57,all_persons,2017-04-01,2017-04-30,Q22a1,leavers,4
+181 to 365 days,57,all_persons,2017-04-01,2017-04-30,Q22a1,stayers,53
+366 to 730 Days (1-2 Yrs),41,all_persons,2017-04-01,2017-04-30,Q22a1,leavers,0
+366 to 730 Days (1-2 Yrs),41,all_persons,2017-04-01,2017-04-30,Q22a1,stayers,41
+"731 to 1,095 Days (2-3 Yrs)",15,all_persons,2017-04-01,2017-04-30,Q22a1,leavers,0
+"731 to 1,095 Days (2-3 Yrs)",15,all_persons,2017-04-01,2017-04-30,Q22a1,stayers,15
+"1,096 to 1,460 Days (3-4 Yrs)",7,all_persons,2017-04-01,2017-04-30,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",7,all_persons,2017-04-01,2017-04-30,Q22a1,stayers,7
+"1,461 to 1,825 Days (5-5 Yrs)",13,all_persons,2017-04-01,2017-04-30,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",13,all_persons,2017-04-01,2017-04-30,Q22a1,stayers,13
+"More than 1,825 Days (>5 Yrs)",64,all_persons,2017-04-01,2017-04-30,Q22a1,leavers,0
+"More than 1,825 Days (>5 Yrs)",64,all_persons,2017-04-01,2017-04-30,Q22a1,stayers,64
+Data Not Collected,0,all_persons,2017-04-01,2017-04-30,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2017-04-01,2017-04-30,Q22a1,stayers,0
+30 days or less,137,all_persons,2017-05-01,2017-05-31,Q22a1,leavers,27
+30 days or less,137,all_persons,2017-05-01,2017-05-31,Q22a1,stayers,110
+31 to 60 days,84,all_persons,2017-05-01,2017-05-31,Q22a1,leavers,20
+31 to 60 days,84,all_persons,2017-05-01,2017-05-31,Q22a1,stayers,64
+61 to 90 days,38,all_persons,2017-05-01,2017-05-31,Q22a1,leavers,10
+61 to 90 days,38,all_persons,2017-05-01,2017-05-31,Q22a1,stayers,28
+91 to 180 days,45,all_persons,2017-05-01,2017-05-31,Q22a1,leavers,4
+91 to 180 days,45,all_persons,2017-05-01,2017-05-31,Q22a1,stayers,41
+181 to 365 days,55,all_persons,2017-05-01,2017-05-31,Q22a1,leavers,4
+181 to 365 days,55,all_persons,2017-05-01,2017-05-31,Q22a1,stayers,51
+366 to 730 Days (1-2 Yrs),44,all_persons,2017-05-01,2017-05-31,Q22a1,leavers,1
+366 to 730 Days (1-2 Yrs),44,all_persons,2017-05-01,2017-05-31,Q22a1,stayers,43
+"731 to 1,095 Days (2-3 Yrs)",14,all_persons,2017-05-01,2017-05-31,Q22a1,leavers,0
+"731 to 1,095 Days (2-3 Yrs)",14,all_persons,2017-05-01,2017-05-31,Q22a1,stayers,14
+"1,096 to 1,460 Days (3-4 Yrs)",7,all_persons,2017-05-01,2017-05-31,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",7,all_persons,2017-05-01,2017-05-31,Q22a1,stayers,7
+"1,461 to 1,825 Days (5-5 Yrs)",13,all_persons,2017-05-01,2017-05-31,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",13,all_persons,2017-05-01,2017-05-31,Q22a1,stayers,13
+"More than 1,825 Days (>5 Yrs)",66,all_persons,2017-05-01,2017-05-31,Q22a1,leavers,1
+"More than 1,825 Days (>5 Yrs)",66,all_persons,2017-05-01,2017-05-31,Q22a1,stayers,65
+Data Not Collected,0,all_persons,2017-05-01,2017-05-31,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2017-05-01,2017-05-31,Q22a1,stayers,0
+30 days or less,142,all_persons,2017-06-01,2017-06-30,Q22a1,leavers,35
+30 days or less,142,all_persons,2017-06-01,2017-06-30,Q22a1,stayers,107
+31 to 60 days,91,all_persons,2017-06-01,2017-06-30,Q22a1,leavers,12
+31 to 60 days,91,all_persons,2017-06-01,2017-06-30,Q22a1,stayers,79
+61 to 90 days,62,all_persons,2017-06-01,2017-06-30,Q22a1,leavers,12
+61 to 90 days,62,all_persons,2017-06-01,2017-06-30,Q22a1,stayers,50
+91 to 180 days,57,all_persons,2017-06-01,2017-06-30,Q22a1,leavers,2
+91 to 180 days,57,all_persons,2017-06-01,2017-06-30,Q22a1,stayers,55
+181 to 365 days,45,all_persons,2017-06-01,2017-06-30,Q22a1,leavers,0
+181 to 365 days,45,all_persons,2017-06-01,2017-06-30,Q22a1,stayers,45
+366 to 730 Days (1-2 Yrs),44,all_persons,2017-06-01,2017-06-30,Q22a1,leavers,1
+366 to 730 Days (1-2 Yrs),44,all_persons,2017-06-01,2017-06-30,Q22a1,stayers,43
+"731 to 1,095 Days (2-3 Yrs)",20,all_persons,2017-06-01,2017-06-30,Q22a1,leavers,0
+"731 to 1,095 Days (2-3 Yrs)",20,all_persons,2017-06-01,2017-06-30,Q22a1,stayers,20
+"1,096 to 1,460 Days (3-4 Yrs)",6,all_persons,2017-06-01,2017-06-30,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",6,all_persons,2017-06-01,2017-06-30,Q22a1,stayers,6
+"1,461 to 1,825 Days (5-5 Yrs)",14,all_persons,2017-06-01,2017-06-30,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",14,all_persons,2017-06-01,2017-06-30,Q22a1,stayers,14
+"More than 1,825 Days (>5 Yrs)",65,all_persons,2017-06-01,2017-06-30,Q22a1,leavers,0
+"More than 1,825 Days (>5 Yrs)",65,all_persons,2017-06-01,2017-06-30,Q22a1,stayers,65
+Data Not Collected,0,all_persons,2017-06-01,2017-06-30,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2017-06-01,2017-06-30,Q22a1,stayers,0
+30 days or less,140,all_persons,2017-07-01,2017-07-31,Q22a1,leavers,24
+30 days or less,140,all_persons,2017-07-01,2017-07-31,Q22a1,stayers,116
+31 to 60 days,102,all_persons,2017-07-01,2017-07-31,Q22a1,leavers,23
+31 to 60 days,102,all_persons,2017-07-01,2017-07-31,Q22a1,stayers,79
+61 to 90 days,74,all_persons,2017-07-01,2017-07-31,Q22a1,leavers,14
+61 to 90 days,74,all_persons,2017-07-01,2017-07-31,Q22a1,stayers,60
+91 to 180 days,93,all_persons,2017-07-01,2017-07-31,Q22a1,leavers,22
+91 to 180 days,93,all_persons,2017-07-01,2017-07-31,Q22a1,stayers,71
+181 to 365 days,48,all_persons,2017-07-01,2017-07-31,Q22a1,leavers,10
+181 to 365 days,48,all_persons,2017-07-01,2017-07-31,Q22a1,stayers,38
+366 to 730 Days (1-2 Yrs),44,all_persons,2017-07-01,2017-07-31,Q22a1,leavers,5
+366 to 730 Days (1-2 Yrs),44,all_persons,2017-07-01,2017-07-31,Q22a1,stayers,39
+"731 to 1,095 Days (2-3 Yrs)",22,all_persons,2017-07-01,2017-07-31,Q22a1,leavers,1
+"731 to 1,095 Days (2-3 Yrs)",22,all_persons,2017-07-01,2017-07-31,Q22a1,stayers,21
+"1,096 to 1,460 Days (3-4 Yrs)",6,all_persons,2017-07-01,2017-07-31,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",6,all_persons,2017-07-01,2017-07-31,Q22a1,stayers,6
+"1,461 to 1,825 Days (5-5 Yrs)",14,all_persons,2017-07-01,2017-07-31,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",14,all_persons,2017-07-01,2017-07-31,Q22a1,stayers,14
+"More than 1,825 Days (>5 Yrs)",64,all_persons,2017-07-01,2017-07-31,Q22a1,leavers,0
+"More than 1,825 Days (>5 Yrs)",64,all_persons,2017-07-01,2017-07-31,Q22a1,stayers,64
+Data Not Collected,0,all_persons,2017-07-01,2017-07-31,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2017-07-01,2017-07-31,Q22a1,stayers,0
+30 days or less,156,all_persons,2017-08-01,2017-08-31,Q22a1,leavers,38
+30 days or less,156,all_persons,2017-08-01,2017-08-31,Q22a1,stayers,118
+31 to 60 days,121,all_persons,2017-08-01,2017-08-31,Q22a1,leavers,47
+31 to 60 days,121,all_persons,2017-08-01,2017-08-31,Q22a1,stayers,74
+61 to 90 days,80,all_persons,2017-08-01,2017-08-31,Q22a1,leavers,40
+61 to 90 days,80,all_persons,2017-08-01,2017-08-31,Q22a1,stayers,40
+91 to 180 days,90,all_persons,2017-08-01,2017-08-31,Q22a1,leavers,35
+91 to 180 days,90,all_persons,2017-08-01,2017-08-31,Q22a1,stayers,55
+181 to 365 days,37,all_persons,2017-08-01,2017-08-31,Q22a1,leavers,7
+181 to 365 days,37,all_persons,2017-08-01,2017-08-31,Q22a1,stayers,30
+366 to 730 Days (1-2 Yrs),48,all_persons,2017-08-01,2017-08-31,Q22a1,leavers,1
+366 to 730 Days (1-2 Yrs),48,all_persons,2017-08-01,2017-08-31,Q22a1,stayers,47
+"731 to 1,095 Days (2-3 Yrs)",23,all_persons,2017-08-01,2017-08-31,Q22a1,leavers,0
+"731 to 1,095 Days (2-3 Yrs)",23,all_persons,2017-08-01,2017-08-31,Q22a1,stayers,23
+"1,096 to 1,460 Days (3-4 Yrs)",4,all_persons,2017-08-01,2017-08-31,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",4,all_persons,2017-08-01,2017-08-31,Q22a1,stayers,4
+"1,461 to 1,825 Days (5-5 Yrs)",15,all_persons,2017-08-01,2017-08-31,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",15,all_persons,2017-08-01,2017-08-31,Q22a1,stayers,15
+"More than 1,825 Days (>5 Yrs)",65,all_persons,2017-08-01,2017-08-31,Q22a1,leavers,2
+"More than 1,825 Days (>5 Yrs)",65,all_persons,2017-08-01,2017-08-31,Q22a1,stayers,63
+Data Not Collected,0,all_persons,2017-08-01,2017-08-31,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2017-08-01,2017-08-31,Q22a1,stayers,0
+30 days or less,149,all_persons,2017-09-01,2017-09-30,Q22a1,leavers,63
+30 days or less,149,all_persons,2017-09-01,2017-09-30,Q22a1,stayers,86
+31 to 60 days,93,all_persons,2017-09-01,2017-09-30,Q22a1,leavers,20
+31 to 60 days,93,all_persons,2017-09-01,2017-09-30,Q22a1,stayers,73
+61 to 90 days,62,all_persons,2017-09-01,2017-09-30,Q22a1,leavers,17
+61 to 90 days,62,all_persons,2017-09-01,2017-09-30,Q22a1,stayers,45
+91 to 180 days,84,all_persons,2017-09-01,2017-09-30,Q22a1,leavers,43
+91 to 180 days,84,all_persons,2017-09-01,2017-09-30,Q22a1,stayers,41
+181 to 365 days,38,all_persons,2017-09-01,2017-09-30,Q22a1,leavers,7
+181 to 365 days,38,all_persons,2017-09-01,2017-09-30,Q22a1,stayers,31
+366 to 730 Days (1-2 Yrs),49,all_persons,2017-09-01,2017-09-30,Q22a1,leavers,0
+366 to 730 Days (1-2 Yrs),49,all_persons,2017-09-01,2017-09-30,Q22a1,stayers,49
+"731 to 1,095 Days (2-3 Yrs)",23,all_persons,2017-09-01,2017-09-30,Q22a1,leavers,7
+"731 to 1,095 Days (2-3 Yrs)",23,all_persons,2017-09-01,2017-09-30,Q22a1,stayers,16
+"1,096 to 1,460 Days (3-4 Yrs)",4,all_persons,2017-09-01,2017-09-30,Q22a1,leavers,2
+"1,096 to 1,460 Days (3-4 Yrs)",4,all_persons,2017-09-01,2017-09-30,Q22a1,stayers,2
+"1,461 to 1,825 Days (5-5 Yrs)",14,all_persons,2017-09-01,2017-09-30,Q22a1,leavers,5
+"1,461 to 1,825 Days (5-5 Yrs)",14,all_persons,2017-09-01,2017-09-30,Q22a1,stayers,9
+"More than 1,825 Days (>5 Yrs)",64,all_persons,2017-09-01,2017-09-30,Q22a1,leavers,15
+"More than 1,825 Days (>5 Yrs)",64,all_persons,2017-09-01,2017-09-30,Q22a1,stayers,49
+Data Not Collected,0,all_persons,2017-09-01,2017-09-30,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2017-09-01,2017-09-30,Q22a1,stayers,0
+30 days or less,131,all_persons,2017-10-01,2017-10-31,Q22a1,leavers,33
+30 days or less,131,all_persons,2017-10-01,2017-10-31,Q22a1,stayers,98
+31 to 60 days,78,all_persons,2017-10-01,2017-10-31,Q22a1,leavers,19
+31 to 60 days,78,all_persons,2017-10-01,2017-10-31,Q22a1,stayers,59
+61 to 90 days,66,all_persons,2017-10-01,2017-10-31,Q22a1,leavers,15
+61 to 90 days,66,all_persons,2017-10-01,2017-10-31,Q22a1,stayers,51
+91 to 180 days,81,all_persons,2017-10-01,2017-10-31,Q22a1,leavers,22
+91 to 180 days,81,all_persons,2017-10-01,2017-10-31,Q22a1,stayers,59
+181 to 365 days,29,all_persons,2017-10-01,2017-10-31,Q22a1,leavers,3
+181 to 365 days,29,all_persons,2017-10-01,2017-10-31,Q22a1,stayers,26
+366 to 730 Days (1-2 Yrs),54,all_persons,2017-10-01,2017-10-31,Q22a1,leavers,1
+366 to 730 Days (1-2 Yrs),54,all_persons,2017-10-01,2017-10-31,Q22a1,stayers,53
+"731 to 1,095 Days (2-3 Yrs)",18,all_persons,2017-10-01,2017-10-31,Q22a1,leavers,0
+"731 to 1,095 Days (2-3 Yrs)",18,all_persons,2017-10-01,2017-10-31,Q22a1,stayers,18
+"1,096 to 1,460 Days (3-4 Yrs)",2,all_persons,2017-10-01,2017-10-31,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",2,all_persons,2017-10-01,2017-10-31,Q22a1,stayers,2
+"1,461 to 1,825 Days (5-5 Yrs)",8,all_persons,2017-10-01,2017-10-31,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",8,all_persons,2017-10-01,2017-10-31,Q22a1,stayers,8
+"More than 1,825 Days (>5 Yrs)",50,all_persons,2017-10-01,2017-10-31,Q22a1,leavers,3
+"More than 1,825 Days (>5 Yrs)",50,all_persons,2017-10-01,2017-10-31,Q22a1,stayers,47
+Data Not Collected,0,all_persons,2017-10-01,2017-10-31,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2017-10-01,2017-10-31,Q22a1,stayers,0
+30 days or less,196,all_persons,2017-11-01,2017-11-30,Q22a1,leavers,97
+30 days or less,196,all_persons,2017-11-01,2017-11-30,Q22a1,stayers,99
+31 to 60 days,92,all_persons,2017-11-01,2017-11-30,Q22a1,leavers,20
+31 to 60 days,92,all_persons,2017-11-01,2017-11-30,Q22a1,stayers,72
+61 to 90 days,56,all_persons,2017-11-01,2017-11-30,Q22a1,leavers,6
+61 to 90 days,56,all_persons,2017-11-01,2017-11-30,Q22a1,stayers,50
+91 to 180 days,90,all_persons,2017-11-01,2017-11-30,Q22a1,leavers,25
+91 to 180 days,90,all_persons,2017-11-01,2017-11-30,Q22a1,stayers,65
+181 to 365 days,31,all_persons,2017-11-01,2017-11-30,Q22a1,leavers,4
+181 to 365 days,31,all_persons,2017-11-01,2017-11-30,Q22a1,stayers,27
+366 to 730 Days (1-2 Yrs),54,all_persons,2017-11-01,2017-11-30,Q22a1,leavers,3
+366 to 730 Days (1-2 Yrs),54,all_persons,2017-11-01,2017-11-30,Q22a1,stayers,51
+"731 to 1,095 Days (2-3 Yrs)",17,all_persons,2017-11-01,2017-11-30,Q22a1,leavers,0
+"731 to 1,095 Days (2-3 Yrs)",17,all_persons,2017-11-01,2017-11-30,Q22a1,stayers,17
+"1,096 to 1,460 Days (3-4 Yrs)",3,all_persons,2017-11-01,2017-11-30,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",3,all_persons,2017-11-01,2017-11-30,Q22a1,stayers,3
+"1,461 to 1,825 Days (5-5 Yrs)",5,all_persons,2017-11-01,2017-11-30,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",5,all_persons,2017-11-01,2017-11-30,Q22a1,stayers,5
+"More than 1,825 Days (>5 Yrs)",50,all_persons,2017-11-01,2017-11-30,Q22a1,leavers,1
+"More than 1,825 Days (>5 Yrs)",50,all_persons,2017-11-01,2017-11-30,Q22a1,stayers,49
+Data Not Collected,0,all_persons,2017-11-01,2017-11-30,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2017-11-01,2017-11-30,Q22a1,stayers,0
+30 days or less,181,all_persons,2017-12-01,2017-12-31,Q22a1,leavers,65
+30 days or less,181,all_persons,2017-12-01,2017-12-31,Q22a1,stayers,116
+31 to 60 days,90,all_persons,2017-12-01,2017-12-31,Q22a1,leavers,37
+31 to 60 days,90,all_persons,2017-12-01,2017-12-31,Q22a1,stayers,53
+61 to 90 days,54,all_persons,2017-12-01,2017-12-31,Q22a1,leavers,17
+61 to 90 days,54,all_persons,2017-12-01,2017-12-31,Q22a1,stayers,37
+91 to 180 days,94,all_persons,2017-12-01,2017-12-31,Q22a1,leavers,34
+91 to 180 days,94,all_persons,2017-12-01,2017-12-31,Q22a1,stayers,60
+181 to 365 days,32,all_persons,2017-12-01,2017-12-31,Q22a1,leavers,6
+181 to 365 days,32,all_persons,2017-12-01,2017-12-31,Q22a1,stayers,26
+366 to 730 Days (1-2 Yrs),53,all_persons,2017-12-01,2017-12-31,Q22a1,leavers,2
+366 to 730 Days (1-2 Yrs),53,all_persons,2017-12-01,2017-12-31,Q22a1,stayers,51
+"731 to 1,095 Days (2-3 Yrs)",18,all_persons,2017-12-01,2017-12-31,Q22a1,leavers,0
+"731 to 1,095 Days (2-3 Yrs)",18,all_persons,2017-12-01,2017-12-31,Q22a1,stayers,18
+"1,096 to 1,460 Days (3-4 Yrs)",3,all_persons,2017-12-01,2017-12-31,Q22a1,leavers,1
+"1,096 to 1,460 Days (3-4 Yrs)",3,all_persons,2017-12-01,2017-12-31,Q22a1,stayers,2
+"1,461 to 1,825 Days (5-5 Yrs)",5,all_persons,2017-12-01,2017-12-31,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",5,all_persons,2017-12-01,2017-12-31,Q22a1,stayers,5
+"More than 1,825 Days (>5 Yrs)",48,all_persons,2017-12-01,2017-12-31,Q22a1,leavers,2
+"More than 1,825 Days (>5 Yrs)",48,all_persons,2017-12-01,2017-12-31,Q22a1,stayers,46
+Data Not Collected,0,all_persons,2017-12-01,2017-12-31,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2017-12-01,2017-12-31,Q22a1,stayers,0
+30 days or less,180,all_persons,2018-01-01,2018-01-31,Q22a1,leavers,50
+30 days or less,180,all_persons,2018-01-01,2018-01-31,Q22a1,stayers,130
+31 to 60 days,88,all_persons,2018-01-01,2018-01-31,Q22a1,leavers,23
+31 to 60 days,88,all_persons,2018-01-01,2018-01-31,Q22a1,stayers,65
+61 to 90 days,47,all_persons,2018-01-01,2018-01-31,Q22a1,leavers,11
+61 to 90 days,47,all_persons,2018-01-01,2018-01-31,Q22a1,stayers,36
+91 to 180 days,83,all_persons,2018-01-01,2018-01-31,Q22a1,leavers,18
+91 to 180 days,83,all_persons,2018-01-01,2018-01-31,Q22a1,stayers,65
+181 to 365 days,36,all_persons,2018-01-01,2018-01-31,Q22a1,leavers,1
+181 to 365 days,36,all_persons,2018-01-01,2018-01-31,Q22a1,stayers,35
+366 to 730 Days (1-2 Yrs),48,all_persons,2018-01-01,2018-01-31,Q22a1,leavers,0
+366 to 730 Days (1-2 Yrs),48,all_persons,2018-01-01,2018-01-31,Q22a1,stayers,48
+"731 to 1,095 Days (2-3 Yrs)",24,all_persons,2018-01-01,2018-01-31,Q22a1,leavers,1
+"731 to 1,095 Days (2-3 Yrs)",24,all_persons,2018-01-01,2018-01-31,Q22a1,stayers,23
+"1,096 to 1,460 Days (3-4 Yrs)",4,all_persons,2018-01-01,2018-01-31,Q22a1,leavers,1
+"1,096 to 1,460 Days (3-4 Yrs)",4,all_persons,2018-01-01,2018-01-31,Q22a1,stayers,3
+"1,461 to 1,825 Days (5-5 Yrs)",4,all_persons,2018-01-01,2018-01-31,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",4,all_persons,2018-01-01,2018-01-31,Q22a1,stayers,4
+"More than 1,825 Days (>5 Yrs)",47,all_persons,2018-01-01,2018-01-31,Q22a1,leavers,2
+"More than 1,825 Days (>5 Yrs)",47,all_persons,2018-01-01,2018-01-31,Q22a1,stayers,45
+Data Not Collected,0,all_persons,2018-01-01,2018-01-31,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2018-01-01,2018-01-31,Q22a1,stayers,0
+30 days or less,182,all_persons,2018-02-01,2018-02-28,Q22a1,leavers,63
+30 days or less,182,all_persons,2018-02-01,2018-02-28,Q22a1,stayers,119
+31 to 60 days,87,all_persons,2018-02-01,2018-02-28,Q22a1,leavers,14
+31 to 60 days,87,all_persons,2018-02-01,2018-02-28,Q22a1,stayers,73
+61 to 90 days,65,all_persons,2018-02-01,2018-02-28,Q22a1,leavers,6
+61 to 90 days,65,all_persons,2018-02-01,2018-02-28,Q22a1,stayers,59
+91 to 180 days,86,all_persons,2018-02-01,2018-02-28,Q22a1,leavers,22
+91 to 180 days,86,all_persons,2018-02-01,2018-02-28,Q22a1,stayers,64
+181 to 365 days,41,all_persons,2018-02-01,2018-02-28,Q22a1,leavers,6
+181 to 365 days,41,all_persons,2018-02-01,2018-02-28,Q22a1,stayers,35
+366 to 730 Days (1-2 Yrs),45,all_persons,2018-02-01,2018-02-28,Q22a1,leavers,0
+366 to 730 Days (1-2 Yrs),45,all_persons,2018-02-01,2018-02-28,Q22a1,stayers,45
+"731 to 1,095 Days (2-3 Yrs)",26,all_persons,2018-02-01,2018-02-28,Q22a1,leavers,0
+"731 to 1,095 Days (2-3 Yrs)",26,all_persons,2018-02-01,2018-02-28,Q22a1,stayers,26
+"1,096 to 1,460 Days (3-4 Yrs)",5,all_persons,2018-02-01,2018-02-28,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",5,all_persons,2018-02-01,2018-02-28,Q22a1,stayers,5
+"1,461 to 1,825 Days (5-5 Yrs)",5,all_persons,2018-02-01,2018-02-28,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",5,all_persons,2018-02-01,2018-02-28,Q22a1,stayers,5
+"More than 1,825 Days (>5 Yrs)",45,all_persons,2018-02-01,2018-02-28,Q22a1,leavers,0
+"More than 1,825 Days (>5 Yrs)",45,all_persons,2018-02-01,2018-02-28,Q22a1,stayers,45
+Data Not Collected,0,all_persons,2018-02-01,2018-02-28,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2018-02-01,2018-02-28,Q22a1,stayers,0
+30 days or less,162,all_persons,2018-03-01,2018-03-31,Q22a1,leavers,70
+30 days or less,162,all_persons,2018-03-01,2018-03-31,Q22a1,stayers,92
+31 to 60 days,104,all_persons,2018-03-01,2018-03-31,Q22a1,leavers,31
+31 to 60 days,104,all_persons,2018-03-01,2018-03-31,Q22a1,stayers,73
+61 to 90 days,43,all_persons,2018-03-01,2018-03-31,Q22a1,leavers,10
+61 to 90 days,43,all_persons,2018-03-01,2018-03-31,Q22a1,stayers,33
+91 to 180 days,98,all_persons,2018-03-01,2018-03-31,Q22a1,leavers,23
+91 to 180 days,98,all_persons,2018-03-01,2018-03-31,Q22a1,stayers,75
+181 to 365 days,45,all_persons,2018-03-01,2018-03-31,Q22a1,leavers,5
+181 to 365 days,45,all_persons,2018-03-01,2018-03-31,Q22a1,stayers,40
+366 to 730 Days (1-2 Yrs),46,all_persons,2018-03-01,2018-03-31,Q22a1,leavers,1
+366 to 730 Days (1-2 Yrs),46,all_persons,2018-03-01,2018-03-31,Q22a1,stayers,45
+"731 to 1,095 Days (2-3 Yrs)",30,all_persons,2018-03-01,2018-03-31,Q22a1,leavers,0
+"731 to 1,095 Days (2-3 Yrs)",30,all_persons,2018-03-01,2018-03-31,Q22a1,stayers,30
+"1,096 to 1,460 Days (3-4 Yrs)",5,all_persons,2018-03-01,2018-03-31,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",5,all_persons,2018-03-01,2018-03-31,Q22a1,stayers,5
+"1,461 to 1,825 Days (5-5 Yrs)",5,all_persons,2018-03-01,2018-03-31,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",5,all_persons,2018-03-01,2018-03-31,Q22a1,stayers,5
+"More than 1,825 Days (>5 Yrs)",45,all_persons,2018-03-01,2018-03-31,Q22a1,leavers,3
+"More than 1,825 Days (>5 Yrs)",45,all_persons,2018-03-01,2018-03-31,Q22a1,stayers,42
+Data Not Collected,0,all_persons,2018-03-01,2018-03-31,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2018-03-01,2018-03-31,Q22a1,stayers,0
+30 days or less,148,all_persons,2018-04-01,2018-04-30,Q22a1,leavers,64
+30 days or less,148,all_persons,2018-04-01,2018-04-30,Q22a1,stayers,84
+31 to 60 days,58,all_persons,2018-04-01,2018-04-30,Q22a1,leavers,3
+31 to 60 days,58,all_persons,2018-04-01,2018-04-30,Q22a1,stayers,55
+61 to 90 days,85,all_persons,2018-04-01,2018-04-30,Q22a1,leavers,17
+61 to 90 days,85,all_persons,2018-04-01,2018-04-30,Q22a1,stayers,68
+91 to 180 days,87,all_persons,2018-04-01,2018-04-30,Q22a1,leavers,14
+91 to 180 days,87,all_persons,2018-04-01,2018-04-30,Q22a1,stayers,73
+181 to 365 days,44,all_persons,2018-04-01,2018-04-30,Q22a1,leavers,2
+181 to 365 days,44,all_persons,2018-04-01,2018-04-30,Q22a1,stayers,42
+366 to 730 Days (1-2 Yrs),43,all_persons,2018-04-01,2018-04-30,Q22a1,leavers,2
+366 to 730 Days (1-2 Yrs),43,all_persons,2018-04-01,2018-04-30,Q22a1,stayers,41
+"731 to 1,095 Days (2-3 Yrs)",29,all_persons,2018-04-01,2018-04-30,Q22a1,leavers,0
+"731 to 1,095 Days (2-3 Yrs)",29,all_persons,2018-04-01,2018-04-30,Q22a1,stayers,29
+"1,096 to 1,460 Days (3-4 Yrs)",9,all_persons,2018-04-01,2018-04-30,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",9,all_persons,2018-04-01,2018-04-30,Q22a1,stayers,9
+"1,461 to 1,825 Days (5-5 Yrs)",4,all_persons,2018-04-01,2018-04-30,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",4,all_persons,2018-04-01,2018-04-30,Q22a1,stayers,4
+"More than 1,825 Days (>5 Yrs)",43,all_persons,2018-04-01,2018-04-30,Q22a1,leavers,0
+"More than 1,825 Days (>5 Yrs)",43,all_persons,2018-04-01,2018-04-30,Q22a1,stayers,43
+Data Not Collected,0,all_persons,2018-04-01,2018-04-30,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2018-04-01,2018-04-30,Q22a1,stayers,0
+30 days or less,190,all_persons,2018-05-01,2018-05-31,Q22a1,leavers,69
+30 days or less,190,all_persons,2018-05-01,2018-05-31,Q22a1,stayers,121
+31 to 60 days,55,all_persons,2018-05-01,2018-05-31,Q22a1,leavers,7
+31 to 60 days,55,all_persons,2018-05-01,2018-05-31,Q22a1,stayers,48
+61 to 90 days,49,all_persons,2018-05-01,2018-05-31,Q22a1,leavers,18
+61 to 90 days,49,all_persons,2018-05-01,2018-05-31,Q22a1,stayers,31
+91 to 180 days,112,all_persons,2018-05-01,2018-05-31,Q22a1,leavers,32
+91 to 180 days,112,all_persons,2018-05-01,2018-05-31,Q22a1,stayers,80
+181 to 365 days,52,all_persons,2018-05-01,2018-05-31,Q22a1,leavers,11
+181 to 365 days,52,all_persons,2018-05-01,2018-05-31,Q22a1,stayers,41
+366 to 730 Days (1-2 Yrs),42,all_persons,2018-05-01,2018-05-31,Q22a1,leavers,0
+366 to 730 Days (1-2 Yrs),42,all_persons,2018-05-01,2018-05-31,Q22a1,stayers,42
+"731 to 1,095 Days (2-3 Yrs)",31,all_persons,2018-05-01,2018-05-31,Q22a1,leavers,1
+"731 to 1,095 Days (2-3 Yrs)",31,all_persons,2018-05-01,2018-05-31,Q22a1,stayers,30
+"1,096 to 1,460 Days (3-4 Yrs)",8,all_persons,2018-05-01,2018-05-31,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",8,all_persons,2018-05-01,2018-05-31,Q22a1,stayers,8
+"1,461 to 1,825 Days (5-5 Yrs)",3,all_persons,2018-05-01,2018-05-31,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",3,all_persons,2018-05-01,2018-05-31,Q22a1,stayers,3
+"More than 1,825 Days (>5 Yrs)",45,all_persons,2018-05-01,2018-05-31,Q22a1,leavers,1
+"More than 1,825 Days (>5 Yrs)",45,all_persons,2018-05-01,2018-05-31,Q22a1,stayers,44
+Data Not Collected,0,all_persons,2018-05-01,2018-05-31,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2018-05-01,2018-05-31,Q22a1,stayers,0
+30 days or less,130,all_persons,2018-06-01,2018-06-30,Q22a1,leavers,48
+30 days or less,130,all_persons,2018-06-01,2018-06-30,Q22a1,stayers,82
+31 to 60 days,88,all_persons,2018-06-01,2018-06-30,Q22a1,leavers,27
+31 to 60 days,88,all_persons,2018-06-01,2018-06-30,Q22a1,stayers,61
+61 to 90 days,38,all_persons,2018-06-01,2018-06-30,Q22a1,leavers,5
+61 to 90 days,38,all_persons,2018-06-01,2018-06-30,Q22a1,stayers,33
+91 to 180 days,97,all_persons,2018-06-01,2018-06-30,Q22a1,leavers,39
+91 to 180 days,97,all_persons,2018-06-01,2018-06-30,Q22a1,stayers,58
+181 to 365 days,49,all_persons,2018-06-01,2018-06-30,Q22a1,leavers,3
+181 to 365 days,49,all_persons,2018-06-01,2018-06-30,Q22a1,stayers,46
+366 to 730 Days (1-2 Yrs),43,all_persons,2018-06-01,2018-06-30,Q22a1,leavers,11
+366 to 730 Days (1-2 Yrs),43,all_persons,2018-06-01,2018-06-30,Q22a1,stayers,32
+"731 to 1,095 Days (2-3 Yrs)",32,all_persons,2018-06-01,2018-06-30,Q22a1,leavers,8
+"731 to 1,095 Days (2-3 Yrs)",32,all_persons,2018-06-01,2018-06-30,Q22a1,stayers,24
+"1,096 to 1,460 Days (3-4 Yrs)",10,all_persons,2018-06-01,2018-06-30,Q22a1,leavers,2
+"1,096 to 1,460 Days (3-4 Yrs)",10,all_persons,2018-06-01,2018-06-30,Q22a1,stayers,8
+"1,461 to 1,825 Days (5-5 Yrs)",3,all_persons,2018-06-01,2018-06-30,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",3,all_persons,2018-06-01,2018-06-30,Q22a1,stayers,3
+"More than 1,825 Days (>5 Yrs)",44,all_persons,2018-06-01,2018-06-30,Q22a1,leavers,11
+"More than 1,825 Days (>5 Yrs)",44,all_persons,2018-06-01,2018-06-30,Q22a1,stayers,33
+Data Not Collected,0,all_persons,2018-06-01,2018-06-30,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2018-06-01,2018-06-30,Q22a1,stayers,0
+30 days or less,136,all_persons,2018-07-01,2018-07-31,Q22a1,leavers,31
+30 days or less,136,all_persons,2018-07-01,2018-07-31,Q22a1,stayers,105
+31 to 60 days,62,all_persons,2018-07-01,2018-07-31,Q22a1,leavers,6
+31 to 60 days,62,all_persons,2018-07-01,2018-07-31,Q22a1,stayers,56
+61 to 90 days,62,all_persons,2018-07-01,2018-07-31,Q22a1,leavers,16
+61 to 90 days,62,all_persons,2018-07-01,2018-07-31,Q22a1,stayers,46
+91 to 180 days,82,all_persons,2018-07-01,2018-07-31,Q22a1,leavers,10
+91 to 180 days,82,all_persons,2018-07-01,2018-07-31,Q22a1,stayers,72
+181 to 365 days,57,all_persons,2018-07-01,2018-07-31,Q22a1,leavers,0
+181 to 365 days,57,all_persons,2018-07-01,2018-07-31,Q22a1,stayers,57
+366 to 730 Days (1-2 Yrs),33,all_persons,2018-07-01,2018-07-31,Q22a1,leavers,0
+366 to 730 Days (1-2 Yrs),33,all_persons,2018-07-01,2018-07-31,Q22a1,stayers,33
+"731 to 1,095 Days (2-3 Yrs)",24,all_persons,2018-07-01,2018-07-31,Q22a1,leavers,0
+"731 to 1,095 Days (2-3 Yrs)",24,all_persons,2018-07-01,2018-07-31,Q22a1,stayers,24
+"1,096 to 1,460 Days (3-4 Yrs)",8,all_persons,2018-07-01,2018-07-31,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",8,all_persons,2018-07-01,2018-07-31,Q22a1,stayers,8
+"1,461 to 1,825 Days (5-5 Yrs)",3,all_persons,2018-07-01,2018-07-31,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",3,all_persons,2018-07-01,2018-07-31,Q22a1,stayers,3
+"More than 1,825 Days (>5 Yrs)",33,all_persons,2018-07-01,2018-07-31,Q22a1,leavers,0
+"More than 1,825 Days (>5 Yrs)",33,all_persons,2018-07-01,2018-07-31,Q22a1,stayers,33
+Data Not Collected,0,all_persons,2018-07-01,2018-07-31,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2018-07-01,2018-07-31,Q22a1,stayers,0
+30 days or less,135,all_persons,2018-08-01,2018-08-31,Q22a1,leavers,40
+30 days or less,135,all_persons,2018-08-01,2018-08-31,Q22a1,stayers,95
+31 to 60 days,88,all_persons,2018-08-01,2018-08-31,Q22a1,leavers,10
+31 to 60 days,88,all_persons,2018-08-01,2018-08-31,Q22a1,stayers,78
+61 to 90 days,60,all_persons,2018-08-01,2018-08-31,Q22a1,leavers,16
+61 to 90 days,60,all_persons,2018-08-01,2018-08-31,Q22a1,stayers,44
+91 to 180 days,84,all_persons,2018-08-01,2018-08-31,Q22a1,leavers,18
+91 to 180 days,84,all_persons,2018-08-01,2018-08-31,Q22a1,stayers,66
+181 to 365 days,68,all_persons,2018-08-01,2018-08-31,Q22a1,leavers,10
+181 to 365 days,68,all_persons,2018-08-01,2018-08-31,Q22a1,stayers,58
+366 to 730 Days (1-2 Yrs),32,all_persons,2018-08-01,2018-08-31,Q22a1,leavers,0
+366 to 730 Days (1-2 Yrs),32,all_persons,2018-08-01,2018-08-31,Q22a1,stayers,32
+"731 to 1,095 Days (2-3 Yrs)",33,all_persons,2018-08-01,2018-08-31,Q22a1,leavers,2
+"731 to 1,095 Days (2-3 Yrs)",33,all_persons,2018-08-01,2018-08-31,Q22a1,stayers,31
+"1,096 to 1,460 Days (3-4 Yrs)",8,all_persons,2018-08-01,2018-08-31,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",8,all_persons,2018-08-01,2018-08-31,Q22a1,stayers,8
+"1,461 to 1,825 Days (5-5 Yrs)",2,all_persons,2018-08-01,2018-08-31,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",2,all_persons,2018-08-01,2018-08-31,Q22a1,stayers,2
+"More than 1,825 Days (>5 Yrs)",34,all_persons,2018-08-01,2018-08-31,Q22a1,leavers,0
+"More than 1,825 Days (>5 Yrs)",34,all_persons,2018-08-01,2018-08-31,Q22a1,stayers,34
+Data Not Collected,0,all_persons,2018-08-01,2018-08-31,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2018-08-01,2018-08-31,Q22a1,stayers,0
+30 days or less,123,all_persons,2018-09-01,2018-09-30,Q22a1,leavers,23
+30 days or less,123,all_persons,2018-09-01,2018-09-30,Q22a1,stayers,100
+31 to 60 days,94,all_persons,2018-09-01,2018-09-30,Q22a1,leavers,19
+31 to 60 days,94,all_persons,2018-09-01,2018-09-30,Q22a1,stayers,75
+61 to 90 days,72,all_persons,2018-09-01,2018-09-30,Q22a1,leavers,15
+61 to 90 days,72,all_persons,2018-09-01,2018-09-30,Q22a1,stayers,57
+91 to 180 days,92,all_persons,2018-09-01,2018-09-30,Q22a1,leavers,25
+91 to 180 days,92,all_persons,2018-09-01,2018-09-30,Q22a1,stayers,67
+181 to 365 days,56,all_persons,2018-09-01,2018-09-30,Q22a1,leavers,3
+181 to 365 days,56,all_persons,2018-09-01,2018-09-30,Q22a1,stayers,53
+366 to 730 Days (1-2 Yrs),45,all_persons,2018-09-01,2018-09-30,Q22a1,leavers,0
+366 to 730 Days (1-2 Yrs),45,all_persons,2018-09-01,2018-09-30,Q22a1,stayers,45
+"731 to 1,095 Days (2-3 Yrs)",32,all_persons,2018-09-01,2018-09-30,Q22a1,leavers,0
+"731 to 1,095 Days (2-3 Yrs)",32,all_persons,2018-09-01,2018-09-30,Q22a1,stayers,32
+"1,096 to 1,460 Days (3-4 Yrs)",8,all_persons,2018-09-01,2018-09-30,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",8,all_persons,2018-09-01,2018-09-30,Q22a1,stayers,8
+"1,461 to 1,825 Days (5-5 Yrs)",2,all_persons,2018-09-01,2018-09-30,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",2,all_persons,2018-09-01,2018-09-30,Q22a1,stayers,2
+"More than 1,825 Days (>5 Yrs)",34,all_persons,2018-09-01,2018-09-30,Q22a1,leavers,1
+"More than 1,825 Days (>5 Yrs)",34,all_persons,2018-09-01,2018-09-30,Q22a1,stayers,33
+Data Not Collected,0,all_persons,2018-09-01,2018-09-30,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2018-09-01,2018-09-30,Q22a1,stayers,0
+30 days or less,173,all_persons,2018-10-01,2018-10-31,Q22a1,leavers,59
+30 days or less,173,all_persons,2018-10-01,2018-10-31,Q22a1,stayers,114
+31 to 60 days,88,all_persons,2018-10-01,2018-10-31,Q22a1,leavers,24
+31 to 60 days,88,all_persons,2018-10-01,2018-10-31,Q22a1,stayers,64
+61 to 90 days,60,all_persons,2018-10-01,2018-10-31,Q22a1,leavers,9
+61 to 90 days,60,all_persons,2018-10-01,2018-10-31,Q22a1,stayers,51
+91 to 180 days,111,all_persons,2018-10-01,2018-10-31,Q22a1,leavers,20
+91 to 180 days,111,all_persons,2018-10-01,2018-10-31,Q22a1,stayers,91
+181 to 365 days,63,all_persons,2018-10-01,2018-10-31,Q22a1,leavers,7
+181 to 365 days,63,all_persons,2018-10-01,2018-10-31,Q22a1,stayers,56
+366 to 730 Days (1-2 Yrs),42,all_persons,2018-10-01,2018-10-31,Q22a1,leavers,2
+366 to 730 Days (1-2 Yrs),42,all_persons,2018-10-01,2018-10-31,Q22a1,stayers,40
+"731 to 1,095 Days (2-3 Yrs)",37,all_persons,2018-10-01,2018-10-31,Q22a1,leavers,0
+"731 to 1,095 Days (2-3 Yrs)",37,all_persons,2018-10-01,2018-10-31,Q22a1,stayers,37
+"1,096 to 1,460 Days (3-4 Yrs)",9,all_persons,2018-10-01,2018-10-31,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",9,all_persons,2018-10-01,2018-10-31,Q22a1,stayers,9
+"1,461 to 1,825 Days (5-5 Yrs)",2,all_persons,2018-10-01,2018-10-31,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",2,all_persons,2018-10-01,2018-10-31,Q22a1,stayers,2
+"More than 1,825 Days (>5 Yrs)",33,all_persons,2018-10-01,2018-10-31,Q22a1,leavers,0
+"More than 1,825 Days (>5 Yrs)",33,all_persons,2018-10-01,2018-10-31,Q22a1,stayers,33
+Data Not Collected,0,all_persons,2018-10-01,2018-10-31,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2018-10-01,2018-10-31,Q22a1,stayers,0
+30 days or less,217,all_persons,2018-11-01,2018-11-30,Q22a1,leavers,70
+30 days or less,217,all_persons,2018-11-01,2018-11-30,Q22a1,stayers,147
+31 to 60 days,73,all_persons,2018-11-01,2018-11-30,Q22a1,leavers,13
+31 to 60 days,73,all_persons,2018-11-01,2018-11-30,Q22a1,stayers,60
+61 to 90 days,60,all_persons,2018-11-01,2018-11-30,Q22a1,leavers,4
+61 to 90 days,60,all_persons,2018-11-01,2018-11-30,Q22a1,stayers,56
+91 to 180 days,132,all_persons,2018-11-01,2018-11-30,Q22a1,leavers,32
+91 to 180 days,132,all_persons,2018-11-01,2018-11-30,Q22a1,stayers,100
+181 to 365 days,57,all_persons,2018-11-01,2018-11-30,Q22a1,leavers,6
+181 to 365 days,57,all_persons,2018-11-01,2018-11-30,Q22a1,stayers,51
+366 to 730 Days (1-2 Yrs),43,all_persons,2018-11-01,2018-11-30,Q22a1,leavers,1
+366 to 730 Days (1-2 Yrs),43,all_persons,2018-11-01,2018-11-30,Q22a1,stayers,42
+"731 to 1,095 Days (2-3 Yrs)",38,all_persons,2018-11-01,2018-11-30,Q22a1,leavers,0
+"731 to 1,095 Days (2-3 Yrs)",38,all_persons,2018-11-01,2018-11-30,Q22a1,stayers,38
+"1,096 to 1,460 Days (3-4 Yrs)",9,all_persons,2018-11-01,2018-11-30,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",9,all_persons,2018-11-01,2018-11-30,Q22a1,stayers,9
+"1,461 to 1,825 Days (5-5 Yrs)",2,all_persons,2018-11-01,2018-11-30,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",2,all_persons,2018-11-01,2018-11-30,Q22a1,stayers,2
+"More than 1,825 Days (>5 Yrs)",33,all_persons,2018-11-01,2018-11-30,Q22a1,leavers,0
+"More than 1,825 Days (>5 Yrs)",33,all_persons,2018-11-01,2018-11-30,Q22a1,stayers,33
+Data Not Collected,0,all_persons,2018-11-01,2018-11-30,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2018-11-01,2018-11-30,Q22a1,stayers,0
+30 days or less,268,all_persons,2018-12-01,2018-12-31,Q22a1,leavers,164
+30 days or less,268,all_persons,2018-12-01,2018-12-31,Q22a1,stayers,104
+31 to 60 days,108,all_persons,2018-12-01,2018-12-31,Q22a1,leavers,19
+31 to 60 days,108,all_persons,2018-12-01,2018-12-31,Q22a1,stayers,89
+61 to 90 days,64,all_persons,2018-12-01,2018-12-31,Q22a1,leavers,7
+61 to 90 days,64,all_persons,2018-12-01,2018-12-31,Q22a1,stayers,57
+91 to 180 days,116,all_persons,2018-12-01,2018-12-31,Q22a1,leavers,28
+91 to 180 days,116,all_persons,2018-12-01,2018-12-31,Q22a1,stayers,88
+181 to 365 days,78,all_persons,2018-12-01,2018-12-31,Q22a1,leavers,2
+181 to 365 days,78,all_persons,2018-12-01,2018-12-31,Q22a1,stayers,76
+366 to 730 Days (1-2 Yrs),45,all_persons,2018-12-01,2018-12-31,Q22a1,leavers,2
+366 to 730 Days (1-2 Yrs),45,all_persons,2018-12-01,2018-12-31,Q22a1,stayers,43
+"731 to 1,095 Days (2-3 Yrs)",39,all_persons,2018-12-01,2018-12-31,Q22a1,leavers,0
+"731 to 1,095 Days (2-3 Yrs)",39,all_persons,2018-12-01,2018-12-31,Q22a1,stayers,39
+"1,096 to 1,460 Days (3-4 Yrs)",9,all_persons,2018-12-01,2018-12-31,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",9,all_persons,2018-12-01,2018-12-31,Q22a1,stayers,9
+"1,461 to 1,825 Days (5-5 Yrs)",2,all_persons,2018-12-01,2018-12-31,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",2,all_persons,2018-12-01,2018-12-31,Q22a1,stayers,2
+"More than 1,825 Days (>5 Yrs)",33,all_persons,2018-12-01,2018-12-31,Q22a1,leavers,0
+"More than 1,825 Days (>5 Yrs)",33,all_persons,2018-12-01,2018-12-31,Q22a1,stayers,33
+Data Not Collected,0,all_persons,2018-12-01,2018-12-31,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2018-12-01,2018-12-31,Q22a1,stayers,0
+30 days or less,357,all_persons,2019-01-01,2019-01-31,Q22a1,leavers,182
+30 days or less,357,all_persons,2019-01-01,2019-01-31,Q22a1,stayers,175
+31 to 60 days,104,all_persons,2019-01-01,2019-01-31,Q22a1,leavers,28
+31 to 60 days,104,all_persons,2019-01-01,2019-01-31,Q22a1,stayers,76
+61 to 90 days,75,all_persons,2019-01-01,2019-01-31,Q22a1,leavers,17
+61 to 90 days,75,all_persons,2019-01-01,2019-01-31,Q22a1,stayers,58
+91 to 180 days,113,all_persons,2019-01-01,2019-01-31,Q22a1,leavers,17
+91 to 180 days,113,all_persons,2019-01-01,2019-01-31,Q22a1,stayers,96
+181 to 365 days,91,all_persons,2019-01-01,2019-01-31,Q22a1,leavers,18
+181 to 365 days,91,all_persons,2019-01-01,2019-01-31,Q22a1,stayers,73
+366 to 730 Days (1-2 Yrs),48,all_persons,2019-01-01,2019-01-31,Q22a1,leavers,0
+366 to 730 Days (1-2 Yrs),48,all_persons,2019-01-01,2019-01-31,Q22a1,stayers,48
+"731 to 1,095 Days (2-3 Yrs)",34,all_persons,2019-01-01,2019-01-31,Q22a1,leavers,1
+"731 to 1,095 Days (2-3 Yrs)",34,all_persons,2019-01-01,2019-01-31,Q22a1,stayers,33
+"1,096 to 1,460 Days (3-4 Yrs)",16,all_persons,2019-01-01,2019-01-31,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",16,all_persons,2019-01-01,2019-01-31,Q22a1,stayers,16
+"1,461 to 1,825 Days (5-5 Yrs)",3,all_persons,2019-01-01,2019-01-31,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",3,all_persons,2019-01-01,2019-01-31,Q22a1,stayers,3
+"More than 1,825 Days (>5 Yrs)",33,all_persons,2019-01-01,2019-01-31,Q22a1,leavers,0
+"More than 1,825 Days (>5 Yrs)",33,all_persons,2019-01-01,2019-01-31,Q22a1,stayers,33
+Data Not Collected,0,all_persons,2019-01-01,2019-01-31,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2019-01-01,2019-01-31,Q22a1,stayers,0
+30 days or less,417,all_persons,2019-02-01,2019-02-28,Q22a1,leavers,269
+30 days or less,417,all_persons,2019-02-01,2019-02-28,Q22a1,stayers,148
+31 to 60 days,132,all_persons,2019-02-01,2019-02-28,Q22a1,leavers,40
+31 to 60 days,132,all_persons,2019-02-01,2019-02-28,Q22a1,stayers,92
+61 to 90 days,61,all_persons,2019-02-01,2019-02-28,Q22a1,leavers,5
+61 to 90 days,61,all_persons,2019-02-01,2019-02-28,Q22a1,stayers,56
+91 to 180 days,120,all_persons,2019-02-01,2019-02-28,Q22a1,leavers,24
+91 to 180 days,120,all_persons,2019-02-01,2019-02-28,Q22a1,stayers,96
+181 to 365 days,79,all_persons,2019-02-01,2019-02-28,Q22a1,leavers,9
+181 to 365 days,79,all_persons,2019-02-01,2019-02-28,Q22a1,stayers,70
+366 to 730 Days (1-2 Yrs),60,all_persons,2019-02-01,2019-02-28,Q22a1,leavers,0
+366 to 730 Days (1-2 Yrs),60,all_persons,2019-02-01,2019-02-28,Q22a1,stayers,60
+"731 to 1,095 Days (2-3 Yrs)",30,all_persons,2019-02-01,2019-02-28,Q22a1,leavers,0
+"731 to 1,095 Days (2-3 Yrs)",30,all_persons,2019-02-01,2019-02-28,Q22a1,stayers,30
+"1,096 to 1,460 Days (3-4 Yrs)",19,all_persons,2019-02-01,2019-02-28,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",19,all_persons,2019-02-01,2019-02-28,Q22a1,stayers,19
+"1,461 to 1,825 Days (5-5 Yrs)",3,all_persons,2019-02-01,2019-02-28,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",3,all_persons,2019-02-01,2019-02-28,Q22a1,stayers,3
+"More than 1,825 Days (>5 Yrs)",34,all_persons,2019-02-01,2019-02-28,Q22a1,leavers,0
+"More than 1,825 Days (>5 Yrs)",34,all_persons,2019-02-01,2019-02-28,Q22a1,stayers,34
+Data Not Collected,0,all_persons,2019-02-01,2019-02-28,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2019-02-01,2019-02-28,Q22a1,stayers,0
+30 days or less,355,all_persons,2019-03-01,2019-03-31,Q22a1,leavers,218
+30 days or less,355,all_persons,2019-03-01,2019-03-31,Q22a1,stayers,137
+31 to 60 days,130,all_persons,2019-03-01,2019-03-31,Q22a1,leavers,30
+31 to 60 days,130,all_persons,2019-03-01,2019-03-31,Q22a1,stayers,100
+61 to 90 days,68,all_persons,2019-03-01,2019-03-31,Q22a1,leavers,16
+61 to 90 days,68,all_persons,2019-03-01,2019-03-31,Q22a1,stayers,52
+91 to 180 days,120,all_persons,2019-03-01,2019-03-31,Q22a1,leavers,15
+91 to 180 days,120,all_persons,2019-03-01,2019-03-31,Q22a1,stayers,105
+181 to 365 days,86,all_persons,2019-03-01,2019-03-31,Q22a1,leavers,7
+181 to 365 days,86,all_persons,2019-03-01,2019-03-31,Q22a1,stayers,79
+366 to 730 Days (1-2 Yrs),62,all_persons,2019-03-01,2019-03-31,Q22a1,leavers,2
+366 to 730 Days (1-2 Yrs),62,all_persons,2019-03-01,2019-03-31,Q22a1,stayers,60
+"731 to 1,095 Days (2-3 Yrs)",32,all_persons,2019-03-01,2019-03-31,Q22a1,leavers,1
+"731 to 1,095 Days (2-3 Yrs)",32,all_persons,2019-03-01,2019-03-31,Q22a1,stayers,31
+"1,096 to 1,460 Days (3-4 Yrs)",20,all_persons,2019-03-01,2019-03-31,Q22a1,leavers,1
+"1,096 to 1,460 Days (3-4 Yrs)",20,all_persons,2019-03-01,2019-03-31,Q22a1,stayers,19
+"1,461 to 1,825 Days (5-5 Yrs)",3,all_persons,2019-03-01,2019-03-31,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",3,all_persons,2019-03-01,2019-03-31,Q22a1,stayers,3
+"More than 1,825 Days (>5 Yrs)",34,all_persons,2019-03-01,2019-03-31,Q22a1,leavers,1
+"More than 1,825 Days (>5 Yrs)",34,all_persons,2019-03-01,2019-03-31,Q22a1,stayers,33
+Data Not Collected,0,all_persons,2019-03-01,2019-03-31,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2019-03-01,2019-03-31,Q22a1,stayers,0
+30 days or less,369,all_persons,2019-04-01,2019-04-30,Q22a1,leavers,256
+30 days or less,369,all_persons,2019-04-01,2019-04-30,Q22a1,stayers,113
+31 to 60 days,106,all_persons,2019-04-01,2019-04-30,Q22a1,leavers,43
+31 to 60 days,106,all_persons,2019-04-01,2019-04-30,Q22a1,stayers,63
+61 to 90 days,80,all_persons,2019-04-01,2019-04-30,Q22a1,leavers,16
+61 to 90 days,80,all_persons,2019-04-01,2019-04-30,Q22a1,stayers,64
+91 to 180 days,119,all_persons,2019-04-01,2019-04-30,Q22a1,leavers,25
+91 to 180 days,119,all_persons,2019-04-01,2019-04-30,Q22a1,stayers,94
+181 to 365 days,95,all_persons,2019-04-01,2019-04-30,Q22a1,leavers,0
+181 to 365 days,95,all_persons,2019-04-01,2019-04-30,Q22a1,stayers,95
+366 to 730 Days (1-2 Yrs),63,all_persons,2019-04-01,2019-04-30,Q22a1,leavers,1
+366 to 730 Days (1-2 Yrs),63,all_persons,2019-04-01,2019-04-30,Q22a1,stayers,62
+"731 to 1,095 Days (2-3 Yrs)",30,all_persons,2019-04-01,2019-04-30,Q22a1,leavers,0
+"731 to 1,095 Days (2-3 Yrs)",30,all_persons,2019-04-01,2019-04-30,Q22a1,stayers,30
+"1,096 to 1,460 Days (3-4 Yrs)",18,all_persons,2019-04-01,2019-04-30,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",18,all_persons,2019-04-01,2019-04-30,Q22a1,stayers,18
+"1,461 to 1,825 Days (5-5 Yrs)",6,all_persons,2019-04-01,2019-04-30,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",6,all_persons,2019-04-01,2019-04-30,Q22a1,stayers,6
+"More than 1,825 Days (>5 Yrs)",33,all_persons,2019-04-01,2019-04-30,Q22a1,leavers,0
+"More than 1,825 Days (>5 Yrs)",33,all_persons,2019-04-01,2019-04-30,Q22a1,stayers,33
+Data Not Collected,0,all_persons,2019-04-01,2019-04-30,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2019-04-01,2019-04-30,Q22a1,stayers,0
+30 days or less,381,all_persons,2019-05-01,2019-05-31,Q22a1,leavers,224
+30 days or less,381,all_persons,2019-05-01,2019-05-31,Q22a1,stayers,157
+31 to 60 days,110,all_persons,2019-05-01,2019-05-31,Q22a1,leavers,31
+31 to 60 days,110,all_persons,2019-05-01,2019-05-31,Q22a1,stayers,79
+61 to 90 days,62,all_persons,2019-05-01,2019-05-31,Q22a1,leavers,19
+61 to 90 days,62,all_persons,2019-05-01,2019-05-31,Q22a1,stayers,43
+91 to 180 days,117,all_persons,2019-05-01,2019-05-31,Q22a1,leavers,16
+91 to 180 days,117,all_persons,2019-05-01,2019-05-31,Q22a1,stayers,101
+181 to 365 days,110,all_persons,2019-05-01,2019-05-31,Q22a1,leavers,8
+181 to 365 days,110,all_persons,2019-05-01,2019-05-31,Q22a1,stayers,102
+366 to 730 Days (1-2 Yrs),71,all_persons,2019-05-01,2019-05-31,Q22a1,leavers,1
+366 to 730 Days (1-2 Yrs),71,all_persons,2019-05-01,2019-05-31,Q22a1,stayers,70
+"731 to 1,095 Days (2-3 Yrs)",27,all_persons,2019-05-01,2019-05-31,Q22a1,leavers,0
+"731 to 1,095 Days (2-3 Yrs)",27,all_persons,2019-05-01,2019-05-31,Q22a1,stayers,27
+"1,096 to 1,460 Days (3-4 Yrs)",20,all_persons,2019-05-01,2019-05-31,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",20,all_persons,2019-05-01,2019-05-31,Q22a1,stayers,20
+"1,461 to 1,825 Days (5-5 Yrs)",6,all_persons,2019-05-01,2019-05-31,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",6,all_persons,2019-05-01,2019-05-31,Q22a1,stayers,6
+"More than 1,825 Days (>5 Yrs)",34,all_persons,2019-05-01,2019-05-31,Q22a1,leavers,0
+"More than 1,825 Days (>5 Yrs)",34,all_persons,2019-05-01,2019-05-31,Q22a1,stayers,34
+Data Not Collected,0,all_persons,2019-05-01,2019-05-31,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2019-05-01,2019-05-31,Q22a1,stayers,0
+30 days or less,339,all_persons,2019-06-01,2019-06-30,Q22a1,leavers,221
+30 days or less,339,all_persons,2019-06-01,2019-06-30,Q22a1,stayers,118
+31 to 60 days,116,all_persons,2019-06-01,2019-06-30,Q22a1,leavers,22
+31 to 60 days,116,all_persons,2019-06-01,2019-06-30,Q22a1,stayers,94
+61 to 90 days,71,all_persons,2019-06-01,2019-06-30,Q22a1,leavers,10
+61 to 90 days,71,all_persons,2019-06-01,2019-06-30,Q22a1,stayers,61
+91 to 180 days,119,all_persons,2019-06-01,2019-06-30,Q22a1,leavers,29
+91 to 180 days,119,all_persons,2019-06-01,2019-06-30,Q22a1,stayers,90
+181 to 365 days,116,all_persons,2019-06-01,2019-06-30,Q22a1,leavers,16
+181 to 365 days,116,all_persons,2019-06-01,2019-06-30,Q22a1,stayers,100
+366 to 730 Days (1-2 Yrs),74,all_persons,2019-06-01,2019-06-30,Q22a1,leavers,9
+366 to 730 Days (1-2 Yrs),74,all_persons,2019-06-01,2019-06-30,Q22a1,stayers,65
+"731 to 1,095 Days (2-3 Yrs)",26,all_persons,2019-06-01,2019-06-30,Q22a1,leavers,0
+"731 to 1,095 Days (2-3 Yrs)",26,all_persons,2019-06-01,2019-06-30,Q22a1,stayers,26
+"1,096 to 1,460 Days (3-4 Yrs)",22,all_persons,2019-06-01,2019-06-30,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",22,all_persons,2019-06-01,2019-06-30,Q22a1,stayers,22
+"1,461 to 1,825 Days (5-5 Yrs)",8,all_persons,2019-06-01,2019-06-30,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",8,all_persons,2019-06-01,2019-06-30,Q22a1,stayers,8
+"More than 1,825 Days (>5 Yrs)",34,all_persons,2019-06-01,2019-06-30,Q22a1,leavers,0
+"More than 1,825 Days (>5 Yrs)",34,all_persons,2019-06-01,2019-06-30,Q22a1,stayers,34
+Data Not Collected,0,all_persons,2019-06-01,2019-06-30,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2019-06-01,2019-06-30,Q22a1,stayers,0
+30 days or less,495,all_persons,2019-07-01,2019-07-31,Q22a1,leavers,319
+30 days or less,495,all_persons,2019-07-01,2019-07-31,Q22a1,stayers,176
+31 to 60 days,96,all_persons,2019-07-01,2019-07-31,Q22a1,leavers,34
+31 to 60 days,96,all_persons,2019-07-01,2019-07-31,Q22a1,stayers,62
+61 to 90 days,96,all_persons,2019-07-01,2019-07-31,Q22a1,leavers,18
+61 to 90 days,96,all_persons,2019-07-01,2019-07-31,Q22a1,stayers,78
+91 to 180 days,124,all_persons,2019-07-01,2019-07-31,Q22a1,leavers,24
+91 to 180 days,124,all_persons,2019-07-01,2019-07-31,Q22a1,stayers,100
+181 to 365 days,111,all_persons,2019-07-01,2019-07-31,Q22a1,leavers,12
+181 to 365 days,111,all_persons,2019-07-01,2019-07-31,Q22a1,stayers,99
+366 to 730 Days (1-2 Yrs),76,all_persons,2019-07-01,2019-07-31,Q22a1,leavers,0
+366 to 730 Days (1-2 Yrs),76,all_persons,2019-07-01,2019-07-31,Q22a1,stayers,76
+"731 to 1,095 Days (2-3 Yrs)",27,all_persons,2019-07-01,2019-07-31,Q22a1,leavers,1
+"731 to 1,095 Days (2-3 Yrs)",27,all_persons,2019-07-01,2019-07-31,Q22a1,stayers,26
+"1,096 to 1,460 Days (3-4 Yrs)",22,all_persons,2019-07-01,2019-07-31,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",22,all_persons,2019-07-01,2019-07-31,Q22a1,stayers,22
+"1,461 to 1,825 Days (5-5 Yrs)",8,all_persons,2019-07-01,2019-07-31,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",8,all_persons,2019-07-01,2019-07-31,Q22a1,stayers,8
+"More than 1,825 Days (>5 Yrs)",34,all_persons,2019-07-01,2019-07-31,Q22a1,leavers,1
+"More than 1,825 Days (>5 Yrs)",34,all_persons,2019-07-01,2019-07-31,Q22a1,stayers,33
+Data Not Collected,0,all_persons,2019-07-01,2019-07-31,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2019-07-01,2019-07-31,Q22a1,stayers,0
+30 days or less,548,all_persons,2019-08-01,2019-08-31,Q22a1,leavers,327
+30 days or less,548,all_persons,2019-08-01,2019-08-31,Q22a1,stayers,221
+31 to 60 days,155,all_persons,2019-08-01,2019-08-31,Q22a1,leavers,27
+31 to 60 days,155,all_persons,2019-08-01,2019-08-31,Q22a1,stayers,128
+61 to 90 days,59,all_persons,2019-08-01,2019-08-31,Q22a1,leavers,21
+61 to 90 days,59,all_persons,2019-08-01,2019-08-31,Q22a1,stayers,38
+91 to 180 days,141,all_persons,2019-08-01,2019-08-31,Q22a1,leavers,9
+91 to 180 days,141,all_persons,2019-08-01,2019-08-31,Q22a1,stayers,132
+181 to 365 days,109,all_persons,2019-08-01,2019-08-31,Q22a1,leavers,12
+181 to 365 days,109,all_persons,2019-08-01,2019-08-31,Q22a1,stayers,97
+366 to 730 Days (1-2 Yrs),83,all_persons,2019-08-01,2019-08-31,Q22a1,leavers,6
+366 to 730 Days (1-2 Yrs),83,all_persons,2019-08-01,2019-08-31,Q22a1,stayers,77
+"731 to 1,095 Days (2-3 Yrs)",26,all_persons,2019-08-01,2019-08-31,Q22a1,leavers,0
+"731 to 1,095 Days (2-3 Yrs)",26,all_persons,2019-08-01,2019-08-31,Q22a1,stayers,26
+"1,096 to 1,460 Days (3-4 Yrs)",29,all_persons,2019-08-01,2019-08-31,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",29,all_persons,2019-08-01,2019-08-31,Q22a1,stayers,29
+"1,461 to 1,825 Days (5-5 Yrs)",8,all_persons,2019-08-01,2019-08-31,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",8,all_persons,2019-08-01,2019-08-31,Q22a1,stayers,8
+"More than 1,825 Days (>5 Yrs)",33,all_persons,2019-08-01,2019-08-31,Q22a1,leavers,0
+"More than 1,825 Days (>5 Yrs)",33,all_persons,2019-08-01,2019-08-31,Q22a1,stayers,33
+Data Not Collected,0,all_persons,2019-08-01,2019-08-31,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2019-08-01,2019-08-31,Q22a1,stayers,0
+30 days or less,407,all_persons,2019-09-01,2019-09-30,Q22a1,leavers,263
+30 days or less,407,all_persons,2019-09-01,2019-09-30,Q22a1,stayers,144
+31 to 60 days,187,all_persons,2019-09-01,2019-09-30,Q22a1,leavers,22
+31 to 60 days,187,all_persons,2019-09-01,2019-09-30,Q22a1,stayers,165
+61 to 90 days,134,all_persons,2019-09-01,2019-09-30,Q22a1,leavers,36
+61 to 90 days,134,all_persons,2019-09-01,2019-09-30,Q22a1,stayers,98
+91 to 180 days,134,all_persons,2019-09-01,2019-09-30,Q22a1,leavers,31
+91 to 180 days,134,all_persons,2019-09-01,2019-09-30,Q22a1,stayers,103
+181 to 365 days,103,all_persons,2019-09-01,2019-09-30,Q22a1,leavers,6
+181 to 365 days,103,all_persons,2019-09-01,2019-09-30,Q22a1,stayers,97
+366 to 730 Days (1-2 Yrs),89,all_persons,2019-09-01,2019-09-30,Q22a1,leavers,2
+366 to 730 Days (1-2 Yrs),89,all_persons,2019-09-01,2019-09-30,Q22a1,stayers,87
+"731 to 1,095 Days (2-3 Yrs)",34,all_persons,2019-09-01,2019-09-30,Q22a1,leavers,0
+"731 to 1,095 Days (2-3 Yrs)",34,all_persons,2019-09-01,2019-09-30,Q22a1,stayers,34
+"1,096 to 1,460 Days (3-4 Yrs)",30,all_persons,2019-09-01,2019-09-30,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",30,all_persons,2019-09-01,2019-09-30,Q22a1,stayers,30
+"1,461 to 1,825 Days (5-5 Yrs)",8,all_persons,2019-09-01,2019-09-30,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",8,all_persons,2019-09-01,2019-09-30,Q22a1,stayers,8
+"More than 1,825 Days (>5 Yrs)",33,all_persons,2019-09-01,2019-09-30,Q22a1,leavers,0
+"More than 1,825 Days (>5 Yrs)",33,all_persons,2019-09-01,2019-09-30,Q22a1,stayers,33
+Data Not Collected,0,all_persons,2019-09-01,2019-09-30,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2019-09-01,2019-09-30,Q22a1,stayers,0
+30 days or less,421,all_persons,2019-10-01,2019-10-31,Q22a1,leavers,256
+30 days or less,421,all_persons,2019-10-01,2019-10-31,Q22a1,stayers,165
+31 to 60 days,123,all_persons,2019-10-01,2019-10-31,Q22a1,leavers,31
+31 to 60 days,123,all_persons,2019-10-01,2019-10-31,Q22a1,stayers,92
+61 to 90 days,145,all_persons,2019-10-01,2019-10-31,Q22a1,leavers,20
+61 to 90 days,145,all_persons,2019-10-01,2019-10-31,Q22a1,stayers,125
+91 to 180 days,169,all_persons,2019-10-01,2019-10-31,Q22a1,leavers,17
+91 to 180 days,169,all_persons,2019-10-01,2019-10-31,Q22a1,stayers,152
+181 to 365 days,115,all_persons,2019-10-01,2019-10-31,Q22a1,leavers,9
+181 to 365 days,115,all_persons,2019-10-01,2019-10-31,Q22a1,stayers,106
+366 to 730 Days (1-2 Yrs),93,all_persons,2019-10-01,2019-10-31,Q22a1,leavers,0
+366 to 730 Days (1-2 Yrs),93,all_persons,2019-10-01,2019-10-31,Q22a1,stayers,93
+"731 to 1,095 Days (2-3 Yrs)",31,all_persons,2019-10-01,2019-10-31,Q22a1,leavers,2
+"731 to 1,095 Days (2-3 Yrs)",31,all_persons,2019-10-01,2019-10-31,Q22a1,stayers,29
+"1,096 to 1,460 Days (3-4 Yrs)",34,all_persons,2019-10-01,2019-10-31,Q22a1,leavers,2
+"1,096 to 1,460 Days (3-4 Yrs)",34,all_persons,2019-10-01,2019-10-31,Q22a1,stayers,32
+"1,461 to 1,825 Days (5-5 Yrs)",9,all_persons,2019-10-01,2019-10-31,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",9,all_persons,2019-10-01,2019-10-31,Q22a1,stayers,9
+"More than 1,825 Days (>5 Yrs)",33,all_persons,2019-10-01,2019-10-31,Q22a1,leavers,0
+"More than 1,825 Days (>5 Yrs)",33,all_persons,2019-10-01,2019-10-31,Q22a1,stayers,33
+Data Not Collected,0,all_persons,2019-10-01,2019-10-31,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2019-10-01,2019-10-31,Q22a1,stayers,0
+30 days or less,429,all_persons,2019-11-01,2019-11-30,Q22a1,leavers,220
+30 days or less,429,all_persons,2019-11-01,2019-11-30,Q22a1,stayers,209
+31 to 60 days,142,all_persons,2019-11-01,2019-11-30,Q22a1,leavers,28
+31 to 60 days,142,all_persons,2019-11-01,2019-11-30,Q22a1,stayers,114
+61 to 90 days,93,all_persons,2019-11-01,2019-11-30,Q22a1,leavers,26
+61 to 90 days,93,all_persons,2019-11-01,2019-11-30,Q22a1,stayers,67
+91 to 180 days,200,all_persons,2019-11-01,2019-11-30,Q22a1,leavers,17
+91 to 180 days,200,all_persons,2019-11-01,2019-11-30,Q22a1,stayers,183
+181 to 365 days,125,all_persons,2019-11-01,2019-11-30,Q22a1,leavers,9
+181 to 365 days,125,all_persons,2019-11-01,2019-11-30,Q22a1,stayers,116
+366 to 730 Days (1-2 Yrs),103,all_persons,2019-11-01,2019-11-30,Q22a1,leavers,1
+366 to 730 Days (1-2 Yrs),103,all_persons,2019-11-01,2019-11-30,Q22a1,stayers,102
+"731 to 1,095 Days (2-3 Yrs)",32,all_persons,2019-11-01,2019-11-30,Q22a1,leavers,0
+"731 to 1,095 Days (2-3 Yrs)",32,all_persons,2019-11-01,2019-11-30,Q22a1,stayers,32
+"1,096 to 1,460 Days (3-4 Yrs)",33,all_persons,2019-11-01,2019-11-30,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",33,all_persons,2019-11-01,2019-11-30,Q22a1,stayers,33
+"1,461 to 1,825 Days (5-5 Yrs)",9,all_persons,2019-11-01,2019-11-30,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",9,all_persons,2019-11-01,2019-11-30,Q22a1,stayers,9
+"More than 1,825 Days (>5 Yrs)",33,all_persons,2019-11-01,2019-11-30,Q22a1,leavers,0
+"More than 1,825 Days (>5 Yrs)",33,all_persons,2019-11-01,2019-11-30,Q22a1,stayers,33
+Data Not Collected,0,all_persons,2019-11-01,2019-11-30,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2019-11-01,2019-11-30,Q22a1,stayers,0
+30 days or less,398,all_persons,2019-12-01,2019-12-31,Q22a1,leavers,236
+30 days or less,398,all_persons,2019-12-01,2019-12-31,Q22a1,stayers,162
+31 to 60 days,154,all_persons,2019-12-01,2019-12-31,Q22a1,leavers,48
+31 to 60 days,154,all_persons,2019-12-01,2019-12-31,Q22a1,stayers,106
+61 to 90 days,104,all_persons,2019-12-01,2019-12-31,Q22a1,leavers,23
+61 to 90 days,104,all_persons,2019-12-01,2019-12-31,Q22a1,stayers,81
+91 to 180 days,231,all_persons,2019-12-01,2019-12-31,Q22a1,leavers,23
+91 to 180 days,231,all_persons,2019-12-01,2019-12-31,Q22a1,stayers,208
+181 to 365 days,122,all_persons,2019-12-01,2019-12-31,Q22a1,leavers,6
+181 to 365 days,122,all_persons,2019-12-01,2019-12-31,Q22a1,stayers,116
+366 to 730 Days (1-2 Yrs),107,all_persons,2019-12-01,2019-12-31,Q22a1,leavers,1
+366 to 730 Days (1-2 Yrs),107,all_persons,2019-12-01,2019-12-31,Q22a1,stayers,106
+"731 to 1,095 Days (2-3 Yrs)",36,all_persons,2019-12-01,2019-12-31,Q22a1,leavers,0
+"731 to 1,095 Days (2-3 Yrs)",36,all_persons,2019-12-01,2019-12-31,Q22a1,stayers,36
+"1,096 to 1,460 Days (3-4 Yrs)",34,all_persons,2019-12-01,2019-12-31,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",34,all_persons,2019-12-01,2019-12-31,Q22a1,stayers,34
+"1,461 to 1,825 Days (5-5 Yrs)",9,all_persons,2019-12-01,2019-12-31,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",9,all_persons,2019-12-01,2019-12-31,Q22a1,stayers,9
+"More than 1,825 Days (>5 Yrs)",33,all_persons,2019-12-01,2019-12-31,Q22a1,leavers,1
+"More than 1,825 Days (>5 Yrs)",33,all_persons,2019-12-01,2019-12-31,Q22a1,stayers,32
+Data Not Collected,0,all_persons,2019-12-01,2019-12-31,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2019-12-01,2019-12-31,Q22a1,stayers,0
+30 days or less,401,all_persons,2020-01-01,2020-01-31,Q22a1,leavers,261
+30 days or less,401,all_persons,2020-01-01,2020-01-31,Q22a1,stayers,140
+31 to 60 days,143,all_persons,2020-01-01,2020-01-31,Q22a1,leavers,42
+31 to 60 days,143,all_persons,2020-01-01,2020-01-31,Q22a1,stayers,101
+61 to 90 days,98,all_persons,2020-01-01,2020-01-31,Q22a1,leavers,38
+61 to 90 days,98,all_persons,2020-01-01,2020-01-31,Q22a1,stayers,60
+91 to 180 days,207,all_persons,2020-01-01,2020-01-31,Q22a1,leavers,26
+91 to 180 days,207,all_persons,2020-01-01,2020-01-31,Q22a1,stayers,181
+181 to 365 days,170,all_persons,2020-01-01,2020-01-31,Q22a1,leavers,4
+181 to 365 days,170,all_persons,2020-01-01,2020-01-31,Q22a1,stayers,166
+366 to 730 Days (1-2 Yrs),113,all_persons,2020-01-01,2020-01-31,Q22a1,leavers,0
+366 to 730 Days (1-2 Yrs),113,all_persons,2020-01-01,2020-01-31,Q22a1,stayers,113
+"731 to 1,095 Days (2-3 Yrs)",40,all_persons,2020-01-01,2020-01-31,Q22a1,leavers,0
+"731 to 1,095 Days (2-3 Yrs)",40,all_persons,2020-01-01,2020-01-31,Q22a1,stayers,40
+"1,096 to 1,460 Days (3-4 Yrs)",30,all_persons,2020-01-01,2020-01-31,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",30,all_persons,2020-01-01,2020-01-31,Q22a1,stayers,30
+"1,461 to 1,825 Days (5-5 Yrs)",14,all_persons,2020-01-01,2020-01-31,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",14,all_persons,2020-01-01,2020-01-31,Q22a1,stayers,14
+"More than 1,825 Days (>5 Yrs)",30,all_persons,2020-01-01,2020-01-31,Q22a1,leavers,0
+"More than 1,825 Days (>5 Yrs)",30,all_persons,2020-01-01,2020-01-31,Q22a1,stayers,30
+Data Not Collected,0,all_persons,2020-01-01,2020-01-31,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2020-01-01,2020-01-31,Q22a1,stayers,0
+30 days or less,404,all_persons,2020-02-01,2020-02-29,Q22a1,leavers,239
+30 days or less,404,all_persons,2020-02-01,2020-02-29,Q22a1,stayers,165
+31 to 60 days,86,all_persons,2020-02-01,2020-02-29,Q22a1,leavers,28
+31 to 60 days,86,all_persons,2020-02-01,2020-02-29,Q22a1,stayers,58
+61 to 90 days,91,all_persons,2020-02-01,2020-02-29,Q22a1,leavers,21
+61 to 90 days,91,all_persons,2020-02-01,2020-02-29,Q22a1,stayers,70
+91 to 180 days,163,all_persons,2020-02-01,2020-02-29,Q22a1,leavers,22
+91 to 180 days,163,all_persons,2020-02-01,2020-02-29,Q22a1,stayers,141
+181 to 365 days,212,all_persons,2020-02-01,2020-02-29,Q22a1,leavers,13
+181 to 365 days,212,all_persons,2020-02-01,2020-02-29,Q22a1,stayers,199
+366 to 730 Days (1-2 Yrs),122,all_persons,2020-02-01,2020-02-29,Q22a1,leavers,2
+366 to 730 Days (1-2 Yrs),122,all_persons,2020-02-01,2020-02-29,Q22a1,stayers,120
+"731 to 1,095 Days (2-3 Yrs)",47,all_persons,2020-02-01,2020-02-29,Q22a1,leavers,0
+"731 to 1,095 Days (2-3 Yrs)",47,all_persons,2020-02-01,2020-02-29,Q22a1,stayers,47
+"1,096 to 1,460 Days (3-4 Yrs)",27,all_persons,2020-02-01,2020-02-29,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",27,all_persons,2020-02-01,2020-02-29,Q22a1,stayers,27
+"1,461 to 1,825 Days (5-5 Yrs)",17,all_persons,2020-02-01,2020-02-29,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",17,all_persons,2020-02-01,2020-02-29,Q22a1,stayers,17
+"More than 1,825 Days (>5 Yrs)",31,all_persons,2020-02-01,2020-02-29,Q22a1,leavers,0
+"More than 1,825 Days (>5 Yrs)",31,all_persons,2020-02-01,2020-02-29,Q22a1,stayers,31
+Data Not Collected,0,all_persons,2020-02-01,2020-02-29,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2020-02-01,2020-02-29,Q22a1,stayers,0
+30 days or less,296,all_persons,2020-03-01,2020-03-31,Q22a1,leavers,191
+30 days or less,296,all_persons,2020-03-01,2020-03-31,Q22a1,stayers,105
+31 to 60 days,106,all_persons,2020-03-01,2020-03-31,Q22a1,leavers,22
+31 to 60 days,106,all_persons,2020-03-01,2020-03-31,Q22a1,stayers,84
+61 to 90 days,56,all_persons,2020-03-01,2020-03-31,Q22a1,leavers,10
+61 to 90 days,56,all_persons,2020-03-01,2020-03-31,Q22a1,stayers,46
+91 to 180 days,179,all_persons,2020-03-01,2020-03-31,Q22a1,leavers,51
+91 to 180 days,179,all_persons,2020-03-01,2020-03-31,Q22a1,stayers,128
+181 to 365 days,212,all_persons,2020-03-01,2020-03-31,Q22a1,leavers,9
+181 to 365 days,212,all_persons,2020-03-01,2020-03-31,Q22a1,stayers,203
+366 to 730 Days (1-2 Yrs),135,all_persons,2020-03-01,2020-03-31,Q22a1,leavers,1
+366 to 730 Days (1-2 Yrs),135,all_persons,2020-03-01,2020-03-31,Q22a1,stayers,134
+"731 to 1,095 Days (2-3 Yrs)",50,all_persons,2020-03-01,2020-03-31,Q22a1,leavers,0
+"731 to 1,095 Days (2-3 Yrs)",50,all_persons,2020-03-01,2020-03-31,Q22a1,stayers,50
+"1,096 to 1,460 Days (3-4 Yrs)",29,all_persons,2020-03-01,2020-03-31,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",29,all_persons,2020-03-01,2020-03-31,Q22a1,stayers,29
+"1,461 to 1,825 Days (5-5 Yrs)",18,all_persons,2020-03-01,2020-03-31,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",18,all_persons,2020-03-01,2020-03-31,Q22a1,stayers,18
+"More than 1,825 Days (>5 Yrs)",31,all_persons,2020-03-01,2020-03-31,Q22a1,leavers,0
+"More than 1,825 Days (>5 Yrs)",31,all_persons,2020-03-01,2020-03-31,Q22a1,stayers,31
+Data Not Collected,0,all_persons,2020-03-01,2020-03-31,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2020-03-01,2020-03-31,Q22a1,stayers,0
+30 days or less,329,all_persons,2020-04-01,2020-04-30,Q22a1,leavers,149
+30 days or less,329,all_persons,2020-04-01,2020-04-30,Q22a1,stayers,180
+31 to 60 days,65,all_persons,2020-04-01,2020-04-30,Q22a1,leavers,15
+31 to 60 days,65,all_persons,2020-04-01,2020-04-30,Q22a1,stayers,50
+61 to 90 days,71,all_persons,2020-04-01,2020-04-30,Q22a1,leavers,13
+61 to 90 days,71,all_persons,2020-04-01,2020-04-30,Q22a1,stayers,58
+91 to 180 days,129,all_persons,2020-04-01,2020-04-30,Q22a1,leavers,23
+91 to 180 days,129,all_persons,2020-04-01,2020-04-30,Q22a1,stayers,106
+181 to 365 days,211,all_persons,2020-04-01,2020-04-30,Q22a1,leavers,13
+181 to 365 days,211,all_persons,2020-04-01,2020-04-30,Q22a1,stayers,198
+366 to 730 Days (1-2 Yrs),151,all_persons,2020-04-01,2020-04-30,Q22a1,leavers,3
+366 to 730 Days (1-2 Yrs),151,all_persons,2020-04-01,2020-04-30,Q22a1,stayers,148
+"731 to 1,095 Days (2-3 Yrs)",49,all_persons,2020-04-01,2020-04-30,Q22a1,leavers,1
+"731 to 1,095 Days (2-3 Yrs)",49,all_persons,2020-04-01,2020-04-30,Q22a1,stayers,48
+"1,096 to 1,460 Days (3-4 Yrs)",29,all_persons,2020-04-01,2020-04-30,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",29,all_persons,2020-04-01,2020-04-30,Q22a1,stayers,29
+"1,461 to 1,825 Days (5-5 Yrs)",16,all_persons,2020-04-01,2020-04-30,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",16,all_persons,2020-04-01,2020-04-30,Q22a1,stayers,16
+"More than 1,825 Days (>5 Yrs)",35,all_persons,2020-04-01,2020-04-30,Q22a1,leavers,0
+"More than 1,825 Days (>5 Yrs)",35,all_persons,2020-04-01,2020-04-30,Q22a1,stayers,35
+Data Not Collected,0,all_persons,2020-04-01,2020-04-30,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2020-04-01,2020-04-30,Q22a1,stayers,0
+30 days or less,274,all_persons,2020-05-01,2020-05-31,Q22a1,leavers,155
+30 days or less,274,all_persons,2020-05-01,2020-05-31,Q22a1,stayers,119
+31 to 60 days,108,all_persons,2020-05-01,2020-05-31,Q22a1,leavers,34
+31 to 60 days,108,all_persons,2020-05-01,2020-05-31,Q22a1,stayers,74
+61 to 90 days,57,all_persons,2020-05-01,2020-05-31,Q22a1,leavers,11
+61 to 90 days,57,all_persons,2020-05-01,2020-05-31,Q22a1,stayers,46
+91 to 180 days,122,all_persons,2020-05-01,2020-05-31,Q22a1,leavers,15
+91 to 180 days,122,all_persons,2020-05-01,2020-05-31,Q22a1,stayers,107
+181 to 365 days,211,all_persons,2020-05-01,2020-05-31,Q22a1,leavers,6
+181 to 365 days,211,all_persons,2020-05-01,2020-05-31,Q22a1,stayers,205
+366 to 730 Days (1-2 Yrs),167,all_persons,2020-05-01,2020-05-31,Q22a1,leavers,1
+366 to 730 Days (1-2 Yrs),167,all_persons,2020-05-01,2020-05-31,Q22a1,stayers,166
+"731 to 1,095 Days (2-3 Yrs)",54,all_persons,2020-05-01,2020-05-31,Q22a1,leavers,0
+"731 to 1,095 Days (2-3 Yrs)",54,all_persons,2020-05-01,2020-05-31,Q22a1,stayers,54
+"1,096 to 1,460 Days (3-4 Yrs)",24,all_persons,2020-05-01,2020-05-31,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",24,all_persons,2020-05-01,2020-05-31,Q22a1,stayers,24
+"1,461 to 1,825 Days (5-5 Yrs)",20,all_persons,2020-05-01,2020-05-31,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",20,all_persons,2020-05-01,2020-05-31,Q22a1,stayers,20
+"More than 1,825 Days (>5 Yrs)",36,all_persons,2020-05-01,2020-05-31,Q22a1,leavers,0
+"More than 1,825 Days (>5 Yrs)",36,all_persons,2020-05-01,2020-05-31,Q22a1,stayers,36
+Data Not Collected,0,all_persons,2020-05-01,2020-05-31,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2020-05-01,2020-05-31,Q22a1,stayers,0
+30 days or less,286,all_persons,2020-06-01,2020-06-30,Q22a1,leavers,188
+30 days or less,286,all_persons,2020-06-01,2020-06-30,Q22a1,stayers,98
+31 to 60 days,101,all_persons,2020-06-01,2020-06-30,Q22a1,leavers,38
+31 to 60 days,101,all_persons,2020-06-01,2020-06-30,Q22a1,stayers,63
+61 to 90 days,49,all_persons,2020-06-01,2020-06-30,Q22a1,leavers,9
+61 to 90 days,49,all_persons,2020-06-01,2020-06-30,Q22a1,stayers,40
+91 to 180 days,119,all_persons,2020-06-01,2020-06-30,Q22a1,leavers,19
+91 to 180 days,119,all_persons,2020-06-01,2020-06-30,Q22a1,stayers,100
+181 to 365 days,220,all_persons,2020-06-01,2020-06-30,Q22a1,leavers,9
+181 to 365 days,220,all_persons,2020-06-01,2020-06-30,Q22a1,stayers,211
+366 to 730 Days (1-2 Yrs),181,all_persons,2020-06-01,2020-06-30,Q22a1,leavers,2
+366 to 730 Days (1-2 Yrs),181,all_persons,2020-06-01,2020-06-30,Q22a1,stayers,179
+"731 to 1,095 Days (2-3 Yrs)",56,all_persons,2020-06-01,2020-06-30,Q22a1,leavers,1
+"731 to 1,095 Days (2-3 Yrs)",56,all_persons,2020-06-01,2020-06-30,Q22a1,stayers,55
+"1,096 to 1,460 Days (3-4 Yrs)",24,all_persons,2020-06-01,2020-06-30,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",24,all_persons,2020-06-01,2020-06-30,Q22a1,stayers,24
+"1,461 to 1,825 Days (5-5 Yrs)",21,all_persons,2020-06-01,2020-06-30,Q22a1,leavers,1
+"1,461 to 1,825 Days (5-5 Yrs)",21,all_persons,2020-06-01,2020-06-30,Q22a1,stayers,20
+"More than 1,825 Days (>5 Yrs)",37,all_persons,2020-06-01,2020-06-30,Q22a1,leavers,1
+"More than 1,825 Days (>5 Yrs)",37,all_persons,2020-06-01,2020-06-30,Q22a1,stayers,36
+Data Not Collected,0,all_persons,2020-06-01,2020-06-30,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2020-06-01,2020-06-30,Q22a1,stayers,0
+30 days or less,249,all_persons,2020-07-01,2020-07-31,Q22a1,leavers,162
+30 days or less,249,all_persons,2020-07-01,2020-07-31,Q22a1,stayers,87
+31 to 60 days,102,all_persons,2020-07-01,2020-07-31,Q22a1,leavers,45
+31 to 60 days,102,all_persons,2020-07-01,2020-07-31,Q22a1,stayers,57
+61 to 90 days,53,all_persons,2020-07-01,2020-07-31,Q22a1,leavers,12
+61 to 90 days,53,all_persons,2020-07-01,2020-07-31,Q22a1,stayers,41
+91 to 180 days,104,all_persons,2020-07-01,2020-07-31,Q22a1,leavers,24
+91 to 180 days,104,all_persons,2020-07-01,2020-07-31,Q22a1,stayers,80
+181 to 365 days,194,all_persons,2020-07-01,2020-07-31,Q22a1,leavers,10
+181 to 365 days,194,all_persons,2020-07-01,2020-07-31,Q22a1,stayers,184
+366 to 730 Days (1-2 Yrs),208,all_persons,2020-07-01,2020-07-31,Q22a1,leavers,1
+366 to 730 Days (1-2 Yrs),208,all_persons,2020-07-01,2020-07-31,Q22a1,stayers,207
+"731 to 1,095 Days (2-3 Yrs)",65,all_persons,2020-07-01,2020-07-31,Q22a1,leavers,0
+"731 to 1,095 Days (2-3 Yrs)",65,all_persons,2020-07-01,2020-07-31,Q22a1,stayers,65
+"1,096 to 1,460 Days (3-4 Yrs)",25,all_persons,2020-07-01,2020-07-31,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",25,all_persons,2020-07-01,2020-07-31,Q22a1,stayers,25
+"1,461 to 1,825 Days (5-5 Yrs)",20,all_persons,2020-07-01,2020-07-31,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",20,all_persons,2020-07-01,2020-07-31,Q22a1,stayers,20
+"More than 1,825 Days (>5 Yrs)",36,all_persons,2020-07-01,2020-07-31,Q22a1,leavers,0
+"More than 1,825 Days (>5 Yrs)",36,all_persons,2020-07-01,2020-07-31,Q22a1,stayers,36
+Data Not Collected,0,all_persons,2020-07-01,2020-07-31,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2020-07-01,2020-07-31,Q22a1,stayers,0
+30 days or less,280,all_persons,2020-08-01,2020-08-31,Q22a1,leavers,144
+30 days or less,280,all_persons,2020-08-01,2020-08-31,Q22a1,stayers,136
+31 to 60 days,68,all_persons,2020-08-01,2020-08-31,Q22a1,leavers,5
+31 to 60 days,68,all_persons,2020-08-01,2020-08-31,Q22a1,stayers,63
+61 to 90 days,61,all_persons,2020-08-01,2020-08-31,Q22a1,leavers,9
+61 to 90 days,61,all_persons,2020-08-01,2020-08-31,Q22a1,stayers,52
+91 to 180 days,75,all_persons,2020-08-01,2020-08-31,Q22a1,leavers,7
+91 to 180 days,75,all_persons,2020-08-01,2020-08-31,Q22a1,stayers,68
+181 to 365 days,156,all_persons,2020-08-01,2020-08-31,Q22a1,leavers,7
+181 to 365 days,156,all_persons,2020-08-01,2020-08-31,Q22a1,stayers,149
+366 to 730 Days (1-2 Yrs),243,all_persons,2020-08-01,2020-08-31,Q22a1,leavers,1
+366 to 730 Days (1-2 Yrs),243,all_persons,2020-08-01,2020-08-31,Q22a1,stayers,242
+"731 to 1,095 Days (2-3 Yrs)",72,all_persons,2020-08-01,2020-08-31,Q22a1,leavers,0
+"731 to 1,095 Days (2-3 Yrs)",72,all_persons,2020-08-01,2020-08-31,Q22a1,stayers,72
+"1,096 to 1,460 Days (3-4 Yrs)",23,all_persons,2020-08-01,2020-08-31,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",23,all_persons,2020-08-01,2020-08-31,Q22a1,stayers,23
+"1,461 to 1,825 Days (5-5 Yrs)",27,all_persons,2020-08-01,2020-08-31,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",27,all_persons,2020-08-01,2020-08-31,Q22a1,stayers,27
+"More than 1,825 Days (>5 Yrs)",36,all_persons,2020-08-01,2020-08-31,Q22a1,leavers,0
+"More than 1,825 Days (>5 Yrs)",36,all_persons,2020-08-01,2020-08-31,Q22a1,stayers,36
+Data Not Collected,0,all_persons,2020-08-01,2020-08-31,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2020-08-01,2020-08-31,Q22a1,stayers,0
+30 days or less,292,all_persons,2020-09-01,2020-09-30,Q22a1,leavers,181
+30 days or less,292,all_persons,2020-09-01,2020-09-30,Q22a1,stayers,111
+31 to 60 days,93,all_persons,2020-09-01,2020-09-30,Q22a1,leavers,18
+31 to 60 days,93,all_persons,2020-09-01,2020-09-30,Q22a1,stayers,75
+61 to 90 days,48,all_persons,2020-09-01,2020-09-30,Q22a1,leavers,8
+61 to 90 days,48,all_persons,2020-09-01,2020-09-30,Q22a1,stayers,40
+91 to 180 days,93,all_persons,2020-09-01,2020-09-30,Q22a1,leavers,7
+91 to 180 days,93,all_persons,2020-09-01,2020-09-30,Q22a1,stayers,86
+181 to 365 days,151,all_persons,2020-09-01,2020-09-30,Q22a1,leavers,9
+181 to 365 days,151,all_persons,2020-09-01,2020-09-30,Q22a1,stayers,142
+366 to 730 Days (1-2 Yrs),239,all_persons,2020-09-01,2020-09-30,Q22a1,leavers,6
+366 to 730 Days (1-2 Yrs),239,all_persons,2020-09-01,2020-09-30,Q22a1,stayers,233
+"731 to 1,095 Days (2-3 Yrs)",83,all_persons,2020-09-01,2020-09-30,Q22a1,leavers,0
+"731 to 1,095 Days (2-3 Yrs)",83,all_persons,2020-09-01,2020-09-30,Q22a1,stayers,83
+"1,096 to 1,460 Days (3-4 Yrs)",29,all_persons,2020-09-01,2020-09-30,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",29,all_persons,2020-09-01,2020-09-30,Q22a1,stayers,29
+"1,461 to 1,825 Days (5-5 Yrs)",27,all_persons,2020-09-01,2020-09-30,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",27,all_persons,2020-09-01,2020-09-30,Q22a1,stayers,27
+"More than 1,825 Days (>5 Yrs)",36,all_persons,2020-09-01,2020-09-30,Q22a1,leavers,0
+"More than 1,825 Days (>5 Yrs)",36,all_persons,2020-09-01,2020-09-30,Q22a1,stayers,36
+Data Not Collected,0,all_persons,2020-09-01,2020-09-30,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2020-09-01,2020-09-30,Q22a1,stayers,0
+30 days or less,297,all_persons,2020-10-01,2020-10-31,Q22a1,leavers,177
+30 days or less,297,all_persons,2020-10-01,2020-10-31,Q22a1,stayers,120
+31 to 60 days,82,all_persons,2020-10-01,2020-10-31,Q22a1,leavers,16
+31 to 60 days,82,all_persons,2020-10-01,2020-10-31,Q22a1,stayers,66
+61 to 90 days,94,all_persons,2020-10-01,2020-10-31,Q22a1,leavers,19
+61 to 90 days,94,all_persons,2020-10-01,2020-10-31,Q22a1,stayers,75
+91 to 180 days,94,all_persons,2020-10-01,2020-10-31,Q22a1,leavers,4
+91 to 180 days,94,all_persons,2020-10-01,2020-10-31,Q22a1,stayers,90
+181 to 365 days,127,all_persons,2020-10-01,2020-10-31,Q22a1,leavers,7
+181 to 365 days,127,all_persons,2020-10-01,2020-10-31,Q22a1,stayers,120
+366 to 730 Days (1-2 Yrs),254,all_persons,2020-10-01,2020-10-31,Q22a1,leavers,1
+366 to 730 Days (1-2 Yrs),254,all_persons,2020-10-01,2020-10-31,Q22a1,stayers,253
+"731 to 1,095 Days (2-3 Yrs)",92,all_persons,2020-10-01,2020-10-31,Q22a1,leavers,0
+"731 to 1,095 Days (2-3 Yrs)",92,all_persons,2020-10-01,2020-10-31,Q22a1,stayers,92
+"1,096 to 1,460 Days (3-4 Yrs)",27,all_persons,2020-10-01,2020-10-31,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",27,all_persons,2020-10-01,2020-10-31,Q22a1,stayers,27
+"1,461 to 1,825 Days (5-5 Yrs)",30,all_persons,2020-10-01,2020-10-31,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",30,all_persons,2020-10-01,2020-10-31,Q22a1,stayers,30
+"More than 1,825 Days (>5 Yrs)",37,all_persons,2020-10-01,2020-10-31,Q22a1,leavers,0
+"More than 1,825 Days (>5 Yrs)",37,all_persons,2020-10-01,2020-10-31,Q22a1,stayers,37
+Data Not Collected,0,all_persons,2020-10-01,2020-10-31,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2020-10-01,2020-10-31,Q22a1,stayers,0
+30 days or less,321,all_persons,2020-11-01,2020-11-30,Q22a1,leavers,171
+30 days or less,321,all_persons,2020-11-01,2020-11-30,Q22a1,stayers,150
+31 to 60 days,110,all_persons,2020-11-01,2020-11-30,Q22a1,leavers,15
+31 to 60 days,110,all_persons,2020-11-01,2020-11-30,Q22a1,stayers,95
+61 to 90 days,58,all_persons,2020-11-01,2020-11-30,Q22a1,leavers,5
+61 to 90 days,58,all_persons,2020-11-01,2020-11-30,Q22a1,stayers,53
+91 to 180 days,143,all_persons,2020-11-01,2020-11-30,Q22a1,leavers,9
+91 to 180 days,143,all_persons,2020-11-01,2020-11-30,Q22a1,stayers,134
+181 to 365 days,128,all_persons,2020-11-01,2020-11-30,Q22a1,leavers,7
+181 to 365 days,128,all_persons,2020-11-01,2020-11-30,Q22a1,stayers,121
+366 to 730 Days (1-2 Yrs),249,all_persons,2020-11-01,2020-11-30,Q22a1,leavers,0
+366 to 730 Days (1-2 Yrs),249,all_persons,2020-11-01,2020-11-30,Q22a1,stayers,249
+"731 to 1,095 Days (2-3 Yrs)",97,all_persons,2020-11-01,2020-11-30,Q22a1,leavers,0
+"731 to 1,095 Days (2-3 Yrs)",97,all_persons,2020-11-01,2020-11-30,Q22a1,stayers,97
+"1,096 to 1,460 Days (3-4 Yrs)",31,all_persons,2020-11-01,2020-11-30,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",31,all_persons,2020-11-01,2020-11-30,Q22a1,stayers,31
+"1,461 to 1,825 Days (5-5 Yrs)",31,all_persons,2020-11-01,2020-11-30,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",31,all_persons,2020-11-01,2020-11-30,Q22a1,stayers,31
+"More than 1,825 Days (>5 Yrs)",37,all_persons,2020-11-01,2020-11-30,Q22a1,leavers,0
+"More than 1,825 Days (>5 Yrs)",37,all_persons,2020-11-01,2020-11-30,Q22a1,stayers,37
+Data Not Collected,0,all_persons,2020-11-01,2020-11-30,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2020-11-01,2020-11-30,Q22a1,stayers,0
+30 days or less,281,all_persons,2020-12-01,2020-12-31,Q22a1,leavers,137
+30 days or less,281,all_persons,2020-12-01,2020-12-31,Q22a1,stayers,144
+31 to 60 days,119,all_persons,2020-12-01,2020-12-31,Q22a1,leavers,18
+31 to 60 days,119,all_persons,2020-12-01,2020-12-31,Q22a1,stayers,101
+61 to 90 days,87,all_persons,2020-12-01,2020-12-31,Q22a1,leavers,9
+61 to 90 days,87,all_persons,2020-12-01,2020-12-31,Q22a1,stayers,78
+91 to 180 days,154,all_persons,2020-12-01,2020-12-31,Q22a1,leavers,26
+91 to 180 days,154,all_persons,2020-12-01,2020-12-31,Q22a1,stayers,128
+181 to 365 days,123,all_persons,2020-12-01,2020-12-31,Q22a1,leavers,10
+181 to 365 days,123,all_persons,2020-12-01,2020-12-31,Q22a1,stayers,113
+366 to 730 Days (1-2 Yrs),259,all_persons,2020-12-01,2020-12-31,Q22a1,leavers,9
+366 to 730 Days (1-2 Yrs),259,all_persons,2020-12-01,2020-12-31,Q22a1,stayers,250
+"731 to 1,095 Days (2-3 Yrs)",101,all_persons,2020-12-01,2020-12-31,Q22a1,leavers,8
+"731 to 1,095 Days (2-3 Yrs)",101,all_persons,2020-12-01,2020-12-31,Q22a1,stayers,93
+"1,096 to 1,460 Days (3-4 Yrs)",34,all_persons,2020-12-01,2020-12-31,Q22a1,leavers,1
+"1,096 to 1,460 Days (3-4 Yrs)",34,all_persons,2020-12-01,2020-12-31,Q22a1,stayers,33
+"1,461 to 1,825 Days (5-5 Yrs)",30,all_persons,2020-12-01,2020-12-31,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",30,all_persons,2020-12-01,2020-12-31,Q22a1,stayers,30
+"More than 1,825 Days (>5 Yrs)",38,all_persons,2020-12-01,2020-12-31,Q22a1,leavers,0
+"More than 1,825 Days (>5 Yrs)",38,all_persons,2020-12-01,2020-12-31,Q22a1,stayers,38
+Data Not Collected,0,all_persons,2020-12-01,2020-12-31,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2020-12-01,2020-12-31,Q22a1,stayers,0
+30 days or less,287,all_persons,2021-01-01,2021-01-31,Q22a1,leavers,173
+30 days or less,287,all_persons,2021-01-01,2021-01-31,Q22a1,stayers,114
+31 to 60 days,105,all_persons,2021-01-01,2021-01-31,Q22a1,leavers,24
+31 to 60 days,105,all_persons,2021-01-01,2021-01-31,Q22a1,stayers,81
+61 to 90 days,93,all_persons,2021-01-01,2021-01-31,Q22a1,leavers,12
+61 to 90 days,93,all_persons,2021-01-01,2021-01-31,Q22a1,stayers,81
+91 to 180 days,180,all_persons,2021-01-01,2021-01-31,Q22a1,leavers,19
+91 to 180 days,180,all_persons,2021-01-01,2021-01-31,Q22a1,stayers,161
+181 to 365 days,112,all_persons,2021-01-01,2021-01-31,Q22a1,leavers,6
+181 to 365 days,112,all_persons,2021-01-01,2021-01-31,Q22a1,stayers,106
+366 to 730 Days (1-2 Yrs),269,all_persons,2021-01-01,2021-01-31,Q22a1,leavers,2
+366 to 730 Days (1-2 Yrs),269,all_persons,2021-01-01,2021-01-31,Q22a1,stayers,267
+"731 to 1,095 Days (2-3 Yrs)",97,all_persons,2021-01-01,2021-01-31,Q22a1,leavers,1
+"731 to 1,095 Days (2-3 Yrs)",97,all_persons,2021-01-01,2021-01-31,Q22a1,stayers,96
+"1,096 to 1,460 Days (3-4 Yrs)",36,all_persons,2021-01-01,2021-01-31,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",36,all_persons,2021-01-01,2021-01-31,Q22a1,stayers,36
+"1,461 to 1,825 Days (5-5 Yrs)",27,all_persons,2021-01-01,2021-01-31,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",27,all_persons,2021-01-01,2021-01-31,Q22a1,stayers,27
+"More than 1,825 Days (>5 Yrs)",43,all_persons,2021-01-01,2021-01-31,Q22a1,leavers,0
+"More than 1,825 Days (>5 Yrs)",43,all_persons,2021-01-01,2021-01-31,Q22a1,stayers,43
+Data Not Collected,0,all_persons,2021-01-01,2021-01-31,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2021-01-01,2021-01-31,Q22a1,stayers,0
+30 days or less,243,all_persons,2021-02-01,2021-02-28,Q22a1,leavers,124
+30 days or less,243,all_persons,2021-02-01,2021-02-28,Q22a1,stayers,119
+31 to 60 days,96,all_persons,2021-02-01,2021-02-28,Q22a1,leavers,23
+31 to 60 days,96,all_persons,2021-02-01,2021-02-28,Q22a1,stayers,73
+61 to 90 days,65,all_persons,2021-02-01,2021-02-28,Q22a1,leavers,19
+61 to 90 days,65,all_persons,2021-02-01,2021-02-28,Q22a1,stayers,46
+91 to 180 days,174,all_persons,2021-02-01,2021-02-28,Q22a1,leavers,35
+91 to 180 days,174,all_persons,2021-02-01,2021-02-28,Q22a1,stayers,139
+181 to 365 days,139,all_persons,2021-02-01,2021-02-28,Q22a1,leavers,4
+181 to 365 days,139,all_persons,2021-02-01,2021-02-28,Q22a1,stayers,135
+366 to 730 Days (1-2 Yrs),271,all_persons,2021-02-01,2021-02-28,Q22a1,leavers,6
+366 to 730 Days (1-2 Yrs),271,all_persons,2021-02-01,2021-02-28,Q22a1,stayers,265
+"731 to 1,095 Days (2-3 Yrs)",101,all_persons,2021-02-01,2021-02-28,Q22a1,leavers,0
+"731 to 1,095 Days (2-3 Yrs)",101,all_persons,2021-02-01,2021-02-28,Q22a1,stayers,101
+"1,096 to 1,460 Days (3-4 Yrs)",43,all_persons,2021-02-01,2021-02-28,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",43,all_persons,2021-02-01,2021-02-28,Q22a1,stayers,43
+"1,461 to 1,825 Days (5-5 Yrs)",24,all_persons,2021-02-01,2021-02-28,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",24,all_persons,2021-02-01,2021-02-28,Q22a1,stayers,24
+"More than 1,825 Days (>5 Yrs)",46,all_persons,2021-02-01,2021-02-28,Q22a1,leavers,0
+"More than 1,825 Days (>5 Yrs)",46,all_persons,2021-02-01,2021-02-28,Q22a1,stayers,46
+Data Not Collected,0,all_persons,2021-02-01,2021-02-28,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2021-02-01,2021-02-28,Q22a1,stayers,0
+30 days or less,243,all_persons,2021-03-01,2021-03-31,Q22a1,leavers,141
+30 days or less,243,all_persons,2021-03-01,2021-03-31,Q22a1,stayers,102
+31 to 60 days,93,all_persons,2021-03-01,2021-03-31,Q22a1,leavers,23
+31 to 60 days,93,all_persons,2021-03-01,2021-03-31,Q22a1,stayers,70
+61 to 90 days,52,all_persons,2021-03-01,2021-03-31,Q22a1,leavers,12
+61 to 90 days,52,all_persons,2021-03-01,2021-03-31,Q22a1,stayers,40
+91 to 180 days,159,all_persons,2021-03-01,2021-03-31,Q22a1,leavers,13
+91 to 180 days,159,all_persons,2021-03-01,2021-03-31,Q22a1,stayers,146
+181 to 365 days,153,all_persons,2021-03-01,2021-03-31,Q22a1,leavers,16
+181 to 365 days,153,all_persons,2021-03-01,2021-03-31,Q22a1,stayers,137
+366 to 730 Days (1-2 Yrs),270,all_persons,2021-03-01,2021-03-31,Q22a1,leavers,3
+366 to 730 Days (1-2 Yrs),270,all_persons,2021-03-01,2021-03-31,Q22a1,stayers,267
+"731 to 1,095 Days (2-3 Yrs)",113,all_persons,2021-03-01,2021-03-31,Q22a1,leavers,0
+"731 to 1,095 Days (2-3 Yrs)",113,all_persons,2021-03-01,2021-03-31,Q22a1,stayers,113
+"1,096 to 1,460 Days (3-4 Yrs)",44,all_persons,2021-03-01,2021-03-31,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",44,all_persons,2021-03-01,2021-03-31,Q22a1,stayers,44
+"1,461 to 1,825 Days (5-5 Yrs)",26,all_persons,2021-03-01,2021-03-31,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",26,all_persons,2021-03-01,2021-03-31,Q22a1,stayers,26
+"More than 1,825 Days (>5 Yrs)",48,all_persons,2021-03-01,2021-03-31,Q22a1,leavers,0
+"More than 1,825 Days (>5 Yrs)",48,all_persons,2021-03-01,2021-03-31,Q22a1,stayers,48
+Data Not Collected,0,all_persons,2021-03-01,2021-03-31,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2021-03-01,2021-03-31,Q22a1,stayers,0
+30 days or less,202,all_persons,2021-04-01,2021-04-30,Q22a1,leavers,127
+30 days or less,202,all_persons,2021-04-01,2021-04-30,Q22a1,stayers,75
+31 to 60 days,72,all_persons,2021-04-01,2021-04-30,Q22a1,leavers,17
+31 to 60 days,72,all_persons,2021-04-01,2021-04-30,Q22a1,stayers,55
+61 to 90 days,62,all_persons,2021-04-01,2021-04-30,Q22a1,leavers,14
+61 to 90 days,62,all_persons,2021-04-01,2021-04-30,Q22a1,stayers,48
+91 to 180 days,140,all_persons,2021-04-01,2021-04-30,Q22a1,leavers,39
+91 to 180 days,140,all_persons,2021-04-01,2021-04-30,Q22a1,stayers,101
+181 to 365 days,171,all_persons,2021-04-01,2021-04-30,Q22a1,leavers,13
+181 to 365 days,171,all_persons,2021-04-01,2021-04-30,Q22a1,stayers,158
+366 to 730 Days (1-2 Yrs),262,all_persons,2021-04-01,2021-04-30,Q22a1,leavers,2
+366 to 730 Days (1-2 Yrs),262,all_persons,2021-04-01,2021-04-30,Q22a1,stayers,260
+"731 to 1,095 Days (2-3 Yrs)",129,all_persons,2021-04-01,2021-04-30,Q22a1,leavers,0
+"731 to 1,095 Days (2-3 Yrs)",129,all_persons,2021-04-01,2021-04-30,Q22a1,stayers,129
+"1,096 to 1,460 Days (3-4 Yrs)",44,all_persons,2021-04-01,2021-04-30,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",44,all_persons,2021-04-01,2021-04-30,Q22a1,stayers,44
+"1,461 to 1,825 Days (5-5 Yrs)",25,all_persons,2021-04-01,2021-04-30,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",25,all_persons,2021-04-01,2021-04-30,Q22a1,stayers,25
+"More than 1,825 Days (>5 Yrs)",50,all_persons,2021-04-01,2021-04-30,Q22a1,leavers,0
+"More than 1,825 Days (>5 Yrs)",50,all_persons,2021-04-01,2021-04-30,Q22a1,stayers,50
+Data Not Collected,0,all_persons,2021-04-01,2021-04-30,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2021-04-01,2021-04-30,Q22a1,stayers,0
+30 days or less,197,all_persons,2021-05-01,2021-05-31,Q22a1,leavers,103
+30 days or less,197,all_persons,2021-05-01,2021-05-31,Q22a1,stayers,94
+31 to 60 days,54,all_persons,2021-05-01,2021-05-31,Q22a1,leavers,19
+31 to 60 days,54,all_persons,2021-05-01,2021-05-31,Q22a1,stayers,35
+61 to 90 days,48,all_persons,2021-05-01,2021-05-31,Q22a1,leavers,11
+61 to 90 days,48,all_persons,2021-05-01,2021-05-31,Q22a1,stayers,37
+91 to 180 days,117,all_persons,2021-05-01,2021-05-31,Q22a1,leavers,23
+91 to 180 days,117,all_persons,2021-05-01,2021-05-31,Q22a1,stayers,94
+181 to 365 days,186,all_persons,2021-05-01,2021-05-31,Q22a1,leavers,17
+181 to 365 days,186,all_persons,2021-05-01,2021-05-31,Q22a1,stayers,169
+366 to 730 Days (1-2 Yrs),249,all_persons,2021-05-01,2021-05-31,Q22a1,leavers,1
+366 to 730 Days (1-2 Yrs),249,all_persons,2021-05-01,2021-05-31,Q22a1,stayers,248
+"731 to 1,095 Days (2-3 Yrs)",146,all_persons,2021-05-01,2021-05-31,Q22a1,leavers,0
+"731 to 1,095 Days (2-3 Yrs)",146,all_persons,2021-05-01,2021-05-31,Q22a1,stayers,146
+"1,096 to 1,460 Days (3-4 Yrs)",49,all_persons,2021-05-01,2021-05-31,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",49,all_persons,2021-05-01,2021-05-31,Q22a1,stayers,49
+"1,461 to 1,825 Days (5-5 Yrs)",21,all_persons,2021-05-01,2021-05-31,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",21,all_persons,2021-05-01,2021-05-31,Q22a1,stayers,21
+"More than 1,825 Days (>5 Yrs)",54,all_persons,2021-05-01,2021-05-31,Q22a1,leavers,0
+"More than 1,825 Days (>5 Yrs)",54,all_persons,2021-05-01,2021-05-31,Q22a1,stayers,54
+Data Not Collected,0,all_persons,2021-05-01,2021-05-31,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2021-05-01,2021-05-31,Q22a1,stayers,0
+30 days or less,215,all_persons,2021-06-01,2021-06-30,Q22a1,leavers,123
+30 days or less,215,all_persons,2021-06-01,2021-06-30,Q22a1,stayers,92
+31 to 60 days,75,all_persons,2021-06-01,2021-06-30,Q22a1,leavers,17
+31 to 60 days,75,all_persons,2021-06-01,2021-06-30,Q22a1,stayers,58
+61 to 90 days,32,all_persons,2021-06-01,2021-06-30,Q22a1,leavers,6
+61 to 90 days,32,all_persons,2021-06-01,2021-06-30,Q22a1,stayers,26
+91 to 180 days,107,all_persons,2021-06-01,2021-06-30,Q22a1,leavers,41
+91 to 180 days,107,all_persons,2021-06-01,2021-06-30,Q22a1,stayers,66
+181 to 365 days,198,all_persons,2021-06-01,2021-06-30,Q22a1,leavers,40
+181 to 365 days,198,all_persons,2021-06-01,2021-06-30,Q22a1,stayers,158
+366 to 730 Days (1-2 Yrs),259,all_persons,2021-06-01,2021-06-30,Q22a1,leavers,6
+366 to 730 Days (1-2 Yrs),259,all_persons,2021-06-01,2021-06-30,Q22a1,stayers,253
+"731 to 1,095 Days (2-3 Yrs)",146,all_persons,2021-06-01,2021-06-30,Q22a1,leavers,1
+"731 to 1,095 Days (2-3 Yrs)",146,all_persons,2021-06-01,2021-06-30,Q22a1,stayers,145
+"1,096 to 1,460 Days (3-4 Yrs)",51,all_persons,2021-06-01,2021-06-30,Q22a1,leavers,1
+"1,096 to 1,460 Days (3-4 Yrs)",51,all_persons,2021-06-01,2021-06-30,Q22a1,stayers,50
+"1,461 to 1,825 Days (5-5 Yrs)",21,all_persons,2021-06-01,2021-06-30,Q22a1,leavers,2
+"1,461 to 1,825 Days (5-5 Yrs)",21,all_persons,2021-06-01,2021-06-30,Q22a1,stayers,19
+"More than 1,825 Days (>5 Yrs)",56,all_persons,2021-06-01,2021-06-30,Q22a1,leavers,2
+"More than 1,825 Days (>5 Yrs)",56,all_persons,2021-06-01,2021-06-30,Q22a1,stayers,54
+Data Not Collected,0,all_persons,2021-06-01,2021-06-30,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2021-06-01,2021-06-30,Q22a1,stayers,0
+30 days or less,311,all_persons,2021-07-01,2021-07-31,Q22a1,leavers,147
+30 days or less,311,all_persons,2021-07-01,2021-07-31,Q22a1,stayers,164
+31 to 60 days,81,all_persons,2021-07-01,2021-07-31,Q22a1,leavers,16
+31 to 60 days,81,all_persons,2021-07-01,2021-07-31,Q22a1,stayers,65
+61 to 90 days,48,all_persons,2021-07-01,2021-07-31,Q22a1,leavers,8
+61 to 90 days,48,all_persons,2021-07-01,2021-07-31,Q22a1,stayers,40
+91 to 180 days,64,all_persons,2021-07-01,2021-07-31,Q22a1,leavers,15
+91 to 180 days,64,all_persons,2021-07-01,2021-07-31,Q22a1,stayers,49
+181 to 365 days,144,all_persons,2021-07-01,2021-07-31,Q22a1,leavers,6
+181 to 365 days,144,all_persons,2021-07-01,2021-07-31,Q22a1,stayers,138
+366 to 730 Days (1-2 Yrs),226,all_persons,2021-07-01,2021-07-31,Q22a1,leavers,0
+366 to 730 Days (1-2 Yrs),226,all_persons,2021-07-01,2021-07-31,Q22a1,stayers,226
+"731 to 1,095 Days (2-3 Yrs)",182,all_persons,2021-07-01,2021-07-31,Q22a1,leavers,0
+"731 to 1,095 Days (2-3 Yrs)",182,all_persons,2021-07-01,2021-07-31,Q22a1,stayers,182
+"1,096 to 1,460 Days (3-4 Yrs)",59,all_persons,2021-07-01,2021-07-31,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",59,all_persons,2021-07-01,2021-07-31,Q22a1,stayers,59
+"1,461 to 1,825 Days (5-5 Yrs)",20,all_persons,2021-07-01,2021-07-31,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",20,all_persons,2021-07-01,2021-07-31,Q22a1,stayers,20
+"More than 1,825 Days (>5 Yrs)",54,all_persons,2021-07-01,2021-07-31,Q22a1,leavers,0
+"More than 1,825 Days (>5 Yrs)",54,all_persons,2021-07-01,2021-07-31,Q22a1,stayers,54
+Data Not Collected,0,all_persons,2021-07-01,2021-07-31,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2021-07-01,2021-07-31,Q22a1,stayers,0
+30 days or less,407,all_persons,2021-08-01,2021-08-31,Q22a1,leavers,237
+30 days or less,407,all_persons,2021-08-01,2021-08-31,Q22a1,stayers,170
+31 to 60 days,133,all_persons,2021-08-01,2021-08-31,Q22a1,leavers,23
+31 to 60 days,133,all_persons,2021-08-01,2021-08-31,Q22a1,stayers,110
+61 to 90 days,58,all_persons,2021-08-01,2021-08-31,Q22a1,leavers,12
+61 to 90 days,58,all_persons,2021-08-01,2021-08-31,Q22a1,stayers,46
+91 to 180 days,73,all_persons,2021-08-01,2021-08-31,Q22a1,leavers,11
+91 to 180 days,73,all_persons,2021-08-01,2021-08-31,Q22a1,stayers,62
+181 to 365 days,117,all_persons,2021-08-01,2021-08-31,Q22a1,leavers,11
+181 to 365 days,117,all_persons,2021-08-01,2021-08-31,Q22a1,stayers,106
+366 to 730 Days (1-2 Yrs),212,all_persons,2021-08-01,2021-08-31,Q22a1,leavers,11
+366 to 730 Days (1-2 Yrs),212,all_persons,2021-08-01,2021-08-31,Q22a1,stayers,201
+"731 to 1,095 Days (2-3 Yrs)",209,all_persons,2021-08-01,2021-08-31,Q22a1,leavers,1
+"731 to 1,095 Days (2-3 Yrs)",209,all_persons,2021-08-01,2021-08-31,Q22a1,stayers,208
+"1,096 to 1,460 Days (3-4 Yrs)",68,all_persons,2021-08-01,2021-08-31,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",68,all_persons,2021-08-01,2021-08-31,Q22a1,stayers,68
+"1,461 to 1,825 Days (5-5 Yrs)",19,all_persons,2021-08-01,2021-08-31,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",19,all_persons,2021-08-01,2021-08-31,Q22a1,stayers,19
+"More than 1,825 Days (>5 Yrs)",60,all_persons,2021-08-01,2021-08-31,Q22a1,leavers,0
+"More than 1,825 Days (>5 Yrs)",60,all_persons,2021-08-01,2021-08-31,Q22a1,stayers,60
+Data Not Collected,0,all_persons,2021-08-01,2021-08-31,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2021-08-01,2021-08-31,Q22a1,stayers,0
+30 days or less,424,all_persons,2021-09-01,2021-09-30,Q22a1,leavers,254
+30 days or less,424,all_persons,2021-09-01,2021-09-30,Q22a1,stayers,170
+31 to 60 days,131,all_persons,2021-09-01,2021-09-30,Q22a1,leavers,10
+31 to 60 days,131,all_persons,2021-09-01,2021-09-30,Q22a1,stayers,121
+61 to 90 days,109,all_persons,2021-09-01,2021-09-30,Q22a1,leavers,10
+61 to 90 days,109,all_persons,2021-09-01,2021-09-30,Q22a1,stayers,99
+91 to 180 days,82,all_persons,2021-09-01,2021-09-30,Q22a1,leavers,7
+91 to 180 days,82,all_persons,2021-09-01,2021-09-30,Q22a1,stayers,75
+181 to 365 days,87,all_persons,2021-09-01,2021-09-30,Q22a1,leavers,4
+181 to 365 days,87,all_persons,2021-09-01,2021-09-30,Q22a1,stayers,83
+366 to 730 Days (1-2 Yrs),222,all_persons,2021-09-01,2021-09-30,Q22a1,leavers,0
+366 to 730 Days (1-2 Yrs),222,all_persons,2021-09-01,2021-09-30,Q22a1,stayers,222
+"731 to 1,095 Days (2-3 Yrs)",207,all_persons,2021-09-01,2021-09-30,Q22a1,leavers,0
+"731 to 1,095 Days (2-3 Yrs)",207,all_persons,2021-09-01,2021-09-30,Q22a1,stayers,207
+"1,096 to 1,460 Days (3-4 Yrs)",77,all_persons,2021-09-01,2021-09-30,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",77,all_persons,2021-09-01,2021-09-30,Q22a1,stayers,77
+"1,461 to 1,825 Days (5-5 Yrs)",26,all_persons,2021-09-01,2021-09-30,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",26,all_persons,2021-09-01,2021-09-30,Q22a1,stayers,26
+"More than 1,825 Days (>5 Yrs)",60,all_persons,2021-09-01,2021-09-30,Q22a1,leavers,1
+"More than 1,825 Days (>5 Yrs)",60,all_persons,2021-09-01,2021-09-30,Q22a1,stayers,59
+Data Not Collected,0,all_persons,2021-09-01,2021-09-30,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2021-09-01,2021-09-30,Q22a1,stayers,0
+30 days or less,415,all_persons,2021-10-01,2021-10-31,Q22a1,leavers,224
+30 days or less,415,all_persons,2021-10-01,2021-10-31,Q22a1,stayers,191
+31 to 60 days,119,all_persons,2021-10-01,2021-10-31,Q22a1,leavers,18
+31 to 60 days,119,all_persons,2021-10-01,2021-10-31,Q22a1,stayers,101
+61 to 90 days,108,all_persons,2021-10-01,2021-10-31,Q22a1,leavers,8
+61 to 90 days,108,all_persons,2021-10-01,2021-10-31,Q22a1,stayers,100
+91 to 180 days,161,all_persons,2021-10-01,2021-10-31,Q22a1,leavers,19
+91 to 180 days,161,all_persons,2021-10-01,2021-10-31,Q22a1,stayers,142
+181 to 365 days,70,all_persons,2021-10-01,2021-10-31,Q22a1,leavers,3
+181 to 365 days,70,all_persons,2021-10-01,2021-10-31,Q22a1,stayers,67
+366 to 730 Days (1-2 Yrs),201,all_persons,2021-10-01,2021-10-31,Q22a1,leavers,3
+366 to 730 Days (1-2 Yrs),201,all_persons,2021-10-01,2021-10-31,Q22a1,stayers,198
+"731 to 1,095 Days (2-3 Yrs)",230,all_persons,2021-10-01,2021-10-31,Q22a1,leavers,0
+"731 to 1,095 Days (2-3 Yrs)",230,all_persons,2021-10-01,2021-10-31,Q22a1,stayers,230
+"1,096 to 1,460 Days (3-4 Yrs)",81,all_persons,2021-10-01,2021-10-31,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",81,all_persons,2021-10-01,2021-10-31,Q22a1,stayers,81
+"1,461 to 1,825 Days (5-5 Yrs)",24,all_persons,2021-10-01,2021-10-31,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",24,all_persons,2021-10-01,2021-10-31,Q22a1,stayers,24
+"More than 1,825 Days (>5 Yrs)",63,all_persons,2021-10-01,2021-10-31,Q22a1,leavers,0
+"More than 1,825 Days (>5 Yrs)",63,all_persons,2021-10-01,2021-10-31,Q22a1,stayers,63
+Data Not Collected,0,all_persons,2021-10-01,2021-10-31,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2021-10-01,2021-10-31,Q22a1,stayers,0
+30 days or less,432,all_persons,2021-11-01,2021-11-30,Q22a1,leavers,174
+30 days or less,432,all_persons,2021-11-01,2021-11-30,Q22a1,stayers,258
+31 to 60 days,132,all_persons,2021-11-01,2021-11-30,Q22a1,leavers,10
+31 to 60 days,132,all_persons,2021-11-01,2021-11-30,Q22a1,stayers,122
+61 to 90 days,96,all_persons,2021-11-01,2021-11-30,Q22a1,leavers,10
+61 to 90 days,96,all_persons,2021-11-01,2021-11-30,Q22a1,stayers,86
+91 to 180 days,206,all_persons,2021-11-01,2021-11-30,Q22a1,leavers,2
+91 to 180 days,206,all_persons,2021-11-01,2021-11-30,Q22a1,stayers,204
+181 to 365 days,69,all_persons,2021-11-01,2021-11-30,Q22a1,leavers,4
+181 to 365 days,69,all_persons,2021-11-01,2021-11-30,Q22a1,stayers,65
+366 to 730 Days (1-2 Yrs),206,all_persons,2021-11-01,2021-11-30,Q22a1,leavers,2
+366 to 730 Days (1-2 Yrs),206,all_persons,2021-11-01,2021-11-30,Q22a1,stayers,204
+"731 to 1,095 Days (2-3 Yrs)",233,all_persons,2021-11-01,2021-11-30,Q22a1,leavers,0
+"731 to 1,095 Days (2-3 Yrs)",233,all_persons,2021-11-01,2021-11-30,Q22a1,stayers,233
+"1,096 to 1,460 Days (3-4 Yrs)",87,all_persons,2021-11-01,2021-11-30,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",87,all_persons,2021-11-01,2021-11-30,Q22a1,stayers,87
+"1,461 to 1,825 Days (5-5 Yrs)",26,all_persons,2021-11-01,2021-11-30,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",26,all_persons,2021-11-01,2021-11-30,Q22a1,stayers,26
+"More than 1,825 Days (>5 Yrs)",64,all_persons,2021-11-01,2021-11-30,Q22a1,leavers,0
+"More than 1,825 Days (>5 Yrs)",64,all_persons,2021-11-01,2021-11-30,Q22a1,stayers,64
+Data Not Collected,0,all_persons,2021-11-01,2021-11-30,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2021-11-01,2021-11-30,Q22a1,stayers,0
+30 days or less,431,all_persons,2021-12-01,2021-12-31,Q22a1,leavers,206
+30 days or less,431,all_persons,2021-12-01,2021-12-31,Q22a1,stayers,225
+31 to 60 days,168,all_persons,2021-12-01,2021-12-31,Q22a1,leavers,19
+31 to 60 days,168,all_persons,2021-12-01,2021-12-31,Q22a1,stayers,149
+61 to 90 days,113,all_persons,2021-12-01,2021-12-31,Q22a1,leavers,9
+61 to 90 days,113,all_persons,2021-12-01,2021-12-31,Q22a1,stayers,104
+91 to 180 days,253,all_persons,2021-12-01,2021-12-31,Q22a1,leavers,17
+91 to 180 days,253,all_persons,2021-12-01,2021-12-31,Q22a1,stayers,236
+181 to 365 days,88,all_persons,2021-12-01,2021-12-31,Q22a1,leavers,3
+181 to 365 days,88,all_persons,2021-12-01,2021-12-31,Q22a1,stayers,85
+366 to 730 Days (1-2 Yrs),193,all_persons,2021-12-01,2021-12-31,Q22a1,leavers,2
+366 to 730 Days (1-2 Yrs),193,all_persons,2021-12-01,2021-12-31,Q22a1,stayers,191
+"731 to 1,095 Days (2-3 Yrs)",240,all_persons,2021-12-01,2021-12-31,Q22a1,leavers,1
+"731 to 1,095 Days (2-3 Yrs)",240,all_persons,2021-12-01,2021-12-31,Q22a1,stayers,239
+"1,096 to 1,460 Days (3-4 Yrs)",90,all_persons,2021-12-01,2021-12-31,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",90,all_persons,2021-12-01,2021-12-31,Q22a1,stayers,90
+"1,461 to 1,825 Days (5-5 Yrs)",30,all_persons,2021-12-01,2021-12-31,Q22a1,leavers,1
+"1,461 to 1,825 Days (5-5 Yrs)",30,all_persons,2021-12-01,2021-12-31,Q22a1,stayers,29
+"More than 1,825 Days (>5 Yrs)",64,all_persons,2021-12-01,2021-12-31,Q22a1,leavers,0
+"More than 1,825 Days (>5 Yrs)",64,all_persons,2021-12-01,2021-12-31,Q22a1,stayers,64
+Data Not Collected,0,all_persons,2021-12-01,2021-12-31,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2021-12-01,2021-12-31,Q22a1,stayers,0
+30 days or less,327,all_persons,2022-01-01,2022-01-31,Q22a1,leavers,142
+30 days or less,327,all_persons,2022-01-01,2022-01-31,Q22a1,stayers,185
+31 to 60 days,153,all_persons,2022-01-01,2022-01-31,Q22a1,leavers,29
+31 to 60 days,153,all_persons,2022-01-01,2022-01-31,Q22a1,stayers,124
+61 to 90 days,131,all_persons,2022-01-01,2022-01-31,Q22a1,leavers,8
+61 to 90 days,131,all_persons,2022-01-01,2022-01-31,Q22a1,stayers,123
+91 to 180 days,276,all_persons,2022-01-01,2022-01-31,Q22a1,leavers,27
+91 to 180 days,276,all_persons,2022-01-01,2022-01-31,Q22a1,stayers,249
+181 to 365 days,152,all_persons,2022-01-01,2022-01-31,Q22a1,leavers,11
+181 to 365 days,152,all_persons,2022-01-01,2022-01-31,Q22a1,stayers,141
+366 to 730 Days (1-2 Yrs),175,all_persons,2022-01-01,2022-01-31,Q22a1,leavers,3
+366 to 730 Days (1-2 Yrs),175,all_persons,2022-01-01,2022-01-31,Q22a1,stayers,172
+"731 to 1,095 Days (2-3 Yrs)",249,all_persons,2022-01-01,2022-01-31,Q22a1,leavers,0
+"731 to 1,095 Days (2-3 Yrs)",249,all_persons,2022-01-01,2022-01-31,Q22a1,stayers,249
+"1,096 to 1,460 Days (3-4 Yrs)",94,all_persons,2022-01-01,2022-01-31,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",94,all_persons,2022-01-01,2022-01-31,Q22a1,stayers,94
+"1,461 to 1,825 Days (5-5 Yrs)",33,all_persons,2022-01-01,2022-01-31,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",33,all_persons,2022-01-01,2022-01-31,Q22a1,stayers,33
+"More than 1,825 Days (>5 Yrs)",65,all_persons,2022-01-01,2022-01-31,Q22a1,leavers,1
+"More than 1,825 Days (>5 Yrs)",65,all_persons,2022-01-01,2022-01-31,Q22a1,stayers,64
+Data Not Collected,0,all_persons,2022-01-01,2022-01-31,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2022-01-01,2022-01-31,Q22a1,stayers,0
+30 days or less,340,all_persons,2022-02-01,2022-02-28,Q22a1,leavers,149
+30 days or less,340,all_persons,2022-02-01,2022-02-28,Q22a1,stayers,191
+31 to 60 days,116,all_persons,2022-02-01,2022-02-28,Q22a1,leavers,8
+31 to 60 days,116,all_persons,2022-02-01,2022-02-28,Q22a1,stayers,108
+61 to 90 days,134,all_persons,2022-02-01,2022-02-28,Q22a1,leavers,4
+61 to 90 days,134,all_persons,2022-02-01,2022-02-28,Q22a1,stayers,130
+91 to 180 days,290,all_persons,2022-02-01,2022-02-28,Q22a1,leavers,37
+91 to 180 days,290,all_persons,2022-02-01,2022-02-28,Q22a1,stayers,253
+181 to 365 days,198,all_persons,2022-02-01,2022-02-28,Q22a1,leavers,3
+181 to 365 days,198,all_persons,2022-02-01,2022-02-28,Q22a1,stayers,195
+366 to 730 Days (1-2 Yrs),166,all_persons,2022-02-01,2022-02-28,Q22a1,leavers,0
+366 to 730 Days (1-2 Yrs),166,all_persons,2022-02-01,2022-02-28,Q22a1,stayers,166
+"731 to 1,095 Days (2-3 Yrs)",257,all_persons,2022-02-01,2022-02-28,Q22a1,leavers,0
+"731 to 1,095 Days (2-3 Yrs)",257,all_persons,2022-02-01,2022-02-28,Q22a1,stayers,257
+"1,096 to 1,460 Days (3-4 Yrs)",99,all_persons,2022-02-01,2022-02-28,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",99,all_persons,2022-02-01,2022-02-28,Q22a1,stayers,99
+"1,461 to 1,825 Days (5-5 Yrs)",40,all_persons,2022-02-01,2022-02-28,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",40,all_persons,2022-02-01,2022-02-28,Q22a1,stayers,40
+"More than 1,825 Days (>5 Yrs)",65,all_persons,2022-02-01,2022-02-28,Q22a1,leavers,1
+"More than 1,825 Days (>5 Yrs)",65,all_persons,2022-02-01,2022-02-28,Q22a1,stayers,64
+Data Not Collected,0,all_persons,2022-02-01,2022-02-28,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2022-02-01,2022-02-28,Q22a1,stayers,0
+30 days or less,456,all_persons,2022-03-01,2022-03-31,Q22a1,leavers,233
+30 days or less,456,all_persons,2022-03-01,2022-03-31,Q22a1,stayers,223
+31 to 60 days,110,all_persons,2022-03-01,2022-03-31,Q22a1,leavers,12
+31 to 60 days,110,all_persons,2022-03-01,2022-03-31,Q22a1,stayers,98
+61 to 90 days,111,all_persons,2022-03-01,2022-03-31,Q22a1,leavers,10
+61 to 90 days,111,all_persons,2022-03-01,2022-03-31,Q22a1,stayers,101
+91 to 180 days,311,all_persons,2022-03-01,2022-03-31,Q22a1,leavers,38
+91 to 180 days,311,all_persons,2022-03-01,2022-03-31,Q22a1,stayers,273
+181 to 365 days,238,all_persons,2022-03-01,2022-03-31,Q22a1,leavers,2
+181 to 365 days,238,all_persons,2022-03-01,2022-03-31,Q22a1,stayers,236
+366 to 730 Days (1-2 Yrs),157,all_persons,2022-03-01,2022-03-31,Q22a1,leavers,1
+366 to 730 Days (1-2 Yrs),157,all_persons,2022-03-01,2022-03-31,Q22a1,stayers,156
+"731 to 1,095 Days (2-3 Yrs)",255,all_persons,2022-03-01,2022-03-31,Q22a1,leavers,0
+"731 to 1,095 Days (2-3 Yrs)",255,all_persons,2022-03-01,2022-03-31,Q22a1,stayers,255
+"1,096 to 1,460 Days (3-4 Yrs)",111,all_persons,2022-03-01,2022-03-31,Q22a1,leavers,1
+"1,096 to 1,460 Days (3-4 Yrs)",111,all_persons,2022-03-01,2022-03-31,Q22a1,stayers,110
+"1,461 to 1,825 Days (5-5 Yrs)",39,all_persons,2022-03-01,2022-03-31,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",39,all_persons,2022-03-01,2022-03-31,Q22a1,stayers,39
+"More than 1,825 Days (>5 Yrs)",67,all_persons,2022-03-01,2022-03-31,Q22a1,leavers,0
+"More than 1,825 Days (>5 Yrs)",67,all_persons,2022-03-01,2022-03-31,Q22a1,stayers,67
+Data Not Collected,0,all_persons,2022-03-01,2022-03-31,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2022-03-01,2022-03-31,Q22a1,stayers,0
+30 days or less,401,all_persons,2022-04-01,2022-04-30,Q22a1,leavers,193
+30 days or less,401,all_persons,2022-04-01,2022-04-30,Q22a1,stayers,208
+31 to 60 days,149,all_persons,2022-04-01,2022-04-30,Q22a1,leavers,22
+31 to 60 days,149,all_persons,2022-04-01,2022-04-30,Q22a1,stayers,127
+61 to 90 days,98,all_persons,2022-04-01,2022-04-30,Q22a1,leavers,14
+61 to 90 days,98,all_persons,2022-04-01,2022-04-30,Q22a1,stayers,84
+91 to 180 days,274,all_persons,2022-04-01,2022-04-30,Q22a1,leavers,46
+91 to 180 days,274,all_persons,2022-04-01,2022-04-30,Q22a1,stayers,228
+181 to 365 days,313,all_persons,2022-04-01,2022-04-30,Q22a1,leavers,19
+181 to 365 days,313,all_persons,2022-04-01,2022-04-30,Q22a1,stayers,294
+366 to 730 Days (1-2 Yrs),155,all_persons,2022-04-01,2022-04-30,Q22a1,leavers,5
+366 to 730 Days (1-2 Yrs),155,all_persons,2022-04-01,2022-04-30,Q22a1,stayers,150
+"731 to 1,095 Days (2-3 Yrs)",251,all_persons,2022-04-01,2022-04-30,Q22a1,leavers,0
+"731 to 1,095 Days (2-3 Yrs)",251,all_persons,2022-04-01,2022-04-30,Q22a1,stayers,251
+"1,096 to 1,460 Days (3-4 Yrs)",123,all_persons,2022-04-01,2022-04-30,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",123,all_persons,2022-04-01,2022-04-30,Q22a1,stayers,123
+"1,461 to 1,825 Days (5-5 Yrs)",39,all_persons,2022-04-01,2022-04-30,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",39,all_persons,2022-04-01,2022-04-30,Q22a1,stayers,39
+"More than 1,825 Days (>5 Yrs)",68,all_persons,2022-04-01,2022-04-30,Q22a1,leavers,1
+"More than 1,825 Days (>5 Yrs)",68,all_persons,2022-04-01,2022-04-30,Q22a1,stayers,67
+Data Not Collected,0,all_persons,2022-04-01,2022-04-30,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2022-04-01,2022-04-30,Q22a1,stayers,0
+30 days or less,389,all_persons,2022-05-01,2022-05-31,Q22a1,leavers,224
+30 days or less,389,all_persons,2022-05-01,2022-05-31,Q22a1,stayers,165
+31 to 60 days,141,all_persons,2022-05-01,2022-05-31,Q22a1,leavers,19
+31 to 60 days,141,all_persons,2022-05-01,2022-05-31,Q22a1,stayers,122
+61 to 90 days,125,all_persons,2022-05-01,2022-05-31,Q22a1,leavers,14
+61 to 90 days,125,all_persons,2022-05-01,2022-05-31,Q22a1,stayers,111
+91 to 180 days,226,all_persons,2022-05-01,2022-05-31,Q22a1,leavers,21
+91 to 180 days,226,all_persons,2022-05-01,2022-05-31,Q22a1,stayers,205
+181 to 365 days,373,all_persons,2022-05-01,2022-05-31,Q22a1,leavers,5
+181 to 365 days,373,all_persons,2022-05-01,2022-05-31,Q22a1,stayers,368
+366 to 730 Days (1-2 Yrs),149,all_persons,2022-05-01,2022-05-31,Q22a1,leavers,0
+366 to 730 Days (1-2 Yrs),149,all_persons,2022-05-01,2022-05-31,Q22a1,stayers,149
+"731 to 1,095 Days (2-3 Yrs)",240,all_persons,2022-05-01,2022-05-31,Q22a1,leavers,0
+"731 to 1,095 Days (2-3 Yrs)",240,all_persons,2022-05-01,2022-05-31,Q22a1,stayers,240
+"1,096 to 1,460 Days (3-4 Yrs)",140,all_persons,2022-05-01,2022-05-31,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",140,all_persons,2022-05-01,2022-05-31,Q22a1,stayers,140
+"1,461 to 1,825 Days (5-5 Yrs)",44,all_persons,2022-05-01,2022-05-31,Q22a1,leavers,1
+"1,461 to 1,825 Days (5-5 Yrs)",44,all_persons,2022-05-01,2022-05-31,Q22a1,stayers,43
+"More than 1,825 Days (>5 Yrs)",67,all_persons,2022-05-01,2022-05-31,Q22a1,leavers,0
+"More than 1,825 Days (>5 Yrs)",67,all_persons,2022-05-01,2022-05-31,Q22a1,stayers,67
+Data Not Collected,0,all_persons,2022-05-01,2022-05-31,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2022-05-01,2022-05-31,Q22a1,stayers,0
+30 days or less,479,all_persons,2022-06-01,2022-06-30,Q22a1,leavers,274
+30 days or less,479,all_persons,2022-06-01,2022-06-30,Q22a1,stayers,205
+31 to 60 days,96,all_persons,2022-06-01,2022-06-30,Q22a1,leavers,21
+31 to 60 days,96,all_persons,2022-06-01,2022-06-30,Q22a1,stayers,75
+61 to 90 days,109,all_persons,2022-06-01,2022-06-30,Q22a1,leavers,10
+61 to 90 days,109,all_persons,2022-06-01,2022-06-30,Q22a1,stayers,99
+91 to 180 days,257,all_persons,2022-06-01,2022-06-30,Q22a1,leavers,8
+91 to 180 days,257,all_persons,2022-06-01,2022-06-30,Q22a1,stayers,249
+181 to 365 days,392,all_persons,2022-06-01,2022-06-30,Q22a1,leavers,4
+181 to 365 days,392,all_persons,2022-06-01,2022-06-30,Q22a1,stayers,388
+366 to 730 Days (1-2 Yrs),160,all_persons,2022-06-01,2022-06-30,Q22a1,leavers,4
+366 to 730 Days (1-2 Yrs),160,all_persons,2022-06-01,2022-06-30,Q22a1,stayers,156
+"731 to 1,095 Days (2-3 Yrs)",240,all_persons,2022-06-01,2022-06-30,Q22a1,leavers,3
+"731 to 1,095 Days (2-3 Yrs)",240,all_persons,2022-06-01,2022-06-30,Q22a1,stayers,237
+"1,096 to 1,460 Days (3-4 Yrs)",142,all_persons,2022-06-01,2022-06-30,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",142,all_persons,2022-06-01,2022-06-30,Q22a1,stayers,142
+"1,461 to 1,825 Days (5-5 Yrs)",45,all_persons,2022-06-01,2022-06-30,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",45,all_persons,2022-06-01,2022-06-30,Q22a1,stayers,45
+"More than 1,825 Days (>5 Yrs)",69,all_persons,2022-06-01,2022-06-30,Q22a1,leavers,0
+"More than 1,825 Days (>5 Yrs)",69,all_persons,2022-06-01,2022-06-30,Q22a1,stayers,69
+Data Not Collected,0,all_persons,2022-06-01,2022-06-30,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2022-06-01,2022-06-30,Q22a1,stayers,0
+30 days or less,334,all_persons,2022-07-01,2022-07-31,Q22a1,leavers,190
+30 days or less,334,all_persons,2022-07-01,2022-07-31,Q22a1,stayers,144
+31 to 60 days,120,all_persons,2022-07-01,2022-07-31,Q22a1,leavers,11
+31 to 60 days,120,all_persons,2022-07-01,2022-07-31,Q22a1,stayers,109
+61 to 90 days,85,all_persons,2022-07-01,2022-07-31,Q22a1,leavers,9
+61 to 90 days,85,all_persons,2022-07-01,2022-07-31,Q22a1,stayers,76
+91 to 180 days,268,all_persons,2022-07-01,2022-07-31,Q22a1,leavers,5
+91 to 180 days,268,all_persons,2022-07-01,2022-07-31,Q22a1,stayers,263
+181 to 365 days,413,all_persons,2022-07-01,2022-07-31,Q22a1,leavers,7
+181 to 365 days,413,all_persons,2022-07-01,2022-07-31,Q22a1,stayers,406
+366 to 730 Days (1-2 Yrs),206,all_persons,2022-07-01,2022-07-31,Q22a1,leavers,1
+366 to 730 Days (1-2 Yrs),206,all_persons,2022-07-01,2022-07-31,Q22a1,stayers,205
+"731 to 1,095 Days (2-3 Yrs)",201,all_persons,2022-07-01,2022-07-31,Q22a1,leavers,0
+"731 to 1,095 Days (2-3 Yrs)",201,all_persons,2022-07-01,2022-07-31,Q22a1,stayers,201
+"1,096 to 1,460 Days (3-4 Yrs)",177,all_persons,2022-07-01,2022-07-31,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",177,all_persons,2022-07-01,2022-07-31,Q22a1,stayers,177
+"1,461 to 1,825 Days (5-5 Yrs)",53,all_persons,2022-07-01,2022-07-31,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",53,all_persons,2022-07-01,2022-07-31,Q22a1,stayers,53
+"More than 1,825 Days (>5 Yrs)",70,all_persons,2022-07-01,2022-07-31,Q22a1,leavers,0
+"More than 1,825 Days (>5 Yrs)",70,all_persons,2022-07-01,2022-07-31,Q22a1,stayers,70
+Data Not Collected,0,all_persons,2022-07-01,2022-07-31,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2022-07-01,2022-07-31,Q22a1,stayers,0
+30 days or less,388,all_persons,2022-08-01,2022-08-31,Q22a1,leavers,245
+30 days or less,388,all_persons,2022-08-01,2022-08-31,Q22a1,stayers,143
+31 to 60 days,57,all_persons,2022-08-01,2022-08-31,Q22a1,leavers,7
+31 to 60 days,57,all_persons,2022-08-01,2022-08-31,Q22a1,stayers,50
+61 to 90 days,106,all_persons,2022-08-01,2022-08-31,Q22a1,leavers,3
+61 to 90 days,106,all_persons,2022-08-01,2022-08-31,Q22a1,stayers,103
+91 to 180 days,269,all_persons,2022-08-01,2022-08-31,Q22a1,leavers,6
+91 to 180 days,269,all_persons,2022-08-01,2022-08-31,Q22a1,stayers,263
+181 to 365 days,405,all_persons,2022-08-01,2022-08-31,Q22a1,leavers,0
+181 to 365 days,405,all_persons,2022-08-01,2022-08-31,Q22a1,stayers,405
+366 to 730 Days (1-2 Yrs),251,all_persons,2022-08-01,2022-08-31,Q22a1,leavers,0
+366 to 730 Days (1-2 Yrs),251,all_persons,2022-08-01,2022-08-31,Q22a1,stayers,251
+"731 to 1,095 Days (2-3 Yrs)",181,all_persons,2022-08-01,2022-08-31,Q22a1,leavers,0
+"731 to 1,095 Days (2-3 Yrs)",181,all_persons,2022-08-01,2022-08-31,Q22a1,stayers,181
+"1,096 to 1,460 Days (3-4 Yrs)",207,all_persons,2022-08-01,2022-08-31,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",207,all_persons,2022-08-01,2022-08-31,Q22a1,stayers,207
+"1,461 to 1,825 Days (5-5 Yrs)",64,all_persons,2022-08-01,2022-08-31,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",64,all_persons,2022-08-01,2022-08-31,Q22a1,stayers,64
+"More than 1,825 Days (>5 Yrs)",74,all_persons,2022-08-01,2022-08-31,Q22a1,leavers,0
+"More than 1,825 Days (>5 Yrs)",74,all_persons,2022-08-01,2022-08-31,Q22a1,stayers,74
+Data Not Collected,0,all_persons,2022-08-01,2022-08-31,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2022-08-01,2022-08-31,Q22a1,stayers,0

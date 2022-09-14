@@ -1,0 +1,53 @@
+time_prior_to_housing,total,population,start_date,end_date,question,household_type,count
+7 days or less,50,all_persons,2020-08-01,2020-08-31,Q22e,without_children,32
+7 days or less,50,all_persons,2020-08-01,2020-08-31,Q22e,with_children_and_adults,18
+7 days or less,50,all_persons,2020-08-01,2020-08-31,Q22e,with_only_children,0
+7 days or less,50,all_persons,2020-08-01,2020-08-31,Q22e,unknown_household_type,0
+8 to 14 days,7,all_persons,2020-08-01,2020-08-31,Q22e,without_children,4
+8 to 14 days,7,all_persons,2020-08-01,2020-08-31,Q22e,with_children_and_adults,3
+8 to 14 days,7,all_persons,2020-08-01,2020-08-31,Q22e,with_only_children,0
+8 to 14 days,7,all_persons,2020-08-01,2020-08-31,Q22e,unknown_household_type,0
+15 to 21 days,6,all_persons,2020-08-01,2020-08-31,Q22e,without_children,3
+15 to 21 days,6,all_persons,2020-08-01,2020-08-31,Q22e,with_children_and_adults,3
+15 to 21 days,6,all_persons,2020-08-01,2020-08-31,Q22e,with_only_children,0
+15 to 21 days,6,all_persons,2020-08-01,2020-08-31,Q22e,unknown_household_type,0
+22 to 30 days,6,all_persons,2020-08-01,2020-08-31,Q22e,without_children,1
+22 to 30 days,6,all_persons,2020-08-01,2020-08-31,Q22e,with_children_and_adults,5
+22 to 30 days,6,all_persons,2020-08-01,2020-08-31,Q22e,with_only_children,0
+22 to 30 days,6,all_persons,2020-08-01,2020-08-31,Q22e,unknown_household_type,0
+31 to 60 days,20,all_persons,2020-08-01,2020-08-31,Q22e,without_children,12
+31 to 60 days,20,all_persons,2020-08-01,2020-08-31,Q22e,with_children_and_adults,8
+31 to 60 days,20,all_persons,2020-08-01,2020-08-31,Q22e,with_only_children,0
+31 to 60 days,20,all_persons,2020-08-01,2020-08-31,Q22e,unknown_household_type,0
+61 to 180 days,39,all_persons,2020-08-01,2020-08-31,Q22e,without_children,21
+61 to 180 days,39,all_persons,2020-08-01,2020-08-31,Q22e,with_children_and_adults,18
+61 to 180 days,39,all_persons,2020-08-01,2020-08-31,Q22e,with_only_children,0
+61 to 180 days,39,all_persons,2020-08-01,2020-08-31,Q22e,unknown_household_type,0
+181 to 365 days,19,all_persons,2020-08-01,2020-08-31,Q22e,without_children,13
+181 to 365 days,19,all_persons,2020-08-01,2020-08-31,Q22e,with_children_and_adults,6
+181 to 365 days,19,all_persons,2020-08-01,2020-08-31,Q22e,with_only_children,0
+181 to 365 days,19,all_persons,2020-08-01,2020-08-31,Q22e,unknown_household_type,0
+366-730 days (1-2 years),24,all_persons,2020-08-01,2020-08-31,Q22e,without_children,22
+366-730 days (1-2 years),24,all_persons,2020-08-01,2020-08-31,Q22e,with_children_and_adults,2
+366-730 days (1-2 years),24,all_persons,2020-08-01,2020-08-31,Q22e,with_only_children,0
+366-730 days (1-2 years),24,all_persons,2020-08-01,2020-08-31,Q22e,unknown_household_type,0
+731 days or more,53,all_persons,2020-08-01,2020-08-31,Q22e,without_children,42
+731 days or more,53,all_persons,2020-08-01,2020-08-31,Q22e,with_children_and_adults,11
+731 days or more,53,all_persons,2020-08-01,2020-08-31,Q22e,with_only_children,0
+731 days or more,53,all_persons,2020-08-01,2020-08-31,Q22e,unknown_household_type,0
+Total (persons moved into housing),224,all_persons,2020-08-01,2020-08-31,Q22e,without_children,150
+Total (persons moved into housing),224,all_persons,2020-08-01,2020-08-31,Q22e,with_children_and_adults,74
+Total (persons moved into housing),224,all_persons,2020-08-01,2020-08-31,Q22e,with_only_children,0
+Total (persons moved into housing),224,all_persons,2020-08-01,2020-08-31,Q22e,unknown_household_type,0
+Not yet moved into housing,35,all_persons,2020-08-01,2020-08-31,Q22e,without_children,21
+Not yet moved into housing,35,all_persons,2020-08-01,2020-08-31,Q22e,with_children_and_adults,14
+Not yet moved into housing,35,all_persons,2020-08-01,2020-08-31,Q22e,with_only_children,0
+Not yet moved into housing,35,all_persons,2020-08-01,2020-08-31,Q22e,unknown_household_type,0
+Data not collected,10,all_persons,2020-08-01,2020-08-31,Q22e,without_children,9
+Data not collected,10,all_persons,2020-08-01,2020-08-31,Q22e,with_children_and_adults,1
+Data not collected,10,all_persons,2020-08-01,2020-08-31,Q22e,with_only_children,0
+Data not collected,10,all_persons,2020-08-01,2020-08-31,Q22e,unknown_household_type,0
+Total persons,269,all_persons,2020-08-01,2020-08-31,Q22e,without_children,180
+Total persons,269,all_persons,2020-08-01,2020-08-31,Q22e,with_children_and_adults,89
+Total persons,269,all_persons,2020-08-01,2020-08-31,Q22e,with_only_children,0
+Total persons,269,all_persons,2020-08-01,2020-08-31,Q22e,unknown_household_type,0

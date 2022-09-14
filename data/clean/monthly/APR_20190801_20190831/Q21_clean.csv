@@ -1,0 +1,49 @@
+health_insurance,population,start_date,end_date,question,status,count
+MEDICAID,all_persons,2019-08-01,2019-08-31,Q21,at_start,561
+MEDICAID,all_persons,2019-08-01,2019-08-31,Q21,at_annual_assessment_for_stayers,36
+MEDICAID,all_persons,2019-08-01,2019-08-31,Q21,at_exit_for_leavers,145
+MEDICARE,all_persons,2019-08-01,2019-08-31,Q21,at_start,93
+MEDICARE,all_persons,2019-08-01,2019-08-31,Q21,at_annual_assessment_for_stayers,17
+MEDICARE,all_persons,2019-08-01,2019-08-31,Q21,at_exit_for_leavers,20
+State Children's Health Insurance Program,all_persons,2019-08-01,2019-08-31,Q21,at_start,8
+State Children's Health Insurance Program,all_persons,2019-08-01,2019-08-31,Q21,at_annual_assessment_for_stayers,0
+State Children's Health Insurance Program,all_persons,2019-08-01,2019-08-31,Q21,at_exit_for_leavers,2
+Veteran's Administration (VA) Medical Services,all_persons,2019-08-01,2019-08-31,Q21,at_start,21
+Veteran's Administration (VA) Medical Services,all_persons,2019-08-01,2019-08-31,Q21,at_annual_assessment_for_stayers,14
+Veteran's Administration (VA) Medical Services,all_persons,2019-08-01,2019-08-31,Q21,at_exit_for_leavers,5
+Employer - Provided Health Insurance,all_persons,2019-08-01,2019-08-31,Q21,at_start,34
+Employer - Provided Health Insurance,all_persons,2019-08-01,2019-08-31,Q21,at_annual_assessment_for_stayers,0
+Employer - Provided Health Insurance,all_persons,2019-08-01,2019-08-31,Q21,at_exit_for_leavers,8
+Health Insurance obtained through COBRA,all_persons,2019-08-01,2019-08-31,Q21,at_start,2
+Health Insurance obtained through COBRA,all_persons,2019-08-01,2019-08-31,Q21,at_annual_assessment_for_stayers,0
+Health Insurance obtained through COBRA,all_persons,2019-08-01,2019-08-31,Q21,at_exit_for_leavers,1
+Private Pay Health Insurance,all_persons,2019-08-01,2019-08-31,Q21,at_start,37
+Private Pay Health Insurance,all_persons,2019-08-01,2019-08-31,Q21,at_annual_assessment_for_stayers,2
+Private Pay Health Insurance,all_persons,2019-08-01,2019-08-31,Q21,at_exit_for_leavers,6
+State Health Insurance for Adults,all_persons,2019-08-01,2019-08-31,Q21,at_start,11
+State Health Insurance for Adults,all_persons,2019-08-01,2019-08-31,Q21,at_annual_assessment_for_stayers,1
+State Health Insurance for Adults,all_persons,2019-08-01,2019-08-31,Q21,at_exit_for_leavers,6
+Indian Health Services Program,all_persons,2019-08-01,2019-08-31,Q21,at_start,4
+Indian Health Services Program,all_persons,2019-08-01,2019-08-31,Q21,at_annual_assessment_for_stayers,0
+Indian Health Services Program,all_persons,2019-08-01,2019-08-31,Q21,at_exit_for_leavers,2
+Other,all_persons,2019-08-01,2019-08-31,Q21,at_start,5
+Other,all_persons,2019-08-01,2019-08-31,Q21,at_annual_assessment_for_stayers,0
+Other,all_persons,2019-08-01,2019-08-31,Q21,at_exit_for_leavers,2
+No Health Insurance,all_persons,2019-08-01,2019-08-31,Q21,at_start,355
+No Health Insurance,all_persons,2019-08-01,2019-08-31,Q21,at_annual_assessment_for_stayers,14
+No Health Insurance,all_persons,2019-08-01,2019-08-31,Q21,at_exit_for_leavers,139
+Client Doesn't Know/Client Refused,all_persons,2019-08-01,2019-08-31,Q21,at_start,1
+Client Doesn't Know/Client Refused,all_persons,2019-08-01,2019-08-31,Q21,at_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2019-08-01,2019-08-31,Q21,at_exit_for_leavers,1
+Data Not Collected,all_persons,2019-08-01,2019-08-31,Q21,at_start,59
+Data Not Collected,all_persons,2019-08-01,2019-08-31,Q21,at_annual_assessment_for_stayers,104
+Data Not Collected,all_persons,2019-08-01,2019-08-31,Q21,at_exit_for_leavers,8
+Number of Stayers not yet Required To Have an Annual Assessment,all_persons,2019-08-01,2019-08-31,Q21,at_start,0
+Number of Stayers not yet Required To Have an Annual Assessment,all_persons,2019-08-01,2019-08-31,Q21,at_annual_assessment_for_stayers,616
+Number of Stayers not yet Required To Have an Annual Assessment,all_persons,2019-08-01,2019-08-31,Q21,at_exit_for_leavers,0
+1 Source of Health Insurance,all_persons,2019-08-01,2019-08-31,Q21,at_start,593
+1 Source of Health Insurance,all_persons,2019-08-01,2019-08-31,Q21,at_annual_assessment_for_stayers,42
+1 Source of Health Insurance,all_persons,2019-08-01,2019-08-31,Q21,at_exit_for_leavers,143
+More than 1 Source of Health Insurance,all_persons,2019-08-01,2019-08-31,Q21,at_start,78
+More than 1 Source of Health Insurance,all_persons,2019-08-01,2019-08-31,Q21,at_annual_assessment_for_stayers,13
+More than 1 Source of Health Insurance,all_persons,2019-08-01,2019-08-31,Q21,at_exit_for_leavers,19

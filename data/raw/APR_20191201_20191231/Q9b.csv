@@ -1,0 +1,7 @@
+"""Number of Persons Engaged""", "All Persons Contacted" , "First contact - NOT staying on the Streets, ES, or SH" , "First contact - WAS staying on the Streets, ES, or SH" , "First contact - Worker unable to determine"
+"""Once""",3,0,3,0
+"""2-5 Contacts""",1,0,1,0
+"""6-9 Contacts""",0,0,0,0
+"""10+ Contacts""",0,0,0,0
+"""Total Persons Engaged""",4,0,4,0
+"""Rate of Engagement""",0.29,0.0,0.31,0.0

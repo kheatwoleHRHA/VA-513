@@ -1,0 +1,17 @@
+, "Income at Start" , "Income at Latest Annual Assessment for Stayers" , "Income at Exit for Leavers"
+"""Earned Income""",214,8,52
+"""Unemployment Insurance""",3,0,0
+"""Supplemental Security Income (SSI)""",102,21,22
+"""Social Security Disability Insurance (SSDI)""",80,11,13
+"""VA Service - Connected Disability Compensation""",10,5,1
+"""VA Non-Service Connected Disability Pension""",4,2,0
+"""Private Disability Insurance""",1,0,1
+"""Worker's Compensation""",0,0,0
+"""Temporary Assistance for Needy Families (TANF)""",12,1,1
+"""General Assistance (GA)""",0,0,0
+"""Retirement Income from Social Security""",17,3,4
+"""Pension or retirement income from a former job""",7,1,2
+"""Child Support""",15,0,7
+"""Alimony and other spousal support""",1,0,0
+"""Other Source""",9,0,0
+"""Adults with Income Information at Start and Annual Assessment/Exit""",0,60,0

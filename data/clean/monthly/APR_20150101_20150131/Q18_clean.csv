@@ -1,0 +1,34 @@
+number_of_adults_by_income_category,population,start_date,end_date,question,status,count
+"Adults with Only Earned Income (ie.e, Employment Income)",all_persons,2015-01-01,2015-01-31,Q18,number_of_adults_at_start,92
+"Adults with Only Earned Income (ie.e, Employment Income)",all_persons,2015-01-01,2015-01-31,Q18,number_of_adults_at_annual_assessment_stayers,1
+"Adults with Only Earned Income (ie.e, Employment Income)",all_persons,2015-01-01,2015-01-31,Q18,number_of_adults_at_exit_leavers,33
+Adults with Only Other Income,all_persons,2015-01-01,2015-01-31,Q18,number_of_adults_at_start,114
+Adults with Only Other Income,all_persons,2015-01-01,2015-01-31,Q18,number_of_adults_at_annual_assessment_stayers,7
+Adults with Only Other Income,all_persons,2015-01-01,2015-01-31,Q18,number_of_adults_at_exit_leavers,31
+Adults with Both Earned and Other Income,all_persons,2015-01-01,2015-01-31,Q18,number_of_adults_at_start,16
+Adults with Both Earned and Other Income,all_persons,2015-01-01,2015-01-31,Q18,number_of_adults_at_annual_assessment_stayers,1
+Adults with Both Earned and Other Income,all_persons,2015-01-01,2015-01-31,Q18,number_of_adults_at_exit_leavers,3
+Adults with No Income,all_persons,2015-01-01,2015-01-31,Q18,number_of_adults_at_start,217
+Adults with No Income,all_persons,2015-01-01,2015-01-31,Q18,number_of_adults_at_annual_assessment_stayers,2
+Adults with No Income,all_persons,2015-01-01,2015-01-31,Q18,number_of_adults_at_exit_leavers,74
+Adults with Client Doesn't Know/Client Refused Income Information,all_persons,2015-01-01,2015-01-31,Q18,number_of_adults_at_start,1
+Adults with Client Doesn't Know/Client Refused Income Information,all_persons,2015-01-01,2015-01-31,Q18,number_of_adults_at_annual_assessment_stayers,0
+Adults with Client Doesn't Know/Client Refused Income Information,all_persons,2015-01-01,2015-01-31,Q18,number_of_adults_at_exit_leavers,1
+Adults with Missing Income Information,all_persons,2015-01-01,2015-01-31,Q18,number_of_adults_at_start,4
+Adults with Missing Income Information,all_persons,2015-01-01,2015-01-31,Q18,number_of_adults_at_annual_assessment_stayers,0
+Adults with Missing Income Information,all_persons,2015-01-01,2015-01-31,Q18,number_of_adults_at_exit_leavers,0
+Number of Adult Stayers not yet Required to Have an Annual Assessment,all_persons,2015-01-01,2015-01-31,Q18,number_of_adults_at_start,0
+Number of Adult Stayers not yet Required to Have an Annual Assessment,all_persons,2015-01-01,2015-01-31,Q18,number_of_adults_at_annual_assessment_stayers,210
+Number of Adult Stayers not yet Required to Have an Annual Assessment,all_persons,2015-01-01,2015-01-31,Q18,number_of_adults_at_exit_leavers,0
+Number of Adult Stayers without Required Annual Assessment,all_persons,2015-01-01,2015-01-31,Q18,number_of_adults_at_start,0
+Number of Adult Stayers without Required Annual Assessment,all_persons,2015-01-01,2015-01-31,Q18,number_of_adults_at_annual_assessment_stayers,81
+Number of Adult Stayers without Required Annual Assessment,all_persons,2015-01-01,2015-01-31,Q18,number_of_adults_at_exit_leavers,0
+Total Adults,all_persons,2015-01-01,2015-01-31,Q18,number_of_adults_at_start,444
+Total Adults,all_persons,2015-01-01,2015-01-31,Q18,number_of_adults_at_annual_assessment_stayers,302
+Total Adults,all_persons,2015-01-01,2015-01-31,Q18,number_of_adults_at_exit_leavers,142
+1 or More Source of Income,all_persons,2015-01-01,2015-01-31,Q18,number_of_adults_at_start,236
+1 or More Source of Income,all_persons,2015-01-01,2015-01-31,Q18,number_of_adults_at_annual_assessment_stayers,9
+1 or More Source of Income,all_persons,2015-01-01,2015-01-31,Q18,number_of_adults_at_exit_leavers,70
+Adults with Income Information at Start and Annual Assessment/Exit,all_persons,2015-01-01,2015-01-31,Q18,number_of_adults_at_start,0
+Adults with Income Information at Start and Annual Assessment/Exit,all_persons,2015-01-01,2015-01-31,Q18,number_of_adults_at_annual_assessment_stayers,11
+Adults with Income Information at Start and Annual Assessment/Exit,all_persons,2015-01-01,2015-01-31,Q18,number_of_adults_at_exit_leavers,0

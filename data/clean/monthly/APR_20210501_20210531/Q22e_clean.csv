@@ -1,0 +1,53 @@
+time_prior_to_housing,total,population,start_date,end_date,question,household_type,count
+7 days or less,90,all_persons,2021-05-01,2021-05-31,Q22e,without_children,58
+7 days or less,90,all_persons,2021-05-01,2021-05-31,Q22e,with_children_and_adults,31
+7 days or less,90,all_persons,2021-05-01,2021-05-31,Q22e,with_only_children,1
+7 days or less,90,all_persons,2021-05-01,2021-05-31,Q22e,unknown_household_type,0
+8 to 14 days,12,all_persons,2021-05-01,2021-05-31,Q22e,without_children,12
+8 to 14 days,12,all_persons,2021-05-01,2021-05-31,Q22e,with_children_and_adults,0
+8 to 14 days,12,all_persons,2021-05-01,2021-05-31,Q22e,with_only_children,0
+8 to 14 days,12,all_persons,2021-05-01,2021-05-31,Q22e,unknown_household_type,0
+15 to 21 days,8,all_persons,2021-05-01,2021-05-31,Q22e,without_children,8
+15 to 21 days,8,all_persons,2021-05-01,2021-05-31,Q22e,with_children_and_adults,0
+15 to 21 days,8,all_persons,2021-05-01,2021-05-31,Q22e,with_only_children,0
+15 to 21 days,8,all_persons,2021-05-01,2021-05-31,Q22e,unknown_household_type,0
+22 to 30 days,6,all_persons,2021-05-01,2021-05-31,Q22e,without_children,4
+22 to 30 days,6,all_persons,2021-05-01,2021-05-31,Q22e,with_children_and_adults,2
+22 to 30 days,6,all_persons,2021-05-01,2021-05-31,Q22e,with_only_children,0
+22 to 30 days,6,all_persons,2021-05-01,2021-05-31,Q22e,unknown_household_type,0
+31 to 60 days,26,all_persons,2021-05-01,2021-05-31,Q22e,without_children,18
+31 to 60 days,26,all_persons,2021-05-01,2021-05-31,Q22e,with_children_and_adults,8
+31 to 60 days,26,all_persons,2021-05-01,2021-05-31,Q22e,with_only_children,0
+31 to 60 days,26,all_persons,2021-05-01,2021-05-31,Q22e,unknown_household_type,0
+61 to 180 days,59,all_persons,2021-05-01,2021-05-31,Q22e,without_children,28
+61 to 180 days,59,all_persons,2021-05-01,2021-05-31,Q22e,with_children_and_adults,31
+61 to 180 days,59,all_persons,2021-05-01,2021-05-31,Q22e,with_only_children,0
+61 to 180 days,59,all_persons,2021-05-01,2021-05-31,Q22e,unknown_household_type,0
+181 to 365 days,32,all_persons,2021-05-01,2021-05-31,Q22e,without_children,17
+181 to 365 days,32,all_persons,2021-05-01,2021-05-31,Q22e,with_children_and_adults,15
+181 to 365 days,32,all_persons,2021-05-01,2021-05-31,Q22e,with_only_children,0
+181 to 365 days,32,all_persons,2021-05-01,2021-05-31,Q22e,unknown_household_type,0
+366-730 days (1-2 years),28,all_persons,2021-05-01,2021-05-31,Q22e,without_children,27
+366-730 days (1-2 years),28,all_persons,2021-05-01,2021-05-31,Q22e,with_children_and_adults,1
+366-730 days (1-2 years),28,all_persons,2021-05-01,2021-05-31,Q22e,with_only_children,0
+366-730 days (1-2 years),28,all_persons,2021-05-01,2021-05-31,Q22e,unknown_household_type,0
+731 days or more,60,all_persons,2021-05-01,2021-05-31,Q22e,without_children,45
+731 days or more,60,all_persons,2021-05-01,2021-05-31,Q22e,with_children_and_adults,15
+731 days or more,60,all_persons,2021-05-01,2021-05-31,Q22e,with_only_children,0
+731 days or more,60,all_persons,2021-05-01,2021-05-31,Q22e,unknown_household_type,0
+Total (persons moved into housing),321,all_persons,2021-05-01,2021-05-31,Q22e,without_children,217
+Total (persons moved into housing),321,all_persons,2021-05-01,2021-05-31,Q22e,with_children_and_adults,103
+Total (persons moved into housing),321,all_persons,2021-05-01,2021-05-31,Q22e,with_only_children,1
+Total (persons moved into housing),321,all_persons,2021-05-01,2021-05-31,Q22e,unknown_household_type,0
+Not yet moved into housing,23,all_persons,2021-05-01,2021-05-31,Q22e,without_children,18
+Not yet moved into housing,23,all_persons,2021-05-01,2021-05-31,Q22e,with_children_and_adults,5
+Not yet moved into housing,23,all_persons,2021-05-01,2021-05-31,Q22e,with_only_children,0
+Not yet moved into housing,23,all_persons,2021-05-01,2021-05-31,Q22e,unknown_household_type,0
+Data not collected,20,all_persons,2021-05-01,2021-05-31,Q22e,without_children,15
+Data not collected,20,all_persons,2021-05-01,2021-05-31,Q22e,with_children_and_adults,5
+Data not collected,20,all_persons,2021-05-01,2021-05-31,Q22e,with_only_children,0
+Data not collected,20,all_persons,2021-05-01,2021-05-31,Q22e,unknown_household_type,0
+Total persons,364,all_persons,2021-05-01,2021-05-31,Q22e,without_children,250
+Total persons,364,all_persons,2021-05-01,2021-05-31,Q22e,with_children_and_adults,113
+Total persons,364,all_persons,2021-05-01,2021-05-31,Q22e,with_only_children,1
+Total persons,364,all_persons,2021-05-01,2021-05-31,Q22e,unknown_household_type,0

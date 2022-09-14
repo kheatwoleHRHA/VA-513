@@ -1,0 +1,28 @@
+number_of_veterans_by_income_category,population,start_date,end_date,question,status,count
+"Veterans with Only Earned Income (i.e., Employment Income)",veterans,2020-11-01,2020-11-30,Q25f,number_of_veterans_at_start,3
+"Veterans with Only Earned Income (i.e., Employment Income)",veterans,2020-11-01,2020-11-30,Q25f,number_of_veterans_at_annual_assessment_stayers,1
+"Veterans with Only Earned Income (i.e., Employment Income)",veterans,2020-11-01,2020-11-30,Q25f,number_of_veterans_at_exit_leavers,0
+Veterans with Only Other Income,veterans,2020-11-01,2020-11-30,Q25f,number_of_veterans_at_start,23
+Veterans with Only Other Income,veterans,2020-11-01,2020-11-30,Q25f,number_of_veterans_at_annual_assessment_stayers,9
+Veterans with Only Other Income,veterans,2020-11-01,2020-11-30,Q25f,number_of_veterans_at_exit_leavers,4
+Veterans with Both Earned and Other Income,veterans,2020-11-01,2020-11-30,Q25f,number_of_veterans_at_start,2
+Veterans with Both Earned and Other Income,veterans,2020-11-01,2020-11-30,Q25f,number_of_veterans_at_annual_assessment_stayers,0
+Veterans with Both Earned and Other Income,veterans,2020-11-01,2020-11-30,Q25f,number_of_veterans_at_exit_leavers,0
+Veterans with No Income,veterans,2020-11-01,2020-11-30,Q25f,number_of_veterans_at_start,25
+Veterans with No Income,veterans,2020-11-01,2020-11-30,Q25f,number_of_veterans_at_annual_assessment_stayers,4
+Veterans with No Income,veterans,2020-11-01,2020-11-30,Q25f,number_of_veterans_at_exit_leavers,0
+Veterans with Client Doesn't Know/Client Refused Income Information,veterans,2020-11-01,2020-11-30,Q25f,number_of_veterans_at_start,0
+Veterans with Client Doesn't Know/Client Refused Income Information,veterans,2020-11-01,2020-11-30,Q25f,number_of_veterans_at_annual_assessment_stayers,0
+Veterans with Client Doesn't Know/Client Refused Income Information,veterans,2020-11-01,2020-11-30,Q25f,number_of_veterans_at_exit_leavers,0
+Veterans with Missing Income Information,veterans,2020-11-01,2020-11-30,Q25f,number_of_veterans_at_start,0
+Veterans with Missing Income Information,veterans,2020-11-01,2020-11-30,Q25f,number_of_veterans_at_annual_assessment_stayers,0
+Veterans with Missing Income Information,veterans,2020-11-01,2020-11-30,Q25f,number_of_veterans_at_exit_leavers,0
+Number of veterans not yet required to have an annual assessment,veterans,2020-11-01,2020-11-30,Q25f,number_of_veterans_at_start,0
+Number of veterans not yet required to have an annual assessment,veterans,2020-11-01,2020-11-30,Q25f,number_of_veterans_at_annual_assessment_stayers,30
+Number of veterans not yet required to have an annual assessment,veterans,2020-11-01,2020-11-30,Q25f,number_of_veterans_at_exit_leavers,0
+Number of veterans without required annual assessment,veterans,2020-11-01,2020-11-30,Q25f,number_of_veterans_at_start,0
+Number of veterans without required annual assessment,veterans,2020-11-01,2020-11-30,Q25f,number_of_veterans_at_annual_assessment_stayers,5
+Number of veterans without required annual assessment,veterans,2020-11-01,2020-11-30,Q25f,number_of_veterans_at_exit_leavers,0
+Total Veterans,veterans,2020-11-01,2020-11-30,Q25f,number_of_veterans_at_start,53
+Total Veterans,veterans,2020-11-01,2020-11-30,Q25f,number_of_veterans_at_annual_assessment_stayers,49
+Total Veterans,veterans,2020-11-01,2020-11-30,Q25f,number_of_veterans_at_exit_leavers,4

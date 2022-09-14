@@ -1,0 +1,25 @@
+conditions,total,adults_in_hh_with_children_and_adults,children_in_hh_with_children_and_adults,population,start_date,end_date,question,household_type,count
+Mental Health Disorder,54,5,1,all_persons,2019-04-01,2019-04-30,Q13b1,without_children,48
+Mental Health Disorder,54,5,1,all_persons,2019-04-01,2019-04-30,Q13b1,with_only_children,0
+Mental Health Disorder,54,5,1,all_persons,2019-04-01,2019-04-30,Q13b1,unknown_household_type,0
+Alcohol Use Disorder,5,0,0,all_persons,2019-04-01,2019-04-30,Q13b1,without_children,5
+Alcohol Use Disorder,5,0,0,all_persons,2019-04-01,2019-04-30,Q13b1,with_only_children,0
+Alcohol Use Disorder,5,0,0,all_persons,2019-04-01,2019-04-30,Q13b1,unknown_household_type,0
+Drug Use Disorder,4,0,0,all_persons,2019-04-01,2019-04-30,Q13b1,without_children,4
+Drug Use Disorder,4,0,0,all_persons,2019-04-01,2019-04-30,Q13b1,with_only_children,0
+Drug Use Disorder,4,0,0,all_persons,2019-04-01,2019-04-30,Q13b1,unknown_household_type,0
+Both Alcohol and Drug Use Disorders,10,1,0,all_persons,2019-04-01,2019-04-30,Q13b1,without_children,9
+Both Alcohol and Drug Use Disorders,10,1,0,all_persons,2019-04-01,2019-04-30,Q13b1,with_only_children,0
+Both Alcohol and Drug Use Disorders,10,1,0,all_persons,2019-04-01,2019-04-30,Q13b1,unknown_household_type,0
+Chronic Health Condition,21,4,0,all_persons,2019-04-01,2019-04-30,Q13b1,without_children,17
+Chronic Health Condition,21,4,0,all_persons,2019-04-01,2019-04-30,Q13b1,with_only_children,0
+Chronic Health Condition,21,4,0,all_persons,2019-04-01,2019-04-30,Q13b1,unknown_household_type,0
+HIV/AIDS,4,2,0,all_persons,2019-04-01,2019-04-30,Q13b1,without_children,2
+HIV/AIDS,4,2,0,all_persons,2019-04-01,2019-04-30,Q13b1,with_only_children,0
+HIV/AIDS,4,2,0,all_persons,2019-04-01,2019-04-30,Q13b1,unknown_household_type,0
+Development Disability,8,0,3,all_persons,2019-04-01,2019-04-30,Q13b1,without_children,5
+Development Disability,8,0,3,all_persons,2019-04-01,2019-04-30,Q13b1,with_only_children,0
+Development Disability,8,0,3,all_persons,2019-04-01,2019-04-30,Q13b1,unknown_household_type,0
+Physical Disability,39,1,0,all_persons,2019-04-01,2019-04-30,Q13b1,without_children,38
+Physical Disability,39,1,0,all_persons,2019-04-01,2019-04-30,Q13b1,with_only_children,0
+Physical Disability,39,1,0,all_persons,2019-04-01,2019-04-30,Q13b1,unknown_household_type,0

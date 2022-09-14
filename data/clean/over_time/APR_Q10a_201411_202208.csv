@@ -1,0 +1,1975 @@
+gender_identity,total,population,start_date,end_date,question,household_type,count
+Male,210,adults,2014-11-01,2014-11-30,Q10a,without_children,182
+Male,210,adults,2014-11-01,2014-11-30,Q10a,with_children_and_adults,28
+Male,210,adults,2014-11-01,2014-11-30,Q10a,unknown_household_type,0
+Female,197,adults,2014-11-01,2014-11-30,Q10a,without_children,122
+Female,197,adults,2014-11-01,2014-11-30,Q10a,with_children_and_adults,75
+Female,197,adults,2014-11-01,2014-11-30,Q10a,unknown_household_type,0
+No Single Gender,0,adults,2014-11-01,2014-11-30,Q10a,without_children,0
+No Single Gender,0,adults,2014-11-01,2014-11-30,Q10a,with_children_and_adults,0
+No Single Gender,0,adults,2014-11-01,2014-11-30,Q10a,unknown_household_type,0
+Questioning,0,adults,2014-11-01,2014-11-30,Q10a,without_children,0
+Questioning,0,adults,2014-11-01,2014-11-30,Q10a,with_children_and_adults,0
+Questioning,0,adults,2014-11-01,2014-11-30,Q10a,unknown_household_type,0
+Transgender,3,adults,2014-11-01,2014-11-30,Q10a,without_children,3
+Transgender,3,adults,2014-11-01,2014-11-30,Q10a,with_children_and_adults,0
+Transgender,3,adults,2014-11-01,2014-11-30,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2014-11-01,2014-11-30,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2014-11-01,2014-11-30,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2014-11-01,2014-11-30,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2014-11-01,2014-11-30,Q10a,without_children,0
+Data Not Collected,0,adults,2014-11-01,2014-11-30,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2014-11-01,2014-11-30,Q10a,unknown_household_type,0
+Male,227,adults,2014-12-01,2014-12-31,Q10a,without_children,191
+Male,227,adults,2014-12-01,2014-12-31,Q10a,with_children_and_adults,36
+Male,227,adults,2014-12-01,2014-12-31,Q10a,unknown_household_type,0
+Female,189,adults,2014-12-01,2014-12-31,Q10a,without_children,111
+Female,189,adults,2014-12-01,2014-12-31,Q10a,with_children_and_adults,78
+Female,189,adults,2014-12-01,2014-12-31,Q10a,unknown_household_type,0
+No Single Gender,0,adults,2014-12-01,2014-12-31,Q10a,without_children,0
+No Single Gender,0,adults,2014-12-01,2014-12-31,Q10a,with_children_and_adults,0
+No Single Gender,0,adults,2014-12-01,2014-12-31,Q10a,unknown_household_type,0
+Questioning,0,adults,2014-12-01,2014-12-31,Q10a,without_children,0
+Questioning,0,adults,2014-12-01,2014-12-31,Q10a,with_children_and_adults,0
+Questioning,0,adults,2014-12-01,2014-12-31,Q10a,unknown_household_type,0
+Transgender,3,adults,2014-12-01,2014-12-31,Q10a,without_children,3
+Transgender,3,adults,2014-12-01,2014-12-31,Q10a,with_children_and_adults,0
+Transgender,3,adults,2014-12-01,2014-12-31,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2014-12-01,2014-12-31,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2014-12-01,2014-12-31,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2014-12-01,2014-12-31,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2014-12-01,2014-12-31,Q10a,without_children,0
+Data Not Collected,0,adults,2014-12-01,2014-12-31,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2014-12-01,2014-12-31,Q10a,unknown_household_type,0
+Male,233,adults,2015-01-01,2015-01-31,Q10a,without_children,196
+Male,233,adults,2015-01-01,2015-01-31,Q10a,with_children_and_adults,37
+Male,233,adults,2015-01-01,2015-01-31,Q10a,unknown_household_type,0
+Female,208,adults,2015-01-01,2015-01-31,Q10a,without_children,122
+Female,208,adults,2015-01-01,2015-01-31,Q10a,with_children_and_adults,86
+Female,208,adults,2015-01-01,2015-01-31,Q10a,unknown_household_type,0
+No Single Gender,0,adults,2015-01-01,2015-01-31,Q10a,without_children,0
+No Single Gender,0,adults,2015-01-01,2015-01-31,Q10a,with_children_and_adults,0
+No Single Gender,0,adults,2015-01-01,2015-01-31,Q10a,unknown_household_type,0
+Questioning,0,adults,2015-01-01,2015-01-31,Q10a,without_children,0
+Questioning,0,adults,2015-01-01,2015-01-31,Q10a,with_children_and_adults,0
+Questioning,0,adults,2015-01-01,2015-01-31,Q10a,unknown_household_type,0
+Transgender,3,adults,2015-01-01,2015-01-31,Q10a,without_children,3
+Transgender,3,adults,2015-01-01,2015-01-31,Q10a,with_children_and_adults,0
+Transgender,3,adults,2015-01-01,2015-01-31,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2015-01-01,2015-01-31,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2015-01-01,2015-01-31,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2015-01-01,2015-01-31,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2015-01-01,2015-01-31,Q10a,without_children,0
+Data Not Collected,0,adults,2015-01-01,2015-01-31,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2015-01-01,2015-01-31,Q10a,unknown_household_type,0
+Male,239,adults,2015-02-01,2015-02-28,Q10a,without_children,203
+Male,239,adults,2015-02-01,2015-02-28,Q10a,with_children_and_adults,35
+Male,239,adults,2015-02-01,2015-02-28,Q10a,unknown_household_type,1
+Female,206,adults,2015-02-01,2015-02-28,Q10a,without_children,128
+Female,206,adults,2015-02-01,2015-02-28,Q10a,with_children_and_adults,78
+Female,206,adults,2015-02-01,2015-02-28,Q10a,unknown_household_type,0
+No Single Gender,0,adults,2015-02-01,2015-02-28,Q10a,without_children,0
+No Single Gender,0,adults,2015-02-01,2015-02-28,Q10a,with_children_and_adults,0
+No Single Gender,0,adults,2015-02-01,2015-02-28,Q10a,unknown_household_type,0
+Questioning,0,adults,2015-02-01,2015-02-28,Q10a,without_children,0
+Questioning,0,adults,2015-02-01,2015-02-28,Q10a,with_children_and_adults,0
+Questioning,0,adults,2015-02-01,2015-02-28,Q10a,unknown_household_type,0
+Transgender,3,adults,2015-02-01,2015-02-28,Q10a,without_children,3
+Transgender,3,adults,2015-02-01,2015-02-28,Q10a,with_children_and_adults,0
+Transgender,3,adults,2015-02-01,2015-02-28,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2015-02-01,2015-02-28,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2015-02-01,2015-02-28,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2015-02-01,2015-02-28,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2015-02-01,2015-02-28,Q10a,without_children,0
+Data Not Collected,0,adults,2015-02-01,2015-02-28,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2015-02-01,2015-02-28,Q10a,unknown_household_type,0
+Male,243,adults,2015-03-01,2015-03-31,Q10a,without_children,215
+Male,243,adults,2015-03-01,2015-03-31,Q10a,with_children_and_adults,27
+Male,243,adults,2015-03-01,2015-03-31,Q10a,unknown_household_type,1
+Female,193,adults,2015-03-01,2015-03-31,Q10a,without_children,122
+Female,193,adults,2015-03-01,2015-03-31,Q10a,with_children_and_adults,71
+Female,193,adults,2015-03-01,2015-03-31,Q10a,unknown_household_type,0
+No Single Gender,0,adults,2015-03-01,2015-03-31,Q10a,without_children,0
+No Single Gender,0,adults,2015-03-01,2015-03-31,Q10a,with_children_and_adults,0
+No Single Gender,0,adults,2015-03-01,2015-03-31,Q10a,unknown_household_type,0
+Questioning,0,adults,2015-03-01,2015-03-31,Q10a,without_children,0
+Questioning,0,adults,2015-03-01,2015-03-31,Q10a,with_children_and_adults,0
+Questioning,0,adults,2015-03-01,2015-03-31,Q10a,unknown_household_type,0
+Transgender,4,adults,2015-03-01,2015-03-31,Q10a,without_children,4
+Transgender,4,adults,2015-03-01,2015-03-31,Q10a,with_children_and_adults,0
+Transgender,4,adults,2015-03-01,2015-03-31,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2015-03-01,2015-03-31,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2015-03-01,2015-03-31,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2015-03-01,2015-03-31,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2015-03-01,2015-03-31,Q10a,without_children,0
+Data Not Collected,0,adults,2015-03-01,2015-03-31,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2015-03-01,2015-03-31,Q10a,unknown_household_type,0
+Male,229,adults,2015-04-01,2015-04-30,Q10a,without_children,206
+Male,229,adults,2015-04-01,2015-04-30,Q10a,with_children_and_adults,22
+Male,229,adults,2015-04-01,2015-04-30,Q10a,unknown_household_type,1
+Female,187,adults,2015-04-01,2015-04-30,Q10a,without_children,128
+Female,187,adults,2015-04-01,2015-04-30,Q10a,with_children_and_adults,59
+Female,187,adults,2015-04-01,2015-04-30,Q10a,unknown_household_type,0
+No Single Gender,0,adults,2015-04-01,2015-04-30,Q10a,without_children,0
+No Single Gender,0,adults,2015-04-01,2015-04-30,Q10a,with_children_and_adults,0
+No Single Gender,0,adults,2015-04-01,2015-04-30,Q10a,unknown_household_type,0
+Questioning,0,adults,2015-04-01,2015-04-30,Q10a,without_children,0
+Questioning,0,adults,2015-04-01,2015-04-30,Q10a,with_children_and_adults,0
+Questioning,0,adults,2015-04-01,2015-04-30,Q10a,unknown_household_type,0
+Transgender,4,adults,2015-04-01,2015-04-30,Q10a,without_children,4
+Transgender,4,adults,2015-04-01,2015-04-30,Q10a,with_children_and_adults,0
+Transgender,4,adults,2015-04-01,2015-04-30,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2015-04-01,2015-04-30,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2015-04-01,2015-04-30,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2015-04-01,2015-04-30,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2015-04-01,2015-04-30,Q10a,without_children,0
+Data Not Collected,0,adults,2015-04-01,2015-04-30,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2015-04-01,2015-04-30,Q10a,unknown_household_type,0
+Male,188,adults,2015-05-01,2015-05-31,Q10a,without_children,166
+Male,188,adults,2015-05-01,2015-05-31,Q10a,with_children_and_adults,21
+Male,188,adults,2015-05-01,2015-05-31,Q10a,unknown_household_type,1
+Female,160,adults,2015-05-01,2015-05-31,Q10a,without_children,99
+Female,160,adults,2015-05-01,2015-05-31,Q10a,with_children_and_adults,61
+Female,160,adults,2015-05-01,2015-05-31,Q10a,unknown_household_type,0
+No Single Gender,0,adults,2015-05-01,2015-05-31,Q10a,without_children,0
+No Single Gender,0,adults,2015-05-01,2015-05-31,Q10a,with_children_and_adults,0
+No Single Gender,0,adults,2015-05-01,2015-05-31,Q10a,unknown_household_type,0
+Questioning,0,adults,2015-05-01,2015-05-31,Q10a,without_children,0
+Questioning,0,adults,2015-05-01,2015-05-31,Q10a,with_children_and_adults,0
+Questioning,0,adults,2015-05-01,2015-05-31,Q10a,unknown_household_type,0
+Transgender,4,adults,2015-05-01,2015-05-31,Q10a,without_children,4
+Transgender,4,adults,2015-05-01,2015-05-31,Q10a,with_children_and_adults,0
+Transgender,4,adults,2015-05-01,2015-05-31,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2015-05-01,2015-05-31,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2015-05-01,2015-05-31,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2015-05-01,2015-05-31,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2015-05-01,2015-05-31,Q10a,without_children,0
+Data Not Collected,0,adults,2015-05-01,2015-05-31,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2015-05-01,2015-05-31,Q10a,unknown_household_type,0
+Male,203,adults,2015-06-01,2015-06-30,Q10a,without_children,171
+Male,203,adults,2015-06-01,2015-06-30,Q10a,with_children_and_adults,31
+Male,203,adults,2015-06-01,2015-06-30,Q10a,unknown_household_type,1
+Female,174,adults,2015-06-01,2015-06-30,Q10a,without_children,99
+Female,174,adults,2015-06-01,2015-06-30,Q10a,with_children_and_adults,75
+Female,174,adults,2015-06-01,2015-06-30,Q10a,unknown_household_type,0
+No Single Gender,0,adults,2015-06-01,2015-06-30,Q10a,without_children,0
+No Single Gender,0,adults,2015-06-01,2015-06-30,Q10a,with_children_and_adults,0
+No Single Gender,0,adults,2015-06-01,2015-06-30,Q10a,unknown_household_type,0
+Questioning,0,adults,2015-06-01,2015-06-30,Q10a,without_children,0
+Questioning,0,adults,2015-06-01,2015-06-30,Q10a,with_children_and_adults,0
+Questioning,0,adults,2015-06-01,2015-06-30,Q10a,unknown_household_type,0
+Transgender,4,adults,2015-06-01,2015-06-30,Q10a,without_children,4
+Transgender,4,adults,2015-06-01,2015-06-30,Q10a,with_children_and_adults,0
+Transgender,4,adults,2015-06-01,2015-06-30,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2015-06-01,2015-06-30,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2015-06-01,2015-06-30,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2015-06-01,2015-06-30,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2015-06-01,2015-06-30,Q10a,without_children,0
+Data Not Collected,0,adults,2015-06-01,2015-06-30,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2015-06-01,2015-06-30,Q10a,unknown_household_type,0
+Male,191,adults,2015-07-01,2015-07-31,Q10a,without_children,162
+Male,191,adults,2015-07-01,2015-07-31,Q10a,with_children_and_adults,28
+Male,191,adults,2015-07-01,2015-07-31,Q10a,unknown_household_type,1
+Female,184,adults,2015-07-01,2015-07-31,Q10a,without_children,103
+Female,184,adults,2015-07-01,2015-07-31,Q10a,with_children_and_adults,81
+Female,184,adults,2015-07-01,2015-07-31,Q10a,unknown_household_type,0
+No Single Gender,0,adults,2015-07-01,2015-07-31,Q10a,without_children,0
+No Single Gender,0,adults,2015-07-01,2015-07-31,Q10a,with_children_and_adults,0
+No Single Gender,0,adults,2015-07-01,2015-07-31,Q10a,unknown_household_type,0
+Questioning,0,adults,2015-07-01,2015-07-31,Q10a,without_children,0
+Questioning,0,adults,2015-07-01,2015-07-31,Q10a,with_children_and_adults,0
+Questioning,0,adults,2015-07-01,2015-07-31,Q10a,unknown_household_type,0
+Transgender,4,adults,2015-07-01,2015-07-31,Q10a,without_children,4
+Transgender,4,adults,2015-07-01,2015-07-31,Q10a,with_children_and_adults,0
+Transgender,4,adults,2015-07-01,2015-07-31,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2015-07-01,2015-07-31,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2015-07-01,2015-07-31,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2015-07-01,2015-07-31,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2015-07-01,2015-07-31,Q10a,without_children,0
+Data Not Collected,0,adults,2015-07-01,2015-07-31,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2015-07-01,2015-07-31,Q10a,unknown_household_type,0
+Male,187,adults,2015-08-01,2015-08-31,Q10a,without_children,158
+Male,187,adults,2015-08-01,2015-08-31,Q10a,with_children_and_adults,28
+Male,187,adults,2015-08-01,2015-08-31,Q10a,unknown_household_type,1
+Female,167,adults,2015-08-01,2015-08-31,Q10a,without_children,90
+Female,167,adults,2015-08-01,2015-08-31,Q10a,with_children_and_adults,77
+Female,167,adults,2015-08-01,2015-08-31,Q10a,unknown_household_type,0
+No Single Gender,0,adults,2015-08-01,2015-08-31,Q10a,without_children,0
+No Single Gender,0,adults,2015-08-01,2015-08-31,Q10a,with_children_and_adults,0
+No Single Gender,0,adults,2015-08-01,2015-08-31,Q10a,unknown_household_type,0
+Questioning,0,adults,2015-08-01,2015-08-31,Q10a,without_children,0
+Questioning,0,adults,2015-08-01,2015-08-31,Q10a,with_children_and_adults,0
+Questioning,0,adults,2015-08-01,2015-08-31,Q10a,unknown_household_type,0
+Transgender,4,adults,2015-08-01,2015-08-31,Q10a,without_children,4
+Transgender,4,adults,2015-08-01,2015-08-31,Q10a,with_children_and_adults,0
+Transgender,4,adults,2015-08-01,2015-08-31,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2015-08-01,2015-08-31,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2015-08-01,2015-08-31,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2015-08-01,2015-08-31,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2015-08-01,2015-08-31,Q10a,without_children,0
+Data Not Collected,0,adults,2015-08-01,2015-08-31,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2015-08-01,2015-08-31,Q10a,unknown_household_type,0
+Male,204,adults,2015-09-01,2015-09-30,Q10a,without_children,159
+Male,204,adults,2015-09-01,2015-09-30,Q10a,with_children_and_adults,44
+Male,204,adults,2015-09-01,2015-09-30,Q10a,unknown_household_type,1
+Female,197,adults,2015-09-01,2015-09-30,Q10a,without_children,92
+Female,197,adults,2015-09-01,2015-09-30,Q10a,with_children_and_adults,105
+Female,197,adults,2015-09-01,2015-09-30,Q10a,unknown_household_type,0
+No Single Gender,0,adults,2015-09-01,2015-09-30,Q10a,without_children,0
+No Single Gender,0,adults,2015-09-01,2015-09-30,Q10a,with_children_and_adults,0
+No Single Gender,0,adults,2015-09-01,2015-09-30,Q10a,unknown_household_type,0
+Questioning,0,adults,2015-09-01,2015-09-30,Q10a,without_children,0
+Questioning,0,adults,2015-09-01,2015-09-30,Q10a,with_children_and_adults,0
+Questioning,0,adults,2015-09-01,2015-09-30,Q10a,unknown_household_type,0
+Transgender,4,adults,2015-09-01,2015-09-30,Q10a,without_children,4
+Transgender,4,adults,2015-09-01,2015-09-30,Q10a,with_children_and_adults,0
+Transgender,4,adults,2015-09-01,2015-09-30,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2015-09-01,2015-09-30,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2015-09-01,2015-09-30,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2015-09-01,2015-09-30,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2015-09-01,2015-09-30,Q10a,without_children,0
+Data Not Collected,0,adults,2015-09-01,2015-09-30,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2015-09-01,2015-09-30,Q10a,unknown_household_type,0
+Male,216,adults,2015-10-01,2015-10-31,Q10a,without_children,168
+Male,216,adults,2015-10-01,2015-10-31,Q10a,with_children_and_adults,47
+Male,216,adults,2015-10-01,2015-10-31,Q10a,unknown_household_type,1
+Female,202,adults,2015-10-01,2015-10-31,Q10a,without_children,95
+Female,202,adults,2015-10-01,2015-10-31,Q10a,with_children_and_adults,107
+Female,202,adults,2015-10-01,2015-10-31,Q10a,unknown_household_type,0
+No Single Gender,0,adults,2015-10-01,2015-10-31,Q10a,without_children,0
+No Single Gender,0,adults,2015-10-01,2015-10-31,Q10a,with_children_and_adults,0
+No Single Gender,0,adults,2015-10-01,2015-10-31,Q10a,unknown_household_type,0
+Questioning,0,adults,2015-10-01,2015-10-31,Q10a,without_children,0
+Questioning,0,adults,2015-10-01,2015-10-31,Q10a,with_children_and_adults,0
+Questioning,0,adults,2015-10-01,2015-10-31,Q10a,unknown_household_type,0
+Transgender,4,adults,2015-10-01,2015-10-31,Q10a,without_children,4
+Transgender,4,adults,2015-10-01,2015-10-31,Q10a,with_children_and_adults,0
+Transgender,4,adults,2015-10-01,2015-10-31,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2015-10-01,2015-10-31,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2015-10-01,2015-10-31,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2015-10-01,2015-10-31,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2015-10-01,2015-10-31,Q10a,without_children,0
+Data Not Collected,0,adults,2015-10-01,2015-10-31,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2015-10-01,2015-10-31,Q10a,unknown_household_type,0
+Male,252,adults,2015-11-01,2015-11-30,Q10a,without_children,205
+Male,252,adults,2015-11-01,2015-11-30,Q10a,with_children_and_adults,46
+Male,252,adults,2015-11-01,2015-11-30,Q10a,unknown_household_type,1
+Female,197,adults,2015-11-01,2015-11-30,Q10a,without_children,107
+Female,197,adults,2015-11-01,2015-11-30,Q10a,with_children_and_adults,90
+Female,197,adults,2015-11-01,2015-11-30,Q10a,unknown_household_type,0
+No Single Gender,0,adults,2015-11-01,2015-11-30,Q10a,without_children,0
+No Single Gender,0,adults,2015-11-01,2015-11-30,Q10a,with_children_and_adults,0
+No Single Gender,0,adults,2015-11-01,2015-11-30,Q10a,unknown_household_type,0
+Questioning,0,adults,2015-11-01,2015-11-30,Q10a,without_children,0
+Questioning,0,adults,2015-11-01,2015-11-30,Q10a,with_children_and_adults,0
+Questioning,0,adults,2015-11-01,2015-11-30,Q10a,unknown_household_type,0
+Transgender,4,adults,2015-11-01,2015-11-30,Q10a,without_children,4
+Transgender,4,adults,2015-11-01,2015-11-30,Q10a,with_children_and_adults,0
+Transgender,4,adults,2015-11-01,2015-11-30,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2015-11-01,2015-11-30,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2015-11-01,2015-11-30,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2015-11-01,2015-11-30,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2015-11-01,2015-11-30,Q10a,without_children,0
+Data Not Collected,0,adults,2015-11-01,2015-11-30,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2015-11-01,2015-11-30,Q10a,unknown_household_type,0
+Male,247,adults,2015-12-01,2015-12-31,Q10a,without_children,205
+Male,247,adults,2015-12-01,2015-12-31,Q10a,with_children_and_adults,41
+Male,247,adults,2015-12-01,2015-12-31,Q10a,unknown_household_type,1
+Female,195,adults,2015-12-01,2015-12-31,Q10a,without_children,106
+Female,195,adults,2015-12-01,2015-12-31,Q10a,with_children_and_adults,89
+Female,195,adults,2015-12-01,2015-12-31,Q10a,unknown_household_type,0
+No Single Gender,0,adults,2015-12-01,2015-12-31,Q10a,without_children,0
+No Single Gender,0,adults,2015-12-01,2015-12-31,Q10a,with_children_and_adults,0
+No Single Gender,0,adults,2015-12-01,2015-12-31,Q10a,unknown_household_type,0
+Questioning,0,adults,2015-12-01,2015-12-31,Q10a,without_children,0
+Questioning,0,adults,2015-12-01,2015-12-31,Q10a,with_children_and_adults,0
+Questioning,0,adults,2015-12-01,2015-12-31,Q10a,unknown_household_type,0
+Transgender,4,adults,2015-12-01,2015-12-31,Q10a,without_children,4
+Transgender,4,adults,2015-12-01,2015-12-31,Q10a,with_children_and_adults,0
+Transgender,4,adults,2015-12-01,2015-12-31,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2015-12-01,2015-12-31,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2015-12-01,2015-12-31,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2015-12-01,2015-12-31,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2015-12-01,2015-12-31,Q10a,without_children,0
+Data Not Collected,0,adults,2015-12-01,2015-12-31,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2015-12-01,2015-12-31,Q10a,unknown_household_type,0
+Male,255,adults,2016-01-01,2016-01-31,Q10a,without_children,217
+Male,255,adults,2016-01-01,2016-01-31,Q10a,with_children_and_adults,37
+Male,255,adults,2016-01-01,2016-01-31,Q10a,unknown_household_type,1
+Female,190,adults,2016-01-01,2016-01-31,Q10a,without_children,108
+Female,190,adults,2016-01-01,2016-01-31,Q10a,with_children_and_adults,82
+Female,190,adults,2016-01-01,2016-01-31,Q10a,unknown_household_type,0
+No Single Gender,0,adults,2016-01-01,2016-01-31,Q10a,without_children,0
+No Single Gender,0,adults,2016-01-01,2016-01-31,Q10a,with_children_and_adults,0
+No Single Gender,0,adults,2016-01-01,2016-01-31,Q10a,unknown_household_type,0
+Questioning,0,adults,2016-01-01,2016-01-31,Q10a,without_children,0
+Questioning,0,adults,2016-01-01,2016-01-31,Q10a,with_children_and_adults,0
+Questioning,0,adults,2016-01-01,2016-01-31,Q10a,unknown_household_type,0
+Transgender,3,adults,2016-01-01,2016-01-31,Q10a,without_children,3
+Transgender,3,adults,2016-01-01,2016-01-31,Q10a,with_children_and_adults,0
+Transgender,3,adults,2016-01-01,2016-01-31,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2016-01-01,2016-01-31,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2016-01-01,2016-01-31,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2016-01-01,2016-01-31,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2016-01-01,2016-01-31,Q10a,without_children,0
+Data Not Collected,0,adults,2016-01-01,2016-01-31,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2016-01-01,2016-01-31,Q10a,unknown_household_type,0
+Male,252,adults,2016-02-01,2016-02-29,Q10a,without_children,218
+Male,252,adults,2016-02-01,2016-02-29,Q10a,with_children_and_adults,33
+Male,252,adults,2016-02-01,2016-02-29,Q10a,unknown_household_type,1
+Female,180,adults,2016-02-01,2016-02-29,Q10a,without_children,113
+Female,180,adults,2016-02-01,2016-02-29,Q10a,with_children_and_adults,67
+Female,180,adults,2016-02-01,2016-02-29,Q10a,unknown_household_type,0
+No Single Gender,0,adults,2016-02-01,2016-02-29,Q10a,without_children,0
+No Single Gender,0,adults,2016-02-01,2016-02-29,Q10a,with_children_and_adults,0
+No Single Gender,0,adults,2016-02-01,2016-02-29,Q10a,unknown_household_type,0
+Questioning,0,adults,2016-02-01,2016-02-29,Q10a,without_children,0
+Questioning,0,adults,2016-02-01,2016-02-29,Q10a,with_children_and_adults,0
+Questioning,0,adults,2016-02-01,2016-02-29,Q10a,unknown_household_type,0
+Transgender,3,adults,2016-02-01,2016-02-29,Q10a,without_children,3
+Transgender,3,adults,2016-02-01,2016-02-29,Q10a,with_children_and_adults,0
+Transgender,3,adults,2016-02-01,2016-02-29,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2016-02-01,2016-02-29,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2016-02-01,2016-02-29,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2016-02-01,2016-02-29,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2016-02-01,2016-02-29,Q10a,without_children,0
+Data Not Collected,0,adults,2016-02-01,2016-02-29,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2016-02-01,2016-02-29,Q10a,unknown_household_type,0
+Male,257,adults,2016-03-01,2016-03-31,Q10a,without_children,220
+Male,257,adults,2016-03-01,2016-03-31,Q10a,with_children_and_adults,36
+Male,257,adults,2016-03-01,2016-03-31,Q10a,unknown_household_type,1
+Female,188,adults,2016-03-01,2016-03-31,Q10a,without_children,119
+Female,188,adults,2016-03-01,2016-03-31,Q10a,with_children_and_adults,69
+Female,188,adults,2016-03-01,2016-03-31,Q10a,unknown_household_type,0
+No Single Gender,0,adults,2016-03-01,2016-03-31,Q10a,without_children,0
+No Single Gender,0,adults,2016-03-01,2016-03-31,Q10a,with_children_and_adults,0
+No Single Gender,0,adults,2016-03-01,2016-03-31,Q10a,unknown_household_type,0
+Questioning,0,adults,2016-03-01,2016-03-31,Q10a,without_children,0
+Questioning,0,adults,2016-03-01,2016-03-31,Q10a,with_children_and_adults,0
+Questioning,0,adults,2016-03-01,2016-03-31,Q10a,unknown_household_type,0
+Transgender,4,adults,2016-03-01,2016-03-31,Q10a,without_children,4
+Transgender,4,adults,2016-03-01,2016-03-31,Q10a,with_children_and_adults,0
+Transgender,4,adults,2016-03-01,2016-03-31,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2016-03-01,2016-03-31,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2016-03-01,2016-03-31,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2016-03-01,2016-03-31,Q10a,unknown_household_type,0
+Data Not Collected,1,adults,2016-03-01,2016-03-31,Q10a,without_children,0
+Data Not Collected,1,adults,2016-03-01,2016-03-31,Q10a,with_children_and_adults,1
+Data Not Collected,1,adults,2016-03-01,2016-03-31,Q10a,unknown_household_type,0
+Male,223,adults,2016-04-01,2016-04-30,Q10a,without_children,190
+Male,223,adults,2016-04-01,2016-04-30,Q10a,with_children_and_adults,32
+Male,223,adults,2016-04-01,2016-04-30,Q10a,unknown_household_type,1
+Female,175,adults,2016-04-01,2016-04-30,Q10a,without_children,100
+Female,175,adults,2016-04-01,2016-04-30,Q10a,with_children_and_adults,75
+Female,175,adults,2016-04-01,2016-04-30,Q10a,unknown_household_type,0
+No Single Gender,0,adults,2016-04-01,2016-04-30,Q10a,without_children,0
+No Single Gender,0,adults,2016-04-01,2016-04-30,Q10a,with_children_and_adults,0
+No Single Gender,0,adults,2016-04-01,2016-04-30,Q10a,unknown_household_type,0
+Questioning,0,adults,2016-04-01,2016-04-30,Q10a,without_children,0
+Questioning,0,adults,2016-04-01,2016-04-30,Q10a,with_children_and_adults,0
+Questioning,0,adults,2016-04-01,2016-04-30,Q10a,unknown_household_type,0
+Transgender,4,adults,2016-04-01,2016-04-30,Q10a,without_children,4
+Transgender,4,adults,2016-04-01,2016-04-30,Q10a,with_children_and_adults,0
+Transgender,4,adults,2016-04-01,2016-04-30,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2016-04-01,2016-04-30,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2016-04-01,2016-04-30,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2016-04-01,2016-04-30,Q10a,unknown_household_type,0
+Data Not Collected,1,adults,2016-04-01,2016-04-30,Q10a,without_children,0
+Data Not Collected,1,adults,2016-04-01,2016-04-30,Q10a,with_children_and_adults,1
+Data Not Collected,1,adults,2016-04-01,2016-04-30,Q10a,unknown_household_type,0
+Male,205,adults,2016-05-01,2016-05-31,Q10a,without_children,169
+Male,205,adults,2016-05-01,2016-05-31,Q10a,with_children_and_adults,34
+Male,205,adults,2016-05-01,2016-05-31,Q10a,unknown_household_type,2
+Female,173,adults,2016-05-01,2016-05-31,Q10a,without_children,93
+Female,173,adults,2016-05-01,2016-05-31,Q10a,with_children_and_adults,79
+Female,173,adults,2016-05-01,2016-05-31,Q10a,unknown_household_type,1
+No Single Gender,0,adults,2016-05-01,2016-05-31,Q10a,without_children,0
+No Single Gender,0,adults,2016-05-01,2016-05-31,Q10a,with_children_and_adults,0
+No Single Gender,0,adults,2016-05-01,2016-05-31,Q10a,unknown_household_type,0
+Questioning,0,adults,2016-05-01,2016-05-31,Q10a,without_children,0
+Questioning,0,adults,2016-05-01,2016-05-31,Q10a,with_children_and_adults,0
+Questioning,0,adults,2016-05-01,2016-05-31,Q10a,unknown_household_type,0
+Transgender,4,adults,2016-05-01,2016-05-31,Q10a,without_children,4
+Transgender,4,adults,2016-05-01,2016-05-31,Q10a,with_children_and_adults,0
+Transgender,4,adults,2016-05-01,2016-05-31,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2016-05-01,2016-05-31,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2016-05-01,2016-05-31,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2016-05-01,2016-05-31,Q10a,unknown_household_type,0
+Data Not Collected,1,adults,2016-05-01,2016-05-31,Q10a,without_children,0
+Data Not Collected,1,adults,2016-05-01,2016-05-31,Q10a,with_children_and_adults,1
+Data Not Collected,1,adults,2016-05-01,2016-05-31,Q10a,unknown_household_type,0
+Male,210,adults,2016-06-01,2016-06-30,Q10a,without_children,174
+Male,210,adults,2016-06-01,2016-06-30,Q10a,with_children_and_adults,34
+Male,210,adults,2016-06-01,2016-06-30,Q10a,unknown_household_type,2
+Female,165,adults,2016-06-01,2016-06-30,Q10a,without_children,88
+Female,165,adults,2016-06-01,2016-06-30,Q10a,with_children_and_adults,76
+Female,165,adults,2016-06-01,2016-06-30,Q10a,unknown_household_type,1
+No Single Gender,0,adults,2016-06-01,2016-06-30,Q10a,without_children,0
+No Single Gender,0,adults,2016-06-01,2016-06-30,Q10a,with_children_and_adults,0
+No Single Gender,0,adults,2016-06-01,2016-06-30,Q10a,unknown_household_type,0
+Questioning,0,adults,2016-06-01,2016-06-30,Q10a,without_children,0
+Questioning,0,adults,2016-06-01,2016-06-30,Q10a,with_children_and_adults,0
+Questioning,0,adults,2016-06-01,2016-06-30,Q10a,unknown_household_type,0
+Transgender,3,adults,2016-06-01,2016-06-30,Q10a,without_children,3
+Transgender,3,adults,2016-06-01,2016-06-30,Q10a,with_children_and_adults,0
+Transgender,3,adults,2016-06-01,2016-06-30,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2016-06-01,2016-06-30,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2016-06-01,2016-06-30,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2016-06-01,2016-06-30,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2016-06-01,2016-06-30,Q10a,without_children,0
+Data Not Collected,0,adults,2016-06-01,2016-06-30,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2016-06-01,2016-06-30,Q10a,unknown_household_type,0
+Male,230,adults,2016-07-01,2016-07-31,Q10a,without_children,186
+Male,230,adults,2016-07-01,2016-07-31,Q10a,with_children_and_adults,43
+Male,230,adults,2016-07-01,2016-07-31,Q10a,unknown_household_type,1
+Female,172,adults,2016-07-01,2016-07-31,Q10a,without_children,89
+Female,172,adults,2016-07-01,2016-07-31,Q10a,with_children_and_adults,83
+Female,172,adults,2016-07-01,2016-07-31,Q10a,unknown_household_type,0
+No Single Gender,0,adults,2016-07-01,2016-07-31,Q10a,without_children,0
+No Single Gender,0,adults,2016-07-01,2016-07-31,Q10a,with_children_and_adults,0
+No Single Gender,0,adults,2016-07-01,2016-07-31,Q10a,unknown_household_type,0
+Questioning,0,adults,2016-07-01,2016-07-31,Q10a,without_children,0
+Questioning,0,adults,2016-07-01,2016-07-31,Q10a,with_children_and_adults,0
+Questioning,0,adults,2016-07-01,2016-07-31,Q10a,unknown_household_type,0
+Transgender,4,adults,2016-07-01,2016-07-31,Q10a,without_children,4
+Transgender,4,adults,2016-07-01,2016-07-31,Q10a,with_children_and_adults,0
+Transgender,4,adults,2016-07-01,2016-07-31,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2016-07-01,2016-07-31,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2016-07-01,2016-07-31,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2016-07-01,2016-07-31,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2016-07-01,2016-07-31,Q10a,without_children,0
+Data Not Collected,0,adults,2016-07-01,2016-07-31,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2016-07-01,2016-07-31,Q10a,unknown_household_type,0
+Male,262,adults,2016-08-01,2016-08-31,Q10a,without_children,202
+Male,262,adults,2016-08-01,2016-08-31,Q10a,with_children_and_adults,59
+Male,262,adults,2016-08-01,2016-08-31,Q10a,unknown_household_type,1
+Female,213,adults,2016-08-01,2016-08-31,Q10a,without_children,96
+Female,213,adults,2016-08-01,2016-08-31,Q10a,with_children_and_adults,117
+Female,213,adults,2016-08-01,2016-08-31,Q10a,unknown_household_type,0
+No Single Gender,0,adults,2016-08-01,2016-08-31,Q10a,without_children,0
+No Single Gender,0,adults,2016-08-01,2016-08-31,Q10a,with_children_and_adults,0
+No Single Gender,0,adults,2016-08-01,2016-08-31,Q10a,unknown_household_type,0
+Questioning,0,adults,2016-08-01,2016-08-31,Q10a,without_children,0
+Questioning,0,adults,2016-08-01,2016-08-31,Q10a,with_children_and_adults,0
+Questioning,0,adults,2016-08-01,2016-08-31,Q10a,unknown_household_type,0
+Transgender,4,adults,2016-08-01,2016-08-31,Q10a,without_children,4
+Transgender,4,adults,2016-08-01,2016-08-31,Q10a,with_children_and_adults,0
+Transgender,4,adults,2016-08-01,2016-08-31,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2016-08-01,2016-08-31,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2016-08-01,2016-08-31,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2016-08-01,2016-08-31,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2016-08-01,2016-08-31,Q10a,without_children,0
+Data Not Collected,0,adults,2016-08-01,2016-08-31,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2016-08-01,2016-08-31,Q10a,unknown_household_type,0
+Male,251,adults,2016-09-01,2016-09-30,Q10a,without_children,188
+Male,251,adults,2016-09-01,2016-09-30,Q10a,with_children_and_adults,62
+Male,251,adults,2016-09-01,2016-09-30,Q10a,unknown_household_type,1
+Female,223,adults,2016-09-01,2016-09-30,Q10a,without_children,101
+Female,223,adults,2016-09-01,2016-09-30,Q10a,with_children_and_adults,122
+Female,223,adults,2016-09-01,2016-09-30,Q10a,unknown_household_type,0
+No Single Gender,0,adults,2016-09-01,2016-09-30,Q10a,without_children,0
+No Single Gender,0,adults,2016-09-01,2016-09-30,Q10a,with_children_and_adults,0
+No Single Gender,0,adults,2016-09-01,2016-09-30,Q10a,unknown_household_type,0
+Questioning,0,adults,2016-09-01,2016-09-30,Q10a,without_children,0
+Questioning,0,adults,2016-09-01,2016-09-30,Q10a,with_children_and_adults,0
+Questioning,0,adults,2016-09-01,2016-09-30,Q10a,unknown_household_type,0
+Transgender,4,adults,2016-09-01,2016-09-30,Q10a,without_children,4
+Transgender,4,adults,2016-09-01,2016-09-30,Q10a,with_children_and_adults,0
+Transgender,4,adults,2016-09-01,2016-09-30,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2016-09-01,2016-09-30,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2016-09-01,2016-09-30,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2016-09-01,2016-09-30,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2016-09-01,2016-09-30,Q10a,without_children,0
+Data Not Collected,0,adults,2016-09-01,2016-09-30,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2016-09-01,2016-09-30,Q10a,unknown_household_type,0
+Male,246,adults,2016-10-01,2016-10-31,Q10a,without_children,193
+Male,246,adults,2016-10-01,2016-10-31,Q10a,with_children_and_adults,52
+Male,246,adults,2016-10-01,2016-10-31,Q10a,unknown_household_type,1
+Female,195,adults,2016-10-01,2016-10-31,Q10a,without_children,92
+Female,195,adults,2016-10-01,2016-10-31,Q10a,with_children_and_adults,103
+Female,195,adults,2016-10-01,2016-10-31,Q10a,unknown_household_type,0
+No Single Gender,0,adults,2016-10-01,2016-10-31,Q10a,without_children,0
+No Single Gender,0,adults,2016-10-01,2016-10-31,Q10a,with_children_and_adults,0
+No Single Gender,0,adults,2016-10-01,2016-10-31,Q10a,unknown_household_type,0
+Questioning,0,adults,2016-10-01,2016-10-31,Q10a,without_children,0
+Questioning,0,adults,2016-10-01,2016-10-31,Q10a,with_children_and_adults,0
+Questioning,0,adults,2016-10-01,2016-10-31,Q10a,unknown_household_type,0
+Transgender,4,adults,2016-10-01,2016-10-31,Q10a,without_children,4
+Transgender,4,adults,2016-10-01,2016-10-31,Q10a,with_children_and_adults,0
+Transgender,4,adults,2016-10-01,2016-10-31,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2016-10-01,2016-10-31,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2016-10-01,2016-10-31,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2016-10-01,2016-10-31,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2016-10-01,2016-10-31,Q10a,without_children,0
+Data Not Collected,0,adults,2016-10-01,2016-10-31,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2016-10-01,2016-10-31,Q10a,unknown_household_type,0
+Male,275,adults,2016-11-01,2016-11-30,Q10a,without_children,229
+Male,275,adults,2016-11-01,2016-11-30,Q10a,with_children_and_adults,45
+Male,275,adults,2016-11-01,2016-11-30,Q10a,unknown_household_type,1
+Female,212,adults,2016-11-01,2016-11-30,Q10a,without_children,106
+Female,212,adults,2016-11-01,2016-11-30,Q10a,with_children_and_adults,106
+Female,212,adults,2016-11-01,2016-11-30,Q10a,unknown_household_type,0
+No Single Gender,0,adults,2016-11-01,2016-11-30,Q10a,without_children,0
+No Single Gender,0,adults,2016-11-01,2016-11-30,Q10a,with_children_and_adults,0
+No Single Gender,0,adults,2016-11-01,2016-11-30,Q10a,unknown_household_type,0
+Questioning,0,adults,2016-11-01,2016-11-30,Q10a,without_children,0
+Questioning,0,adults,2016-11-01,2016-11-30,Q10a,with_children_and_adults,0
+Questioning,0,adults,2016-11-01,2016-11-30,Q10a,unknown_household_type,0
+Transgender,4,adults,2016-11-01,2016-11-30,Q10a,without_children,4
+Transgender,4,adults,2016-11-01,2016-11-30,Q10a,with_children_and_adults,0
+Transgender,4,adults,2016-11-01,2016-11-30,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2016-11-01,2016-11-30,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2016-11-01,2016-11-30,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2016-11-01,2016-11-30,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2016-11-01,2016-11-30,Q10a,without_children,0
+Data Not Collected,0,adults,2016-11-01,2016-11-30,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2016-11-01,2016-11-30,Q10a,unknown_household_type,0
+Male,279,adults,2016-12-01,2016-12-31,Q10a,without_children,234
+Male,279,adults,2016-12-01,2016-12-31,Q10a,with_children_and_adults,44
+Male,279,adults,2016-12-01,2016-12-31,Q10a,unknown_household_type,1
+Female,213,adults,2016-12-01,2016-12-31,Q10a,without_children,105
+Female,213,adults,2016-12-01,2016-12-31,Q10a,with_children_and_adults,108
+Female,213,adults,2016-12-01,2016-12-31,Q10a,unknown_household_type,0
+No Single Gender,0,adults,2016-12-01,2016-12-31,Q10a,without_children,0
+No Single Gender,0,adults,2016-12-01,2016-12-31,Q10a,with_children_and_adults,0
+No Single Gender,0,adults,2016-12-01,2016-12-31,Q10a,unknown_household_type,0
+Questioning,0,adults,2016-12-01,2016-12-31,Q10a,without_children,0
+Questioning,0,adults,2016-12-01,2016-12-31,Q10a,with_children_and_adults,0
+Questioning,0,adults,2016-12-01,2016-12-31,Q10a,unknown_household_type,0
+Transgender,4,adults,2016-12-01,2016-12-31,Q10a,without_children,4
+Transgender,4,adults,2016-12-01,2016-12-31,Q10a,with_children_and_adults,0
+Transgender,4,adults,2016-12-01,2016-12-31,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2016-12-01,2016-12-31,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2016-12-01,2016-12-31,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2016-12-01,2016-12-31,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2016-12-01,2016-12-31,Q10a,without_children,0
+Data Not Collected,0,adults,2016-12-01,2016-12-31,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2016-12-01,2016-12-31,Q10a,unknown_household_type,0
+Male,292,adults,2017-01-01,2017-01-31,Q10a,without_children,245
+Male,292,adults,2017-01-01,2017-01-31,Q10a,with_children_and_adults,46
+Male,292,adults,2017-01-01,2017-01-31,Q10a,unknown_household_type,1
+Female,195,adults,2017-01-01,2017-01-31,Q10a,without_children,98
+Female,195,adults,2017-01-01,2017-01-31,Q10a,with_children_and_adults,97
+Female,195,adults,2017-01-01,2017-01-31,Q10a,unknown_household_type,0
+No Single Gender,0,adults,2017-01-01,2017-01-31,Q10a,without_children,0
+No Single Gender,0,adults,2017-01-01,2017-01-31,Q10a,with_children_and_adults,0
+No Single Gender,0,adults,2017-01-01,2017-01-31,Q10a,unknown_household_type,0
+Questioning,0,adults,2017-01-01,2017-01-31,Q10a,without_children,0
+Questioning,0,adults,2017-01-01,2017-01-31,Q10a,with_children_and_adults,0
+Questioning,0,adults,2017-01-01,2017-01-31,Q10a,unknown_household_type,0
+Transgender,4,adults,2017-01-01,2017-01-31,Q10a,without_children,4
+Transgender,4,adults,2017-01-01,2017-01-31,Q10a,with_children_and_adults,0
+Transgender,4,adults,2017-01-01,2017-01-31,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2017-01-01,2017-01-31,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2017-01-01,2017-01-31,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2017-01-01,2017-01-31,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2017-01-01,2017-01-31,Q10a,without_children,0
+Data Not Collected,0,adults,2017-01-01,2017-01-31,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2017-01-01,2017-01-31,Q10a,unknown_household_type,0
+Male,271,adults,2017-02-01,2017-02-28,Q10a,without_children,239
+Male,271,adults,2017-02-01,2017-02-28,Q10a,with_children_and_adults,31
+Male,271,adults,2017-02-01,2017-02-28,Q10a,unknown_household_type,1
+Female,172,adults,2017-02-01,2017-02-28,Q10a,without_children,100
+Female,172,adults,2017-02-01,2017-02-28,Q10a,with_children_and_adults,72
+Female,172,adults,2017-02-01,2017-02-28,Q10a,unknown_household_type,0
+No Single Gender,1,adults,2017-02-01,2017-02-28,Q10a,without_children,1
+No Single Gender,1,adults,2017-02-01,2017-02-28,Q10a,with_children_and_adults,0
+No Single Gender,1,adults,2017-02-01,2017-02-28,Q10a,unknown_household_type,0
+Questioning,0,adults,2017-02-01,2017-02-28,Q10a,without_children,0
+Questioning,0,adults,2017-02-01,2017-02-28,Q10a,with_children_and_adults,0
+Questioning,0,adults,2017-02-01,2017-02-28,Q10a,unknown_household_type,0
+Transgender,4,adults,2017-02-01,2017-02-28,Q10a,without_children,4
+Transgender,4,adults,2017-02-01,2017-02-28,Q10a,with_children_and_adults,0
+Transgender,4,adults,2017-02-01,2017-02-28,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2017-02-01,2017-02-28,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2017-02-01,2017-02-28,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2017-02-01,2017-02-28,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2017-02-01,2017-02-28,Q10a,without_children,0
+Data Not Collected,0,adults,2017-02-01,2017-02-28,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2017-02-01,2017-02-28,Q10a,unknown_household_type,0
+Male,265,adults,2017-03-01,2017-03-31,Q10a,without_children,240
+Male,265,adults,2017-03-01,2017-03-31,Q10a,with_children_and_adults,24
+Male,265,adults,2017-03-01,2017-03-31,Q10a,unknown_household_type,1
+Female,170,adults,2017-03-01,2017-03-31,Q10a,without_children,106
+Female,170,adults,2017-03-01,2017-03-31,Q10a,with_children_and_adults,64
+Female,170,adults,2017-03-01,2017-03-31,Q10a,unknown_household_type,0
+No Single Gender,0,adults,2017-03-01,2017-03-31,Q10a,without_children,0
+No Single Gender,0,adults,2017-03-01,2017-03-31,Q10a,with_children_and_adults,0
+No Single Gender,0,adults,2017-03-01,2017-03-31,Q10a,unknown_household_type,0
+Questioning,0,adults,2017-03-01,2017-03-31,Q10a,without_children,0
+Questioning,0,adults,2017-03-01,2017-03-31,Q10a,with_children_and_adults,0
+Questioning,0,adults,2017-03-01,2017-03-31,Q10a,unknown_household_type,0
+Transgender,4,adults,2017-03-01,2017-03-31,Q10a,without_children,4
+Transgender,4,adults,2017-03-01,2017-03-31,Q10a,with_children_and_adults,0
+Transgender,4,adults,2017-03-01,2017-03-31,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2017-03-01,2017-03-31,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2017-03-01,2017-03-31,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2017-03-01,2017-03-31,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2017-03-01,2017-03-31,Q10a,without_children,0
+Data Not Collected,0,adults,2017-03-01,2017-03-31,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2017-03-01,2017-03-31,Q10a,unknown_household_type,0
+Male,251,adults,2017-04-01,2017-04-30,Q10a,without_children,223
+Male,251,adults,2017-04-01,2017-04-30,Q10a,with_children_and_adults,27
+Male,251,adults,2017-04-01,2017-04-30,Q10a,unknown_household_type,1
+Female,152,adults,2017-04-01,2017-04-30,Q10a,without_children,91
+Female,152,adults,2017-04-01,2017-04-30,Q10a,with_children_and_adults,61
+Female,152,adults,2017-04-01,2017-04-30,Q10a,unknown_household_type,0
+No Single Gender,0,adults,2017-04-01,2017-04-30,Q10a,without_children,0
+No Single Gender,0,adults,2017-04-01,2017-04-30,Q10a,with_children_and_adults,0
+No Single Gender,0,adults,2017-04-01,2017-04-30,Q10a,unknown_household_type,0
+Questioning,0,adults,2017-04-01,2017-04-30,Q10a,without_children,0
+Questioning,0,adults,2017-04-01,2017-04-30,Q10a,with_children_and_adults,0
+Questioning,0,adults,2017-04-01,2017-04-30,Q10a,unknown_household_type,0
+Transgender,3,adults,2017-04-01,2017-04-30,Q10a,without_children,3
+Transgender,3,adults,2017-04-01,2017-04-30,Q10a,with_children_and_adults,0
+Transgender,3,adults,2017-04-01,2017-04-30,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2017-04-01,2017-04-30,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2017-04-01,2017-04-30,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2017-04-01,2017-04-30,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2017-04-01,2017-04-30,Q10a,without_children,0
+Data Not Collected,0,adults,2017-04-01,2017-04-30,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2017-04-01,2017-04-30,Q10a,unknown_household_type,0
+Male,218,adults,2017-05-01,2017-05-31,Q10a,without_children,187
+Male,218,adults,2017-05-01,2017-05-31,Q10a,with_children_and_adults,30
+Male,218,adults,2017-05-01,2017-05-31,Q10a,unknown_household_type,1
+Female,150,adults,2017-05-01,2017-05-31,Q10a,without_children,84
+Female,150,adults,2017-05-01,2017-05-31,Q10a,with_children_and_adults,66
+Female,150,adults,2017-05-01,2017-05-31,Q10a,unknown_household_type,0
+No Single Gender,0,adults,2017-05-01,2017-05-31,Q10a,without_children,0
+No Single Gender,0,adults,2017-05-01,2017-05-31,Q10a,with_children_and_adults,0
+No Single Gender,0,adults,2017-05-01,2017-05-31,Q10a,unknown_household_type,0
+Questioning,0,adults,2017-05-01,2017-05-31,Q10a,without_children,0
+Questioning,0,adults,2017-05-01,2017-05-31,Q10a,with_children_and_adults,0
+Questioning,0,adults,2017-05-01,2017-05-31,Q10a,unknown_household_type,0
+Transgender,2,adults,2017-05-01,2017-05-31,Q10a,without_children,2
+Transgender,2,adults,2017-05-01,2017-05-31,Q10a,with_children_and_adults,0
+Transgender,2,adults,2017-05-01,2017-05-31,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2017-05-01,2017-05-31,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2017-05-01,2017-05-31,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2017-05-01,2017-05-31,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2017-05-01,2017-05-31,Q10a,without_children,0
+Data Not Collected,0,adults,2017-05-01,2017-05-31,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2017-05-01,2017-05-31,Q10a,unknown_household_type,0
+Male,213,adults,2017-06-01,2017-06-30,Q10a,without_children,177
+Male,213,adults,2017-06-01,2017-06-30,Q10a,with_children_and_adults,35
+Male,213,adults,2017-06-01,2017-06-30,Q10a,unknown_household_type,1
+Female,171,adults,2017-06-01,2017-06-30,Q10a,without_children,92
+Female,171,adults,2017-06-01,2017-06-30,Q10a,with_children_and_adults,79
+Female,171,adults,2017-06-01,2017-06-30,Q10a,unknown_household_type,0
+No Single Gender,0,adults,2017-06-01,2017-06-30,Q10a,without_children,0
+No Single Gender,0,adults,2017-06-01,2017-06-30,Q10a,with_children_and_adults,0
+No Single Gender,0,adults,2017-06-01,2017-06-30,Q10a,unknown_household_type,0
+Questioning,0,adults,2017-06-01,2017-06-30,Q10a,without_children,0
+Questioning,0,adults,2017-06-01,2017-06-30,Q10a,with_children_and_adults,0
+Questioning,0,adults,2017-06-01,2017-06-30,Q10a,unknown_household_type,0
+Transgender,2,adults,2017-06-01,2017-06-30,Q10a,without_children,2
+Transgender,2,adults,2017-06-01,2017-06-30,Q10a,with_children_and_adults,0
+Transgender,2,adults,2017-06-01,2017-06-30,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2017-06-01,2017-06-30,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2017-06-01,2017-06-30,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2017-06-01,2017-06-30,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2017-06-01,2017-06-30,Q10a,without_children,0
+Data Not Collected,0,adults,2017-06-01,2017-06-30,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2017-06-01,2017-06-30,Q10a,unknown_household_type,0
+Male,227,adults,2017-07-01,2017-07-31,Q10a,without_children,185
+Male,227,adults,2017-07-01,2017-07-31,Q10a,with_children_and_adults,41
+Male,227,adults,2017-07-01,2017-07-31,Q10a,unknown_household_type,1
+Female,184,adults,2017-07-01,2017-07-31,Q10a,without_children,90
+Female,184,adults,2017-07-01,2017-07-31,Q10a,with_children_and_adults,94
+Female,184,adults,2017-07-01,2017-07-31,Q10a,unknown_household_type,0
+No Single Gender,0,adults,2017-07-01,2017-07-31,Q10a,without_children,0
+No Single Gender,0,adults,2017-07-01,2017-07-31,Q10a,with_children_and_adults,0
+No Single Gender,0,adults,2017-07-01,2017-07-31,Q10a,unknown_household_type,0
+Questioning,0,adults,2017-07-01,2017-07-31,Q10a,without_children,0
+Questioning,0,adults,2017-07-01,2017-07-31,Q10a,with_children_and_adults,0
+Questioning,0,adults,2017-07-01,2017-07-31,Q10a,unknown_household_type,0
+Transgender,1,adults,2017-07-01,2017-07-31,Q10a,without_children,1
+Transgender,1,adults,2017-07-01,2017-07-31,Q10a,with_children_and_adults,0
+Transgender,1,adults,2017-07-01,2017-07-31,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2017-07-01,2017-07-31,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2017-07-01,2017-07-31,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2017-07-01,2017-07-31,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2017-07-01,2017-07-31,Q10a,without_children,0
+Data Not Collected,0,adults,2017-07-01,2017-07-31,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2017-07-01,2017-07-31,Q10a,unknown_household_type,0
+Male,245,adults,2017-08-01,2017-08-31,Q10a,without_children,197
+Male,245,adults,2017-08-01,2017-08-31,Q10a,with_children_and_adults,47
+Male,245,adults,2017-08-01,2017-08-31,Q10a,unknown_household_type,1
+Female,196,adults,2017-08-01,2017-08-31,Q10a,without_children,99
+Female,196,adults,2017-08-01,2017-08-31,Q10a,with_children_and_adults,97
+Female,196,adults,2017-08-01,2017-08-31,Q10a,unknown_household_type,0
+No Single Gender,0,adults,2017-08-01,2017-08-31,Q10a,without_children,0
+No Single Gender,0,adults,2017-08-01,2017-08-31,Q10a,with_children_and_adults,0
+No Single Gender,0,adults,2017-08-01,2017-08-31,Q10a,unknown_household_type,0
+Questioning,0,adults,2017-08-01,2017-08-31,Q10a,without_children,0
+Questioning,0,adults,2017-08-01,2017-08-31,Q10a,with_children_and_adults,0
+Questioning,0,adults,2017-08-01,2017-08-31,Q10a,unknown_household_type,0
+Transgender,1,adults,2017-08-01,2017-08-31,Q10a,without_children,1
+Transgender,1,adults,2017-08-01,2017-08-31,Q10a,with_children_and_adults,0
+Transgender,1,adults,2017-08-01,2017-08-31,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2017-08-01,2017-08-31,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2017-08-01,2017-08-31,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2017-08-01,2017-08-31,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2017-08-01,2017-08-31,Q10a,without_children,0
+Data Not Collected,0,adults,2017-08-01,2017-08-31,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2017-08-01,2017-08-31,Q10a,unknown_household_type,0
+Male,231,adults,2017-09-01,2017-09-30,Q10a,without_children,195
+Male,231,adults,2017-09-01,2017-09-30,Q10a,with_children_and_adults,35
+Male,231,adults,2017-09-01,2017-09-30,Q10a,unknown_household_type,1
+Female,178,adults,2017-09-01,2017-09-30,Q10a,without_children,97
+Female,178,adults,2017-09-01,2017-09-30,Q10a,with_children_and_adults,81
+Female,178,adults,2017-09-01,2017-09-30,Q10a,unknown_household_type,0
+No Single Gender,0,adults,2017-09-01,2017-09-30,Q10a,without_children,0
+No Single Gender,0,adults,2017-09-01,2017-09-30,Q10a,with_children_and_adults,0
+No Single Gender,0,adults,2017-09-01,2017-09-30,Q10a,unknown_household_type,0
+Questioning,0,adults,2017-09-01,2017-09-30,Q10a,without_children,0
+Questioning,0,adults,2017-09-01,2017-09-30,Q10a,with_children_and_adults,0
+Questioning,0,adults,2017-09-01,2017-09-30,Q10a,unknown_household_type,0
+Transgender,1,adults,2017-09-01,2017-09-30,Q10a,without_children,1
+Transgender,1,adults,2017-09-01,2017-09-30,Q10a,with_children_and_adults,0
+Transgender,1,adults,2017-09-01,2017-09-30,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2017-09-01,2017-09-30,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2017-09-01,2017-09-30,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2017-09-01,2017-09-30,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2017-09-01,2017-09-30,Q10a,without_children,0
+Data Not Collected,0,adults,2017-09-01,2017-09-30,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2017-09-01,2017-09-30,Q10a,unknown_household_type,0
+Male,204,adults,2017-10-01,2017-10-31,Q10a,without_children,170
+Male,204,adults,2017-10-01,2017-10-31,Q10a,with_children_and_adults,33
+Male,204,adults,2017-10-01,2017-10-31,Q10a,unknown_household_type,1
+Female,152,adults,2017-10-01,2017-10-31,Q10a,without_children,81
+Female,152,adults,2017-10-01,2017-10-31,Q10a,with_children_and_adults,71
+Female,152,adults,2017-10-01,2017-10-31,Q10a,unknown_household_type,0
+No Single Gender,0,adults,2017-10-01,2017-10-31,Q10a,without_children,0
+No Single Gender,0,adults,2017-10-01,2017-10-31,Q10a,with_children_and_adults,0
+No Single Gender,0,adults,2017-10-01,2017-10-31,Q10a,unknown_household_type,0
+Questioning,0,adults,2017-10-01,2017-10-31,Q10a,without_children,0
+Questioning,0,adults,2017-10-01,2017-10-31,Q10a,with_children_and_adults,0
+Questioning,0,adults,2017-10-01,2017-10-31,Q10a,unknown_household_type,0
+Transgender,0,adults,2017-10-01,2017-10-31,Q10a,without_children,0
+Transgender,0,adults,2017-10-01,2017-10-31,Q10a,with_children_and_adults,0
+Transgender,0,adults,2017-10-01,2017-10-31,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2017-10-01,2017-10-31,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2017-10-01,2017-10-31,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2017-10-01,2017-10-31,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2017-10-01,2017-10-31,Q10a,without_children,0
+Data Not Collected,0,adults,2017-10-01,2017-10-31,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2017-10-01,2017-10-31,Q10a,unknown_household_type,0
+Male,250,adults,2017-11-01,2017-11-30,Q10a,without_children,220
+Male,250,adults,2017-11-01,2017-11-30,Q10a,with_children_and_adults,29
+Male,250,adults,2017-11-01,2017-11-30,Q10a,unknown_household_type,1
+Female,180,adults,2017-11-01,2017-11-30,Q10a,without_children,107
+Female,180,adults,2017-11-01,2017-11-30,Q10a,with_children_and_adults,73
+Female,180,adults,2017-11-01,2017-11-30,Q10a,unknown_household_type,0
+No Single Gender,0,adults,2017-11-01,2017-11-30,Q10a,without_children,0
+No Single Gender,0,adults,2017-11-01,2017-11-30,Q10a,with_children_and_adults,0
+No Single Gender,0,adults,2017-11-01,2017-11-30,Q10a,unknown_household_type,0
+Questioning,0,adults,2017-11-01,2017-11-30,Q10a,without_children,0
+Questioning,0,adults,2017-11-01,2017-11-30,Q10a,with_children_and_adults,0
+Questioning,0,adults,2017-11-01,2017-11-30,Q10a,unknown_household_type,0
+Transgender,0,adults,2017-11-01,2017-11-30,Q10a,without_children,0
+Transgender,0,adults,2017-11-01,2017-11-30,Q10a,with_children_and_adults,0
+Transgender,0,adults,2017-11-01,2017-11-30,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2017-11-01,2017-11-30,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2017-11-01,2017-11-30,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2017-11-01,2017-11-30,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2017-11-01,2017-11-30,Q10a,without_children,0
+Data Not Collected,0,adults,2017-11-01,2017-11-30,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2017-11-01,2017-11-30,Q10a,unknown_household_type,0
+Male,259,adults,2017-12-01,2017-12-31,Q10a,without_children,229
+Male,259,adults,2017-12-01,2017-12-31,Q10a,with_children_and_adults,29
+Male,259,adults,2017-12-01,2017-12-31,Q10a,unknown_household_type,1
+Female,166,adults,2017-12-01,2017-12-31,Q10a,without_children,104
+Female,166,adults,2017-12-01,2017-12-31,Q10a,with_children_and_adults,62
+Female,166,adults,2017-12-01,2017-12-31,Q10a,unknown_household_type,0
+No Single Gender,0,adults,2017-12-01,2017-12-31,Q10a,without_children,0
+No Single Gender,0,adults,2017-12-01,2017-12-31,Q10a,with_children_and_adults,0
+No Single Gender,0,adults,2017-12-01,2017-12-31,Q10a,unknown_household_type,0
+Questioning,0,adults,2017-12-01,2017-12-31,Q10a,without_children,0
+Questioning,0,adults,2017-12-01,2017-12-31,Q10a,with_children_and_adults,0
+Questioning,0,adults,2017-12-01,2017-12-31,Q10a,unknown_household_type,0
+Transgender,0,adults,2017-12-01,2017-12-31,Q10a,without_children,0
+Transgender,0,adults,2017-12-01,2017-12-31,Q10a,with_children_and_adults,0
+Transgender,0,adults,2017-12-01,2017-12-31,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2017-12-01,2017-12-31,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2017-12-01,2017-12-31,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2017-12-01,2017-12-31,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2017-12-01,2017-12-31,Q10a,without_children,0
+Data Not Collected,0,adults,2017-12-01,2017-12-31,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2017-12-01,2017-12-31,Q10a,unknown_household_type,0
+Male,248,adults,2018-01-01,2018-01-31,Q10a,without_children,221
+Male,248,adults,2018-01-01,2018-01-31,Q10a,with_children_and_adults,26
+Male,248,adults,2018-01-01,2018-01-31,Q10a,unknown_household_type,1
+Female,168,adults,2018-01-01,2018-01-31,Q10a,without_children,106
+Female,168,adults,2018-01-01,2018-01-31,Q10a,with_children_and_adults,62
+Female,168,adults,2018-01-01,2018-01-31,Q10a,unknown_household_type,0
+No Single Gender,0,adults,2018-01-01,2018-01-31,Q10a,without_children,0
+No Single Gender,0,adults,2018-01-01,2018-01-31,Q10a,with_children_and_adults,0
+No Single Gender,0,adults,2018-01-01,2018-01-31,Q10a,unknown_household_type,0
+Questioning,0,adults,2018-01-01,2018-01-31,Q10a,without_children,0
+Questioning,0,adults,2018-01-01,2018-01-31,Q10a,with_children_and_adults,0
+Questioning,0,adults,2018-01-01,2018-01-31,Q10a,unknown_household_type,0
+Transgender,1,adults,2018-01-01,2018-01-31,Q10a,without_children,1
+Transgender,1,adults,2018-01-01,2018-01-31,Q10a,with_children_and_adults,0
+Transgender,1,adults,2018-01-01,2018-01-31,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2018-01-01,2018-01-31,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2018-01-01,2018-01-31,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2018-01-01,2018-01-31,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2018-01-01,2018-01-31,Q10a,without_children,0
+Data Not Collected,0,adults,2018-01-01,2018-01-31,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2018-01-01,2018-01-31,Q10a,unknown_household_type,0
+Male,256,adults,2018-02-01,2018-02-28,Q10a,without_children,228
+Male,256,adults,2018-02-01,2018-02-28,Q10a,with_children_and_adults,27
+Male,256,adults,2018-02-01,2018-02-28,Q10a,unknown_household_type,1
+Female,179,adults,2018-02-01,2018-02-28,Q10a,without_children,110
+Female,179,adults,2018-02-01,2018-02-28,Q10a,with_children_and_adults,69
+Female,179,adults,2018-02-01,2018-02-28,Q10a,unknown_household_type,0
+No Single Gender,0,adults,2018-02-01,2018-02-28,Q10a,without_children,0
+No Single Gender,0,adults,2018-02-01,2018-02-28,Q10a,with_children_and_adults,0
+No Single Gender,0,adults,2018-02-01,2018-02-28,Q10a,unknown_household_type,0
+Questioning,0,adults,2018-02-01,2018-02-28,Q10a,without_children,0
+Questioning,0,adults,2018-02-01,2018-02-28,Q10a,with_children_and_adults,0
+Questioning,0,adults,2018-02-01,2018-02-28,Q10a,unknown_household_type,0
+Transgender,0,adults,2018-02-01,2018-02-28,Q10a,without_children,0
+Transgender,0,adults,2018-02-01,2018-02-28,Q10a,with_children_and_adults,0
+Transgender,0,adults,2018-02-01,2018-02-28,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2018-02-01,2018-02-28,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2018-02-01,2018-02-28,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2018-02-01,2018-02-28,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2018-02-01,2018-02-28,Q10a,without_children,0
+Data Not Collected,0,adults,2018-02-01,2018-02-28,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2018-02-01,2018-02-28,Q10a,unknown_household_type,0
+Male,260,adults,2018-03-01,2018-03-31,Q10a,without_children,231
+Male,260,adults,2018-03-01,2018-03-31,Q10a,with_children_and_adults,28
+Male,260,adults,2018-03-01,2018-03-31,Q10a,unknown_household_type,1
+Female,176,adults,2018-03-01,2018-03-31,Q10a,without_children,110
+Female,176,adults,2018-03-01,2018-03-31,Q10a,with_children_and_adults,66
+Female,176,adults,2018-03-01,2018-03-31,Q10a,unknown_household_type,0
+No Single Gender,0,adults,2018-03-01,2018-03-31,Q10a,without_children,0
+No Single Gender,0,adults,2018-03-01,2018-03-31,Q10a,with_children_and_adults,0
+No Single Gender,0,adults,2018-03-01,2018-03-31,Q10a,unknown_household_type,0
+Questioning,0,adults,2018-03-01,2018-03-31,Q10a,without_children,0
+Questioning,0,adults,2018-03-01,2018-03-31,Q10a,with_children_and_adults,0
+Questioning,0,adults,2018-03-01,2018-03-31,Q10a,unknown_household_type,0
+Transgender,0,adults,2018-03-01,2018-03-31,Q10a,without_children,0
+Transgender,0,adults,2018-03-01,2018-03-31,Q10a,with_children_and_adults,0
+Transgender,0,adults,2018-03-01,2018-03-31,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2018-03-01,2018-03-31,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2018-03-01,2018-03-31,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2018-03-01,2018-03-31,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2018-03-01,2018-03-31,Q10a,without_children,0
+Data Not Collected,0,adults,2018-03-01,2018-03-31,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2018-03-01,2018-03-31,Q10a,unknown_household_type,0
+Male,241,adults,2018-04-01,2018-04-30,Q10a,without_children,210
+Male,241,adults,2018-04-01,2018-04-30,Q10a,with_children_and_adults,30
+Male,241,adults,2018-04-01,2018-04-30,Q10a,unknown_household_type,1
+Female,162,adults,2018-04-01,2018-04-30,Q10a,without_children,105
+Female,162,adults,2018-04-01,2018-04-30,Q10a,with_children_and_adults,57
+Female,162,adults,2018-04-01,2018-04-30,Q10a,unknown_household_type,0
+No Single Gender,0,adults,2018-04-01,2018-04-30,Q10a,without_children,0
+No Single Gender,0,adults,2018-04-01,2018-04-30,Q10a,with_children_and_adults,0
+No Single Gender,0,adults,2018-04-01,2018-04-30,Q10a,unknown_household_type,0
+Questioning,0,adults,2018-04-01,2018-04-30,Q10a,without_children,0
+Questioning,0,adults,2018-04-01,2018-04-30,Q10a,with_children_and_adults,0
+Questioning,0,adults,2018-04-01,2018-04-30,Q10a,unknown_household_type,0
+Transgender,0,adults,2018-04-01,2018-04-30,Q10a,without_children,0
+Transgender,0,adults,2018-04-01,2018-04-30,Q10a,with_children_and_adults,0
+Transgender,0,adults,2018-04-01,2018-04-30,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2018-04-01,2018-04-30,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2018-04-01,2018-04-30,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2018-04-01,2018-04-30,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2018-04-01,2018-04-30,Q10a,without_children,0
+Data Not Collected,0,adults,2018-04-01,2018-04-30,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2018-04-01,2018-04-30,Q10a,unknown_household_type,0
+Male,220,adults,2018-05-01,2018-05-31,Q10a,without_children,176
+Male,220,adults,2018-05-01,2018-05-31,Q10a,with_children_and_adults,43
+Male,220,adults,2018-05-01,2018-05-31,Q10a,unknown_household_type,1
+Female,179,adults,2018-05-01,2018-05-31,Q10a,without_children,96
+Female,179,adults,2018-05-01,2018-05-31,Q10a,with_children_and_adults,83
+Female,179,adults,2018-05-01,2018-05-31,Q10a,unknown_household_type,0
+No Single Gender,0,adults,2018-05-01,2018-05-31,Q10a,without_children,0
+No Single Gender,0,adults,2018-05-01,2018-05-31,Q10a,with_children_and_adults,0
+No Single Gender,0,adults,2018-05-01,2018-05-31,Q10a,unknown_household_type,0
+Questioning,0,adults,2018-05-01,2018-05-31,Q10a,without_children,0
+Questioning,0,adults,2018-05-01,2018-05-31,Q10a,with_children_and_adults,0
+Questioning,0,adults,2018-05-01,2018-05-31,Q10a,unknown_household_type,0
+Transgender,0,adults,2018-05-01,2018-05-31,Q10a,without_children,0
+Transgender,0,adults,2018-05-01,2018-05-31,Q10a,with_children_and_adults,0
+Transgender,0,adults,2018-05-01,2018-05-31,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2018-05-01,2018-05-31,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2018-05-01,2018-05-31,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2018-05-01,2018-05-31,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2018-05-01,2018-05-31,Q10a,without_children,0
+Data Not Collected,0,adults,2018-05-01,2018-05-31,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2018-05-01,2018-05-31,Q10a,unknown_household_type,0
+Male,205,adults,2018-06-01,2018-06-30,Q10a,without_children,169
+Male,205,adults,2018-06-01,2018-06-30,Q10a,with_children_and_adults,35
+Male,205,adults,2018-06-01,2018-06-30,Q10a,unknown_household_type,1
+Female,168,adults,2018-06-01,2018-06-30,Q10a,without_children,90
+Female,168,adults,2018-06-01,2018-06-30,Q10a,with_children_and_adults,78
+Female,168,adults,2018-06-01,2018-06-30,Q10a,unknown_household_type,0
+No Single Gender,0,adults,2018-06-01,2018-06-30,Q10a,without_children,0
+No Single Gender,0,adults,2018-06-01,2018-06-30,Q10a,with_children_and_adults,0
+No Single Gender,0,adults,2018-06-01,2018-06-30,Q10a,unknown_household_type,0
+Questioning,0,adults,2018-06-01,2018-06-30,Q10a,without_children,0
+Questioning,0,adults,2018-06-01,2018-06-30,Q10a,with_children_and_adults,0
+Questioning,0,adults,2018-06-01,2018-06-30,Q10a,unknown_household_type,0
+Transgender,0,adults,2018-06-01,2018-06-30,Q10a,without_children,0
+Transgender,0,adults,2018-06-01,2018-06-30,Q10a,with_children_and_adults,0
+Transgender,0,adults,2018-06-01,2018-06-30,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2018-06-01,2018-06-30,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2018-06-01,2018-06-30,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2018-06-01,2018-06-30,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2018-06-01,2018-06-30,Q10a,without_children,0
+Data Not Collected,0,adults,2018-06-01,2018-06-30,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2018-06-01,2018-06-30,Q10a,unknown_household_type,0
+Male,185,adults,2018-07-01,2018-07-31,Q10a,without_children,151
+Male,185,adults,2018-07-01,2018-07-31,Q10a,with_children_and_adults,34
+Male,185,adults,2018-07-01,2018-07-31,Q10a,unknown_household_type,0
+Female,153,adults,2018-07-01,2018-07-31,Q10a,without_children,79
+Female,153,adults,2018-07-01,2018-07-31,Q10a,with_children_and_adults,74
+Female,153,adults,2018-07-01,2018-07-31,Q10a,unknown_household_type,0
+No Single Gender,0,adults,2018-07-01,2018-07-31,Q10a,without_children,0
+No Single Gender,0,adults,2018-07-01,2018-07-31,Q10a,with_children_and_adults,0
+No Single Gender,0,adults,2018-07-01,2018-07-31,Q10a,unknown_household_type,0
+Questioning,0,adults,2018-07-01,2018-07-31,Q10a,without_children,0
+Questioning,0,adults,2018-07-01,2018-07-31,Q10a,with_children_and_adults,0
+Questioning,0,adults,2018-07-01,2018-07-31,Q10a,unknown_household_type,0
+Transgender,1,adults,2018-07-01,2018-07-31,Q10a,without_children,1
+Transgender,1,adults,2018-07-01,2018-07-31,Q10a,with_children_and_adults,0
+Transgender,1,adults,2018-07-01,2018-07-31,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2018-07-01,2018-07-31,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2018-07-01,2018-07-31,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2018-07-01,2018-07-31,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2018-07-01,2018-07-31,Q10a,without_children,0
+Data Not Collected,0,adults,2018-07-01,2018-07-31,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2018-07-01,2018-07-31,Q10a,unknown_household_type,0
+Male,192,adults,2018-08-01,2018-08-31,Q10a,without_children,157
+Male,192,adults,2018-08-01,2018-08-31,Q10a,with_children_and_adults,35
+Male,192,adults,2018-08-01,2018-08-31,Q10a,unknown_household_type,0
+Female,167,adults,2018-08-01,2018-08-31,Q10a,without_children,87
+Female,167,adults,2018-08-01,2018-08-31,Q10a,with_children_and_adults,80
+Female,167,adults,2018-08-01,2018-08-31,Q10a,unknown_household_type,0
+No Single Gender,0,adults,2018-08-01,2018-08-31,Q10a,without_children,0
+No Single Gender,0,adults,2018-08-01,2018-08-31,Q10a,with_children_and_adults,0
+No Single Gender,0,adults,2018-08-01,2018-08-31,Q10a,unknown_household_type,0
+Questioning,0,adults,2018-08-01,2018-08-31,Q10a,without_children,0
+Questioning,0,adults,2018-08-01,2018-08-31,Q10a,with_children_and_adults,0
+Questioning,0,adults,2018-08-01,2018-08-31,Q10a,unknown_household_type,0
+Transgender,1,adults,2018-08-01,2018-08-31,Q10a,without_children,1
+Transgender,1,adults,2018-08-01,2018-08-31,Q10a,with_children_and_adults,0
+Transgender,1,adults,2018-08-01,2018-08-31,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2018-08-01,2018-08-31,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2018-08-01,2018-08-31,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2018-08-01,2018-08-31,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2018-08-01,2018-08-31,Q10a,without_children,0
+Data Not Collected,0,adults,2018-08-01,2018-08-31,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2018-08-01,2018-08-31,Q10a,unknown_household_type,0
+Male,195,adults,2018-09-01,2018-09-30,Q10a,without_children,158
+Male,195,adults,2018-09-01,2018-09-30,Q10a,with_children_and_adults,37
+Male,195,adults,2018-09-01,2018-09-30,Q10a,unknown_household_type,0
+Female,167,adults,2018-09-01,2018-09-30,Q10a,without_children,79
+Female,167,adults,2018-09-01,2018-09-30,Q10a,with_children_and_adults,88
+Female,167,adults,2018-09-01,2018-09-30,Q10a,unknown_household_type,0
+No Single Gender,0,adults,2018-09-01,2018-09-30,Q10a,without_children,0
+No Single Gender,0,adults,2018-09-01,2018-09-30,Q10a,with_children_and_adults,0
+No Single Gender,0,adults,2018-09-01,2018-09-30,Q10a,unknown_household_type,0
+Questioning,0,adults,2018-09-01,2018-09-30,Q10a,without_children,0
+Questioning,0,adults,2018-09-01,2018-09-30,Q10a,with_children_and_adults,0
+Questioning,0,adults,2018-09-01,2018-09-30,Q10a,unknown_household_type,0
+Transgender,1,adults,2018-09-01,2018-09-30,Q10a,without_children,1
+Transgender,1,adults,2018-09-01,2018-09-30,Q10a,with_children_and_adults,0
+Transgender,1,adults,2018-09-01,2018-09-30,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2018-09-01,2018-09-30,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2018-09-01,2018-09-30,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2018-09-01,2018-09-30,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2018-09-01,2018-09-30,Q10a,without_children,0
+Data Not Collected,0,adults,2018-09-01,2018-09-30,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2018-09-01,2018-09-30,Q10a,unknown_household_type,0
+Male,209,adults,2018-10-01,2018-10-31,Q10a,without_children,167
+Male,209,adults,2018-10-01,2018-10-31,Q10a,with_children_and_adults,42
+Male,209,adults,2018-10-01,2018-10-31,Q10a,unknown_household_type,0
+Female,185,adults,2018-10-01,2018-10-31,Q10a,without_children,89
+Female,185,adults,2018-10-01,2018-10-31,Q10a,with_children_and_adults,96
+Female,185,adults,2018-10-01,2018-10-31,Q10a,unknown_household_type,0
+No Single Gender,0,adults,2018-10-01,2018-10-31,Q10a,without_children,0
+No Single Gender,0,adults,2018-10-01,2018-10-31,Q10a,with_children_and_adults,0
+No Single Gender,0,adults,2018-10-01,2018-10-31,Q10a,unknown_household_type,0
+Questioning,0,adults,2018-10-01,2018-10-31,Q10a,without_children,0
+Questioning,0,adults,2018-10-01,2018-10-31,Q10a,with_children_and_adults,0
+Questioning,0,adults,2018-10-01,2018-10-31,Q10a,unknown_household_type,0
+Transgender,1,adults,2018-10-01,2018-10-31,Q10a,without_children,1
+Transgender,1,adults,2018-10-01,2018-10-31,Q10a,with_children_and_adults,0
+Transgender,1,adults,2018-10-01,2018-10-31,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2018-10-01,2018-10-31,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2018-10-01,2018-10-31,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2018-10-01,2018-10-31,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2018-10-01,2018-10-31,Q10a,without_children,0
+Data Not Collected,0,adults,2018-10-01,2018-10-31,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2018-10-01,2018-10-31,Q10a,unknown_household_type,0
+Male,254,adults,2018-11-01,2018-11-30,Q10a,without_children,215
+Male,254,adults,2018-11-01,2018-11-30,Q10a,with_children_and_adults,39
+Male,254,adults,2018-11-01,2018-11-30,Q10a,unknown_household_type,0
+Female,194,adults,2018-11-01,2018-11-30,Q10a,without_children,103
+Female,194,adults,2018-11-01,2018-11-30,Q10a,with_children_and_adults,91
+Female,194,adults,2018-11-01,2018-11-30,Q10a,unknown_household_type,0
+No Single Gender,0,adults,2018-11-01,2018-11-30,Q10a,without_children,0
+No Single Gender,0,adults,2018-11-01,2018-11-30,Q10a,with_children_and_adults,0
+No Single Gender,0,adults,2018-11-01,2018-11-30,Q10a,unknown_household_type,0
+Questioning,0,adults,2018-11-01,2018-11-30,Q10a,without_children,0
+Questioning,0,adults,2018-11-01,2018-11-30,Q10a,with_children_and_adults,0
+Questioning,0,adults,2018-11-01,2018-11-30,Q10a,unknown_household_type,0
+Transgender,1,adults,2018-11-01,2018-11-30,Q10a,without_children,1
+Transgender,1,adults,2018-11-01,2018-11-30,Q10a,with_children_and_adults,0
+Transgender,1,adults,2018-11-01,2018-11-30,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2018-11-01,2018-11-30,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2018-11-01,2018-11-30,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2018-11-01,2018-11-30,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2018-11-01,2018-11-30,Q10a,without_children,0
+Data Not Collected,0,adults,2018-11-01,2018-11-30,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2018-11-01,2018-11-30,Q10a,unknown_household_type,0
+Male,286,adults,2018-12-01,2018-12-31,Q10a,without_children,247
+Male,286,adults,2018-12-01,2018-12-31,Q10a,with_children_and_adults,39
+Male,286,adults,2018-12-01,2018-12-31,Q10a,unknown_household_type,0
+Female,249,adults,2018-12-01,2018-12-31,Q10a,without_children,151
+Female,249,adults,2018-12-01,2018-12-31,Q10a,with_children_and_adults,98
+Female,249,adults,2018-12-01,2018-12-31,Q10a,unknown_household_type,0
+No Single Gender,0,adults,2018-12-01,2018-12-31,Q10a,without_children,0
+No Single Gender,0,adults,2018-12-01,2018-12-31,Q10a,with_children_and_adults,0
+No Single Gender,0,adults,2018-12-01,2018-12-31,Q10a,unknown_household_type,0
+Questioning,0,adults,2018-12-01,2018-12-31,Q10a,without_children,0
+Questioning,0,adults,2018-12-01,2018-12-31,Q10a,with_children_and_adults,0
+Questioning,0,adults,2018-12-01,2018-12-31,Q10a,unknown_household_type,0
+Transgender,1,adults,2018-12-01,2018-12-31,Q10a,without_children,1
+Transgender,1,adults,2018-12-01,2018-12-31,Q10a,with_children_and_adults,0
+Transgender,1,adults,2018-12-01,2018-12-31,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2018-12-01,2018-12-31,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2018-12-01,2018-12-31,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2018-12-01,2018-12-31,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2018-12-01,2018-12-31,Q10a,without_children,0
+Data Not Collected,0,adults,2018-12-01,2018-12-31,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2018-12-01,2018-12-31,Q10a,unknown_household_type,0
+Male,321,adults,2019-01-01,2019-01-31,Q10a,without_children,286
+Male,321,adults,2019-01-01,2019-01-31,Q10a,with_children_and_adults,35
+Male,321,adults,2019-01-01,2019-01-31,Q10a,unknown_household_type,0
+Female,327,adults,2019-01-01,2019-01-31,Q10a,without_children,226
+Female,327,adults,2019-01-01,2019-01-31,Q10a,with_children_and_adults,101
+Female,327,adults,2019-01-01,2019-01-31,Q10a,unknown_household_type,0
+No Single Gender,0,adults,2019-01-01,2019-01-31,Q10a,without_children,0
+No Single Gender,0,adults,2019-01-01,2019-01-31,Q10a,with_children_and_adults,0
+No Single Gender,0,adults,2019-01-01,2019-01-31,Q10a,unknown_household_type,0
+Questioning,0,adults,2019-01-01,2019-01-31,Q10a,without_children,0
+Questioning,0,adults,2019-01-01,2019-01-31,Q10a,with_children_and_adults,0
+Questioning,0,adults,2019-01-01,2019-01-31,Q10a,unknown_household_type,0
+Transgender,1,adults,2019-01-01,2019-01-31,Q10a,without_children,1
+Transgender,1,adults,2019-01-01,2019-01-31,Q10a,with_children_and_adults,0
+Transgender,1,adults,2019-01-01,2019-01-31,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2019-01-01,2019-01-31,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2019-01-01,2019-01-31,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2019-01-01,2019-01-31,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2019-01-01,2019-01-31,Q10a,without_children,0
+Data Not Collected,0,adults,2019-01-01,2019-01-31,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2019-01-01,2019-01-31,Q10a,unknown_household_type,0
+Male,344,adults,2019-02-01,2019-02-28,Q10a,without_children,310
+Male,344,adults,2019-02-01,2019-02-28,Q10a,with_children_and_adults,34
+Male,344,adults,2019-02-01,2019-02-28,Q10a,unknown_household_type,0
+Female,383,adults,2019-02-01,2019-02-28,Q10a,without_children,274
+Female,383,adults,2019-02-01,2019-02-28,Q10a,with_children_and_adults,108
+Female,383,adults,2019-02-01,2019-02-28,Q10a,unknown_household_type,1
+No Single Gender,0,adults,2019-02-01,2019-02-28,Q10a,without_children,0
+No Single Gender,0,adults,2019-02-01,2019-02-28,Q10a,with_children_and_adults,0
+No Single Gender,0,adults,2019-02-01,2019-02-28,Q10a,unknown_household_type,0
+Questioning,0,adults,2019-02-01,2019-02-28,Q10a,without_children,0
+Questioning,0,adults,2019-02-01,2019-02-28,Q10a,with_children_and_adults,0
+Questioning,0,adults,2019-02-01,2019-02-28,Q10a,unknown_household_type,0
+Transgender,0,adults,2019-02-01,2019-02-28,Q10a,without_children,0
+Transgender,0,adults,2019-02-01,2019-02-28,Q10a,with_children_and_adults,0
+Transgender,0,adults,2019-02-01,2019-02-28,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2019-02-01,2019-02-28,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2019-02-01,2019-02-28,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2019-02-01,2019-02-28,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2019-02-01,2019-02-28,Q10a,without_children,0
+Data Not Collected,0,adults,2019-02-01,2019-02-28,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2019-02-01,2019-02-28,Q10a,unknown_household_type,0
+Male,337,adults,2019-03-01,2019-03-31,Q10a,without_children,303
+Male,337,adults,2019-03-01,2019-03-31,Q10a,with_children_and_adults,33
+Male,337,adults,2019-03-01,2019-03-31,Q10a,unknown_household_type,1
+Female,369,adults,2019-03-01,2019-03-31,Q10a,without_children,267
+Female,369,adults,2019-03-01,2019-03-31,Q10a,with_children_and_adults,101
+Female,369,adults,2019-03-01,2019-03-31,Q10a,unknown_household_type,1
+No Single Gender,0,adults,2019-03-01,2019-03-31,Q10a,without_children,0
+No Single Gender,0,adults,2019-03-01,2019-03-31,Q10a,with_children_and_adults,0
+No Single Gender,0,adults,2019-03-01,2019-03-31,Q10a,unknown_household_type,0
+Questioning,0,adults,2019-03-01,2019-03-31,Q10a,without_children,0
+Questioning,0,adults,2019-03-01,2019-03-31,Q10a,with_children_and_adults,0
+Questioning,0,adults,2019-03-01,2019-03-31,Q10a,unknown_household_type,0
+Transgender,1,adults,2019-03-01,2019-03-31,Q10a,without_children,1
+Transgender,1,adults,2019-03-01,2019-03-31,Q10a,with_children_and_adults,0
+Transgender,1,adults,2019-03-01,2019-03-31,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2019-03-01,2019-03-31,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2019-03-01,2019-03-31,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2019-03-01,2019-03-31,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2019-03-01,2019-03-31,Q10a,without_children,0
+Data Not Collected,0,adults,2019-03-01,2019-03-31,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2019-03-01,2019-03-31,Q10a,unknown_household_type,0
+Male,331,adults,2019-04-01,2019-04-30,Q10a,without_children,295
+Male,331,adults,2019-04-01,2019-04-30,Q10a,with_children_and_adults,35
+Male,331,adults,2019-04-01,2019-04-30,Q10a,unknown_household_type,1
+Female,391,adults,2019-04-01,2019-04-30,Q10a,without_children,297
+Female,391,adults,2019-04-01,2019-04-30,Q10a,with_children_and_adults,93
+Female,391,adults,2019-04-01,2019-04-30,Q10a,unknown_household_type,1
+No Single Gender,0,adults,2019-04-01,2019-04-30,Q10a,without_children,0
+No Single Gender,0,adults,2019-04-01,2019-04-30,Q10a,with_children_and_adults,0
+No Single Gender,0,adults,2019-04-01,2019-04-30,Q10a,unknown_household_type,0
+Questioning,0,adults,2019-04-01,2019-04-30,Q10a,without_children,0
+Questioning,0,adults,2019-04-01,2019-04-30,Q10a,with_children_and_adults,0
+Questioning,0,adults,2019-04-01,2019-04-30,Q10a,unknown_household_type,0
+Transgender,2,adults,2019-04-01,2019-04-30,Q10a,without_children,2
+Transgender,2,adults,2019-04-01,2019-04-30,Q10a,with_children_and_adults,0
+Transgender,2,adults,2019-04-01,2019-04-30,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2019-04-01,2019-04-30,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2019-04-01,2019-04-30,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2019-04-01,2019-04-30,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2019-04-01,2019-04-30,Q10a,without_children,0
+Data Not Collected,0,adults,2019-04-01,2019-04-30,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2019-04-01,2019-04-30,Q10a,unknown_household_type,0
+Male,316,adults,2019-05-01,2019-05-31,Q10a,without_children,276
+Male,316,adults,2019-05-01,2019-05-31,Q10a,with_children_and_adults,39
+Male,316,adults,2019-05-01,2019-05-31,Q10a,unknown_household_type,1
+Female,395,adults,2019-05-01,2019-05-31,Q10a,without_children,294
+Female,395,adults,2019-05-01,2019-05-31,Q10a,with_children_and_adults,100
+Female,395,adults,2019-05-01,2019-05-31,Q10a,unknown_household_type,1
+No Single Gender,0,adults,2019-05-01,2019-05-31,Q10a,without_children,0
+No Single Gender,0,adults,2019-05-01,2019-05-31,Q10a,with_children_and_adults,0
+No Single Gender,0,adults,2019-05-01,2019-05-31,Q10a,unknown_household_type,0
+Questioning,0,adults,2019-05-01,2019-05-31,Q10a,without_children,0
+Questioning,0,adults,2019-05-01,2019-05-31,Q10a,with_children_and_adults,0
+Questioning,0,adults,2019-05-01,2019-05-31,Q10a,unknown_household_type,0
+Transgender,1,adults,2019-05-01,2019-05-31,Q10a,without_children,1
+Transgender,1,adults,2019-05-01,2019-05-31,Q10a,with_children_and_adults,0
+Transgender,1,adults,2019-05-01,2019-05-31,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2019-05-01,2019-05-31,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2019-05-01,2019-05-31,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2019-05-01,2019-05-31,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2019-05-01,2019-05-31,Q10a,without_children,0
+Data Not Collected,0,adults,2019-05-01,2019-05-31,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2019-05-01,2019-05-31,Q10a,unknown_household_type,0
+Male,331,adults,2019-06-01,2019-06-30,Q10a,without_children,295
+Male,331,adults,2019-06-01,2019-06-30,Q10a,with_children_and_adults,36
+Male,331,adults,2019-06-01,2019-06-30,Q10a,unknown_household_type,0
+Female,378,adults,2019-06-01,2019-06-30,Q10a,without_children,273
+Female,378,adults,2019-06-01,2019-06-30,Q10a,with_children_and_adults,105
+Female,378,adults,2019-06-01,2019-06-30,Q10a,unknown_household_type,0
+No Single Gender,0,adults,2019-06-01,2019-06-30,Q10a,without_children,0
+No Single Gender,0,adults,2019-06-01,2019-06-30,Q10a,with_children_and_adults,0
+No Single Gender,0,adults,2019-06-01,2019-06-30,Q10a,unknown_household_type,0
+Questioning,0,adults,2019-06-01,2019-06-30,Q10a,without_children,0
+Questioning,0,adults,2019-06-01,2019-06-30,Q10a,with_children_and_adults,0
+Questioning,0,adults,2019-06-01,2019-06-30,Q10a,unknown_household_type,0
+Transgender,0,adults,2019-06-01,2019-06-30,Q10a,without_children,0
+Transgender,0,adults,2019-06-01,2019-06-30,Q10a,with_children_and_adults,0
+Transgender,0,adults,2019-06-01,2019-06-30,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2019-06-01,2019-06-30,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2019-06-01,2019-06-30,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2019-06-01,2019-06-30,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2019-06-01,2019-06-30,Q10a,without_children,0
+Data Not Collected,0,adults,2019-06-01,2019-06-30,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2019-06-01,2019-06-30,Q10a,unknown_household_type,0
+Male,367,adults,2019-07-01,2019-07-31,Q10a,without_children,318
+Male,367,adults,2019-07-01,2019-07-31,Q10a,with_children_and_adults,49
+Male,367,adults,2019-07-01,2019-07-31,Q10a,unknown_household_type,0
+Female,428,adults,2019-07-01,2019-07-31,Q10a,without_children,281
+Female,428,adults,2019-07-01,2019-07-31,Q10a,with_children_and_adults,146
+Female,428,adults,2019-07-01,2019-07-31,Q10a,unknown_household_type,1
+No Single Gender,0,adults,2019-07-01,2019-07-31,Q10a,without_children,0
+No Single Gender,0,adults,2019-07-01,2019-07-31,Q10a,with_children_and_adults,0
+No Single Gender,0,adults,2019-07-01,2019-07-31,Q10a,unknown_household_type,0
+Questioning,0,adults,2019-07-01,2019-07-31,Q10a,without_children,0
+Questioning,0,adults,2019-07-01,2019-07-31,Q10a,with_children_and_adults,0
+Questioning,0,adults,2019-07-01,2019-07-31,Q10a,unknown_household_type,0
+Transgender,1,adults,2019-07-01,2019-07-31,Q10a,without_children,1
+Transgender,1,adults,2019-07-01,2019-07-31,Q10a,with_children_and_adults,0
+Transgender,1,adults,2019-07-01,2019-07-31,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2019-07-01,2019-07-31,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2019-07-01,2019-07-31,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2019-07-01,2019-07-31,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2019-07-01,2019-07-31,Q10a,without_children,0
+Data Not Collected,0,adults,2019-07-01,2019-07-31,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2019-07-01,2019-07-31,Q10a,unknown_household_type,0
+Male,378,adults,2019-08-01,2019-08-31,Q10a,without_children,313
+Male,378,adults,2019-08-01,2019-08-31,Q10a,with_children_and_adults,65
+Male,378,adults,2019-08-01,2019-08-31,Q10a,unknown_household_type,0
+Female,441,adults,2019-08-01,2019-08-31,Q10a,without_children,264
+Female,441,adults,2019-08-01,2019-08-31,Q10a,with_children_and_adults,176
+Female,441,adults,2019-08-01,2019-08-31,Q10a,unknown_household_type,1
+No Single Gender,0,adults,2019-08-01,2019-08-31,Q10a,without_children,0
+No Single Gender,0,adults,2019-08-01,2019-08-31,Q10a,with_children_and_adults,0
+No Single Gender,0,adults,2019-08-01,2019-08-31,Q10a,unknown_household_type,0
+Questioning,0,adults,2019-08-01,2019-08-31,Q10a,without_children,0
+Questioning,0,adults,2019-08-01,2019-08-31,Q10a,with_children_and_adults,0
+Questioning,0,adults,2019-08-01,2019-08-31,Q10a,unknown_household_type,0
+Transgender,2,adults,2019-08-01,2019-08-31,Q10a,without_children,2
+Transgender,2,adults,2019-08-01,2019-08-31,Q10a,with_children_and_adults,0
+Transgender,2,adults,2019-08-01,2019-08-31,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2019-08-01,2019-08-31,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2019-08-01,2019-08-31,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2019-08-01,2019-08-31,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2019-08-01,2019-08-31,Q10a,without_children,0
+Data Not Collected,0,adults,2019-08-01,2019-08-31,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2019-08-01,2019-08-31,Q10a,unknown_household_type,0
+Male,369,adults,2019-09-01,2019-09-30,Q10a,without_children,310
+Male,369,adults,2019-09-01,2019-09-30,Q10a,with_children_and_adults,59
+Male,369,adults,2019-09-01,2019-09-30,Q10a,unknown_household_type,0
+Female,447,adults,2019-09-01,2019-09-30,Q10a,without_children,290
+Female,447,adults,2019-09-01,2019-09-30,Q10a,with_children_and_adults,156
+Female,447,adults,2019-09-01,2019-09-30,Q10a,unknown_household_type,1
+No Single Gender,0,adults,2019-09-01,2019-09-30,Q10a,without_children,0
+No Single Gender,0,adults,2019-09-01,2019-09-30,Q10a,with_children_and_adults,0
+No Single Gender,0,adults,2019-09-01,2019-09-30,Q10a,unknown_household_type,0
+Questioning,0,adults,2019-09-01,2019-09-30,Q10a,without_children,0
+Questioning,0,adults,2019-09-01,2019-09-30,Q10a,with_children_and_adults,0
+Questioning,0,adults,2019-09-01,2019-09-30,Q10a,unknown_household_type,0
+Transgender,3,adults,2019-09-01,2019-09-30,Q10a,without_children,3
+Transgender,3,adults,2019-09-01,2019-09-30,Q10a,with_children_and_adults,0
+Transgender,3,adults,2019-09-01,2019-09-30,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2019-09-01,2019-09-30,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2019-09-01,2019-09-30,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2019-09-01,2019-09-30,Q10a,unknown_household_type,0
+Data Not Collected,1,adults,2019-09-01,2019-09-30,Q10a,without_children,0
+Data Not Collected,1,adults,2019-09-01,2019-09-30,Q10a,with_children_and_adults,1
+Data Not Collected,1,adults,2019-09-01,2019-09-30,Q10a,unknown_household_type,0
+Male,387,adults,2019-10-01,2019-10-31,Q10a,without_children,326
+Male,387,adults,2019-10-01,2019-10-31,Q10a,with_children_and_adults,58
+Male,387,adults,2019-10-01,2019-10-31,Q10a,unknown_household_type,3
+Female,453,adults,2019-10-01,2019-10-31,Q10a,without_children,306
+Female,453,adults,2019-10-01,2019-10-31,Q10a,with_children_and_adults,145
+Female,453,adults,2019-10-01,2019-10-31,Q10a,unknown_household_type,2
+No Single Gender,0,adults,2019-10-01,2019-10-31,Q10a,without_children,0
+No Single Gender,0,adults,2019-10-01,2019-10-31,Q10a,with_children_and_adults,0
+No Single Gender,0,adults,2019-10-01,2019-10-31,Q10a,unknown_household_type,0
+Questioning,0,adults,2019-10-01,2019-10-31,Q10a,without_children,0
+Questioning,0,adults,2019-10-01,2019-10-31,Q10a,with_children_and_adults,0
+Questioning,0,adults,2019-10-01,2019-10-31,Q10a,unknown_household_type,0
+Transgender,3,adults,2019-10-01,2019-10-31,Q10a,without_children,3
+Transgender,3,adults,2019-10-01,2019-10-31,Q10a,with_children_and_adults,0
+Transgender,3,adults,2019-10-01,2019-10-31,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2019-10-01,2019-10-31,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2019-10-01,2019-10-31,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2019-10-01,2019-10-31,Q10a,unknown_household_type,0
+Data Not Collected,1,adults,2019-10-01,2019-10-31,Q10a,without_children,0
+Data Not Collected,1,adults,2019-10-01,2019-10-31,Q10a,with_children_and_adults,1
+Data Not Collected,1,adults,2019-10-01,2019-10-31,Q10a,unknown_household_type,0
+Male,412,adults,2019-11-01,2019-11-30,Q10a,without_children,351
+Male,412,adults,2019-11-01,2019-11-30,Q10a,with_children_and_adults,59
+Male,412,adults,2019-11-01,2019-11-30,Q10a,unknown_household_type,2
+Female,449,adults,2019-11-01,2019-11-30,Q10a,without_children,312
+Female,449,adults,2019-11-01,2019-11-30,Q10a,with_children_and_adults,135
+Female,449,adults,2019-11-01,2019-11-30,Q10a,unknown_household_type,2
+No Single Gender,0,adults,2019-11-01,2019-11-30,Q10a,without_children,0
+No Single Gender,0,adults,2019-11-01,2019-11-30,Q10a,with_children_and_adults,0
+No Single Gender,0,adults,2019-11-01,2019-11-30,Q10a,unknown_household_type,0
+Questioning,0,adults,2019-11-01,2019-11-30,Q10a,without_children,0
+Questioning,0,adults,2019-11-01,2019-11-30,Q10a,with_children_and_adults,0
+Questioning,0,adults,2019-11-01,2019-11-30,Q10a,unknown_household_type,0
+Transgender,3,adults,2019-11-01,2019-11-30,Q10a,without_children,3
+Transgender,3,adults,2019-11-01,2019-11-30,Q10a,with_children_and_adults,0
+Transgender,3,adults,2019-11-01,2019-11-30,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2019-11-01,2019-11-30,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2019-11-01,2019-11-30,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2019-11-01,2019-11-30,Q10a,unknown_household_type,0
+Data Not Collected,1,adults,2019-11-01,2019-11-30,Q10a,without_children,0
+Data Not Collected,1,adults,2019-11-01,2019-11-30,Q10a,with_children_and_adults,1
+Data Not Collected,1,adults,2019-11-01,2019-11-30,Q10a,unknown_household_type,0
+Male,436,adults,2019-12-01,2019-12-31,Q10a,without_children,366
+Male,436,adults,2019-12-01,2019-12-31,Q10a,with_children_and_adults,68
+Male,436,adults,2019-12-01,2019-12-31,Q10a,unknown_household_type,2
+Female,450,adults,2019-12-01,2019-12-31,Q10a,without_children,298
+Female,450,adults,2019-12-01,2019-12-31,Q10a,with_children_and_adults,150
+Female,450,adults,2019-12-01,2019-12-31,Q10a,unknown_household_type,2
+No Single Gender,0,adults,2019-12-01,2019-12-31,Q10a,without_children,0
+No Single Gender,0,adults,2019-12-01,2019-12-31,Q10a,with_children_and_adults,0
+No Single Gender,0,adults,2019-12-01,2019-12-31,Q10a,unknown_household_type,0
+Questioning,0,adults,2019-12-01,2019-12-31,Q10a,without_children,0
+Questioning,0,adults,2019-12-01,2019-12-31,Q10a,with_children_and_adults,0
+Questioning,0,adults,2019-12-01,2019-12-31,Q10a,unknown_household_type,0
+Transgender,5,adults,2019-12-01,2019-12-31,Q10a,without_children,5
+Transgender,5,adults,2019-12-01,2019-12-31,Q10a,with_children_and_adults,0
+Transgender,5,adults,2019-12-01,2019-12-31,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2019-12-01,2019-12-31,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2019-12-01,2019-12-31,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2019-12-01,2019-12-31,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2019-12-01,2019-12-31,Q10a,without_children,0
+Data Not Collected,0,adults,2019-12-01,2019-12-31,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2019-12-01,2019-12-31,Q10a,unknown_household_type,0
+Male,472,adults,2020-01-01,2020-01-31,Q10a,without_children,410
+Male,472,adults,2020-01-01,2020-01-31,Q10a,with_children_and_adults,60
+Male,472,adults,2020-01-01,2020-01-31,Q10a,unknown_household_type,2
+Female,460,adults,2020-01-01,2020-01-31,Q10a,without_children,315
+Female,460,adults,2020-01-01,2020-01-31,Q10a,with_children_and_adults,143
+Female,460,adults,2020-01-01,2020-01-31,Q10a,unknown_household_type,2
+No Single Gender,0,adults,2020-01-01,2020-01-31,Q10a,without_children,0
+No Single Gender,0,adults,2020-01-01,2020-01-31,Q10a,with_children_and_adults,0
+No Single Gender,0,adults,2020-01-01,2020-01-31,Q10a,unknown_household_type,0
+Questioning,0,adults,2020-01-01,2020-01-31,Q10a,without_children,0
+Questioning,0,adults,2020-01-01,2020-01-31,Q10a,with_children_and_adults,0
+Questioning,0,adults,2020-01-01,2020-01-31,Q10a,unknown_household_type,0
+Transgender,4,adults,2020-01-01,2020-01-31,Q10a,without_children,4
+Transgender,4,adults,2020-01-01,2020-01-31,Q10a,with_children_and_adults,0
+Transgender,4,adults,2020-01-01,2020-01-31,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2020-01-01,2020-01-31,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2020-01-01,2020-01-31,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2020-01-01,2020-01-31,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2020-01-01,2020-01-31,Q10a,without_children,0
+Data Not Collected,0,adults,2020-01-01,2020-01-31,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2020-01-01,2020-01-31,Q10a,unknown_household_type,0
+Male,459,adults,2020-02-01,2020-02-29,Q10a,without_children,399
+Male,459,adults,2020-02-01,2020-02-29,Q10a,with_children_and_adults,58
+Male,459,adults,2020-02-01,2020-02-29,Q10a,unknown_household_type,2
+Female,441,adults,2020-02-01,2020-02-29,Q10a,without_children,301
+Female,441,adults,2020-02-01,2020-02-29,Q10a,with_children_and_adults,138
+Female,441,adults,2020-02-01,2020-02-29,Q10a,unknown_household_type,2
+No Single Gender,0,adults,2020-02-01,2020-02-29,Q10a,without_children,0
+No Single Gender,0,adults,2020-02-01,2020-02-29,Q10a,with_children_and_adults,0
+No Single Gender,0,adults,2020-02-01,2020-02-29,Q10a,unknown_household_type,0
+Questioning,0,adults,2020-02-01,2020-02-29,Q10a,without_children,0
+Questioning,0,adults,2020-02-01,2020-02-29,Q10a,with_children_and_adults,0
+Questioning,0,adults,2020-02-01,2020-02-29,Q10a,unknown_household_type,0
+Transgender,5,adults,2020-02-01,2020-02-29,Q10a,without_children,5
+Transgender,5,adults,2020-02-01,2020-02-29,Q10a,with_children_and_adults,0
+Transgender,5,adults,2020-02-01,2020-02-29,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2020-02-01,2020-02-29,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2020-02-01,2020-02-29,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2020-02-01,2020-02-29,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2020-02-01,2020-02-29,Q10a,without_children,0
+Data Not Collected,0,adults,2020-02-01,2020-02-29,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2020-02-01,2020-02-29,Q10a,unknown_household_type,0
+Male,459,adults,2020-03-01,2020-03-31,Q10a,without_children,404
+Male,459,adults,2020-03-01,2020-03-31,Q10a,with_children_and_adults,53
+Male,459,adults,2020-03-01,2020-03-31,Q10a,unknown_household_type,2
+Female,391,adults,2020-03-01,2020-03-31,Q10a,without_children,274
+Female,391,adults,2020-03-01,2020-03-31,Q10a,with_children_and_adults,115
+Female,391,adults,2020-03-01,2020-03-31,Q10a,unknown_household_type,2
+No Single Gender,0,adults,2020-03-01,2020-03-31,Q10a,without_children,0
+No Single Gender,0,adults,2020-03-01,2020-03-31,Q10a,with_children_and_adults,0
+No Single Gender,0,adults,2020-03-01,2020-03-31,Q10a,unknown_household_type,0
+Questioning,0,adults,2020-03-01,2020-03-31,Q10a,without_children,0
+Questioning,0,adults,2020-03-01,2020-03-31,Q10a,with_children_and_adults,0
+Questioning,0,adults,2020-03-01,2020-03-31,Q10a,unknown_household_type,0
+Transgender,2,adults,2020-03-01,2020-03-31,Q10a,without_children,2
+Transgender,2,adults,2020-03-01,2020-03-31,Q10a,with_children_and_adults,0
+Transgender,2,adults,2020-03-01,2020-03-31,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2020-03-01,2020-03-31,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2020-03-01,2020-03-31,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2020-03-01,2020-03-31,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2020-03-01,2020-03-31,Q10a,without_children,0
+Data Not Collected,0,adults,2020-03-01,2020-03-31,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2020-03-01,2020-03-31,Q10a,unknown_household_type,0
+Male,477,adults,2020-04-01,2020-04-30,Q10a,without_children,424
+Male,477,adults,2020-04-01,2020-04-30,Q10a,with_children_and_adults,51
+Male,477,adults,2020-04-01,2020-04-30,Q10a,unknown_household_type,2
+Female,358,adults,2020-04-01,2020-04-30,Q10a,without_children,249
+Female,358,adults,2020-04-01,2020-04-30,Q10a,with_children_and_adults,107
+Female,358,adults,2020-04-01,2020-04-30,Q10a,unknown_household_type,2
+No Single Gender,0,adults,2020-04-01,2020-04-30,Q10a,without_children,0
+No Single Gender,0,adults,2020-04-01,2020-04-30,Q10a,with_children_and_adults,0
+No Single Gender,0,adults,2020-04-01,2020-04-30,Q10a,unknown_household_type,0
+Questioning,0,adults,2020-04-01,2020-04-30,Q10a,without_children,0
+Questioning,0,adults,2020-04-01,2020-04-30,Q10a,with_children_and_adults,0
+Questioning,0,adults,2020-04-01,2020-04-30,Q10a,unknown_household_type,0
+Transgender,2,adults,2020-04-01,2020-04-30,Q10a,without_children,2
+Transgender,2,adults,2020-04-01,2020-04-30,Q10a,with_children_and_adults,0
+Transgender,2,adults,2020-04-01,2020-04-30,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2020-04-01,2020-04-30,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2020-04-01,2020-04-30,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2020-04-01,2020-04-30,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2020-04-01,2020-04-30,Q10a,without_children,0
+Data Not Collected,0,adults,2020-04-01,2020-04-30,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2020-04-01,2020-04-30,Q10a,unknown_household_type,0
+Male,453,adults,2020-05-01,2020-05-31,Q10a,without_children,407
+Male,453,adults,2020-05-01,2020-05-31,Q10a,with_children_and_adults,44
+Male,453,adults,2020-05-01,2020-05-31,Q10a,unknown_household_type,2
+Female,376,adults,2020-05-01,2020-05-31,Q10a,without_children,269
+Female,376,adults,2020-05-01,2020-05-31,Q10a,with_children_and_adults,106
+Female,376,adults,2020-05-01,2020-05-31,Q10a,unknown_household_type,1
+No Single Gender,0,adults,2020-05-01,2020-05-31,Q10a,without_children,0
+No Single Gender,0,adults,2020-05-01,2020-05-31,Q10a,with_children_and_adults,0
+No Single Gender,0,adults,2020-05-01,2020-05-31,Q10a,unknown_household_type,0
+Questioning,0,adults,2020-05-01,2020-05-31,Q10a,without_children,0
+Questioning,0,adults,2020-05-01,2020-05-31,Q10a,with_children_and_adults,0
+Questioning,0,adults,2020-05-01,2020-05-31,Q10a,unknown_household_type,0
+Transgender,2,adults,2020-05-01,2020-05-31,Q10a,without_children,2
+Transgender,2,adults,2020-05-01,2020-05-31,Q10a,with_children_and_adults,0
+Transgender,2,adults,2020-05-01,2020-05-31,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2020-05-01,2020-05-31,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2020-05-01,2020-05-31,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2020-05-01,2020-05-31,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2020-05-01,2020-05-31,Q10a,without_children,0
+Data Not Collected,0,adults,2020-05-01,2020-05-31,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2020-05-01,2020-05-31,Q10a,unknown_household_type,0
+Male,445,adults,2020-06-01,2020-06-30,Q10a,without_children,398
+Male,445,adults,2020-06-01,2020-06-30,Q10a,with_children_and_adults,45
+Male,445,adults,2020-06-01,2020-06-30,Q10a,unknown_household_type,2
+Female,393,adults,2020-06-01,2020-06-30,Q10a,without_children,286
+Female,393,adults,2020-06-01,2020-06-30,Q10a,with_children_and_adults,106
+Female,393,adults,2020-06-01,2020-06-30,Q10a,unknown_household_type,1
+No Single Gender,0,adults,2020-06-01,2020-06-30,Q10a,without_children,0
+No Single Gender,0,adults,2020-06-01,2020-06-30,Q10a,with_children_and_adults,0
+No Single Gender,0,adults,2020-06-01,2020-06-30,Q10a,unknown_household_type,0
+Questioning,0,adults,2020-06-01,2020-06-30,Q10a,without_children,0
+Questioning,0,adults,2020-06-01,2020-06-30,Q10a,with_children_and_adults,0
+Questioning,0,adults,2020-06-01,2020-06-30,Q10a,unknown_household_type,0
+Transgender,2,adults,2020-06-01,2020-06-30,Q10a,without_children,2
+Transgender,2,adults,2020-06-01,2020-06-30,Q10a,with_children_and_adults,0
+Transgender,2,adults,2020-06-01,2020-06-30,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2020-06-01,2020-06-30,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2020-06-01,2020-06-30,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2020-06-01,2020-06-30,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2020-06-01,2020-06-30,Q10a,without_children,0
+Data Not Collected,0,adults,2020-06-01,2020-06-30,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2020-06-01,2020-06-30,Q10a,unknown_household_type,0
+Male,413,adults,2020-07-01,2020-07-31,Q10a,without_children,367
+Male,413,adults,2020-07-01,2020-07-31,Q10a,with_children_and_adults,44
+Male,413,adults,2020-07-01,2020-07-31,Q10a,unknown_household_type,2
+Female,392,adults,2020-07-01,2020-07-31,Q10a,without_children,282
+Female,392,adults,2020-07-01,2020-07-31,Q10a,with_children_and_adults,109
+Female,392,adults,2020-07-01,2020-07-31,Q10a,unknown_household_type,1
+No Single Gender,0,adults,2020-07-01,2020-07-31,Q10a,without_children,0
+No Single Gender,0,adults,2020-07-01,2020-07-31,Q10a,with_children_and_adults,0
+No Single Gender,0,adults,2020-07-01,2020-07-31,Q10a,unknown_household_type,0
+Questioning,0,adults,2020-07-01,2020-07-31,Q10a,without_children,0
+Questioning,0,adults,2020-07-01,2020-07-31,Q10a,with_children_and_adults,0
+Questioning,0,adults,2020-07-01,2020-07-31,Q10a,unknown_household_type,0
+Transgender,0,adults,2020-07-01,2020-07-31,Q10a,without_children,0
+Transgender,0,adults,2020-07-01,2020-07-31,Q10a,with_children_and_adults,0
+Transgender,0,adults,2020-07-01,2020-07-31,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2020-07-01,2020-07-31,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2020-07-01,2020-07-31,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2020-07-01,2020-07-31,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2020-07-01,2020-07-31,Q10a,without_children,0
+Data Not Collected,0,adults,2020-07-01,2020-07-31,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2020-07-01,2020-07-31,Q10a,unknown_household_type,0
+Male,425,adults,2020-08-01,2020-08-31,Q10a,without_children,379
+Male,425,adults,2020-08-01,2020-08-31,Q10a,with_children_and_adults,44
+Male,425,adults,2020-08-01,2020-08-31,Q10a,unknown_household_type,2
+Female,375,adults,2020-08-01,2020-08-31,Q10a,without_children,270
+Female,375,adults,2020-08-01,2020-08-31,Q10a,with_children_and_adults,104
+Female,375,adults,2020-08-01,2020-08-31,Q10a,unknown_household_type,1
+No Single Gender,1,adults,2020-08-01,2020-08-31,Q10a,without_children,1
+No Single Gender,1,adults,2020-08-01,2020-08-31,Q10a,with_children_and_adults,0
+No Single Gender,1,adults,2020-08-01,2020-08-31,Q10a,unknown_household_type,0
+Questioning,0,adults,2020-08-01,2020-08-31,Q10a,without_children,0
+Questioning,0,adults,2020-08-01,2020-08-31,Q10a,with_children_and_adults,0
+Questioning,0,adults,2020-08-01,2020-08-31,Q10a,unknown_household_type,0
+Transgender,1,adults,2020-08-01,2020-08-31,Q10a,without_children,1
+Transgender,1,adults,2020-08-01,2020-08-31,Q10a,with_children_and_adults,0
+Transgender,1,adults,2020-08-01,2020-08-31,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2020-08-01,2020-08-31,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2020-08-01,2020-08-31,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2020-08-01,2020-08-31,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2020-08-01,2020-08-31,Q10a,without_children,0
+Data Not Collected,0,adults,2020-08-01,2020-08-31,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2020-08-01,2020-08-31,Q10a,unknown_household_type,0
+Male,439,adults,2020-09-01,2020-09-30,Q10a,without_children,391
+Male,439,adults,2020-09-01,2020-09-30,Q10a,with_children_and_adults,46
+Male,439,adults,2020-09-01,2020-09-30,Q10a,unknown_household_type,2
+Female,394,adults,2020-09-01,2020-09-30,Q10a,without_children,281
+Female,394,adults,2020-09-01,2020-09-30,Q10a,with_children_and_adults,112
+Female,394,adults,2020-09-01,2020-09-30,Q10a,unknown_household_type,1
+No Single Gender,1,adults,2020-09-01,2020-09-30,Q10a,without_children,1
+No Single Gender,1,adults,2020-09-01,2020-09-30,Q10a,with_children_and_adults,0
+No Single Gender,1,adults,2020-09-01,2020-09-30,Q10a,unknown_household_type,0
+Questioning,0,adults,2020-09-01,2020-09-30,Q10a,without_children,0
+Questioning,0,adults,2020-09-01,2020-09-30,Q10a,with_children_and_adults,0
+Questioning,0,adults,2020-09-01,2020-09-30,Q10a,unknown_household_type,0
+Transgender,3,adults,2020-09-01,2020-09-30,Q10a,without_children,3
+Transgender,3,adults,2020-09-01,2020-09-30,Q10a,with_children_and_adults,0
+Transgender,3,adults,2020-09-01,2020-09-30,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2020-09-01,2020-09-30,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2020-09-01,2020-09-30,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2020-09-01,2020-09-30,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2020-09-01,2020-09-30,Q10a,without_children,0
+Data Not Collected,0,adults,2020-09-01,2020-09-30,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2020-09-01,2020-09-30,Q10a,unknown_household_type,0
+Male,462,adults,2020-10-01,2020-10-31,Q10a,without_children,413
+Male,462,adults,2020-10-01,2020-10-31,Q10a,with_children_and_adults,46
+Male,462,adults,2020-10-01,2020-10-31,Q10a,unknown_household_type,3
+Female,400,adults,2020-10-01,2020-10-31,Q10a,without_children,287
+Female,400,adults,2020-10-01,2020-10-31,Q10a,with_children_and_adults,112
+Female,400,adults,2020-10-01,2020-10-31,Q10a,unknown_household_type,1
+No Single Gender,2,adults,2020-10-01,2020-10-31,Q10a,without_children,2
+No Single Gender,2,adults,2020-10-01,2020-10-31,Q10a,with_children_and_adults,0
+No Single Gender,2,adults,2020-10-01,2020-10-31,Q10a,unknown_household_type,0
+Questioning,0,adults,2020-10-01,2020-10-31,Q10a,without_children,0
+Questioning,0,adults,2020-10-01,2020-10-31,Q10a,with_children_and_adults,0
+Questioning,0,adults,2020-10-01,2020-10-31,Q10a,unknown_household_type,0
+Transgender,4,adults,2020-10-01,2020-10-31,Q10a,without_children,4
+Transgender,4,adults,2020-10-01,2020-10-31,Q10a,with_children_and_adults,0
+Transgender,4,adults,2020-10-01,2020-10-31,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2020-10-01,2020-10-31,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2020-10-01,2020-10-31,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2020-10-01,2020-10-31,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2020-10-01,2020-10-31,Q10a,without_children,0
+Data Not Collected,0,adults,2020-10-01,2020-10-31,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2020-10-01,2020-10-31,Q10a,unknown_household_type,0
+Male,507,adults,2020-11-01,2020-11-30,Q10a,without_children,456
+Male,507,adults,2020-11-01,2020-11-30,Q10a,with_children_and_adults,48
+Male,507,adults,2020-11-01,2020-11-30,Q10a,unknown_household_type,3
+Female,424,adults,2020-11-01,2020-11-30,Q10a,without_children,309
+Female,424,adults,2020-11-01,2020-11-30,Q10a,with_children_and_adults,114
+Female,424,adults,2020-11-01,2020-11-30,Q10a,unknown_household_type,1
+No Single Gender,2,adults,2020-11-01,2020-11-30,Q10a,without_children,2
+No Single Gender,2,adults,2020-11-01,2020-11-30,Q10a,with_children_and_adults,0
+No Single Gender,2,adults,2020-11-01,2020-11-30,Q10a,unknown_household_type,0
+Questioning,0,adults,2020-11-01,2020-11-30,Q10a,without_children,0
+Questioning,0,adults,2020-11-01,2020-11-30,Q10a,with_children_and_adults,0
+Questioning,0,adults,2020-11-01,2020-11-30,Q10a,unknown_household_type,0
+Transgender,4,adults,2020-11-01,2020-11-30,Q10a,without_children,4
+Transgender,4,adults,2020-11-01,2020-11-30,Q10a,with_children_and_adults,0
+Transgender,4,adults,2020-11-01,2020-11-30,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2020-11-01,2020-11-30,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2020-11-01,2020-11-30,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2020-11-01,2020-11-30,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2020-11-01,2020-11-30,Q10a,without_children,0
+Data Not Collected,0,adults,2020-11-01,2020-11-30,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2020-11-01,2020-11-30,Q10a,unknown_household_type,0
+Male,525,adults,2020-12-01,2020-12-31,Q10a,without_children,474
+Male,525,adults,2020-12-01,2020-12-31,Q10a,with_children_and_adults,48
+Male,525,adults,2020-12-01,2020-12-31,Q10a,unknown_household_type,3
+Female,422,adults,2020-12-01,2020-12-31,Q10a,without_children,298
+Female,422,adults,2020-12-01,2020-12-31,Q10a,with_children_and_adults,123
+Female,422,adults,2020-12-01,2020-12-31,Q10a,unknown_household_type,1
+No Single Gender,2,adults,2020-12-01,2020-12-31,Q10a,without_children,2
+No Single Gender,2,adults,2020-12-01,2020-12-31,Q10a,with_children_and_adults,0
+No Single Gender,2,adults,2020-12-01,2020-12-31,Q10a,unknown_household_type,0
+Questioning,0,adults,2020-12-01,2020-12-31,Q10a,without_children,0
+Questioning,0,adults,2020-12-01,2020-12-31,Q10a,with_children_and_adults,0
+Questioning,0,adults,2020-12-01,2020-12-31,Q10a,unknown_household_type,0
+Transgender,5,adults,2020-12-01,2020-12-31,Q10a,without_children,5
+Transgender,5,adults,2020-12-01,2020-12-31,Q10a,with_children_and_adults,0
+Transgender,5,adults,2020-12-01,2020-12-31,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2020-12-01,2020-12-31,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2020-12-01,2020-12-31,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2020-12-01,2020-12-31,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2020-12-01,2020-12-31,Q10a,without_children,0
+Data Not Collected,0,adults,2020-12-01,2020-12-31,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2020-12-01,2020-12-31,Q10a,unknown_household_type,0
+Male,547,adults,2021-01-01,2021-01-31,Q10a,without_children,495
+Male,547,adults,2021-01-01,2021-01-31,Q10a,with_children_and_adults,49
+Male,547,adults,2021-01-01,2021-01-31,Q10a,unknown_household_type,3
+Female,427,adults,2021-01-01,2021-01-31,Q10a,without_children,304
+Female,427,adults,2021-01-01,2021-01-31,Q10a,with_children_and_adults,122
+Female,427,adults,2021-01-01,2021-01-31,Q10a,unknown_household_type,1
+No Single Gender,2,adults,2021-01-01,2021-01-31,Q10a,without_children,2
+No Single Gender,2,adults,2021-01-01,2021-01-31,Q10a,with_children_and_adults,0
+No Single Gender,2,adults,2021-01-01,2021-01-31,Q10a,unknown_household_type,0
+Questioning,0,adults,2021-01-01,2021-01-31,Q10a,without_children,0
+Questioning,0,adults,2021-01-01,2021-01-31,Q10a,with_children_and_adults,0
+Questioning,0,adults,2021-01-01,2021-01-31,Q10a,unknown_household_type,0
+Transgender,5,adults,2021-01-01,2021-01-31,Q10a,without_children,5
+Transgender,5,adults,2021-01-01,2021-01-31,Q10a,with_children_and_adults,0
+Transgender,5,adults,2021-01-01,2021-01-31,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2021-01-01,2021-01-31,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2021-01-01,2021-01-31,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2021-01-01,2021-01-31,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2021-01-01,2021-01-31,Q10a,without_children,0
+Data Not Collected,0,adults,2021-01-01,2021-01-31,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2021-01-01,2021-01-31,Q10a,unknown_household_type,0
+Male,530,adults,2021-02-01,2021-02-28,Q10a,without_children,479
+Male,530,adults,2021-02-01,2021-02-28,Q10a,with_children_and_adults,48
+Male,530,adults,2021-02-01,2021-02-28,Q10a,unknown_household_type,3
+Female,390,adults,2021-02-01,2021-02-28,Q10a,without_children,275
+Female,390,adults,2021-02-01,2021-02-28,Q10a,with_children_and_adults,114
+Female,390,adults,2021-02-01,2021-02-28,Q10a,unknown_household_type,1
+No Single Gender,2,adults,2021-02-01,2021-02-28,Q10a,without_children,2
+No Single Gender,2,adults,2021-02-01,2021-02-28,Q10a,with_children_and_adults,0
+No Single Gender,2,adults,2021-02-01,2021-02-28,Q10a,unknown_household_type,0
+Questioning,0,adults,2021-02-01,2021-02-28,Q10a,without_children,0
+Questioning,0,adults,2021-02-01,2021-02-28,Q10a,with_children_and_adults,0
+Questioning,0,adults,2021-02-01,2021-02-28,Q10a,unknown_household_type,0
+Transgender,6,adults,2021-02-01,2021-02-28,Q10a,without_children,6
+Transgender,6,adults,2021-02-01,2021-02-28,Q10a,with_children_and_adults,0
+Transgender,6,adults,2021-02-01,2021-02-28,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2021-02-01,2021-02-28,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2021-02-01,2021-02-28,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2021-02-01,2021-02-28,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2021-02-01,2021-02-28,Q10a,without_children,0
+Data Not Collected,0,adults,2021-02-01,2021-02-28,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2021-02-01,2021-02-28,Q10a,unknown_household_type,0
+Male,526,adults,2021-03-01,2021-03-31,Q10a,without_children,477
+Male,526,adults,2021-03-01,2021-03-31,Q10a,with_children_and_adults,46
+Male,526,adults,2021-03-01,2021-03-31,Q10a,unknown_household_type,3
+Female,392,adults,2021-03-01,2021-03-31,Q10a,without_children,279
+Female,392,adults,2021-03-01,2021-03-31,Q10a,with_children_and_adults,112
+Female,392,adults,2021-03-01,2021-03-31,Q10a,unknown_household_type,1
+No Single Gender,2,adults,2021-03-01,2021-03-31,Q10a,without_children,2
+No Single Gender,2,adults,2021-03-01,2021-03-31,Q10a,with_children_and_adults,0
+No Single Gender,2,adults,2021-03-01,2021-03-31,Q10a,unknown_household_type,0
+Questioning,0,adults,2021-03-01,2021-03-31,Q10a,without_children,0
+Questioning,0,adults,2021-03-01,2021-03-31,Q10a,with_children_and_adults,0
+Questioning,0,adults,2021-03-01,2021-03-31,Q10a,unknown_household_type,0
+Transgender,6,adults,2021-03-01,2021-03-31,Q10a,without_children,6
+Transgender,6,adults,2021-03-01,2021-03-31,Q10a,with_children_and_adults,0
+Transgender,6,adults,2021-03-01,2021-03-31,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2021-03-01,2021-03-31,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2021-03-01,2021-03-31,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2021-03-01,2021-03-31,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2021-03-01,2021-03-31,Q10a,without_children,0
+Data Not Collected,0,adults,2021-03-01,2021-03-31,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2021-03-01,2021-03-31,Q10a,unknown_household_type,0
+Male,521,adults,2021-04-01,2021-04-30,Q10a,without_children,473
+Male,521,adults,2021-04-01,2021-04-30,Q10a,with_children_and_adults,45
+Male,521,adults,2021-04-01,2021-04-30,Q10a,unknown_household_type,3
+Female,368,adults,2021-04-01,2021-04-30,Q10a,without_children,259
+Female,368,adults,2021-04-01,2021-04-30,Q10a,with_children_and_adults,108
+Female,368,adults,2021-04-01,2021-04-30,Q10a,unknown_household_type,1
+No Single Gender,2,adults,2021-04-01,2021-04-30,Q10a,without_children,2
+No Single Gender,2,adults,2021-04-01,2021-04-30,Q10a,with_children_and_adults,0
+No Single Gender,2,adults,2021-04-01,2021-04-30,Q10a,unknown_household_type,0
+Questioning,0,adults,2021-04-01,2021-04-30,Q10a,without_children,0
+Questioning,0,adults,2021-04-01,2021-04-30,Q10a,with_children_and_adults,0
+Questioning,0,adults,2021-04-01,2021-04-30,Q10a,unknown_household_type,0
+Transgender,5,adults,2021-04-01,2021-04-30,Q10a,without_children,5
+Transgender,5,adults,2021-04-01,2021-04-30,Q10a,with_children_and_adults,0
+Transgender,5,adults,2021-04-01,2021-04-30,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2021-04-01,2021-04-30,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2021-04-01,2021-04-30,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2021-04-01,2021-04-30,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2021-04-01,2021-04-30,Q10a,without_children,0
+Data Not Collected,0,adults,2021-04-01,2021-04-30,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2021-04-01,2021-04-30,Q10a,unknown_household_type,0
+Male,507,adults,2021-05-01,2021-05-31,Q10a,without_children,461
+Male,507,adults,2021-05-01,2021-05-31,Q10a,with_children_and_adults,43
+Male,507,adults,2021-05-01,2021-05-31,Q10a,unknown_household_type,3
+Female,351,adults,2021-05-01,2021-05-31,Q10a,without_children,245
+Female,351,adults,2021-05-01,2021-05-31,Q10a,with_children_and_adults,105
+Female,351,adults,2021-05-01,2021-05-31,Q10a,unknown_household_type,1
+No Single Gender,2,adults,2021-05-01,2021-05-31,Q10a,without_children,2
+No Single Gender,2,adults,2021-05-01,2021-05-31,Q10a,with_children_and_adults,0
+No Single Gender,2,adults,2021-05-01,2021-05-31,Q10a,unknown_household_type,0
+Questioning,0,adults,2021-05-01,2021-05-31,Q10a,without_children,0
+Questioning,0,adults,2021-05-01,2021-05-31,Q10a,with_children_and_adults,0
+Questioning,0,adults,2021-05-01,2021-05-31,Q10a,unknown_household_type,0
+Transgender,4,adults,2021-05-01,2021-05-31,Q10a,without_children,4
+Transgender,4,adults,2021-05-01,2021-05-31,Q10a,with_children_and_adults,0
+Transgender,4,adults,2021-05-01,2021-05-31,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2021-05-01,2021-05-31,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2021-05-01,2021-05-31,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2021-05-01,2021-05-31,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2021-05-01,2021-05-31,Q10a,without_children,0
+Data Not Collected,0,adults,2021-05-01,2021-05-31,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2021-05-01,2021-05-31,Q10a,unknown_household_type,0
+Male,519,adults,2021-06-01,2021-06-30,Q10a,without_children,474
+Male,519,adults,2021-06-01,2021-06-30,Q10a,with_children_and_adults,43
+Male,519,adults,2021-06-01,2021-06-30,Q10a,unknown_household_type,2
+Female,381,adults,2021-06-01,2021-06-30,Q10a,without_children,275
+Female,381,adults,2021-06-01,2021-06-30,Q10a,with_children_and_adults,105
+Female,381,adults,2021-06-01,2021-06-30,Q10a,unknown_household_type,1
+No Single Gender,2,adults,2021-06-01,2021-06-30,Q10a,without_children,2
+No Single Gender,2,adults,2021-06-01,2021-06-30,Q10a,with_children_and_adults,0
+No Single Gender,2,adults,2021-06-01,2021-06-30,Q10a,unknown_household_type,0
+Questioning,0,adults,2021-06-01,2021-06-30,Q10a,without_children,0
+Questioning,0,adults,2021-06-01,2021-06-30,Q10a,with_children_and_adults,0
+Questioning,0,adults,2021-06-01,2021-06-30,Q10a,unknown_household_type,0
+Transgender,5,adults,2021-06-01,2021-06-30,Q10a,without_children,5
+Transgender,5,adults,2021-06-01,2021-06-30,Q10a,with_children_and_adults,0
+Transgender,5,adults,2021-06-01,2021-06-30,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2021-06-01,2021-06-30,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2021-06-01,2021-06-30,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2021-06-01,2021-06-30,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2021-06-01,2021-06-30,Q10a,without_children,0
+Data Not Collected,0,adults,2021-06-01,2021-06-30,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2021-06-01,2021-06-30,Q10a,unknown_household_type,0
+Male,536,adults,2021-07-01,2021-07-31,Q10a,without_children,486
+Male,536,adults,2021-07-01,2021-07-31,Q10a,with_children_and_adults,48
+Male,536,adults,2021-07-01,2021-07-31,Q10a,unknown_household_type,2
+Female,382,adults,2021-07-01,2021-07-31,Q10a,without_children,261
+Female,382,adults,2021-07-01,2021-07-31,Q10a,with_children_and_adults,120
+Female,382,adults,2021-07-01,2021-07-31,Q10a,unknown_household_type,1
+No Single Gender,2,adults,2021-07-01,2021-07-31,Q10a,without_children,2
+No Single Gender,2,adults,2021-07-01,2021-07-31,Q10a,with_children_and_adults,0
+No Single Gender,2,adults,2021-07-01,2021-07-31,Q10a,unknown_household_type,0
+Questioning,0,adults,2021-07-01,2021-07-31,Q10a,without_children,0
+Questioning,0,adults,2021-07-01,2021-07-31,Q10a,with_children_and_adults,0
+Questioning,0,adults,2021-07-01,2021-07-31,Q10a,unknown_household_type,0
+Transgender,2,adults,2021-07-01,2021-07-31,Q10a,without_children,2
+Transgender,2,adults,2021-07-01,2021-07-31,Q10a,with_children_and_adults,0
+Transgender,2,adults,2021-07-01,2021-07-31,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2021-07-01,2021-07-31,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2021-07-01,2021-07-31,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2021-07-01,2021-07-31,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2021-07-01,2021-07-31,Q10a,without_children,0
+Data Not Collected,0,adults,2021-07-01,2021-07-31,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2021-07-01,2021-07-31,Q10a,unknown_household_type,0
+Male,592,adults,2021-08-01,2021-08-31,Q10a,without_children,537
+Male,592,adults,2021-08-01,2021-08-31,Q10a,with_children_and_adults,53
+Male,592,adults,2021-08-01,2021-08-31,Q10a,unknown_household_type,2
+Female,449,adults,2021-08-01,2021-08-31,Q10a,without_children,308
+Female,449,adults,2021-08-01,2021-08-31,Q10a,with_children_and_adults,140
+Female,449,adults,2021-08-01,2021-08-31,Q10a,unknown_household_type,1
+No Single Gender,2,adults,2021-08-01,2021-08-31,Q10a,without_children,2
+No Single Gender,2,adults,2021-08-01,2021-08-31,Q10a,with_children_and_adults,0
+No Single Gender,2,adults,2021-08-01,2021-08-31,Q10a,unknown_household_type,0
+Questioning,0,adults,2021-08-01,2021-08-31,Q10a,without_children,0
+Questioning,0,adults,2021-08-01,2021-08-31,Q10a,with_children_and_adults,0
+Questioning,0,adults,2021-08-01,2021-08-31,Q10a,unknown_household_type,0
+Transgender,2,adults,2021-08-01,2021-08-31,Q10a,without_children,2
+Transgender,2,adults,2021-08-01,2021-08-31,Q10a,with_children_and_adults,0
+Transgender,2,adults,2021-08-01,2021-08-31,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2021-08-01,2021-08-31,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2021-08-01,2021-08-31,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2021-08-01,2021-08-31,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2021-08-01,2021-08-31,Q10a,without_children,0
+Data Not Collected,0,adults,2021-08-01,2021-08-31,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2021-08-01,2021-08-31,Q10a,unknown_household_type,0
+Male,617,adults,2021-09-01,2021-09-30,Q10a,without_children,556
+Male,617,adults,2021-09-01,2021-09-30,Q10a,with_children_and_adults,59
+Male,617,adults,2021-09-01,2021-09-30,Q10a,unknown_household_type,2
+Female,471,adults,2021-09-01,2021-09-30,Q10a,without_children,325
+Female,471,adults,2021-09-01,2021-09-30,Q10a,with_children_and_adults,145
+Female,471,adults,2021-09-01,2021-09-30,Q10a,unknown_household_type,1
+No Single Gender,2,adults,2021-09-01,2021-09-30,Q10a,without_children,2
+No Single Gender,2,adults,2021-09-01,2021-09-30,Q10a,with_children_and_adults,0
+No Single Gender,2,adults,2021-09-01,2021-09-30,Q10a,unknown_household_type,0
+Questioning,0,adults,2021-09-01,2021-09-30,Q10a,without_children,0
+Questioning,0,adults,2021-09-01,2021-09-30,Q10a,with_children_and_adults,0
+Questioning,0,adults,2021-09-01,2021-09-30,Q10a,unknown_household_type,0
+Transgender,3,adults,2021-09-01,2021-09-30,Q10a,without_children,3
+Transgender,3,adults,2021-09-01,2021-09-30,Q10a,with_children_and_adults,0
+Transgender,3,adults,2021-09-01,2021-09-30,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2021-09-01,2021-09-30,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2021-09-01,2021-09-30,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2021-09-01,2021-09-30,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2021-09-01,2021-09-30,Q10a,without_children,0
+Data Not Collected,0,adults,2021-09-01,2021-09-30,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2021-09-01,2021-09-30,Q10a,unknown_household_type,0
+Male,657,adults,2021-10-01,2021-10-31,Q10a,without_children,594
+Male,657,adults,2021-10-01,2021-10-31,Q10a,with_children_and_adults,60
+Male,657,adults,2021-10-01,2021-10-31,Q10a,unknown_household_type,3
+Female,480,adults,2021-10-01,2021-10-31,Q10a,without_children,331
+Female,480,adults,2021-10-01,2021-10-31,Q10a,with_children_and_adults,147
+Female,480,adults,2021-10-01,2021-10-31,Q10a,unknown_household_type,2
+No Single Gender,2,adults,2021-10-01,2021-10-31,Q10a,without_children,2
+No Single Gender,2,adults,2021-10-01,2021-10-31,Q10a,with_children_and_adults,0
+No Single Gender,2,adults,2021-10-01,2021-10-31,Q10a,unknown_household_type,0
+Questioning,0,adults,2021-10-01,2021-10-31,Q10a,without_children,0
+Questioning,0,adults,2021-10-01,2021-10-31,Q10a,with_children_and_adults,0
+Questioning,0,adults,2021-10-01,2021-10-31,Q10a,unknown_household_type,0
+Transgender,1,adults,2021-10-01,2021-10-31,Q10a,without_children,1
+Transgender,1,adults,2021-10-01,2021-10-31,Q10a,with_children_and_adults,0
+Transgender,1,adults,2021-10-01,2021-10-31,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2021-10-01,2021-10-31,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2021-10-01,2021-10-31,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2021-10-01,2021-10-31,Q10a,unknown_household_type,0
+Data Not Collected,1,adults,2021-10-01,2021-10-31,Q10a,without_children,1
+Data Not Collected,1,adults,2021-10-01,2021-10-31,Q10a,with_children_and_adults,0
+Data Not Collected,1,adults,2021-10-01,2021-10-31,Q10a,unknown_household_type,0
+Male,702,adults,2021-11-01,2021-11-30,Q10a,without_children,634
+Male,702,adults,2021-11-01,2021-11-30,Q10a,with_children_and_adults,65
+Male,702,adults,2021-11-01,2021-11-30,Q10a,unknown_household_type,3
+Female,497,adults,2021-11-01,2021-11-30,Q10a,without_children,340
+Female,497,adults,2021-11-01,2021-11-30,Q10a,with_children_and_adults,155
+Female,497,adults,2021-11-01,2021-11-30,Q10a,unknown_household_type,2
+No Single Gender,2,adults,2021-11-01,2021-11-30,Q10a,without_children,2
+No Single Gender,2,adults,2021-11-01,2021-11-30,Q10a,with_children_and_adults,0
+No Single Gender,2,adults,2021-11-01,2021-11-30,Q10a,unknown_household_type,0
+Questioning,0,adults,2021-11-01,2021-11-30,Q10a,without_children,0
+Questioning,0,adults,2021-11-01,2021-11-30,Q10a,with_children_and_adults,0
+Questioning,0,adults,2021-11-01,2021-11-30,Q10a,unknown_household_type,0
+Transgender,2,adults,2021-11-01,2021-11-30,Q10a,without_children,2
+Transgender,2,adults,2021-11-01,2021-11-30,Q10a,with_children_and_adults,0
+Transgender,2,adults,2021-11-01,2021-11-30,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2021-11-01,2021-11-30,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2021-11-01,2021-11-30,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2021-11-01,2021-11-30,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2021-11-01,2021-11-30,Q10a,without_children,0
+Data Not Collected,0,adults,2021-11-01,2021-11-30,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2021-11-01,2021-11-30,Q10a,unknown_household_type,0
+Male,758,adults,2021-12-01,2021-12-31,Q10a,without_children,678
+Male,758,adults,2021-12-01,2021-12-31,Q10a,with_children_and_adults,77
+Male,758,adults,2021-12-01,2021-12-31,Q10a,unknown_household_type,3
+Female,531,adults,2021-12-01,2021-12-31,Q10a,without_children,359
+Female,531,adults,2021-12-01,2021-12-31,Q10a,with_children_and_adults,170
+Female,531,adults,2021-12-01,2021-12-31,Q10a,unknown_household_type,2
+No Single Gender,2,adults,2021-12-01,2021-12-31,Q10a,without_children,2
+No Single Gender,2,adults,2021-12-01,2021-12-31,Q10a,with_children_and_adults,0
+No Single Gender,2,adults,2021-12-01,2021-12-31,Q10a,unknown_household_type,0
+Questioning,0,adults,2021-12-01,2021-12-31,Q10a,without_children,0
+Questioning,0,adults,2021-12-01,2021-12-31,Q10a,with_children_and_adults,0
+Questioning,0,adults,2021-12-01,2021-12-31,Q10a,unknown_household_type,0
+Transgender,3,adults,2021-12-01,2021-12-31,Q10a,without_children,3
+Transgender,3,adults,2021-12-01,2021-12-31,Q10a,with_children_and_adults,0
+Transgender,3,adults,2021-12-01,2021-12-31,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2021-12-01,2021-12-31,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2021-12-01,2021-12-31,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2021-12-01,2021-12-31,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2021-12-01,2021-12-31,Q10a,without_children,0
+Data Not Collected,0,adults,2021-12-01,2021-12-31,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2021-12-01,2021-12-31,Q10a,unknown_household_type,0
+Male,764,adults,2022-01-01,2022-01-31,Q10a,without_children,681
+Male,764,adults,2022-01-01,2022-01-31,Q10a,with_children_and_adults,80
+Male,764,adults,2022-01-01,2022-01-31,Q10a,unknown_household_type,3
+Female,525,adults,2022-01-01,2022-01-31,Q10a,without_children,364
+Female,525,adults,2022-01-01,2022-01-31,Q10a,with_children_and_adults,159
+Female,525,adults,2022-01-01,2022-01-31,Q10a,unknown_household_type,2
+No Single Gender,2,adults,2022-01-01,2022-01-31,Q10a,without_children,2
+No Single Gender,2,adults,2022-01-01,2022-01-31,Q10a,with_children_and_adults,0
+No Single Gender,2,adults,2022-01-01,2022-01-31,Q10a,unknown_household_type,0
+Questioning,0,adults,2022-01-01,2022-01-31,Q10a,without_children,0
+Questioning,0,adults,2022-01-01,2022-01-31,Q10a,with_children_and_adults,0
+Questioning,0,adults,2022-01-01,2022-01-31,Q10a,unknown_household_type,0
+Transgender,2,adults,2022-01-01,2022-01-31,Q10a,without_children,2
+Transgender,2,adults,2022-01-01,2022-01-31,Q10a,with_children_and_adults,0
+Transgender,2,adults,2022-01-01,2022-01-31,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2022-01-01,2022-01-31,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2022-01-01,2022-01-31,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2022-01-01,2022-01-31,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2022-01-01,2022-01-31,Q10a,without_children,0
+Data Not Collected,0,adults,2022-01-01,2022-01-31,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2022-01-01,2022-01-31,Q10a,unknown_household_type,0
+Male,776,adults,2022-02-01,2022-02-28,Q10a,without_children,693
+Male,776,adults,2022-02-01,2022-02-28,Q10a,with_children_and_adults,79
+Male,776,adults,2022-02-01,2022-02-28,Q10a,unknown_household_type,4
+Female,534,adults,2022-02-01,2022-02-28,Q10a,without_children,360
+Female,534,adults,2022-02-01,2022-02-28,Q10a,with_children_and_adults,172
+Female,534,adults,2022-02-01,2022-02-28,Q10a,unknown_household_type,2
+No Single Gender,4,adults,2022-02-01,2022-02-28,Q10a,without_children,4
+No Single Gender,4,adults,2022-02-01,2022-02-28,Q10a,with_children_and_adults,0
+No Single Gender,4,adults,2022-02-01,2022-02-28,Q10a,unknown_household_type,0
+Questioning,0,adults,2022-02-01,2022-02-28,Q10a,without_children,0
+Questioning,0,adults,2022-02-01,2022-02-28,Q10a,with_children_and_adults,0
+Questioning,0,adults,2022-02-01,2022-02-28,Q10a,unknown_household_type,0
+Transgender,4,adults,2022-02-01,2022-02-28,Q10a,without_children,4
+Transgender,4,adults,2022-02-01,2022-02-28,Q10a,with_children_and_adults,0
+Transgender,4,adults,2022-02-01,2022-02-28,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2022-02-01,2022-02-28,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2022-02-01,2022-02-28,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2022-02-01,2022-02-28,Q10a,unknown_household_type,0
+Data Not Collected,1,adults,2022-02-01,2022-02-28,Q10a,without_children,1
+Data Not Collected,1,adults,2022-02-01,2022-02-28,Q10a,with_children_and_adults,0
+Data Not Collected,1,adults,2022-02-01,2022-02-28,Q10a,unknown_household_type,0
+Male,817,adults,2022-03-01,2022-03-31,Q10a,without_children,727
+Male,817,adults,2022-03-01,2022-03-31,Q10a,with_children_and_adults,85
+Male,817,adults,2022-03-01,2022-03-31,Q10a,unknown_household_type,5
+Female,594,adults,2022-03-01,2022-03-31,Q10a,without_children,392
+Female,594,adults,2022-03-01,2022-03-31,Q10a,with_children_and_adults,198
+Female,594,adults,2022-03-01,2022-03-31,Q10a,unknown_household_type,4
+No Single Gender,3,adults,2022-03-01,2022-03-31,Q10a,without_children,3
+No Single Gender,3,adults,2022-03-01,2022-03-31,Q10a,with_children_and_adults,0
+No Single Gender,3,adults,2022-03-01,2022-03-31,Q10a,unknown_household_type,0
+Questioning,0,adults,2022-03-01,2022-03-31,Q10a,without_children,0
+Questioning,0,adults,2022-03-01,2022-03-31,Q10a,with_children_and_adults,0
+Questioning,0,adults,2022-03-01,2022-03-31,Q10a,unknown_household_type,0
+Transgender,3,adults,2022-03-01,2022-03-31,Q10a,without_children,3
+Transgender,3,adults,2022-03-01,2022-03-31,Q10a,with_children_and_adults,0
+Transgender,3,adults,2022-03-01,2022-03-31,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2022-03-01,2022-03-31,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2022-03-01,2022-03-31,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2022-03-01,2022-03-31,Q10a,unknown_household_type,0
+Data Not Collected,0,adults,2022-03-01,2022-03-31,Q10a,without_children,0
+Data Not Collected,0,adults,2022-03-01,2022-03-31,Q10a,with_children_and_adults,0
+Data Not Collected,0,adults,2022-03-01,2022-03-31,Q10a,unknown_household_type,0
+Male,825,adults,2022-04-01,2022-04-30,Q10a,without_children,733
+Male,825,adults,2022-04-01,2022-04-30,Q10a,with_children_and_adults,89
+Male,825,adults,2022-04-01,2022-04-30,Q10a,unknown_household_type,3
+Female,600,adults,2022-04-01,2022-04-30,Q10a,without_children,399
+Female,600,adults,2022-04-01,2022-04-30,Q10a,with_children_and_adults,199
+Female,600,adults,2022-04-01,2022-04-30,Q10a,unknown_household_type,2
+No Single Gender,4,adults,2022-04-01,2022-04-30,Q10a,without_children,4
+No Single Gender,4,adults,2022-04-01,2022-04-30,Q10a,with_children_and_adults,0
+No Single Gender,4,adults,2022-04-01,2022-04-30,Q10a,unknown_household_type,0
+Questioning,0,adults,2022-04-01,2022-04-30,Q10a,without_children,0
+Questioning,0,adults,2022-04-01,2022-04-30,Q10a,with_children_and_adults,0
+Questioning,0,adults,2022-04-01,2022-04-30,Q10a,unknown_household_type,0
+Transgender,2,adults,2022-04-01,2022-04-30,Q10a,without_children,2
+Transgender,2,adults,2022-04-01,2022-04-30,Q10a,with_children_and_adults,0
+Transgender,2,adults,2022-04-01,2022-04-30,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2022-04-01,2022-04-30,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2022-04-01,2022-04-30,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2022-04-01,2022-04-30,Q10a,unknown_household_type,0
+Data Not Collected,1,adults,2022-04-01,2022-04-30,Q10a,without_children,1
+Data Not Collected,1,adults,2022-04-01,2022-04-30,Q10a,with_children_and_adults,0
+Data Not Collected,1,adults,2022-04-01,2022-04-30,Q10a,unknown_household_type,0
+Male,825,adults,2022-05-01,2022-05-31,Q10a,without_children,723
+Male,825,adults,2022-05-01,2022-05-31,Q10a,with_children_and_adults,99
+Male,825,adults,2022-05-01,2022-05-31,Q10a,unknown_household_type,3
+Female,600,adults,2022-05-01,2022-05-31,Q10a,without_children,388
+Female,600,adults,2022-05-01,2022-05-31,Q10a,with_children_and_adults,210
+Female,600,adults,2022-05-01,2022-05-31,Q10a,unknown_household_type,2
+No Single Gender,4,adults,2022-05-01,2022-05-31,Q10a,without_children,4
+No Single Gender,4,adults,2022-05-01,2022-05-31,Q10a,with_children_and_adults,0
+No Single Gender,4,adults,2022-05-01,2022-05-31,Q10a,unknown_household_type,0
+Questioning,0,adults,2022-05-01,2022-05-31,Q10a,without_children,0
+Questioning,0,adults,2022-05-01,2022-05-31,Q10a,with_children_and_adults,0
+Questioning,0,adults,2022-05-01,2022-05-31,Q10a,unknown_household_type,0
+Transgender,2,adults,2022-05-01,2022-05-31,Q10a,without_children,2
+Transgender,2,adults,2022-05-01,2022-05-31,Q10a,with_children_and_adults,0
+Transgender,2,adults,2022-05-01,2022-05-31,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2022-05-01,2022-05-31,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2022-05-01,2022-05-31,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2022-05-01,2022-05-31,Q10a,unknown_household_type,0
+Data Not Collected,2,adults,2022-05-01,2022-05-31,Q10a,without_children,1
+Data Not Collected,2,adults,2022-05-01,2022-05-31,Q10a,with_children_and_adults,1
+Data Not Collected,2,adults,2022-05-01,2022-05-31,Q10a,unknown_household_type,0
+Male,840,adults,2022-06-01,2022-06-30,Q10a,without_children,745
+Male,840,adults,2022-06-01,2022-06-30,Q10a,with_children_and_adults,92
+Male,840,adults,2022-06-01,2022-06-30,Q10a,unknown_household_type,3
+Female,636,adults,2022-06-01,2022-06-30,Q10a,without_children,413
+Female,636,adults,2022-06-01,2022-06-30,Q10a,with_children_and_adults,221
+Female,636,adults,2022-06-01,2022-06-30,Q10a,unknown_household_type,2
+No Single Gender,4,adults,2022-06-01,2022-06-30,Q10a,without_children,4
+No Single Gender,4,adults,2022-06-01,2022-06-30,Q10a,with_children_and_adults,0
+No Single Gender,4,adults,2022-06-01,2022-06-30,Q10a,unknown_household_type,0
+Questioning,0,adults,2022-06-01,2022-06-30,Q10a,without_children,0
+Questioning,0,adults,2022-06-01,2022-06-30,Q10a,with_children_and_adults,0
+Questioning,0,adults,2022-06-01,2022-06-30,Q10a,unknown_household_type,0
+Transgender,3,adults,2022-06-01,2022-06-30,Q10a,without_children,3
+Transgender,3,adults,2022-06-01,2022-06-30,Q10a,with_children_and_adults,0
+Transgender,3,adults,2022-06-01,2022-06-30,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2022-06-01,2022-06-30,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2022-06-01,2022-06-30,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2022-06-01,2022-06-30,Q10a,unknown_household_type,0
+Data Not Collected,1,adults,2022-06-01,2022-06-30,Q10a,without_children,1
+Data Not Collected,1,adults,2022-06-01,2022-06-30,Q10a,with_children_and_adults,0
+Data Not Collected,1,adults,2022-06-01,2022-06-30,Q10a,unknown_household_type,0
+Male,820,adults,2022-07-01,2022-07-31,Q10a,without_children,729
+Male,820,adults,2022-07-01,2022-07-31,Q10a,with_children_and_adults,88
+Male,820,adults,2022-07-01,2022-07-31,Q10a,unknown_household_type,3
+Female,613,adults,2022-07-01,2022-07-31,Q10a,without_children,396
+Female,613,adults,2022-07-01,2022-07-31,Q10a,with_children_and_adults,214
+Female,613,adults,2022-07-01,2022-07-31,Q10a,unknown_household_type,3
+No Single Gender,5,adults,2022-07-01,2022-07-31,Q10a,without_children,4
+No Single Gender,5,adults,2022-07-01,2022-07-31,Q10a,with_children_and_adults,1
+No Single Gender,5,adults,2022-07-01,2022-07-31,Q10a,unknown_household_type,0
+Questioning,0,adults,2022-07-01,2022-07-31,Q10a,without_children,0
+Questioning,0,adults,2022-07-01,2022-07-31,Q10a,with_children_and_adults,0
+Questioning,0,adults,2022-07-01,2022-07-31,Q10a,unknown_household_type,0
+Transgender,3,adults,2022-07-01,2022-07-31,Q10a,without_children,3
+Transgender,3,adults,2022-07-01,2022-07-31,Q10a,with_children_and_adults,0
+Transgender,3,adults,2022-07-01,2022-07-31,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2022-07-01,2022-07-31,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2022-07-01,2022-07-31,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2022-07-01,2022-07-31,Q10a,unknown_household_type,0
+Data Not Collected,1,adults,2022-07-01,2022-07-31,Q10a,without_children,1
+Data Not Collected,1,adults,2022-07-01,2022-07-31,Q10a,with_children_and_adults,0
+Data Not Collected,1,adults,2022-07-01,2022-07-31,Q10a,unknown_household_type,0
+Male,845,adults,2022-08-01,2022-08-31,Q10a,without_children,742
+Male,845,adults,2022-08-01,2022-08-31,Q10a,with_children_and_adults,99
+Male,845,adults,2022-08-01,2022-08-31,Q10a,unknown_household_type,4
+Female,630,adults,2022-08-01,2022-08-31,Q10a,without_children,395
+Female,630,adults,2022-08-01,2022-08-31,Q10a,with_children_and_adults,231
+Female,630,adults,2022-08-01,2022-08-31,Q10a,unknown_household_type,4
+No Single Gender,4,adults,2022-08-01,2022-08-31,Q10a,without_children,4
+No Single Gender,4,adults,2022-08-01,2022-08-31,Q10a,with_children_and_adults,0
+No Single Gender,4,adults,2022-08-01,2022-08-31,Q10a,unknown_household_type,0
+Questioning,0,adults,2022-08-01,2022-08-31,Q10a,without_children,0
+Questioning,0,adults,2022-08-01,2022-08-31,Q10a,with_children_and_adults,0
+Questioning,0,adults,2022-08-01,2022-08-31,Q10a,unknown_household_type,0
+Transgender,3,adults,2022-08-01,2022-08-31,Q10a,without_children,3
+Transgender,3,adults,2022-08-01,2022-08-31,Q10a,with_children_and_adults,0
+Transgender,3,adults,2022-08-01,2022-08-31,Q10a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,adults,2022-08-01,2022-08-31,Q10a,without_children,0
+Client Doesn't Know/Client Refused,0,adults,2022-08-01,2022-08-31,Q10a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,adults,2022-08-01,2022-08-31,Q10a,unknown_household_type,0
+Data Not Collected,1,adults,2022-08-01,2022-08-31,Q10a,without_children,1
+Data Not Collected,1,adults,2022-08-01,2022-08-31,Q10a,with_children_and_adults,0
+Data Not Collected,1,adults,2022-08-01,2022-08-31,Q10a,unknown_household_type,0

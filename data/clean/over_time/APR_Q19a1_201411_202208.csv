@@ -1,0 +1,565 @@
+income_change_by_income_category_universe_adult_stayers_with_income_information_at_start_and_annual_assessment,had_income_category_at_start_and_did_not_have_it_at_annual_assessment,retained_income_category_but_had_less_at_annual_assessment_than_at_start,retained_income_category_and_same_at_annual_assessment_as_at_start,retained_income_category_and_increased_at_annual_assessment,did_not_have_the_income_category_at_start_and_gained_the_income_category_at_annual_assessment,did_not_have_the_income_category_at_start_or_at_annual_assessment,total_adults_including_those_with_no_income,performance_measure_adults_who_gained_or_increased_income_from_start_to_annual_assessment,average_gain,performance_measure_percent_of_persons_who_accomplished_this_measure,population,start_date,end_date,question
+"Number of Adults with Earned Income (ie.e, Employment Income)",0,0,0,1,0,3,4,1,0.25,NA,all_persons,2014-11-01,2014-11-30,Q19a1
+Average Change in Earned Income,0,0,0,1200,0,0,0,1200,0,NA,all_persons,2014-11-01,2014-11-30,Q19a1
+Number of Adults with Other Income,1,0,2,0,0,1,4,0,0,NA,all_persons,2014-11-01,2014-11-30,Q19a1
+Average Change in Other Income,-231,0,0,0,0,0,0,0,0,NA,all_persons,2014-11-01,2014-11-30,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",1,0,2,1,0,0,4,1,0.25,NA,all_persons,2014-11-01,2014-11-30,Q19a1
+Average Change in Overall Income,-231,0,0,1200,0,0,242,1200,0,NA,all_persons,2014-11-01,2014-11-30,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",0,0,1,1,0,6,8,1,0.13,NA,all_persons,2014-12-01,2014-12-31,Q19a1
+Average Change in Earned Income,0,0,0,1200,0,0,0,1200,0,NA,all_persons,2014-12-01,2014-12-31,Q19a1
+Number of Adults with Other Income,1,0,4,0,1,2,8,1,0.13,NA,all_persons,2014-12-01,2014-12-31,Q19a1
+Average Change in Other Income,-231,0,0,0,733,0,0,733,0,NA,all_persons,2014-12-01,2014-12-31,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",1,0,4,2,0,1,8,2,0.25,NA,all_persons,2014-12-01,2014-12-31,Q19a1
+Average Change in Overall Income,-231,0,0,966.5,0,0,212,966.5,0,NA,all_persons,2014-12-01,2014-12-31,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",0,0,1,1,0,9,11,1,0.09,NA,all_persons,2015-01-01,2015-01-31,Q19a1
+Average Change in Earned Income,0,0,0,1200,0,0,0,1200,0,NA,all_persons,2015-01-01,2015-01-31,Q19a1
+Number of Adults with Other Income,1,1,6,0,1,2,11,1,0.09,NA,all_persons,2015-01-01,2015-01-31,Q19a1
+Average Change in Other Income,-231,-131,0,0,733,0,0,733,0,NA,all_persons,2015-01-01,2015-01-31,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",1,1,6,2,0,1,11,2,0.18,NA,all_persons,2015-01-01,2015-01-31,Q19a1
+Average Change in Overall Income,-231,-131,0,966.5,0,0,142,966.5,0,NA,all_persons,2015-01-01,2015-01-31,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",0,0,1,1,0,10,12,1,0.08,NA,all_persons,2015-02-01,2015-02-28,Q19a1
+Average Change in Earned Income,0,0,0,1200,0,0,0,1200,0,NA,all_persons,2015-02-01,2015-02-28,Q19a1
+Number of Adults with Other Income,1,1,7,0,1,2,12,1,0.08,NA,all_persons,2015-02-01,2015-02-28,Q19a1
+Average Change in Other Income,-231,-131,0,0,733,0,0,733,0,NA,all_persons,2015-02-01,2015-02-28,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",1,1,7,2,0,1,12,2,0.17,NA,all_persons,2015-02-01,2015-02-28,Q19a1
+Average Change in Overall Income,-231,-131,0,966.5,0,0,130,966.5,0,NA,all_persons,2015-02-01,2015-02-28,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",0,0,1,1,0,10,12,1,0.08,NA,all_persons,2015-03-01,2015-03-31,Q19a1
+Average Change in Earned Income,0,0,0,1200,0,0,0,1200,0,NA,all_persons,2015-03-01,2015-03-31,Q19a1
+Number of Adults with Other Income,1,1,7,0,1,2,12,1,0.08,NA,all_persons,2015-03-01,2015-03-31,Q19a1
+Average Change in Other Income,-231,-131,0,0,733,0,0,733,0,NA,all_persons,2015-03-01,2015-03-31,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",1,1,7,2,0,1,12,2,0.17,NA,all_persons,2015-03-01,2015-03-31,Q19a1
+Average Change in Overall Income,-231,-131,0,966.5,0,0,130,966.5,0,NA,all_persons,2015-03-01,2015-03-31,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",0,0,2,1,0,11,14,1,0.07,NA,all_persons,2015-04-01,2015-04-30,Q19a1
+Average Change in Earned Income,0,0,0,1200,0,0,0,1200,0,NA,all_persons,2015-04-01,2015-04-30,Q19a1
+Number of Adults with Other Income,1,1,8,0,1,3,14,1,0.07,NA,all_persons,2015-04-01,2015-04-30,Q19a1
+Average Change in Other Income,-231,-131,0,0,733,0,0,733,0,NA,all_persons,2015-04-01,2015-04-30,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",1,1,9,2,0,1,14,2,0.14,NA,all_persons,2015-04-01,2015-04-30,Q19a1
+Average Change in Overall Income,-231,-131,0,966.5,0,0,112,966.5,0,NA,all_persons,2015-04-01,2015-04-30,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",0,0,2,1,0,17,20,1,0.05,NA,all_persons,2015-05-01,2015-05-31,Q19a1
+Average Change in Earned Income,0,0,0,1200,0,0,0,1200,0,NA,all_persons,2015-05-01,2015-05-31,Q19a1
+Number of Adults with Other Income,1,1,14,0,1,3,20,1,0.05,NA,all_persons,2015-05-01,2015-05-31,Q19a1
+Average Change in Other Income,-231,-131,0,0,733,0,0,733,0,NA,all_persons,2015-05-01,2015-05-31,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",1,1,15,2,0,1,20,2,0.1,NA,all_persons,2015-05-01,2015-05-31,Q19a1
+Average Change in Overall Income,-231,-131,0,966.5,0,0,78,966.5,0,NA,all_persons,2015-05-01,2015-05-31,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",0,0,2,0,0,17,19,0,0,NA,all_persons,2015-06-01,2015-06-30,Q19a1
+Average Change in Earned Income,0,0,0,0,0,0,0,0,0,NA,all_persons,2015-06-01,2015-06-30,Q19a1
+Number of Adults with Other Income,1,1,14,0,1,2,19,1,0.05,NA,all_persons,2015-06-01,2015-06-30,Q19a1
+Average Change in Other Income,-231,-131,0,0,733,0,0,733,0,NA,all_persons,2015-06-01,2015-06-30,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",1,1,15,1,0,1,19,1,0.05,NA,all_persons,2015-06-01,2015-06-30,Q19a1
+Average Change in Overall Income,-231,-131,0,733,0,0,19,733,0,NA,all_persons,2015-06-01,2015-06-30,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",0,0,2,0,0,18,20,0,0,NA,all_persons,2015-07-01,2015-07-31,Q19a1
+Average Change in Earned Income,0,0,0,0,0,0,0,0,0,NA,all_persons,2015-07-01,2015-07-31,Q19a1
+Number of Adults with Other Income,1,1,14,1,1,2,20,2,0.1,NA,all_persons,2015-07-01,2015-07-31,Q19a1
+Average Change in Other Income,-231,-131,0,2810,733,0,0,1771.5,0,NA,all_persons,2015-07-01,2015-07-31,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",1,1,15,2,0,1,20,2,0.1,NA,all_persons,2015-07-01,2015-07-31,Q19a1
+Average Change in Overall Income,-231,-131,0,1771.5,0,0,159,1771.5,0,NA,all_persons,2015-07-01,2015-07-31,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",0,0,2,0,0,19,21,0,0,NA,all_persons,2015-08-01,2015-08-31,Q19a1
+Average Change in Earned Income,0,0,0,0,0,0,0,0,0,NA,all_persons,2015-08-01,2015-08-31,Q19a1
+Number of Adults with Other Income,1,1,14,1,2,2,21,3,0.14,NA,all_persons,2015-08-01,2015-08-31,Q19a1
+Average Change in Other Income,-231,-131,0,2810,716.5,0,0,1414.33,0,NA,all_persons,2015-08-01,2015-08-31,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",1,1,15,2,1,1,21,3,0.14,NA,all_persons,2015-08-01,2015-08-31,Q19a1
+Average Change in Overall Income,-231,-131,0,1771.5,700,0,184,1414.33,0,NA,all_persons,2015-08-01,2015-08-31,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",0,0,2,0,0,20,22,0,0,NA,all_persons,2015-09-01,2015-09-30,Q19a1
+Average Change in Earned Income,0,0,0,0,0,0,0,0,0,NA,all_persons,2015-09-01,2015-09-30,Q19a1
+Number of Adults with Other Income,1,1,15,1,2,2,22,3,0.14,NA,all_persons,2015-09-01,2015-09-30,Q19a1
+Average Change in Other Income,-231,-131,0,2810,716.5,0,0,1414.33,0,NA,all_persons,2015-09-01,2015-09-30,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",1,1,16,2,1,1,22,3,0.14,NA,all_persons,2015-09-01,2015-09-30,Q19a1
+Average Change in Overall Income,-231,-131,0,1771.5,700,0,176,1414.33,0,NA,all_persons,2015-09-01,2015-09-30,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",0,0,2,1,0,21,25,1,0.04,NA,all_persons,2015-10-01,2015-10-31,Q19a1
+Average Change in Earned Income,0,0,0,2033,0,0,0,2033,0,NA,all_persons,2015-10-01,2015-10-31,Q19a1
+Number of Adults with Other Income,1,1,15,1,2,5,25,3,0.12,NA,all_persons,2015-10-01,2015-10-31,Q19a1
+Average Change in Other Income,-231,-131,0,2810,716.5,0,0,1414.33,0,NA,all_persons,2015-10-01,2015-10-31,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",1,1,16,3,1,2,25,4,0.16,NA,all_persons,2015-10-01,2015-10-31,Q19a1
+Average Change in Overall Income,-231,-131,0,1858.67,700,0,236,1569,0,NA,all_persons,2015-10-01,2015-10-31,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",0,0,2,1,1,27,32,2,0.06,NA,all_persons,2015-11-01,2015-11-30,Q19a1
+Average Change in Earned Income,0,0,0,2033,917,0,0,1475,0,NA,all_persons,2015-11-01,2015-11-30,Q19a1
+Number of Adults with Other Income,2,1,17,1,3,8,32,4,0.13,NA,all_persons,2015-11-01,2015-11-30,Q19a1
+Average Change in Other Income,-427,-131,0,2810,1041.67,0,0,1483.75,0,NA,all_persons,2015-11-01,2015-11-30,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",2,1,18,3,3,4,32,6,0.19,NA,all_persons,2015-11-01,2015-11-30,Q19a1
+Average Change in Overall Income,-427,-131,0,1858.67,1103,0,246,1480.83,0,NA,all_persons,2015-11-01,2015-11-30,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",1,0,1,1,1,27,32,2,0.06,NA,all_persons,2015-12-01,2015-12-31,Q19a1
+Average Change in Earned Income,-721,0,0,2033,917,0,0,1475,0,NA,all_persons,2015-12-01,2015-12-31,Q19a1
+Number of Adults with Other Income,2,1,16,2,3,8,32,5,0.16,NA,all_persons,2015-12-01,2015-12-31,Q19a1
+Average Change in Other Income,-427,-131,0,1411,1041.67,0,0,1189.4,0,NA,all_persons,2015-12-01,2015-12-31,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",2,1,17,4,3,4,32,7,0.22,NA,all_persons,2015-12-01,2015-12-31,Q19a1
+Average Change in Overall Income,-427,-131,0,1216.75,1103,0,224,1168,0,NA,all_persons,2015-12-01,2015-12-31,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",1,0,1,1,1,28,33,2,0.06,NA,all_persons,2016-01-01,2016-01-31,Q19a1
+Average Change in Earned Income,-721,0,0,2033,917,0,0,1475,0,NA,all_persons,2016-01-01,2016-01-31,Q19a1
+Number of Adults with Other Income,2,1,16,2,3,9,33,5,0.15,NA,all_persons,2016-01-01,2016-01-31,Q19a1
+Average Change in Other Income,-427,-131,0,1411,1041.67,0,0,1189.4,0,NA,all_persons,2016-01-01,2016-01-31,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",2,1,17,4,3,5,33,7,0.21,NA,all_persons,2016-01-01,2016-01-31,Q19a1
+Average Change in Overall Income,-427,-131,0,1216.75,1103,0,217,1168,0,NA,all_persons,2016-01-01,2016-01-31,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",1,0,1,1,1,27,32,2,0.06,NA,all_persons,2016-02-01,2016-02-29,Q19a1
+Average Change in Earned Income,-721,0,0,2033,917,0,0,1475,0,NA,all_persons,2016-02-01,2016-02-29,Q19a1
+Number of Adults with Other Income,2,1,15,2,3,9,32,5,0.16,NA,all_persons,2016-02-01,2016-02-29,Q19a1
+Average Change in Other Income,-427,-131,0,1411,1041.67,0,0,1189.4,0,NA,all_persons,2016-02-01,2016-02-29,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",2,1,16,4,3,5,32,7,0.22,NA,all_persons,2016-02-01,2016-02-29,Q19a1
+Average Change in Overall Income,-427,-131,0,1216.75,1103,0,224,1168,0,NA,all_persons,2016-02-01,2016-02-29,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",1,0,1,1,1,28,34,2,0.06,NA,all_persons,2016-03-01,2016-03-31,Q19a1
+Average Change in Earned Income,-721,0,0,2033,917,0,0,1475,0,NA,all_persons,2016-03-01,2016-03-31,Q19a1
+Number of Adults with Other Income,2,1,14,2,4,10,34,6,0.18,NA,all_persons,2016-03-01,2016-03-31,Q19a1
+Average Change in Other Income,-427,-131,0,1411,964.5,0,0,1113.33,0,NA,all_persons,2016-03-01,2016-03-31,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",2,1,15,4,4,5,34,8,0.24,NA,all_persons,2016-03-01,2016-03-31,Q19a1
+Average Change in Overall Income,-427,-131,0,1216.75,1010.5,0,233,1113.63,0,NA,all_persons,2016-03-01,2016-03-31,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",1,0,0,1,1,30,35,2,0.06,NA,all_persons,2016-04-01,2016-04-30,Q19a1
+Average Change in Earned Income,-721,0,0,2033,917,0,0,1475,0,NA,all_persons,2016-04-01,2016-04-30,Q19a1
+Number of Adults with Other Income,2,1,16,2,4,9,35,6,0.17,NA,all_persons,2016-04-01,2016-04-30,Q19a1
+Average Change in Other Income,-427,-131,0,1411,964.5,0,0,1113.33,0,NA,all_persons,2016-04-01,2016-04-30,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",2,1,16,4,4,5,35,8,0.23,NA,all_persons,2016-04-01,2016-04-30,Q19a1
+Average Change in Overall Income,-427,-131,0,1216.75,1010.5,0,226,1113.63,0,NA,all_persons,2016-04-01,2016-04-30,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",1,0,0,1,1,30,36,2,0.06,NA,all_persons,2016-05-01,2016-05-31,Q19a1
+Average Change in Earned Income,-721,0,0,2033,917,0,0,1475,0,NA,all_persons,2016-05-01,2016-05-31,Q19a1
+Number of Adults with Other Income,2,1,13,5,4,10,36,9,0.25,NA,all_persons,2016-05-01,2016-05-31,Q19a1
+Average Change in Other Income,-427,-131,0,859.8,964.5,0,0,906.33,0,NA,all_persons,2016-05-01,2016-05-31,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",2,1,13,7,4,5,36,11,0.31,NA,all_persons,2016-05-01,2016-05-31,Q19a1
+Average Change in Overall Income,-427,-131,0,906.29,1010.5,0,261,944.18,0,NA,all_persons,2016-05-01,2016-05-31,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",1,0,0,1,1,28,34,2,0.06,NA,all_persons,2016-06-01,2016-06-30,Q19a1
+Average Change in Earned Income,-721,0,0,2033,917,0,0,1475,0,NA,all_persons,2016-06-01,2016-06-30,Q19a1
+Number of Adults with Other Income,2,1,13,5,3,9,34,8,0.24,NA,all_persons,2016-06-01,2016-06-30,Q19a1
+Average Change in Other Income,-427,-131,0,859.8,1041.67,0,0,928,0,NA,all_persons,2016-06-01,2016-06-30,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",2,1,13,7,3,4,34,10,0.29,NA,all_persons,2016-06-01,2016-06-30,Q19a1
+Average Change in Overall Income,-427,-131,0,906.29,1103,0,254,965.3,0,NA,all_persons,2016-06-01,2016-06-30,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",1,0,0,1,1,27,34,2,0.06,NA,all_persons,2016-07-01,2016-07-31,Q19a1
+Average Change in Earned Income,-721,0,0,2033,917,0,0,1475,0,NA,all_persons,2016-07-01,2016-07-31,Q19a1
+Number of Adults with Other Income,2,1,13,4,3,10,34,7,0.21,NA,all_persons,2016-07-01,2016-07-31,Q19a1
+Average Change in Other Income,-427,-131,0,372.25,1041.67,0,0,659.14,0,NA,all_persons,2016-07-01,2016-07-31,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",2,1,13,6,3,4,34,9,0.26,NA,all_persons,2016-07-01,2016-07-31,Q19a1
+Average Change in Overall Income,-427,-131,0,589,1103,0,172,760.33,0,NA,all_persons,2016-07-01,2016-07-31,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",1,0,0,1,1,26,32,2,0.06,NA,all_persons,2016-08-01,2016-08-31,Q19a1
+Average Change in Earned Income,-721,0,0,2033,917,0,0,1475,0,NA,all_persons,2016-08-01,2016-08-31,Q19a1
+Number of Adults with Other Income,2,1,13,4,2,9,32,6,0.19,NA,all_persons,2016-08-01,2016-08-31,Q19a1
+Average Change in Other Income,-427,-131,0,372.25,1212.5,0,0,652.33,0,NA,all_persons,2016-08-01,2016-08-31,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",2,1,13,6,2,4,32,8,0.25,NA,all_persons,2016-08-01,2016-08-31,Q19a1
+Average Change in Overall Income,-427,-131,0,589,1304.5,0,161,767.88,0,NA,all_persons,2016-08-01,2016-08-31,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",1,0,0,1,1,25,31,2,0.06,NA,all_persons,2016-09-01,2016-09-30,Q19a1
+Average Change in Earned Income,-721,0,0,2033,917,0,0,1475,0,NA,all_persons,2016-09-01,2016-09-30,Q19a1
+Number of Adults with Other Income,2,1,12,4,2,9,31,6,0.19,NA,all_persons,2016-09-01,2016-09-30,Q19a1
+Average Change in Other Income,-427,-131,0,372.25,1212.5,0,0,652.33,0,NA,all_persons,2016-09-01,2016-09-30,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",2,1,12,6,2,4,31,8,0.26,NA,all_persons,2016-09-01,2016-09-30,Q19a1
+Average Change in Overall Income,-427,-131,0,589,1304.5,0,166,767.88,0,NA,all_persons,2016-09-01,2016-09-30,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",1,0,0,0,1,25,28,1,0.04,NA,all_persons,2016-10-01,2016-10-31,Q19a1
+Average Change in Earned Income,-721,0,0,0,917,0,0,917,0,NA,all_persons,2016-10-01,2016-10-31,Q19a1
+Number of Adults with Other Income,1,1,12,5,2,5,28,7,0.25,NA,all_persons,2016-10-01,2016-10-31,Q19a1
+Average Change in Other Income,-623,-131,0,444.4,1212.5,0,0,663.86,0,NA,all_persons,2016-10-01,2016-10-31,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",1,1,12,6,2,3,28,8,0.29,NA,all_persons,2016-10-01,2016-10-31,Q19a1
+Average Change in Overall Income,-623,-131,0,372.33,1304.5,0,282,605.38,0,NA,all_persons,2016-10-01,2016-10-31,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",1,0,0,0,0,24,26,0,0,NA,all_persons,2016-11-01,2016-11-30,Q19a1
+Average Change in Earned Income,-721,0,0,0,0,0,0,0,0,NA,all_persons,2016-11-01,2016-11-30,Q19a1
+Number of Adults with Other Income,1,1,12,5,1,4,26,6,0.23,NA,all_persons,2016-11-01,2016-11-30,Q19a1
+Average Change in Other Income,-623,-131,0,444.4,733,0,0,492.5,0,NA,all_persons,2016-11-01,2016-11-30,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",1,1,12,6,0,3,26,6,0.23,NA,all_persons,2016-11-01,2016-11-30,Q19a1
+Average Change in Overall Income,-623,-131,0,372.33,0,0,204,372.33,0,NA,all_persons,2016-11-01,2016-11-30,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",0,0,0,0,0,24,25,0,0,NA,all_persons,2016-12-01,2016-12-31,Q19a1
+Average Change in Earned Income,0,0,0,0,0,0,0,0,0,NA,all_persons,2016-12-01,2016-12-31,Q19a1
+Number of Adults with Other Income,1,1,12,5,0,4,25,5,0.2,NA,all_persons,2016-12-01,2016-12-31,Q19a1
+Average Change in Other Income,-623,-131,0,444.4,0,0,0,444.4,0,NA,all_persons,2016-12-01,2016-12-31,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",1,1,12,5,0,3,25,5,0.2,NA,all_persons,2016-12-01,2016-12-31,Q19a1
+Average Change in Overall Income,-623,-131,0,444.4,0,0,211,444.4,0,NA,all_persons,2016-12-01,2016-12-31,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",0,0,0,0,1,22,24,1,0.04,NA,all_persons,2017-01-01,2017-01-31,Q19a1
+Average Change in Earned Income,0,0,0,0,200,0,0,200,0,NA,all_persons,2017-01-01,2017-01-31,Q19a1
+Number of Adults with Other Income,1,0,11,5,1,4,24,6,0.25,NA,all_persons,2017-01-01,2017-01-31,Q19a1
+Average Change in Other Income,-623,0,0,444.4,1469,0,0,615.17,0,NA,all_persons,2017-01-01,2017-01-31,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",1,0,11,5,1,3,24,6,0.25,NA,all_persons,2017-01-01,2017-01-31,Q19a1
+Average Change in Overall Income,-623,0,0,444.4,1669,0,295,648.5,0,NA,all_persons,2017-01-01,2017-01-31,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",0,0,2,0,2,31,36,2,0.06,NA,all_persons,2017-02-01,2017-02-28,Q19a1
+Average Change in Earned Income,0,0,0,0,533.5,0,0,533.5,0,NA,all_persons,2017-02-01,2017-02-28,Q19a1
+Number of Adults with Other Income,1,0,14,5,1,13,36,6,0.17,NA,all_persons,2017-02-01,2017-02-28,Q19a1
+Average Change in Other Income,-623,0,0,444.4,1469,0,0,615.17,0,NA,all_persons,2017-02-01,2017-02-28,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",1,0,16,5,2,9,36,7,0.19,NA,all_persons,2017-02-01,2017-02-28,Q19a1
+Average Change in Overall Income,-623,0,0,444.4,1268,0,221,679.71,0,NA,all_persons,2017-02-01,2017-02-28,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",0,0,2,0,2,33,38,2,0.05,NA,all_persons,2017-03-01,2017-03-31,Q19a1
+Average Change in Earned Income,0,0,0,0,533.5,0,0,533.5,0,NA,all_persons,2017-03-01,2017-03-31,Q19a1
+Number of Adults with Other Income,2,0,13,5,1,15,38,6,0.16,NA,all_persons,2017-03-01,2017-03-31,Q19a1
+Average Change in Other Income,-665,0,0,444.4,1469,0,0,615.17,0,NA,all_persons,2017-03-01,2017-03-31,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",2,0,15,5,2,11,38,7,0.18,NA,all_persons,2017-03-01,2017-03-31,Q19a1
+Average Change in Overall Income,-665,0,0,444.4,1268,0,190,679.71,0,NA,all_persons,2017-03-01,2017-03-31,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",0,0,4,0,2,37,44,2,0.05,NA,all_persons,2017-04-01,2017-04-30,Q19a1
+Average Change in Earned Income,0,0,0,0,533.5,0,0,533.5,0,NA,all_persons,2017-04-01,2017-04-30,Q19a1
+Number of Adults with Other Income,2,0,14,6,1,19,44,7,0.16,NA,all_persons,2017-04-01,2017-04-30,Q19a1
+Average Change in Other Income,-665,0,0,376.5,1469,0,0,532.57,0,NA,all_persons,2017-04-01,2017-04-30,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",2,0,18,6,2,13,44,8,0.18,NA,all_persons,2017-04-01,2017-04-30,Q19a1
+Average Change in Overall Income,-665,0,0,376.5,1268,0,165,599.38,0,NA,all_persons,2017-04-01,2017-04-30,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",0,0,4,0,2,37,44,3,0.07,NA,all_persons,2017-05-01,2017-05-31,Q19a1
+Average Change in Earned Income,0,0,0,0,533.5,0,0,514,0,NA,all_persons,2017-05-01,2017-05-31,Q19a1
+Number of Adults with Other Income,2,0,14,6,1,19,44,7,0.16,NA,all_persons,2017-05-01,2017-05-31,Q19a1
+Average Change in Other Income,-665,0,0,193.5,1469,0,0,375.71,0,NA,all_persons,2017-05-01,2017-05-31,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",2,0,18,6,2,13,44,9,0.2,NA,all_persons,2017-05-01,2017-05-31,Q19a1
+Average Change in Overall Income,-665,0,0,193.5,1268,0,151,463.56,0,NA,all_persons,2017-05-01,2017-05-31,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",0,0,4,1,2,38,46,4,0.09,NA,all_persons,2017-06-01,2017-06-30,Q19a1
+Average Change in Earned Income,0,0,0,1200,533.5,0,0,685.5,0,NA,all_persons,2017-06-01,2017-06-30,Q19a1
+Number of Adults with Other Income,2,0,15,6,1,20,46,7,0.15,NA,all_persons,2017-06-01,2017-06-30,Q19a1
+Average Change in Other Income,-665,0,0,193.5,1469,0,0,375.71,0,NA,all_persons,2017-06-01,2017-06-30,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",2,0,19,7,2,13,46,10,0.22,NA,all_persons,2017-06-01,2017-06-30,Q19a1
+Average Change in Overall Income,-665,0,0,337.29,1268,0,171,537.2,0,NA,all_persons,2017-06-01,2017-06-30,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",0,0,4,1,2,37,45,4,0.09,NA,all_persons,2017-07-01,2017-07-31,Q19a1
+Average Change in Earned Income,0,0,0,1200,533.5,0,0,685.5,0,NA,all_persons,2017-07-01,2017-07-31,Q19a1
+Number of Adults with Other Income,2,0,13,7,1,20,45,8,0.18,NA,all_persons,2017-07-01,2017-07-31,Q19a1
+Average Change in Other Income,-665,0,0,273.71,1469,0,0,423.13,0,NA,all_persons,2017-07-01,2017-07-31,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",2,0,17,8,2,13,45,11,0.24,NA,all_persons,2017-07-01,2017-07-31,Q19a1
+Average Change in Overall Income,-665,0,0,389.5,1268,0,191,557,0,NA,all_persons,2017-07-01,2017-07-31,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",0,0,5,1,1,40,49,3,0.06,NA,all_persons,2017-08-01,2017-08-31,Q19a1
+Average Change in Earned Income,0,0,0,1200,200,0,0,625,0,NA,all_persons,2017-08-01,2017-08-31,Q19a1
+Number of Adults with Other Income,2,0,16,7,1,21,49,8,0.16,NA,all_persons,2017-08-01,2017-08-31,Q19a1
+Average Change in Other Income,-665,0,0,273.71,1469,0,0,423.13,0,NA,all_persons,2017-08-01,2017-08-31,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",2,0,21,8,1,13,49,10,0.2,NA,all_persons,2017-08-01,2017-08-31,Q19a1
+Average Change in Overall Income,-665,0,0,389.5,1669,0,155,526,0,NA,all_persons,2017-08-01,2017-08-31,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",0,0,5,0,1,39,47,2,0.04,NA,all_persons,2017-09-01,2017-09-30,Q19a1
+Average Change in Earned Income,0,0,0,0,200,0,0,337.5,0,NA,all_persons,2017-09-01,2017-09-30,Q19a1
+Number of Adults with Other Income,2,0,16,7,1,19,47,8,0.17,NA,all_persons,2017-09-01,2017-09-30,Q19a1
+Average Change in Other Income,-665,0,0,171,1469,0,0,333.25,0,NA,all_persons,2017-09-01,2017-09-30,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",2,0,21,7,1,12,47,9,0.19,NA,all_persons,2017-09-01,2017-09-30,Q19a1
+Average Change in Overall Income,-665,0,0,171,1669,0,120,371.22,0,NA,all_persons,2017-09-01,2017-09-30,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",0,0,5,0,1,39,47,2,0.04,NA,all_persons,2017-10-01,2017-10-31,Q19a1
+Average Change in Earned Income,0,0,0,0,200,0,0,337.5,0,NA,all_persons,2017-10-01,2017-10-31,Q19a1
+Number of Adults with Other Income,2,0,18,7,1,18,47,8,0.17,NA,all_persons,2017-10-01,2017-10-31,Q19a1
+Average Change in Other Income,-665,0,0,665.14,1469,0,0,765.63,0,NA,all_persons,2017-10-01,2017-10-31,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",2,0,23,7,1,11,47,9,0.19,NA,all_persons,2017-10-01,2017-10-31,Q19a1
+Average Change in Overall Income,-665,0,0,665.14,1669,0,113,755.56,0,NA,all_persons,2017-10-01,2017-10-31,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",0,0,5,0,1,36,44,2,0.05,NA,all_persons,2017-11-01,2017-11-30,Q19a1
+Average Change in Earned Income,0,0,0,0,200,0,0,337.5,0,NA,all_persons,2017-11-01,2017-11-30,Q19a1
+Number of Adults with Other Income,1,0,14,9,2,17,44,11,0.25,NA,all_persons,2017-11-01,2017-11-30,Q19a1
+Average Change in Other Income,-707,0,0,745,1580.5,0,0,896.91,0,NA,all_persons,2017-11-01,2017-11-30,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",1,0,19,9,2,10,44,12,0.27,NA,all_persons,2017-11-01,2017-11-30,Q19a1
+Average Change in Overall Income,-707,0,0,745,1680.5,0,219,878.42,0,NA,all_persons,2017-11-01,2017-11-30,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",0,0,5,0,2,37,46,3,0.07,NA,all_persons,2017-12-01,2017-12-31,Q19a1
+Average Change in Earned Income,0,0,0,0,436.5,0,0,449.33,0,NA,all_persons,2017-12-01,2017-12-31,Q19a1
+Number of Adults with Other Income,2,0,15,8,2,18,46,10,0.22,NA,all_persons,2017-12-01,2017-12-31,Q19a1
+Average Change in Other Income,-665,0,0,836.38,1580.5,0,0,985.2,0,NA,all_persons,2017-12-01,2017-12-31,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",2,0,20,8,3,10,46,12,0.26,NA,all_persons,2017-12-01,2017-12-31,Q19a1
+Average Change in Overall Income,-665,0,0,836.38,1344.67,0,211,933.33,0,NA,all_persons,2017-12-01,2017-12-31,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",0,0,5,0,1,38,46,2,0.04,NA,all_persons,2018-01-01,2018-01-31,Q19a1
+Average Change in Earned Income,0,0,0,0,673,0,0,574,0,NA,all_persons,2018-01-01,2018-01-31,Q19a1
+Number of Adults with Other Income,2,0,12,12,2,17,46,14,0.3,NA,all_persons,2018-01-01,2018-01-31,Q19a1
+Average Change in Other Income,-665,0,0,747.17,1213.5,0,0,813.79,0,NA,all_persons,2018-01-01,2018-01-31,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",2,0,17,12,3,9,46,16,0.35,NA,all_persons,2018-01-01,2018-01-31,Q19a1
+Average Change in Overall Income,-665,0,0,747.17,1033.33,0,240,783.81,0,NA,all_persons,2018-01-01,2018-01-31,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",0,0,5,0,1,38,46,2,0.04,NA,all_persons,2018-02-01,2018-02-28,Q19a1
+Average Change in Earned Income,0,0,0,0,673,0,0,574,0,NA,all_persons,2018-02-01,2018-02-28,Q19a1
+Number of Adults with Other Income,2,0,12,12,3,16,46,15,0.33,NA,all_persons,2018-02-01,2018-02-28,Q19a1
+Average Change in Other Income,-665,0,0,747.17,1066,0,0,810.93,0,NA,all_persons,2018-02-01,2018-02-28,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",2,0,17,12,4,8,46,17,0.37,NA,all_persons,2018-02-01,2018-02-28,Q19a1
+Average Change in Overall Income,-665,0,0,747.17,967.75,0,257,783.06,0,NA,all_persons,2018-02-01,2018-02-28,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",1,0,5,0,1,36,45,2,0.04,NA,all_persons,2018-03-01,2018-03-31,Q19a1
+Average Change in Earned Income,-672,0,0,0,578,0,0,526.5,0,NA,all_persons,2018-03-01,2018-03-31,Q19a1
+Number of Adults with Other Income,1,1,12,12,3,16,45,15,0.33,NA,all_persons,2018-03-01,2018-03-31,Q19a1
+Average Change in Other Income,-623,-1073,0,747.17,1066,0,0,810.93,0,NA,all_persons,2018-03-01,2018-03-31,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",2,1,16,13,3,8,45,17,0.38,NA,all_persons,2018-03-01,2018-03-31,Q19a1
+Average Change in Overall Income,-647.5,-1073,0,734.08,1066,0,237,777.41,0,NA,all_persons,2018-03-01,2018-03-31,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",1,0,3,0,1,36,44,2,0.05,NA,all_persons,2018-04-01,2018-04-30,Q19a1
+Average Change in Earned Income,-672,0,0,0,578,0,0,526.5,0,NA,all_persons,2018-04-01,2018-04-30,Q19a1
+Number of Adults with Other Income,1,2,11,12,3,15,44,15,0.34,NA,all_persons,2018-04-01,2018-04-30,Q19a1
+Average Change in Other Income,-623,-748,0,701.67,1066,0,0,774.53,0,NA,all_persons,2018-04-01,2018-04-30,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",2,2,13,13,3,8,44,17,0.39,NA,all_persons,2018-04-01,2018-04-30,Q19a1
+Average Change in Overall Income,-647.5,-748,0,692.08,1066,0,221,745.29,0,NA,all_persons,2018-04-01,2018-04-30,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",1,0,3,0,1,38,46,2,0.04,NA,all_persons,2018-05-01,2018-05-31,Q19a1
+Average Change in Earned Income,-672,0,0,0,578,0,0,974,0,NA,all_persons,2018-05-01,2018-05-31,Q19a1
+Number of Adults with Other Income,1,4,9,14,3,15,46,17,0.37,NA,all_persons,2018-05-01,2018-05-31,Q19a1
+Average Change in Other Income,-623,-671,0,821.93,1066,0,0,865,0,NA,all_persons,2018-05-01,2018-05-31,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",2,4,11,15,3,8,46,19,0.41,NA,all_persons,2018-05-01,2018-05-31,Q19a1
+Average Change in Overall Income,-647.5,-671,0,805.6,1066,0,272,876.42,0,NA,all_persons,2018-05-01,2018-05-31,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",0,0,3,0,1,38,46,2,0.04,NA,all_persons,2018-06-01,2018-06-30,Q19a1
+Average Change in Earned Income,0,0,0,0,578,0,0,974,0,NA,all_persons,2018-06-01,2018-06-30,Q19a1
+Number of Adults with Other Income,1,4,10,14,3,14,46,17,0.37,NA,all_persons,2018-06-01,2018-06-30,Q19a1
+Average Change in Other Income,-623,-671,0,821.93,1066,0,0,865,0,NA,all_persons,2018-06-01,2018-06-30,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",1,4,12,15,3,7,46,19,0.41,NA,all_persons,2018-06-01,2018-06-30,Q19a1
+Average Change in Overall Income,-623,-671,0,805.6,1066,0,306,876.42,0,NA,all_persons,2018-06-01,2018-06-30,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",0,0,3,0,1,38,46,2,0.04,NA,all_persons,2018-07-01,2018-07-31,Q19a1
+Average Change in Earned Income,0,0,0,0,578,0,0,974,0,NA,all_persons,2018-07-01,2018-07-31,Q19a1
+Number of Adults with Other Income,1,4,11,13,3,14,46,16,0.35,NA,all_persons,2018-07-01,2018-07-31,Q19a1
+Average Change in Other Income,-623,-671,0,827.08,1066,0,0,871.88,0,NA,all_persons,2018-07-01,2018-07-31,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",1,4,13,14,3,7,46,18,0.39,NA,all_persons,2018-07-01,2018-07-31,Q19a1
+Average Change in Overall Income,-623,-671,0,809.21,1066,0,290,883.17,0,NA,all_persons,2018-07-01,2018-07-31,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",0,0,3,0,1,41,49,2,0.04,NA,all_persons,2018-08-01,2018-08-31,Q19a1
+Average Change in Earned Income,0,0,0,0,578,0,0,974,0,NA,all_persons,2018-08-01,2018-08-31,Q19a1
+Number of Adults with Other Income,1,4,12,14,4,14,49,18,0.37,NA,all_persons,2018-08-01,2018-08-31,Q19a1
+Average Change in Other Income,-623,-671,0,846.36,987,0,0,877.61,0,NA,all_persons,2018-08-01,2018-08-31,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",1,4,14,15,4,7,49,20,0.41,NA,all_persons,2018-08-01,2018-08-31,Q19a1
+Average Change in Overall Income,-623,-671,0,828.4,987,0,310,887.2,0,NA,all_persons,2018-08-01,2018-08-31,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",0,0,4,0,1,40,50,2,0.04,NA,all_persons,2018-09-01,2018-09-30,Q19a1
+Average Change in Earned Income,0,0,0,0,578,0,0,974,0,NA,all_persons,2018-09-01,2018-09-30,Q19a1
+Number of Adults with Other Income,1,4,12,15,3,15,50,18,0.36,NA,all_persons,2018-09-01,2018-09-30,Q19a1
+Average Change in Other Income,-623,-671,0,803.4,752,0,0,794.83,0,NA,all_persons,2018-09-01,2018-09-30,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",1,4,14,16,3,7,50,20,0.4,NA,all_persons,2018-09-01,2018-09-30,Q19a1
+Average Change in Overall Income,-623,-671,0,789.25,752,0,274,812.7,0,NA,all_persons,2018-09-01,2018-09-30,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",0,0,5,0,1,42,53,2,0.04,NA,all_persons,2018-10-01,2018-10-31,Q19a1
+Average Change in Earned Income,0,0,0,0,578,0,0,974,0,NA,all_persons,2018-10-01,2018-10-31,Q19a1
+Number of Adults with Other Income,1,4,13,16,3,16,53,19,0.36,NA,all_persons,2018-10-01,2018-10-31,Q19a1
+Average Change in Other Income,-623,-671,0,800.06,752,0,0,792.47,0,NA,all_persons,2018-10-01,2018-10-31,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",1,4,16,17,3,7,53,21,0.4,NA,all_persons,2018-10-01,2018-10-31,Q19a1
+Average Change in Overall Income,-623,-671,0,786.94,752,0,272,809.71,0,NA,all_persons,2018-10-01,2018-10-31,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",0,0,6,0,1,40,52,2,0.04,NA,all_persons,2018-11-01,2018-11-30,Q19a1
+Average Change in Earned Income,0,0,0,0,578,0,0,974,0,NA,all_persons,2018-11-01,2018-11-30,Q19a1
+Number of Adults with Other Income,0,3,14,16,3,16,52,19,0.37,NA,all_persons,2018-11-01,2018-11-30,Q19a1
+Average Change in Other Income,0,-872.67,0,764.69,752,0,0,762.68,0,NA,all_persons,2018-11-01,2018-11-30,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",0,3,17,17,3,7,52,21,0.4,NA,all_persons,2018-11-01,2018-11-30,Q19a1
+Average Change in Overall Income,0,-872.67,0,753.65,752,0,280,782.76,0,NA,all_persons,2018-11-01,2018-11-30,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",0,0,6,0,1,42,53,2,0.04,NA,all_persons,2018-12-01,2018-12-31,Q19a1
+Average Change in Earned Income,0,0,0,0,578,0,0,974,0,NA,all_persons,2018-12-01,2018-12-31,Q19a1
+Number of Adults with Other Income,0,4,14,16,3,16,53,19,0.36,NA,all_persons,2018-12-01,2018-12-31,Q19a1
+Average Change in Other Income,0,-655.75,0,812.88,752,0,0,803.26,0,NA,all_persons,2018-12-01,2018-12-31,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",0,4,17,17,3,8,53,21,0.4,NA,all_persons,2018-12-01,2018-12-31,Q19a1
+Average Change in Overall Income,0,-655.75,0,799,752,0,272,819.48,0,NA,all_persons,2018-12-01,2018-12-31,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",0,0,6,0,2,40,52,3,0.06,NA,all_persons,2019-01-01,2019-01-31,Q19a1
+Average Change in Earned Income,0,0,0,0,1026,0,0,1140.67,0,NA,all_persons,2019-01-01,2019-01-31,Q19a1
+Number of Adults with Other Income,0,4,13,16,3,16,52,19,0.37,NA,all_persons,2019-01-01,2019-01-31,Q19a1
+Average Change in Other Income,0,-655.75,0,896.19,752,0,0,873.42,0,NA,all_persons,2019-01-01,2019-01-31,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",0,4,16,17,4,7,52,22,0.42,NA,all_persons,2019-01-01,2019-01-31,Q19a1
+Average Change in Overall Income,0,-655.75,0,877.41,932.5,0,331,909.82,0,NA,all_persons,2019-01-01,2019-01-31,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",0,1,7,1,2,43,58,4,0.07,NA,all_persons,2019-02-01,2019-02-28,Q19a1
+Average Change in Earned Income,0,-50,0,25,1026,0,0,861.75,0,NA,all_persons,2019-02-01,2019-02-28,Q19a1
+Number of Adults with Other Income,0,4,14,16,3,21,58,19,0.33,NA,all_persons,2019-02-01,2019-02-28,Q19a1
+Average Change in Other Income,0,-655.75,0,896.19,752,0,0,873.42,0,NA,all_persons,2019-02-01,2019-02-28,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",0,5,18,18,4,9,58,23,0.4,NA,all_persons,2019-02-01,2019-02-28,Q19a1
+Average Change in Overall Income,0,-534.6,0,830.06,932.5,0,296,871.35,0,NA,all_persons,2019-02-01,2019-02-28,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",0,1,7,1,2,44,59,4,0.07,NA,all_persons,2019-03-01,2019-03-31,Q19a1
+Average Change in Earned Income,0,-50,0,25,1026,0,0,861.75,0,NA,all_persons,2019-03-01,2019-03-31,Q19a1
+Number of Adults with Other Income,0,3,15,17,3,21,59,20,0.34,NA,all_persons,2019-03-01,2019-03-31,Q19a1
+Average Change in Other Income,0,-516.67,0,849.53,752,0,0,834.9,0,NA,all_persons,2019-03-01,2019-03-31,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",0,4,19,19,4,9,59,24,0.41,NA,all_persons,2019-03-01,2019-03-31,Q19a1
+Average Change in Overall Income,0,-400,0,791.79,932.5,0,311,839.33,0,NA,all_persons,2019-03-01,2019-03-31,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",0,1,7,1,2,44,59,4,0.07,NA,all_persons,2019-04-01,2019-04-30,Q19a1
+Average Change in Earned Income,0,-50,0,25,1026,0,0,861.75,0,NA,all_persons,2019-04-01,2019-04-30,Q19a1
+Number of Adults with Other Income,0,3,15,17,3,21,59,20,0.34,NA,all_persons,2019-04-01,2019-04-30,Q19a1
+Average Change in Other Income,0,-516.67,0,849.53,752,0,0,834.9,0,NA,all_persons,2019-04-01,2019-04-30,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",0,4,19,19,4,9,59,24,0.41,NA,all_persons,2019-04-01,2019-04-30,Q19a1
+Average Change in Overall Income,0,-400,0,791.79,932.5,0,311,839.33,0,NA,all_persons,2019-04-01,2019-04-30,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",0,1,8,1,2,46,62,4,0.06,NA,all_persons,2019-05-01,2019-05-31,Q19a1
+Average Change in Earned Income,0,-50,0,25,1026,0,0,743,0,NA,all_persons,2019-05-01,2019-05-31,Q19a1
+Number of Adults with Other Income,0,4,16,17,3,22,62,20,0.32,NA,all_persons,2019-05-01,2019-05-31,Q19a1
+Average Change in Other Income,0,-404,0,789.76,752,0,0,784.1,0,NA,all_persons,2019-05-01,2019-05-31,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",0,5,20,19,4,10,62,24,0.39,NA,all_persons,2019-05-01,2019-05-31,Q19a1
+Average Change in Overall Income,0,-333.2,0,738.32,932.5,0,271,777.21,0,NA,all_persons,2019-05-01,2019-05-31,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",0,1,7,1,2,49,64,4,0.06,NA,all_persons,2019-06-01,2019-06-30,Q19a1
+Average Change in Earned Income,0,-50,0,25,1026,0,0,743,0,NA,all_persons,2019-06-01,2019-06-30,Q19a1
+Number of Adults with Other Income,0,4,17,16,3,24,64,19,0.3,NA,all_persons,2019-06-01,2019-06-30,Q19a1
+Average Change in Other Income,0,-404,0,827.44,752,0,0,815.53,0,NA,all_persons,2019-06-01,2019-06-30,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",0,5,21,18,4,12,64,23,0.36,NA,all_persons,2019-06-01,2019-06-30,Q19a1
+Average Change in Overall Income,0,-333.2,0,768.94,932.5,0,260,802.87,0,NA,all_persons,2019-06-01,2019-06-30,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",0,1,7,1,2,49,64,4,0.06,NA,all_persons,2019-07-01,2019-07-31,Q19a1
+Average Change in Earned Income,0,-50,0,25,1026,0,0,743,0,NA,all_persons,2019-07-01,2019-07-31,Q19a1
+Number of Adults with Other Income,0,3,17,17,3,24,64,20,0.31,NA,all_persons,2019-07-01,2019-07-31,Q19a1
+Average Change in Other Income,0,-537,0,825.29,752,0,0,814.3,0,NA,all_persons,2019-07-01,2019-07-31,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",0,4,21,19,4,12,64,24,0.38,NA,all_persons,2019-07-01,2019-07-31,Q19a1
+Average Change in Overall Income,0,-415.25,0,770.11,932.5,0,272,802.38,0,NA,all_persons,2019-07-01,2019-07-31,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",1,1,6,1,2,48,63,4,0.06,NA,all_persons,2019-08-01,2019-08-31,Q19a1
+Average Change in Earned Income,-600,-50,0,25,1026,0,0,743,0,NA,all_persons,2019-08-01,2019-08-31,Q19a1
+Number of Adults with Other Income,0,3,17,18,3,22,63,21,0.33,NA,all_persons,2019-08-01,2019-08-31,Q19a1
+Average Change in Other Income,0,-537,0,781.22,759,0,0,778.05,0,NA,all_persons,2019-08-01,2019-08-31,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",1,4,20,20,4,10,63,25,0.4,NA,all_persons,2019-08-01,2019-08-31,Q19a1
+Average Change in Overall Income,-600,-415.25,0,733.2,937.75,0,274,772.4,0,NA,all_persons,2019-08-01,2019-08-31,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",1,1,5,1,2,46,60,4,0.07,NA,all_persons,2019-09-01,2019-09-30,Q19a1
+Average Change in Earned Income,-600,-50,0,25,1026,0,0,743,0,NA,all_persons,2019-09-01,2019-09-30,Q19a1
+Number of Adults with Other Income,0,3,15,18,3,21,60,21,0.35,NA,all_persons,2019-09-01,2019-09-30,Q19a1
+Average Change in Other Income,0,-537,0,775.22,759,0,0,772.9,0,NA,all_persons,2019-09-01,2019-09-30,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",1,4,17,20,4,10,60,25,0.42,NA,all_persons,2019-09-01,2019-09-30,Q19a1
+Average Change in Overall Income,-600,-415.25,0,727.8,937.75,0,286,768.08,0,NA,all_persons,2019-09-01,2019-09-30,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",1,1,6,1,2,49,64,4,0.06,NA,all_persons,2019-10-01,2019-10-31,Q19a1
+Average Change in Earned Income,-600,-50,0,25,1026,0,0,743,0,NA,all_persons,2019-10-01,2019-10-31,Q19a1
+Number of Adults with Other Income,0,2,17,21,3,21,64,24,0.38,NA,all_persons,2019-10-01,2019-10-31,Q19a1
+Average Change in Other Income,0,-772.5,0,668.86,759,0,0,680.13,0,NA,all_persons,2019-10-01,2019-10-31,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",1,3,20,23,4,9,64,28,0.44,NA,all_persons,2019-10-01,2019-10-31,Q19a1
+Average Change in Overall Income,-600,-531.67,0,636.87,937.75,0,271,689.07,0,NA,all_persons,2019-10-01,2019-10-31,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",2,1,5,1,2,50,65,4,0.06,NA,all_persons,2019-11-01,2019-11-30,Q19a1
+Average Change in Earned Income,-912,-50,0,25,1026,0,0,743,0,NA,all_persons,2019-11-01,2019-11-30,Q19a1
+Number of Adults with Other Income,1,2,15,23,3,21,65,26,0.4,NA,all_persons,2019-11-01,2019-11-30,Q19a1
+Average Change in Other Income,-750,-772.5,0,803.7,759,0,0,798.54,0,NA,all_persons,2019-11-01,2019-11-30,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",2,3,18,25,4,9,65,30,0.46,NA,all_persons,2019-11-01,2019-11-30,Q19a1
+Average Change in Overall Income,-675,-531.67,0,714.52,937.75,0,304,750.3,0,NA,all_persons,2019-11-01,2019-11-30,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",2,1,4,1,2,49,63,4,0.06,NA,all_persons,2019-12-01,2019-12-31,Q19a1
+Average Change in Earned Income,-912,-50,0,25,1026,0,0,743,0,NA,all_persons,2019-12-01,2019-12-31,Q19a1
+Number of Adults with Other Income,1,2,15,22,3,20,63,25,0.4,NA,all_persons,2019-12-01,2019-12-31,Q19a1
+Average Change in Other Income,-750,-772.5,0,805.18,759,0,0,799.64,0,NA,all_persons,2019-12-01,2019-12-31,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",2,3,17,24,4,9,63,29,0.46,NA,all_persons,2019-12-01,2019-12-31,Q19a1
+Average Change in Overall Income,-675,-531.67,0,712.17,937.75,0,302,749.59,0,NA,all_persons,2019-12-01,2019-12-31,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",2,1,3,1,2,46,59,4,0.07,NA,all_persons,2020-01-01,2020-01-31,Q19a1
+Average Change in Earned Income,-912,-50,0,25,1026,0,0,743,0,NA,all_persons,2020-01-01,2020-01-31,Q19a1
+Number of Adults with Other Income,1,2,13,23,2,18,59,25,0.42,NA,all_persons,2020-01-01,2020-01-31,Q19a1
+Average Change in Other Income,-750,-772.5,0,676.65,771,0,0,684.2,0,NA,all_persons,2020-01-01,2020-01-31,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",2,3,14,25,3,8,59,29,0.49,NA,all_persons,2020-01-01,2020-01-31,Q19a1
+Average Change in Overall Income,-675,-531.67,0,597.64,1005.33,0,274,650.07,0,NA,all_persons,2020-01-01,2020-01-31,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",2,0,3,2,2,47,60,5,0.08,NA,all_persons,2020-02-01,2020-02-29,Q19a1
+Average Change in Earned Income,-912,0,0,407.5,1026,0,0,752.4,0,NA,all_persons,2020-02-01,2020-02-29,Q19a1
+Number of Adults with Other Income,1,2,11,24,1,21,60,25,0.42,NA,all_persons,2020-02-01,2020-02-29,Q19a1
+Average Change in Other Income,-750,-772.5,0,648.96,771,0,0,653.84,0,NA,all_persons,2020-02-01,2020-02-29,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",2,2,12,27,2,11,60,30,0.5,NA,all_persons,2020-02-01,2020-02-29,Q19a1
+Average Change in Overall Income,-675,-772.5,0,583.07,1122.5,0,270,629.43,0,NA,all_persons,2020-02-01,2020-02-29,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",2,0,3,2,1,48,60,4,0.07,NA,all_persons,2020-03-01,2020-03-31,Q19a1
+Average Change in Earned Income,-912,0,0,407.5,1474,0,0,796,0,NA,all_persons,2020-03-01,2020-03-31,Q19a1
+Number of Adults with Other Income,2,2,10,24,1,21,60,25,0.42,NA,all_persons,2020-03-01,2020-03-31,Q19a1
+Average Change in Other Income,-1111.5,-772.5,0,649.92,771,0,0,654.76,0,NA,all_persons,2020-03-01,2020-03-31,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",3,2,12,26,2,11,60,29,0.48,NA,all_persons,2020-03-01,2020-03-31,Q19a1
+Average Change in Overall Income,-941,-772.5,0,584.19,1122.5,0,237,632.03,0,NA,all_persons,2020-03-01,2020-03-31,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",2,0,4,2,1,47,59,4,0.07,NA,all_persons,2020-04-01,2020-04-30,Q19a1
+Average Change in Earned Income,-912,0,0,407.5,1474,0,0,796,0,NA,all_persons,2020-04-01,2020-04-30,Q19a1
+Number of Adults with Other Income,2,2,10,23,1,21,59,24,0.41,NA,all_persons,2020-04-01,2020-04-30,Q19a1
+Average Change in Other Income,-1111.5,-754.5,0,630.48,771,0,0,636.33,0,NA,all_persons,2020-04-01,2020-04-30,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",3,2,13,25,2,11,59,28,0.47,NA,all_persons,2020-04-01,2020-04-30,Q19a1
+Average Change in Overall Income,-941,-754.5,0,563.68,1122.5,0,223,615.43,0,NA,all_persons,2020-04-01,2020-04-30,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",2,0,4,2,1,47,59,4,0.07,NA,all_persons,2020-05-01,2020-05-31,Q19a1
+Average Change in Earned Income,-912,0,0,407.5,1474,0,0,749.25,0,NA,all_persons,2020-05-01,2020-05-31,Q19a1
+Number of Adults with Other Income,3,2,9,23,1,21,59,24,0.41,NA,all_persons,2020-05-01,2020-05-31,Q19a1
+Average Change in Other Income,-991,-754.5,0,664.87,771,0,0,669.29,0,NA,all_persons,2020-05-01,2020-05-31,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",3,3,12,25,2,11,59,28,0.47,NA,all_persons,2020-05-01,2020-05-31,Q19a1
+Average Change in Overall Income,-941,-753,0,595.32,1122.5,0,220,637,0,NA,all_persons,2020-05-01,2020-05-31,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",2,0,4,2,1,46,58,4,0.07,NA,all_persons,2020-06-01,2020-06-30,Q19a1
+Average Change in Earned Income,-912,0,0,407.5,1474,0,0,749.25,0,NA,all_persons,2020-06-01,2020-06-30,Q19a1
+Number of Adults with Other Income,3,2,10,22,1,20,58,23,0.4,NA,all_persons,2020-06-01,2020-06-30,Q19a1
+Average Change in Other Income,-991,-754.5,0,607.55,771,0,0,614.65,0,NA,all_persons,2020-06-01,2020-06-30,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",3,3,13,24,2,10,58,27,0.47,NA,all_persons,2020-06-01,2020-06-30,Q19a1
+Average Change in Overall Income,-941,-753,0,539.88,1122.5,0,191,589.26,0,NA,all_persons,2020-06-01,2020-06-30,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",3,0,4,2,1,46,59,4,0.07,NA,all_persons,2020-07-01,2020-07-31,Q19a1
+Average Change in Earned Income,-1008,0,0,407.5,1474,0,0,749.25,0,NA,all_persons,2020-07-01,2020-07-31,Q19a1
+Number of Adults with Other Income,3,2,9,23,1,21,59,24,0.41,NA,all_persons,2020-07-01,2020-07-31,Q19a1
+Average Change in Other Income,-991,-754.5,0,585.35,771,0,0,593.08,0,NA,all_persons,2020-07-01,2020-07-31,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",4,3,12,25,2,10,59,28,0.47,NA,all_persons,2020-07-01,2020-07-31,Q19a1
+Average Change in Overall Income,-1005.75,-753,0,522.16,1122.5,0,169,571.68,0,NA,all_persons,2020-07-01,2020-07-31,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",3,0,4,2,1,46,59,4,0.07,NA,all_persons,2020-08-01,2020-08-31,Q19a1
+Average Change in Earned Income,-1008,0,0,407.5,1474,0,0,749.25,0,NA,all_persons,2020-08-01,2020-08-31,Q19a1
+Number of Adults with Other Income,3,2,6,26,1,21,59,27,0.46,NA,all_persons,2020-08-01,2020-08-31,Q19a1
+Average Change in Other Income,-991,-754.5,0,531.69,783,0,0,541,0,NA,all_persons,2020-08-01,2020-08-31,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",4,3,9,28,2,10,59,31,0.53,NA,all_persons,2020-08-01,2020-08-31,Q19a1
+Average Change in Overall Income,-1005.75,-753,0,479.11,1128.5,0,182,528.39,0,NA,all_persons,2020-08-01,2020-08-31,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",4,0,3,2,1,46,59,4,0.07,NA,all_persons,2020-09-01,2020-09-30,Q19a1
+Average Change in Earned Income,-1196,0,0,407.5,1474,0,0,749.25,0,NA,all_persons,2020-09-01,2020-09-30,Q19a1
+Number of Adults with Other Income,3,2,4,27,1,22,59,28,0.47,NA,all_persons,2020-09-01,2020-09-30,Q19a1
+Average Change in Other Income,-991,-754.5,0,514.15,783,0,0,523.75,0,NA,all_persons,2020-09-01,2020-09-30,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",5,3,6,29,2,11,59,32,0.54,NA,all_persons,2020-09-01,2020-09-30,Q19a1
+Average Change in Overall Income,-1156.6,-753,0,464.59,1128.5,0,153,513.69,0,NA,all_persons,2020-09-01,2020-09-30,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",4,0,3,2,1,48,61,4,0.07,NA,all_persons,2020-10-01,2020-10-31,Q19a1
+Average Change in Earned Income,-1196,0,0,407.5,1474,0,0,749.25,0,NA,all_persons,2020-10-01,2020-10-31,Q19a1
+Number of Adults with Other Income,3,3,4,28,1,22,61,29,0.48,NA,all_persons,2020-10-01,2020-10-31,Q19a1
+Average Change in Other Income,-991,-642,0,499.64,783,0,0,509.41,0,NA,all_persons,2020-10-01,2020-10-31,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",5,4,6,30,2,11,61,33,0.54,NA,all_persons,2020-10-01,2020-10-31,Q19a1
+Average Change in Overall Income,-1156.6,-669,0,452.7,1128.5,0,143,501.39,0,NA,all_persons,2020-10-01,2020-10-31,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",4,0,3,2,1,48,61,4,0.07,NA,all_persons,2020-11-01,2020-11-30,Q19a1
+Average Change in Earned Income,-1196,0,0,407.5,1474,0,0,749.25,0,NA,all_persons,2020-11-01,2020-11-30,Q19a1
+Number of Adults with Other Income,3,3,4,28,1,22,61,29,0.48,NA,all_persons,2020-11-01,2020-11-30,Q19a1
+Average Change in Other Income,-991,-642,0,577.71,783,0,0,584.79,0,NA,all_persons,2020-11-01,2020-11-30,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",5,4,6,30,2,11,61,33,0.54,NA,all_persons,2020-11-01,2020-11-30,Q19a1
+Average Change in Overall Income,-1156.6,-669,0,525.57,1128.5,0,179,567.64,0,NA,all_persons,2020-11-01,2020-11-30,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",3,0,3,2,1,48,60,4,0.07,NA,all_persons,2020-12-01,2020-12-31,Q19a1
+Average Change in Earned Income,-1186.67,0,0,407.5,1474,0,0,749.25,0,NA,all_persons,2020-12-01,2020-12-31,Q19a1
+Number of Adults with Other Income,3,3,4,27,1,22,60,28,0.47,NA,all_persons,2020-12-01,2020-12-31,Q19a1
+Average Change in Other Income,-991,-642,0,409.3,783,0,0,422.64,0,NA,all_persons,2020-12-01,2020-12-31,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",5,4,6,29,2,11,60,32,0.53,NA,all_persons,2020-12-01,2020-12-31,Q19a1
+Average Change in Overall Income,-1156.6,-669,0,409.17,1128.5,0,117,463.47,0,NA,all_persons,2020-12-01,2020-12-31,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",4,0,3,2,0,45,57,3,0.05,NA,all_persons,2021-01-01,2021-01-31,Q19a1
+Average Change in Earned Income,-1072,0,0,407.5,0,0,0,507.67,0,NA,all_persons,2021-01-01,2021-01-31,Q19a1
+Number of Adults with Other Income,3,3,4,26,2,19,57,28,0.49,NA,all_persons,2021-01-01,2021-01-31,Q19a1
+Average Change in Other Income,-991,-642,0,426.04,1010.5,0,0,467.79,0,NA,all_persons,2021-01-01,2021-01-31,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",5,4,6,29,1,9,57,31,0.54,NA,all_persons,2021-01-01,2021-01-31,Q19a1
+Average Change in Overall Income,-1156.6,-669,0,427.66,783,0,107,448.16,0,NA,all_persons,2021-01-01,2021-01-31,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",4,0,3,2,0,46,58,3,0.05,NA,all_persons,2021-02-01,2021-02-28,Q19a1
+Average Change in Earned Income,-1072,0,0,794.5,0,0,0,765.67,0,NA,all_persons,2021-02-01,2021-02-28,Q19a1
+Number of Adults with Other Income,3,3,4,26,4,18,58,30,0.52,NA,all_persons,2021-02-01,2021-02-28,Q19a1
+Average Change in Other Income,-991,-642,0,470.42,902.25,0,0,528,0,NA,all_persons,2021-02-01,2021-02-28,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",5,4,6,29,3,8,58,33,0.57,NA,all_persons,2021-02-01,2021-02-28,Q19a1
+Average Change in Overall Income,-1156.6,-669,0,494.14,790.33,0,166,527.55,0,NA,all_persons,2021-02-01,2021-02-28,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",4,0,3,2,0,49,61,3,0.05,NA,all_persons,2021-03-01,2021-03-31,Q19a1
+Average Change in Earned Income,-1072,0,0,794.5,0,0,0,765.67,0,NA,all_persons,2021-03-01,2021-03-31,Q19a1
+Number of Adults with Other Income,4,4,4,27,4,18,61,31,0.51,NA,all_persons,2021-03-01,2021-03-31,Q19a1
+Average Change in Other Income,-877.75,-725.5,0,483.56,902.25,0,0,537.58,0,NA,all_persons,2021-03-01,2021-03-31,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",6,5,6,30,3,8,61,34,0.56,NA,all_persons,2021-03-01,2021-03-31,Q19a1
+Average Change in Overall Income,-1053.5,-730.4,0,505.17,790.33,0,146,536.29,0,NA,all_persons,2021-03-01,2021-03-31,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",4,0,3,2,0,48,60,3,0.05,NA,all_persons,2021-04-01,2021-04-30,Q19a1
+Average Change in Earned Income,-1072,0,0,794.5,0,0,0,765.67,0,NA,all_persons,2021-04-01,2021-04-30,Q19a1
+Number of Adults with Other Income,4,3,3,28,5,17,60,33,0.55,NA,all_persons,2021-04-01,2021-04-30,Q19a1
+Average Change in Other Income,-877.75,-838.33,0,469.64,953.8,0,0,543,0,NA,all_persons,2021-04-01,2021-04-30,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",6,4,5,31,4,7,60,36,0.6,NA,all_persons,2021-04-01,2021-04-30,Q19a1
+Average Change in Overall Income,-1053.5,-816.25,0,491.9,882.75,0,176,541.33,0,NA,all_persons,2021-04-01,2021-04-30,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",4,0,3,2,0,49,61,3,0.05,NA,all_persons,2021-05-01,2021-05-31,Q19a1
+Average Change in Earned Income,-1072,0,0,794.5,0,0,0,892.33,0,NA,all_persons,2021-05-01,2021-05-31,Q19a1
+Number of Adults with Other Income,4,3,3,28,6,17,61,34,0.56,NA,all_persons,2021-05-01,2021-05-31,Q19a1
+Average Change in Other Income,-877.75,-838.33,0,470.54,1003.17,0,0,564.53,0,NA,all_persons,2021-05-01,2021-05-31,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",6,4,5,31,5,7,61,37,0.61,NA,all_persons,2021-05-01,2021-05-31,Q19a1
+Average Change in Overall Income,-1053.5,-816.25,0,492.71,956.2,0,200,571.43,0,NA,all_persons,2021-05-01,2021-05-31,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",4,0,3,2,0,46,57,3,0.05,NA,all_persons,2021-06-01,2021-06-30,Q19a1
+Average Change in Earned Income,-1072,0,0,794.5,0,0,0,892.33,0,NA,all_persons,2021-06-01,2021-06-30,Q19a1
+Number of Adults with Other Income,4,3,2,26,7,15,57,33,0.58,NA,all_persons,2021-06-01,2021-06-30,Q19a1
+Average Change in Other Income,-877.75,-838.33,0,459.46,968.43,0,0,567.42,0,NA,all_persons,2021-06-01,2021-06-30,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",6,4,4,29,6,6,57,36,0.63,NA,all_persons,2021-06-01,2021-06-30,Q19a1
+Average Change in Overall Income,-1053.5,-816.25,0,484.31,923.5,0,206,574.28,0,NA,all_persons,2021-06-01,2021-06-30,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",4,0,3,2,0,47,58,3,0.05,NA,all_persons,2021-07-01,2021-07-31,Q19a1
+Average Change in Earned Income,-1072,0,0,794.5,0,0,0,892.33,0,NA,all_persons,2021-07-01,2021-07-31,Q19a1
+Number of Adults with Other Income,4,3,2,26,8,15,58,34,0.59,NA,all_persons,2021-07-01,2021-07-31,Q19a1
+Average Change in Other Income,-877.75,-838.33,0,461.81,997.38,0,0,587.82,0,NA,all_persons,2021-07-01,2021-07-31,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",6,4,4,29,7,6,58,37,0.64,NA,all_persons,2021-07-01,2021-07-31,Q19a1
+Average Change in Overall Income,-1053.5,-816.25,0,486.41,963,0,224,592.84,0,NA,all_persons,2021-07-01,2021-07-31,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",3,1,3,2,0,48,59,3,0.05,NA,all_persons,2021-08-01,2021-08-31,Q19a1
+Average Change in Earned Income,-1229.33,-200,0,794.5,0,0,0,892.33,0,NA,all_persons,2021-08-01,2021-08-31,Q19a1
+Number of Adults with Other Income,4,3,3,26,8,15,59,34,0.58,NA,all_persons,2021-08-01,2021-08-31,Q19a1
+Average Change in Other Income,-877.75,-838.33,0,465,998.75,0,0,590.59,0,NA,all_persons,2021-08-01,2021-08-31,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",5,5,5,29,7,6,59,37,0.63,NA,all_persons,2021-08-01,2021-08-31,Q19a1
+Average Change in Overall Income,-1144.2,-693,0,489.28,964.57,0,225,595.38,0,NA,all_persons,2021-08-01,2021-08-31,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",3,1,3,2,0,47,58,3,0.05,NA,all_persons,2021-09-01,2021-09-30,Q19a1
+Average Change in Earned Income,-1229.33,-200,0,794.5,0,0,0,892.33,0,NA,all_persons,2021-09-01,2021-09-30,Q19a1
+Number of Adults with Other Income,4,3,3,25,8,15,58,33,0.57,NA,all_persons,2021-09-01,2021-09-30,Q19a1
+Average Change in Other Income,-877.75,-838.33,0,470.96,998.75,0,0,598.91,0,NA,all_persons,2021-09-01,2021-09-30,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",5,5,5,28,7,6,58,36,0.62,NA,all_persons,2021-09-01,2021-09-30,Q19a1
+Average Change in Overall Income,-1144.2,-693,0,495.46,964.57,0,223,603.14,0,NA,all_persons,2021-09-01,2021-09-30,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",3,1,4,2,0,47,59,3,0.05,NA,all_persons,2021-10-01,2021-10-31,Q19a1
+Average Change in Earned Income,-1229.33,-200,0,794.5,0,0,0,892.33,0,NA,all_persons,2021-10-01,2021-10-31,Q19a1
+Number of Adults with Other Income,4,3,2,25,8,17,59,33,0.56,NA,all_persons,2021-10-01,2021-10-31,Q19a1
+Average Change in Other Income,-877.75,-838.33,0,472.88,998.75,0,0,600.36,0,NA,all_persons,2021-10-01,2021-10-31,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",5,5,5,28,7,7,59,36,0.61,NA,all_persons,2021-10-01,2021-10-31,Q19a1
+Average Change in Overall Income,-1144.2,-693,0,497.18,964.57,0,220,604.47,0,NA,all_persons,2021-10-01,2021-10-31,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",3,1,4,2,0,48,60,3,0.05,NA,all_persons,2021-11-01,2021-11-30,Q19a1
+Average Change in Earned Income,-1229.33,-200,0,794.5,0,0,0,892.33,0,NA,all_persons,2021-11-01,2021-11-30,Q19a1
+Number of Adults with Other Income,4,3,3,25,8,17,60,33,0.55,NA,all_persons,2021-11-01,2021-11-30,Q19a1
+Average Change in Other Income,-877.75,-838.33,0,442.12,998.75,0,0,577.06,0,NA,all_persons,2021-11-01,2021-11-30,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",5,5,6,28,7,7,60,36,0.6,NA,all_persons,2021-11-01,2021-11-30,Q19a1
+Average Change in Overall Income,-1144.2,-693,0,469.71,964.57,0,204,583.11,0,NA,all_persons,2021-11-01,2021-11-30,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",3,1,3,2,0,48,59,3,0.05,NA,all_persons,2021-12-01,2021-12-31,Q19a1
+Average Change in Earned Income,-1229.33,-200,0,794.5,0,0,0,892.33,0,NA,all_persons,2021-12-01,2021-12-31,Q19a1
+Number of Adults with Other Income,5,3,3,24,8,16,59,32,0.54,NA,all_persons,2021-12-01,2021-12-31,Q19a1
+Average Change in Other Income,-846.4,-838.33,0,457.96,998.75,0,0,593.16,0,NA,all_persons,2021-12-01,2021-12-31,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",6,5,5,27,7,7,59,35,0.59,NA,all_persons,2021-12-01,2021-12-31,Q19a1
+Average Change in Overall Income,-1073.67,-693,0,484.81,964.57,0,194,598,0,NA,all_persons,2021-12-01,2021-12-31,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",3,1,3,2,2,49,62,5,0.08,NA,all_persons,2022-01-01,2022-01-31,Q19a1
+Average Change in Earned Income,-1229.33,-200,0,794.5,1978.5,0,0,1326.8,0,NA,all_persons,2022-01-01,2022-01-31,Q19a1
+Number of Adults with Other Income,5,3,4,25,8,17,62,33,0.53,NA,all_persons,2022-01-01,2022-01-31,Q19a1
+Average Change in Other Income,-846.4,-838.33,0,499.52,972.38,0,0,614.15,0,NA,all_persons,2022-01-01,2022-01-31,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",6,5,6,28,8,7,62,37,0.6,NA,all_persons,2022-01-01,2022-01-31,Q19a1
+Average Change in Overall Income,-1073.67,-693,0,563.89,1162,0,269,707.38,0,NA,all_persons,2022-01-01,2022-01-31,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",3,1,3,2,3,46,60,6,0.1,NA,all_persons,2022-02-01,2022-02-28,Q19a1
+Average Change in Earned Income,-1229.33,-200,0,1188,2132,0,0,1643.33,0,NA,all_persons,2022-02-01,2022-02-28,Q19a1
+Number of Adults with Other Income,5,3,4,24,7,17,60,31,0.52,NA,all_persons,2022-02-01,2022-02-28,Q19a1
+Average Change in Other Income,-846.4,-838.33,0,440.71,987.29,0,0,564.13,0,NA,all_persons,2022-02-01,2022-02-28,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",6,5,5,28,7,7,60,36,0.6,NA,all_persons,2022-02-01,2022-02-28,Q19a1
+Average Change in Overall Income,-1073.67,-693,0,549.46,1449.57,0,285,739.44,0,NA,all_persons,2022-02-01,2022-02-28,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",2,1,3,2,3,43,56,6,0.11,NA,all_persons,2022-03-01,2022-03-31,Q19a1
+Average Change in Earned Income,-964,-200,0,1188,2132,0,0,1643.33,0,NA,all_persons,2022-03-01,2022-03-31,Q19a1
+Number of Adults with Other Income,2,3,3,24,8,16,56,32,0.57,NA,all_persons,2022-03-01,2022-03-31,Q19a1
+Average Change in Other Income,-735.5,-696,0,443,973.63,0,0,575.66,0,NA,all_persons,2022-03-01,2022-03-31,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",2,5,4,28,8,7,56,37,0.66,NA,all_persons,2022-03-01,2022-03-31,Q19a1
+Average Change in Overall Income,-960.5,-607.6,0,551.43,1378.13,0,411,744.68,0,NA,all_persons,2022-03-01,2022-03-31,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",2,1,2,3,3,42,55,7,0.13,NA,all_persons,2022-04-01,2022-04-30,Q19a1
+Average Change in Earned Income,-964,-200,0,1510,2132,0,0,1716.29,0,NA,all_persons,2022-04-01,2022-04-30,Q19a1
+Number of Adults with Other Income,2,3,3,24,7,16,55,31,0.56,NA,all_persons,2022-04-01,2022-04-30,Q19a1
+Average Change in Other Income,-735.5,-696,0,445.08,999.29,0,0,570.23,0,NA,all_persons,2022-04-01,2022-04-30,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",2,5,3,29,7,7,55,37,0.67,NA,all_persons,2022-04-01,2022-04-30,Q19a1
+Average Change in Overall Income,-960.5,-607.6,0,608.41,1461.57,0,444,782.78,0,NA,all_persons,2022-04-01,2022-04-30,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",2,1,2,3,2,42,54,6,0.11,NA,all_persons,2022-05-01,2022-05-31,Q19a1
+Average Change in Earned Income,-964,-200,0,1510,1820.5,0,0,1548.83,0,NA,all_persons,2022-05-01,2022-05-31,Q19a1
+Number of Adults with Other Income,1,3,3,25,7,15,54,32,0.59,NA,all_persons,2022-05-01,2022-05-31,Q19a1
+Average Change in Other Income,-721,-696,0,432.8,1004,0,0,557.75,0,NA,all_persons,2022-05-01,2022-05-31,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",2,4,3,30,6,7,54,37,0.69,NA,all_persons,2022-05-01,2022-05-31,Q19a1
+Average Change in Overall Income,-960.5,-572,0,592.73,1251.5,0,419,713.86,0,NA,all_persons,2022-05-01,2022-05-31,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",2,1,2,3,2,42,54,6,0.11,NA,all_persons,2022-06-01,2022-06-30,Q19a1
+Average Change in Earned Income,-964,-200,0,1510,1820.5,0,0,1548.83,0,NA,all_persons,2022-06-01,2022-06-30,Q19a1
+Number of Adults with Other Income,1,3,2,25,7,16,54,32,0.59,NA,all_persons,2022-06-01,2022-06-30,Q19a1
+Average Change in Other Income,-721,-696,0,432.8,1004,0,0,557.75,0,NA,all_persons,2022-06-01,2022-06-30,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",2,4,2,30,6,8,54,37,0.69,NA,all_persons,2022-06-01,2022-06-30,Q19a1
+Average Change in Overall Income,-960.5,-572,0,592.73,1251.5,0,419,713.86,0,NA,all_persons,2022-06-01,2022-06-30,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",2,1,2,3,2,41,53,6,0.11,NA,all_persons,2022-07-01,2022-07-31,Q19a1
+Average Change in Earned Income,-964,-200,0,1510,1820.5,0,0,1548.83,0,NA,all_persons,2022-07-01,2022-07-31,Q19a1
+Number of Adults with Other Income,1,3,1,25,7,16,53,32,0.6,NA,all_persons,2022-07-01,2022-07-31,Q19a1
+Average Change in Other Income,-721,-696,0,441.64,1004,0,0,564.66,0,NA,all_persons,2022-07-01,2022-07-31,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",2,4,1,30,6,8,53,37,0.7,NA,all_persons,2022-07-01,2022-07-31,Q19a1
+Average Change in Overall Income,-960.5,-572,0,600.1,1251.5,0,431,719.84,0,NA,all_persons,2022-07-01,2022-07-31,Q19a1
+"Number of Adults with Earned Income (ie.e, Employment Income)",3,0,2,3,3,40,53,7,0.13,NA,all_persons,2022-08-01,2022-08-31,Q19a1
+Average Change in Earned Income,-842.67,0,0,1510,1359.67,0,0,1390.14,0,NA,all_persons,2022-08-01,2022-08-31,Q19a1
+Number of Adults with Other Income,1,3,1,25,7,16,53,32,0.6,NA,all_persons,2022-08-01,2022-08-31,Q19a1
+Average Change in Other Income,-721,-696,0,416.08,1004,0,0,544.69,0,NA,all_persons,2022-08-01,2022-08-31,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",3,3,1,30,6,8,53,37,0.7,NA,all_persons,2022-08-01,2022-08-31,Q19a1
+Average Change in Overall Income,-840.33,-696,0,593.4,1251.5,0,435,714.41,0,NA,all_persons,2022-08-01,2022-08-31,Q19a1

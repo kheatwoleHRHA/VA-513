@@ -1,0 +1,25 @@
+conditions,total,adults_in_hh_with_children_and_adults,children_in_hh_with_children_and_adults,population,start_date,end_date,question,household_type,count
+Mental Health Disorder,232,21,5,all_persons,2020-02-01,2020-02-29,Q13a1,without_children,206
+Mental Health Disorder,232,21,5,all_persons,2020-02-01,2020-02-29,Q13a1,with_only_children,0
+Mental Health Disorder,232,21,5,all_persons,2020-02-01,2020-02-29,Q13a1,unknown_household_type,0
+Alcohol Use Disorder,42,0,1,all_persons,2020-02-01,2020-02-29,Q13a1,without_children,41
+Alcohol Use Disorder,42,0,1,all_persons,2020-02-01,2020-02-29,Q13a1,with_only_children,0
+Alcohol Use Disorder,42,0,1,all_persons,2020-02-01,2020-02-29,Q13a1,unknown_household_type,0
+Drug Use Disorder,31,3,0,all_persons,2020-02-01,2020-02-29,Q13a1,without_children,28
+Drug Use Disorder,31,3,0,all_persons,2020-02-01,2020-02-29,Q13a1,with_only_children,0
+Drug Use Disorder,31,3,0,all_persons,2020-02-01,2020-02-29,Q13a1,unknown_household_type,0
+Both Alcohol and Drug Use Disorders,39,1,0,all_persons,2020-02-01,2020-02-29,Q13a1,without_children,38
+Both Alcohol and Drug Use Disorders,39,1,0,all_persons,2020-02-01,2020-02-29,Q13a1,with_only_children,0
+Both Alcohol and Drug Use Disorders,39,1,0,all_persons,2020-02-01,2020-02-29,Q13a1,unknown_household_type,0
+Chronic Health Condition,120,15,3,all_persons,2020-02-01,2020-02-29,Q13a1,without_children,102
+Chronic Health Condition,120,15,3,all_persons,2020-02-01,2020-02-29,Q13a1,with_only_children,0
+Chronic Health Condition,120,15,3,all_persons,2020-02-01,2020-02-29,Q13a1,unknown_household_type,0
+HIV/AIDS,98,8,0,all_persons,2020-02-01,2020-02-29,Q13a1,without_children,90
+HIV/AIDS,98,8,0,all_persons,2020-02-01,2020-02-29,Q13a1,with_only_children,0
+HIV/AIDS,98,8,0,all_persons,2020-02-01,2020-02-29,Q13a1,unknown_household_type,0
+Development Disability,58,3,11,all_persons,2020-02-01,2020-02-29,Q13a1,without_children,43
+Development Disability,58,3,11,all_persons,2020-02-01,2020-02-29,Q13a1,with_only_children,0
+Development Disability,58,3,11,all_persons,2020-02-01,2020-02-29,Q13a1,unknown_household_type,1
+Physical Disability,146,19,1,all_persons,2020-02-01,2020-02-29,Q13a1,without_children,126
+Physical Disability,146,19,1,all_persons,2020-02-01,2020-02-29,Q13a1,with_only_children,0
+Physical Disability,146,19,1,all_persons,2020-02-01,2020-02-29,Q13a1,unknown_household_type,0

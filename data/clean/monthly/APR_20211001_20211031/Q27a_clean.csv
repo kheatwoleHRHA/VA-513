@@ -1,0 +1,17 @@
+age_group,total,population,start_date,end_date,question,household_type,count
+12 - 17,10,youth,2021-10-01,2021-10-31,Q27a,without_children,0
+12 - 17,10,youth,2021-10-01,2021-10-31,Q27a,with_children_and_adults,2
+12 - 17,10,youth,2021-10-01,2021-10-31,Q27a,with_only_children,8
+12 - 17,10,youth,2021-10-01,2021-10-31,Q27a,unknown_household_type,0
+18 - 24,80,youth,2021-10-01,2021-10-31,Q27a,without_children,55
+18 - 24,80,youth,2021-10-01,2021-10-31,Q27a,with_children_and_adults,25
+18 - 24,80,youth,2021-10-01,2021-10-31,Q27a,with_only_children,0
+18 - 24,80,youth,2021-10-01,2021-10-31,Q27a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,youth,2021-10-01,2021-10-31,Q27a,without_children,0
+Client Doesn't Know/Client Refused,0,youth,2021-10-01,2021-10-31,Q27a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,youth,2021-10-01,2021-10-31,Q27a,with_only_children,0
+Client Doesn't Know/Client Refused,0,youth,2021-10-01,2021-10-31,Q27a,unknown_household_type,0
+Data Not Collected,0,youth,2021-10-01,2021-10-31,Q27a,without_children,0
+Data Not Collected,0,youth,2021-10-01,2021-10-31,Q27a,with_children_and_adults,0
+Data Not Collected,0,youth,2021-10-01,2021-10-31,Q27a,with_only_children,0
+Data Not Collected,0,youth,2021-10-01,2021-10-31,Q27a,unknown_household_type,0

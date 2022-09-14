@@ -1,0 +1,25 @@
+conditions,total,adults_in_hh_with_children_and_adults,children_in_hh_with_children_and_adults,population,start_date,end_date,question,household_type,count
+Mental Health Disorder,48,1,0,all_persons,2020-07-01,2020-07-31,Q13b1,without_children,47
+Mental Health Disorder,48,1,0,all_persons,2020-07-01,2020-07-31,Q13b1,with_only_children,0
+Mental Health Disorder,48,1,0,all_persons,2020-07-01,2020-07-31,Q13b1,unknown_household_type,0
+Alcohol Use Disorder,4,0,0,all_persons,2020-07-01,2020-07-31,Q13b1,without_children,4
+Alcohol Use Disorder,4,0,0,all_persons,2020-07-01,2020-07-31,Q13b1,with_only_children,0
+Alcohol Use Disorder,4,0,0,all_persons,2020-07-01,2020-07-31,Q13b1,unknown_household_type,0
+Drug Use Disorder,7,0,0,all_persons,2020-07-01,2020-07-31,Q13b1,without_children,7
+Drug Use Disorder,7,0,0,all_persons,2020-07-01,2020-07-31,Q13b1,with_only_children,0
+Drug Use Disorder,7,0,0,all_persons,2020-07-01,2020-07-31,Q13b1,unknown_household_type,0
+Both Alcohol and Drug Use Disorders,9,0,0,all_persons,2020-07-01,2020-07-31,Q13b1,without_children,9
+Both Alcohol and Drug Use Disorders,9,0,0,all_persons,2020-07-01,2020-07-31,Q13b1,with_only_children,0
+Both Alcohol and Drug Use Disorders,9,0,0,all_persons,2020-07-01,2020-07-31,Q13b1,unknown_household_type,0
+Chronic Health Condition,31,2,0,all_persons,2020-07-01,2020-07-31,Q13b1,without_children,29
+Chronic Health Condition,31,2,0,all_persons,2020-07-01,2020-07-31,Q13b1,with_only_children,0
+Chronic Health Condition,31,2,0,all_persons,2020-07-01,2020-07-31,Q13b1,unknown_household_type,0
+HIV/AIDS,3,0,0,all_persons,2020-07-01,2020-07-31,Q13b1,without_children,3
+HIV/AIDS,3,0,0,all_persons,2020-07-01,2020-07-31,Q13b1,with_only_children,0
+HIV/AIDS,3,0,0,all_persons,2020-07-01,2020-07-31,Q13b1,unknown_household_type,0
+Development Disability,7,2,0,all_persons,2020-07-01,2020-07-31,Q13b1,without_children,5
+Development Disability,7,2,0,all_persons,2020-07-01,2020-07-31,Q13b1,with_only_children,0
+Development Disability,7,2,0,all_persons,2020-07-01,2020-07-31,Q13b1,unknown_household_type,0
+Physical Disability,24,0,1,all_persons,2020-07-01,2020-07-31,Q13b1,without_children,23
+Physical Disability,24,0,1,all_persons,2020-07-01,2020-07-31,Q13b1,with_only_children,0
+Physical Disability,24,0,1,all_persons,2020-07-01,2020-07-31,Q13b1,unknown_household_type,0

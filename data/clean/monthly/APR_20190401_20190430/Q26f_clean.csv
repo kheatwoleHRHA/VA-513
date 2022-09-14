@@ -1,0 +1,28 @@
+number_of_chronically_homeless_persons_by_income_category,population,start_date,end_date,question,status,count
+"Chronically Homeless Persons with Only Earned Income (i.e., Employment Income)",chronically_homeless,2019-04-01,2019-04-30,Q26f,number_of_chronically_homeless_persons_at_start,11
+"Chronically Homeless Persons with Only Earned Income (i.e., Employment Income)",chronically_homeless,2019-04-01,2019-04-30,Q26f,number_of_chronically_homeless_persons_at_annual_assessment_stayers,9
+"Chronically Homeless Persons with Only Earned Income (i.e., Employment Income)",chronically_homeless,2019-04-01,2019-04-30,Q26f,number_of_chronically_homeless_persons_at_exit_leavers,1
+Chronically Homeless Persons with Only Other Income,chronically_homeless,2019-04-01,2019-04-30,Q26f,number_of_chronically_homeless_persons_at_start,43
+Chronically Homeless Persons with Only Other Income,chronically_homeless,2019-04-01,2019-04-30,Q26f,number_of_chronically_homeless_persons_at_annual_assessment_stayers,24
+Chronically Homeless Persons with Only Other Income,chronically_homeless,2019-04-01,2019-04-30,Q26f,number_of_chronically_homeless_persons_at_exit_leavers,6
+Chronically Homeless Persons with Both Earned and Other Income,chronically_homeless,2019-04-01,2019-04-30,Q26f,number_of_chronically_homeless_persons_at_start,3
+Chronically Homeless Persons with Both Earned and Other Income,chronically_homeless,2019-04-01,2019-04-30,Q26f,number_of_chronically_homeless_persons_at_annual_assessment_stayers,2
+Chronically Homeless Persons with Both Earned and Other Income,chronically_homeless,2019-04-01,2019-04-30,Q26f,number_of_chronically_homeless_persons_at_exit_leavers,0
+Chronically Homeless Persons with No Income,chronically_homeless,2019-04-01,2019-04-30,Q26f,number_of_chronically_homeless_persons_at_start,37
+Chronically Homeless Persons with No Income,chronically_homeless,2019-04-01,2019-04-30,Q26f,number_of_chronically_homeless_persons_at_annual_assessment_stayers,10
+Chronically Homeless Persons with No Income,chronically_homeless,2019-04-01,2019-04-30,Q26f,number_of_chronically_homeless_persons_at_exit_leavers,6
+Chronically Homeless Persons with Client Doesn't Know/Client Refused Income Information,chronically_homeless,2019-04-01,2019-04-30,Q26f,number_of_chronically_homeless_persons_at_start,0
+Chronically Homeless Persons with Client Doesn't Know/Client Refused Income Information,chronically_homeless,2019-04-01,2019-04-30,Q26f,number_of_chronically_homeless_persons_at_annual_assessment_stayers,0
+Chronically Homeless Persons with Client Doesn't Know/Client Refused Income Information,chronically_homeless,2019-04-01,2019-04-30,Q26f,number_of_chronically_homeless_persons_at_exit_leavers,0
+Chronically Homeless Persons with Missing Income Information,chronically_homeless,2019-04-01,2019-04-30,Q26f,number_of_chronically_homeless_persons_at_start,0
+Chronically Homeless Persons with Missing Income Information,chronically_homeless,2019-04-01,2019-04-30,Q26f,number_of_chronically_homeless_persons_at_annual_assessment_stayers,0
+Chronically Homeless Persons with Missing Income Information,chronically_homeless,2019-04-01,2019-04-30,Q26f,number_of_chronically_homeless_persons_at_exit_leavers,0
+Number of Chronically Homeless Persons not yet required to have an annual assessment,chronically_homeless,2019-04-01,2019-04-30,Q26f,number_of_chronically_homeless_persons_at_start,0
+Number of Chronically Homeless Persons not yet required to have an annual assessment,chronically_homeless,2019-04-01,2019-04-30,Q26f,number_of_chronically_homeless_persons_at_annual_assessment_stayers,34
+Number of Chronically Homeless Persons not yet required to have an annual assessment,chronically_homeless,2019-04-01,2019-04-30,Q26f,number_of_chronically_homeless_persons_at_exit_leavers,0
+Number of Chronically Homeless Persons without required annual assessment,chronically_homeless,2019-04-01,2019-04-30,Q26f,number_of_chronically_homeless_persons_at_start,0
+Number of Chronically Homeless Persons without required annual assessment,chronically_homeless,2019-04-01,2019-04-30,Q26f,number_of_chronically_homeless_persons_at_annual_assessment_stayers,2
+Number of Chronically Homeless Persons without required annual assessment,chronically_homeless,2019-04-01,2019-04-30,Q26f,number_of_chronically_homeless_persons_at_exit_leavers,0
+Total Chronically Homeless Persons,chronically_homeless,2019-04-01,2019-04-30,Q26f,number_of_chronically_homeless_persons_at_start,94
+Total Chronically Homeless Persons,chronically_homeless,2019-04-01,2019-04-30,Q26f,number_of_chronically_homeless_persons_at_annual_assessment_stayers,81
+Total Chronically Homeless Persons,chronically_homeless,2019-04-01,2019-04-30,Q26f,number_of_chronically_homeless_persons_at_exit_leavers,13

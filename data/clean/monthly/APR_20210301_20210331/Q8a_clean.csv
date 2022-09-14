@@ -1,0 +1,9 @@
+households_served,total,population,start_date,end_date,question,household_type,count
+Total Households,777,all_households,2021-03-01,2021-03-31,Q8a,without_children,680
+Total Households,777,all_households,2021-03-01,2021-03-31,Q8a,with_children_and_adults,94
+Total Households,777,all_households,2021-03-01,2021-03-31,Q8a,with_only_children,0
+Total Households,777,all_households,2021-03-01,2021-03-31,Q8a,unknown_household_type,3
+For PSH and RRH - the total persons served who moved into housing,98,all_households,2021-03-01,2021-03-31,Q8a,without_children,86
+For PSH and RRH - the total persons served who moved into housing,98,all_households,2021-03-01,2021-03-31,Q8a,with_children_and_adults,12
+For PSH and RRH - the total persons served who moved into housing,98,all_households,2021-03-01,2021-03-31,Q8a,with_only_children,0
+For PSH and RRH - the total persons served who moved into housing,98,all_households,2021-03-01,2021-03-31,Q8a,unknown_household_type,0

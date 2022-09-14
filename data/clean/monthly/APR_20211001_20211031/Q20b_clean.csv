@@ -1,0 +1,13 @@
+count_non_cash_benefits,population,start_date,end_date,question,status,count
+No Sources,all_persons,2021-10-01,2021-10-31,Q20b,benefit_at_entry,630
+No Sources,all_persons,2021-10-01,2021-10-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,21
+No Sources,all_persons,2021-10-01,2021-10-31,Q20b,benefit_at_exit_for_leavers,92
+1 + Source(s),all_persons,2021-10-01,2021-10-31,Q20b,benefit_at_entry,355
+1 + Source(s),all_persons,2021-10-01,2021-10-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,37
+1 + Source(s),all_persons,2021-10-01,2021-10-31,Q20b,benefit_at_exit_for_leavers,64
+Client Doesn't Know/Client Refused,all_persons,2021-10-01,2021-10-31,Q20b,benefit_at_entry,4
+Client Doesn't Know/Client Refused,all_persons,2021-10-01,2021-10-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2021-10-01,2021-10-31,Q20b,benefit_at_exit_for_leavers,0
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2021-10-01,2021-10-31,Q20b,benefit_at_entry,152
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2021-10-01,2021-10-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,875
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2021-10-01,2021-10-31,Q20b,benefit_at_exit_for_leavers,52

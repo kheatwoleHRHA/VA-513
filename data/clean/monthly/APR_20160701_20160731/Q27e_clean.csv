@@ -1,0 +1,23 @@
+length_participation,total,population,start_date,end_date,question,status,count
+30 days or less,6,youth,2016-07-01,2016-07-31,Q27e,leavers,1
+30 days or less,6,youth,2016-07-01,2016-07-31,Q27e,stayers,5
+31 to 60 days,7,youth,2016-07-01,2016-07-31,Q27e,leavers,2
+31 to 60 days,7,youth,2016-07-01,2016-07-31,Q27e,stayers,5
+61 to 90 days,5,youth,2016-07-01,2016-07-31,Q27e,leavers,2
+61 to 90 days,5,youth,2016-07-01,2016-07-31,Q27e,stayers,3
+91 to 180 days,3,youth,2016-07-01,2016-07-31,Q27e,leavers,2
+91 to 180 days,3,youth,2016-07-01,2016-07-31,Q27e,stayers,1
+181 to 365 days,1,youth,2016-07-01,2016-07-31,Q27e,leavers,0
+181 to 365 days,1,youth,2016-07-01,2016-07-31,Q27e,stayers,1
+366 to 730 Days (1-2 Yrs),1,youth,2016-07-01,2016-07-31,Q27e,leavers,0
+366 to 730 Days (1-2 Yrs),1,youth,2016-07-01,2016-07-31,Q27e,stayers,1
+"731 to 1,095 Days (2-3 Yrs)",0,youth,2016-07-01,2016-07-31,Q27e,leavers,0
+"731 to 1,095 Days (2-3 Yrs)",0,youth,2016-07-01,2016-07-31,Q27e,stayers,0
+"1,096 to 1,460 Days (3-4 Yrs)",0,youth,2016-07-01,2016-07-31,Q27e,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",0,youth,2016-07-01,2016-07-31,Q27e,stayers,0
+"1,461 to 1,825 Days (5-5 Yrs)",2,youth,2016-07-01,2016-07-31,Q27e,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",2,youth,2016-07-01,2016-07-31,Q27e,stayers,2
+"More than 1,825 Days (>5 Yrs)",0,youth,2016-07-01,2016-07-31,Q27e,leavers,0
+"More than 1,825 Days (>5 Yrs)",0,youth,2016-07-01,2016-07-31,Q27e,stayers,0
+Data Not Collected,0,youth,2016-07-01,2016-07-31,Q27e,leavers,0
+Data Not Collected,0,youth,2016-07-01,2016-07-31,Q27e,stayers,0

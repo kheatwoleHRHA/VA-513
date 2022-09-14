@@ -1,0 +1,33 @@
+race,total,population,start_date,end_date,question,household_type,count
+White,363,all_persons,2016-07-01,2016-07-31,Q12a,without_children,198
+White,363,all_persons,2016-07-01,2016-07-31,Q12a,with_children_and_adults,163
+White,363,all_persons,2016-07-01,2016-07-31,Q12a,with_only_children,1
+White,363,all_persons,2016-07-01,2016-07-31,Q12a,unknown_household_type,1
+"Black, African American, or African",152,all_persons,2016-07-01,2016-07-31,Q12a,without_children,68
+"Black, African American, or African",152,all_persons,2016-07-01,2016-07-31,Q12a,with_children_and_adults,80
+"Black, African American, or African",152,all_persons,2016-07-01,2016-07-31,Q12a,with_only_children,4
+"Black, African American, or African",152,all_persons,2016-07-01,2016-07-31,Q12a,unknown_household_type,0
+Asian or Asian American,0,all_persons,2016-07-01,2016-07-31,Q12a,without_children,0
+Asian or Asian American,0,all_persons,2016-07-01,2016-07-31,Q12a,with_children_and_adults,0
+Asian or Asian American,0,all_persons,2016-07-01,2016-07-31,Q12a,with_only_children,0
+Asian or Asian American,0,all_persons,2016-07-01,2016-07-31,Q12a,unknown_household_type,0
+"American Indian, Alaska Native, or Indigenous",0,all_persons,2016-07-01,2016-07-31,Q12a,without_children,0
+"American Indian, Alaska Native, or Indigenous",0,all_persons,2016-07-01,2016-07-31,Q12a,with_children_and_adults,0
+"American Indian, Alaska Native, or Indigenous",0,all_persons,2016-07-01,2016-07-31,Q12a,with_only_children,0
+"American Indian, Alaska Native, or Indigenous",0,all_persons,2016-07-01,2016-07-31,Q12a,unknown_household_type,0
+Native Hawaiian or Pacific Islander,1,all_persons,2016-07-01,2016-07-31,Q12a,without_children,1
+Native Hawaiian or Pacific Islander,1,all_persons,2016-07-01,2016-07-31,Q12a,with_children_and_adults,0
+Native Hawaiian or Pacific Islander,1,all_persons,2016-07-01,2016-07-31,Q12a,with_only_children,0
+Native Hawaiian or Pacific Islander,1,all_persons,2016-07-01,2016-07-31,Q12a,unknown_household_type,0
+Multiple Races,56,all_persons,2016-07-01,2016-07-31,Q12a,without_children,9
+Multiple Races,56,all_persons,2016-07-01,2016-07-31,Q12a,with_children_and_adults,47
+Multiple Races,56,all_persons,2016-07-01,2016-07-31,Q12a,with_only_children,0
+Multiple Races,56,all_persons,2016-07-01,2016-07-31,Q12a,unknown_household_type,0
+Client Doesn't Know/Client Refused,2,all_persons,2016-07-01,2016-07-31,Q12a,without_children,2
+Client Doesn't Know/Client Refused,2,all_persons,2016-07-01,2016-07-31,Q12a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,2,all_persons,2016-07-01,2016-07-31,Q12a,with_only_children,0
+Client Doesn't Know/Client Refused,2,all_persons,2016-07-01,2016-07-31,Q12a,unknown_household_type,0
+Data Not Collected,3,all_persons,2016-07-01,2016-07-31,Q12a,without_children,1
+Data Not Collected,3,all_persons,2016-07-01,2016-07-31,Q12a,with_children_and_adults,0
+Data Not Collected,3,all_persons,2016-07-01,2016-07-31,Q12a,with_only_children,0
+Data Not Collected,3,all_persons,2016-07-01,2016-07-31,Q12a,unknown_household_type,2

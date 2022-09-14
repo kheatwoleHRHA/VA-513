@@ -1,0 +1,5 @@
+summary,population,start_date,end_date,question,status,count
+Average Length,all_persons,2017-04-01,2017-04-30,Q22b,leavers,45
+Average Length,all_persons,2017-04-01,2017-04-30,Q22b,stayers,811
+Median Length,all_persons,2017-04-01,2017-04-30,Q22b,leavers,32
+Median Length,all_persons,2017-04-01,2017-04-30,Q22b,stayers,151

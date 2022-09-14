@@ -1,0 +1,9 @@
+households_served,total,population,start_date,end_date,question,household_type,count
+Total Households,367,all_households,2018-02-01,2018-02-28,Q8a,without_children,301
+Total Households,367,all_households,2018-02-01,2018-02-28,Q8a,with_children_and_adults,64
+Total Households,367,all_households,2018-02-01,2018-02-28,Q8a,with_only_children,2
+Total Households,367,all_households,2018-02-01,2018-02-28,Q8a,unknown_household_type,0
+For PSH and RRH - the total persons served who moved into housing,91,all_households,2018-02-01,2018-02-28,Q8a,without_children,72
+For PSH and RRH - the total persons served who moved into housing,91,all_households,2018-02-01,2018-02-28,Q8a,with_children_and_adults,19
+For PSH and RRH - the total persons served who moved into housing,91,all_households,2018-02-01,2018-02-28,Q8a,with_only_children,0
+For PSH and RRH - the total persons served who moved into housing,91,all_households,2018-02-01,2018-02-28,Q8a,unknown_household_type,0

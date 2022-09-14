@@ -1,0 +1,17 @@
+ch_status_persons,total,population,start_date,end_date,question,household_type,count
+Chronically Homeless ,77,all_persons,2018-07-01,2018-07-31,Q26b,without_children,58
+Chronically Homeless ,77,all_persons,2018-07-01,2018-07-31,Q26b,with_children_and_adults,19
+Chronically Homeless ,77,all_persons,2018-07-01,2018-07-31,Q26b,with_only_children,0
+Chronically Homeless ,77,all_persons,2018-07-01,2018-07-31,Q26b,unknown_household_type,0
+Not Chronically Homeless,414,all_persons,2018-07-01,2018-07-31,Q26b,without_children,164
+Not Chronically Homeless,414,all_persons,2018-07-01,2018-07-31,Q26b,with_children_and_adults,236
+Not Chronically Homeless,414,all_persons,2018-07-01,2018-07-31,Q26b,with_only_children,13
+Not Chronically Homeless,414,all_persons,2018-07-01,2018-07-31,Q26b,unknown_household_type,1
+Client Doesn't Know/Client Refused,2,all_persons,2018-07-01,2018-07-31,Q26b,without_children,2
+Client Doesn't Know/Client Refused,2,all_persons,2018-07-01,2018-07-31,Q26b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,2,all_persons,2018-07-01,2018-07-31,Q26b,with_only_children,0
+Client Doesn't Know/Client Refused,2,all_persons,2018-07-01,2018-07-31,Q26b,unknown_household_type,0
+Data Not Collected,7,all_persons,2018-07-01,2018-07-31,Q26b,without_children,7
+Data Not Collected,7,all_persons,2018-07-01,2018-07-31,Q26b,with_children_and_adults,0
+Data Not Collected,7,all_persons,2018-07-01,2018-07-31,Q26b,with_only_children,0
+Data Not Collected,7,all_persons,2018-07-01,2018-07-31,Q26b,unknown_household_type,0

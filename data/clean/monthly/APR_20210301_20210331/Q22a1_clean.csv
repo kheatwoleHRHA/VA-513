@@ -1,0 +1,23 @@
+length,total,population,start_date,end_date,question,status,count
+30 days or less,243,all_persons,2021-03-01,2021-03-31,Q22a1,leavers,141
+30 days or less,243,all_persons,2021-03-01,2021-03-31,Q22a1,stayers,102
+31 to 60 days,93,all_persons,2021-03-01,2021-03-31,Q22a1,leavers,23
+31 to 60 days,93,all_persons,2021-03-01,2021-03-31,Q22a1,stayers,70
+61 to 90 days,52,all_persons,2021-03-01,2021-03-31,Q22a1,leavers,12
+61 to 90 days,52,all_persons,2021-03-01,2021-03-31,Q22a1,stayers,40
+91 to 180 days,159,all_persons,2021-03-01,2021-03-31,Q22a1,leavers,13
+91 to 180 days,159,all_persons,2021-03-01,2021-03-31,Q22a1,stayers,146
+181 to 365 days,153,all_persons,2021-03-01,2021-03-31,Q22a1,leavers,16
+181 to 365 days,153,all_persons,2021-03-01,2021-03-31,Q22a1,stayers,137
+366 to 730 Days (1-2 Yrs),270,all_persons,2021-03-01,2021-03-31,Q22a1,leavers,3
+366 to 730 Days (1-2 Yrs),270,all_persons,2021-03-01,2021-03-31,Q22a1,stayers,267
+"731 to 1,095 Days (2-3 Yrs)",113,all_persons,2021-03-01,2021-03-31,Q22a1,leavers,0
+"731 to 1,095 Days (2-3 Yrs)",113,all_persons,2021-03-01,2021-03-31,Q22a1,stayers,113
+"1,096 to 1,460 Days (3-4 Yrs)",44,all_persons,2021-03-01,2021-03-31,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",44,all_persons,2021-03-01,2021-03-31,Q22a1,stayers,44
+"1,461 to 1,825 Days (5-5 Yrs)",26,all_persons,2021-03-01,2021-03-31,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",26,all_persons,2021-03-01,2021-03-31,Q22a1,stayers,26
+"More than 1,825 Days (>5 Yrs)",48,all_persons,2021-03-01,2021-03-31,Q22a1,leavers,0
+"More than 1,825 Days (>5 Yrs)",48,all_persons,2021-03-01,2021-03-31,Q22a1,stayers,48
+Data Not Collected,0,all_persons,2021-03-01,2021-03-31,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2021-03-01,2021-03-31,Q22a1,stayers,0

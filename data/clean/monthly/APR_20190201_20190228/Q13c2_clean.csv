@@ -1,0 +1,22 @@
+count_conditions,total,adults_in_hh_with_children_and_adults,children_in_hh_with_children_and_adults,population,start_date,end_date,question,household_type,count
+None,305,70,131,all_persons,2019-02-01,2019-02-28,Q13c2,without_children,88
+None,305,70,131,all_persons,2019-02-01,2019-02-28,Q13c2,with_only_children,13
+None,305,70,131,all_persons,2019-02-01,2019-02-28,Q13c2,unknown_household_type,3
+1 Condition,160,24,5,all_persons,2019-02-01,2019-02-28,Q13c2,without_children,131
+1 Condition,160,24,5,all_persons,2019-02-01,2019-02-28,Q13c2,with_only_children,0
+1 Condition,160,24,5,all_persons,2019-02-01,2019-02-28,Q13c2,unknown_household_type,0
+2 Conditions,65,7,4,all_persons,2019-02-01,2019-02-28,Q13c2,without_children,54
+2 Conditions,65,7,4,all_persons,2019-02-01,2019-02-28,Q13c2,with_only_children,0
+2 Conditions,65,7,4,all_persons,2019-02-01,2019-02-28,Q13c2,unknown_household_type,0
+3+ Conditions,53,1,0,all_persons,2019-02-01,2019-02-28,Q13c2,without_children,52
+3+ Conditions,53,1,0,all_persons,2019-02-01,2019-02-28,Q13c2,with_only_children,0
+3+ Conditions,53,1,0,all_persons,2019-02-01,2019-02-28,Q13c2,unknown_household_type,0
+Condition Unknown,7,0,3,all_persons,2019-02-01,2019-02-28,Q13c2,without_children,4
+Condition Unknown,7,0,3,all_persons,2019-02-01,2019-02-28,Q13c2,with_only_children,0
+Condition Unknown,7,0,3,all_persons,2019-02-01,2019-02-28,Q13c2,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,0,0,all_persons,2019-02-01,2019-02-28,Q13c2,without_children,1
+Client Doesn't Know/Client Refused,1,0,0,all_persons,2019-02-01,2019-02-28,Q13c2,with_only_children,0
+Client Doesn't Know/Client Refused,1,0,0,all_persons,2019-02-01,2019-02-28,Q13c2,unknown_household_type,0
+Data Not Collected,17,1,7,all_persons,2019-02-01,2019-02-28,Q13c2,without_children,7
+Data Not Collected,17,1,7,all_persons,2019-02-01,2019-02-28,Q13c2,with_only_children,1
+Data Not Collected,17,1,7,all_persons,2019-02-01,2019-02-28,Q13c2,unknown_household_type,1

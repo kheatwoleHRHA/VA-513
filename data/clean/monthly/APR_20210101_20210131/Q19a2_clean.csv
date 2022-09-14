@@ -1,0 +1,7 @@
+income_change_by_income_category_universe_adult_leavers_with_income_information_at_start_and_exit,had_income_category_at_start_and_did_not_have_it_at_exit,retained_income_category_but_had_less_at_exit_than_at_start,retained_income_category_and_same_at_exit_as_at_start,retained_income_category_and_increased_at_exit,did_not_have_the_income_category_at_start_and_gained_the_income_category_at_exit,did_not_have_the_income_category_at_start_or_at_exit,total_adults_including_those_with_no_income,performance_measure_adults_who_gained_or_increased_income_from_start_to_exit,average_gain,performance_measure_percent_of_persons_who_accomplished_this_measure,population,start_date,end_date,question
+"Number of Adults with Earned Income (ie.e, Employment Income)",1,0,32,0,3,165,206,3,0.01,NA,all_persons,2021-01-01,2021-01-31,Q19a2
+Average Change in Earned Income,-736.0,0.0,0,0.0,1086.67,0,0,1086.67,0,NA,all_persons,2021-01-01,2021-01-31,Q19a2
+Number of Adults with Other Income,0,0,37,0,0,166,206,0,0.0,NA,all_persons,2021-01-01,2021-01-31,Q19a2
+Average Change in Other Income,0.0,0.0,0,0.0,0.0,0,0,0.0,0,NA,all_persons,2021-01-01,2021-01-31,Q19a2
+"Number of Adults with Any Income (i.e., Total Income)",1,0,64,1,2,130,206,3,0.01,NA,all_persons,2021-01-01,2021-01-31,Q19a2
+Average Change in Overall Income,-736.0,0.0,0,960.0,1150.0,0,12,1086.67,0,NA,all_persons,2021-01-01,2021-01-31,Q19a2

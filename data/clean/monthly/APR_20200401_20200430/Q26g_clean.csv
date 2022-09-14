@@ -1,0 +1,49 @@
+income_sources,population,start_date,end_date,question,status,count
+Earned Income,chronically_homeless,2020-04-01,2020-04-30,Q26g,income_at_start,19
+Earned Income,chronically_homeless,2020-04-01,2020-04-30,Q26g,income_at_latest_annual_assessment_for_stayers,8
+Earned Income,chronically_homeless,2020-04-01,2020-04-30,Q26g,income_at_exit_for_leavers,1
+Unemployment Insurance,chronically_homeless,2020-04-01,2020-04-30,Q26g,income_at_start,0
+Unemployment Insurance,chronically_homeless,2020-04-01,2020-04-30,Q26g,income_at_latest_annual_assessment_for_stayers,0
+Unemployment Insurance,chronically_homeless,2020-04-01,2020-04-30,Q26g,income_at_exit_for_leavers,0
+Supplemental Security Income (SSI),chronically_homeless,2020-04-01,2020-04-30,Q26g,income_at_start,27
+Supplemental Security Income (SSI),chronically_homeless,2020-04-01,2020-04-30,Q26g,income_at_latest_annual_assessment_for_stayers,15
+Supplemental Security Income (SSI),chronically_homeless,2020-04-01,2020-04-30,Q26g,income_at_exit_for_leavers,2
+Social Security Disability Insurance (SSDI),chronically_homeless,2020-04-01,2020-04-30,Q26g,income_at_start,23
+Social Security Disability Insurance (SSDI),chronically_homeless,2020-04-01,2020-04-30,Q26g,income_at_latest_annual_assessment_for_stayers,6
+Social Security Disability Insurance (SSDI),chronically_homeless,2020-04-01,2020-04-30,Q26g,income_at_exit_for_leavers,3
+VA Service - Connected Disability Compensation,chronically_homeless,2020-04-01,2020-04-30,Q26g,income_at_start,6
+VA Service - Connected Disability Compensation,chronically_homeless,2020-04-01,2020-04-30,Q26g,income_at_latest_annual_assessment_for_stayers,4
+VA Service - Connected Disability Compensation,chronically_homeless,2020-04-01,2020-04-30,Q26g,income_at_exit_for_leavers,1
+VA Non-Service Connected Disability Pension,chronically_homeless,2020-04-01,2020-04-30,Q26g,income_at_start,2
+VA Non-Service Connected Disability Pension,chronically_homeless,2020-04-01,2020-04-30,Q26g,income_at_latest_annual_assessment_for_stayers,1
+VA Non-Service Connected Disability Pension,chronically_homeless,2020-04-01,2020-04-30,Q26g,income_at_exit_for_leavers,0
+Private Disability Insurance,chronically_homeless,2020-04-01,2020-04-30,Q26g,income_at_start,0
+Private Disability Insurance,chronically_homeless,2020-04-01,2020-04-30,Q26g,income_at_latest_annual_assessment_for_stayers,0
+Private Disability Insurance,chronically_homeless,2020-04-01,2020-04-30,Q26g,income_at_exit_for_leavers,0
+Worker's Compensation,chronically_homeless,2020-04-01,2020-04-30,Q26g,income_at_start,0
+Worker's Compensation,chronically_homeless,2020-04-01,2020-04-30,Q26g,income_at_latest_annual_assessment_for_stayers,0
+Worker's Compensation,chronically_homeless,2020-04-01,2020-04-30,Q26g,income_at_exit_for_leavers,0
+Temporary Assistance for Needy Families (TANF),chronically_homeless,2020-04-01,2020-04-30,Q26g,income_at_start,2
+Temporary Assistance for Needy Families (TANF),chronically_homeless,2020-04-01,2020-04-30,Q26g,income_at_latest_annual_assessment_for_stayers,1
+Temporary Assistance for Needy Families (TANF),chronically_homeless,2020-04-01,2020-04-30,Q26g,income_at_exit_for_leavers,0
+General Assistance (GA),chronically_homeless,2020-04-01,2020-04-30,Q26g,income_at_start,0
+General Assistance (GA),chronically_homeless,2020-04-01,2020-04-30,Q26g,income_at_latest_annual_assessment_for_stayers,0
+General Assistance (GA),chronically_homeless,2020-04-01,2020-04-30,Q26g,income_at_exit_for_leavers,0
+Retirement Income from Social Security,chronically_homeless,2020-04-01,2020-04-30,Q26g,income_at_start,2
+Retirement Income from Social Security,chronically_homeless,2020-04-01,2020-04-30,Q26g,income_at_latest_annual_assessment_for_stayers,2
+Retirement Income from Social Security,chronically_homeless,2020-04-01,2020-04-30,Q26g,income_at_exit_for_leavers,0
+Pension or retirement income from a former job,chronically_homeless,2020-04-01,2020-04-30,Q26g,income_at_start,1
+Pension or retirement income from a former job,chronically_homeless,2020-04-01,2020-04-30,Q26g,income_at_latest_annual_assessment_for_stayers,1
+Pension or retirement income from a former job,chronically_homeless,2020-04-01,2020-04-30,Q26g,income_at_exit_for_leavers,0
+Child Support,chronically_homeless,2020-04-01,2020-04-30,Q26g,income_at_start,1
+Child Support,chronically_homeless,2020-04-01,2020-04-30,Q26g,income_at_latest_annual_assessment_for_stayers,0
+Child Support,chronically_homeless,2020-04-01,2020-04-30,Q26g,income_at_exit_for_leavers,0
+Alimony and other spousal support,chronically_homeless,2020-04-01,2020-04-30,Q26g,income_at_start,0
+Alimony and other spousal support,chronically_homeless,2020-04-01,2020-04-30,Q26g,income_at_latest_annual_assessment_for_stayers,0
+Alimony and other spousal support,chronically_homeless,2020-04-01,2020-04-30,Q26g,income_at_exit_for_leavers,0
+Other Source,chronically_homeless,2020-04-01,2020-04-30,Q26g,income_at_start,2
+Other Source,chronically_homeless,2020-04-01,2020-04-30,Q26g,income_at_latest_annual_assessment_for_stayers,0
+Other Source,chronically_homeless,2020-04-01,2020-04-30,Q26g,income_at_exit_for_leavers,1
+Chronically Homeless Persons with Income Information at Start and Annual Assessment/Exit,chronically_homeless,2020-04-01,2020-04-30,Q26g,income_at_start,0
+Chronically Homeless Persons with Income Information at Start and Annual Assessment/Exit,chronically_homeless,2020-04-01,2020-04-30,Q26g,income_at_latest_annual_assessment_for_stayers,43
+Chronically Homeless Persons with Income Information at Start and Annual Assessment/Exit,chronically_homeless,2020-04-01,2020-04-30,Q26g,income_at_exit_for_leavers,0

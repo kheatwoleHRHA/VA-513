@@ -1,0 +1,3 @@
+age_group,total_parenting_youth,total_children_of_parenting_youth,total_persons,total_households,population,start_date,end_date,question
+Parent youth < 18,2,1,3,1,parenting_youth,2022-02-01,2022-02-28,Q27b
+Parent youth 18 to 24,17,17,35,12,parenting_youth,2022-02-01,2022-02-28,Q27b

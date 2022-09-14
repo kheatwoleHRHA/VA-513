@@ -1,0 +1,25 @@
+age_group,total,population,start_date,end_date,question,household_type,count
+18 - 24,0,veterans,2017-07-01,2017-07-31,Q25d,without_children,0
+18 - 24,0,veterans,2017-07-01,2017-07-31,Q25d,with_children_and_adults,0
+18 - 24,0,veterans,2017-07-01,2017-07-31,Q25d,unknown_household_type,0
+25 - 34,1,veterans,2017-07-01,2017-07-31,Q25d,without_children,0
+25 - 34,1,veterans,2017-07-01,2017-07-31,Q25d,with_children_and_adults,1
+25 - 34,1,veterans,2017-07-01,2017-07-31,Q25d,unknown_household_type,0
+35 - 44,5,veterans,2017-07-01,2017-07-31,Q25d,without_children,5
+35 - 44,5,veterans,2017-07-01,2017-07-31,Q25d,with_children_and_adults,0
+35 - 44,5,veterans,2017-07-01,2017-07-31,Q25d,unknown_household_type,0
+45 - 54,2,veterans,2017-07-01,2017-07-31,Q25d,without_children,2
+45 - 54,2,veterans,2017-07-01,2017-07-31,Q25d,with_children_and_adults,0
+45 - 54,2,veterans,2017-07-01,2017-07-31,Q25d,unknown_household_type,0
+55 - 61,6,veterans,2017-07-01,2017-07-31,Q25d,without_children,6
+55 - 61,6,veterans,2017-07-01,2017-07-31,Q25d,with_children_and_adults,0
+55 - 61,6,veterans,2017-07-01,2017-07-31,Q25d,unknown_household_type,0
+62 +,6,veterans,2017-07-01,2017-07-31,Q25d,without_children,6
+62 +,6,veterans,2017-07-01,2017-07-31,Q25d,with_children_and_adults,0
+62 +,6,veterans,2017-07-01,2017-07-31,Q25d,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2017-07-01,2017-07-31,Q25d,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2017-07-01,2017-07-31,Q25d,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2017-07-01,2017-07-31,Q25d,unknown_household_type,0
+Data Not Collected,0,veterans,2017-07-01,2017-07-31,Q25d,without_children,0
+Data Not Collected,0,veterans,2017-07-01,2017-07-31,Q25d,with_children_and_adults,0
+Data Not Collected,0,veterans,2017-07-01,2017-07-31,Q25d,unknown_household_type,0

@@ -1,0 +1,53 @@
+time_prior_to_housing,total,population,start_date,end_date,question,household_type,count
+7 days or less,172,all_persons,2022-04-01,2022-04-30,Q22e,without_children,120
+7 days or less,172,all_persons,2022-04-01,2022-04-30,Q22e,with_children_and_adults,52
+7 days or less,172,all_persons,2022-04-01,2022-04-30,Q22e,with_only_children,0
+7 days or less,172,all_persons,2022-04-01,2022-04-30,Q22e,unknown_household_type,0
+8 to 14 days,27,all_persons,2022-04-01,2022-04-30,Q22e,without_children,22
+8 to 14 days,27,all_persons,2022-04-01,2022-04-30,Q22e,with_children_and_adults,5
+8 to 14 days,27,all_persons,2022-04-01,2022-04-30,Q22e,with_only_children,0
+8 to 14 days,27,all_persons,2022-04-01,2022-04-30,Q22e,unknown_household_type,0
+15 to 21 days,24,all_persons,2022-04-01,2022-04-30,Q22e,without_children,20
+15 to 21 days,24,all_persons,2022-04-01,2022-04-30,Q22e,with_children_and_adults,4
+15 to 21 days,24,all_persons,2022-04-01,2022-04-30,Q22e,with_only_children,0
+15 to 21 days,24,all_persons,2022-04-01,2022-04-30,Q22e,unknown_household_type,0
+22 to 30 days,14,all_persons,2022-04-01,2022-04-30,Q22e,without_children,12
+22 to 30 days,14,all_persons,2022-04-01,2022-04-30,Q22e,with_children_and_adults,2
+22 to 30 days,14,all_persons,2022-04-01,2022-04-30,Q22e,with_only_children,0
+22 to 30 days,14,all_persons,2022-04-01,2022-04-30,Q22e,unknown_household_type,0
+31 to 60 days,32,all_persons,2022-04-01,2022-04-30,Q22e,without_children,25
+31 to 60 days,32,all_persons,2022-04-01,2022-04-30,Q22e,with_children_and_adults,7
+31 to 60 days,32,all_persons,2022-04-01,2022-04-30,Q22e,with_only_children,0
+31 to 60 days,32,all_persons,2022-04-01,2022-04-30,Q22e,unknown_household_type,0
+61 to 180 days,109,all_persons,2022-04-01,2022-04-30,Q22e,without_children,79
+61 to 180 days,109,all_persons,2022-04-01,2022-04-30,Q22e,with_children_and_adults,30
+61 to 180 days,109,all_persons,2022-04-01,2022-04-30,Q22e,with_only_children,0
+61 to 180 days,109,all_persons,2022-04-01,2022-04-30,Q22e,unknown_household_type,0
+181 to 365 days,56,all_persons,2022-04-01,2022-04-30,Q22e,without_children,49
+181 to 365 days,56,all_persons,2022-04-01,2022-04-30,Q22e,with_children_and_adults,6
+181 to 365 days,56,all_persons,2022-04-01,2022-04-30,Q22e,with_only_children,1
+181 to 365 days,56,all_persons,2022-04-01,2022-04-30,Q22e,unknown_household_type,0
+366-730 days (1-2 years),50,all_persons,2022-04-01,2022-04-30,Q22e,without_children,50
+366-730 days (1-2 years),50,all_persons,2022-04-01,2022-04-30,Q22e,with_children_and_adults,0
+366-730 days (1-2 years),50,all_persons,2022-04-01,2022-04-30,Q22e,with_only_children,0
+366-730 days (1-2 years),50,all_persons,2022-04-01,2022-04-30,Q22e,unknown_household_type,0
+731 days or more,108,all_persons,2022-04-01,2022-04-30,Q22e,without_children,95
+731 days or more,108,all_persons,2022-04-01,2022-04-30,Q22e,with_children_and_adults,11
+731 days or more,108,all_persons,2022-04-01,2022-04-30,Q22e,with_only_children,2
+731 days or more,108,all_persons,2022-04-01,2022-04-30,Q22e,unknown_household_type,0
+Total (persons moved into housing),592,all_persons,2022-04-01,2022-04-30,Q22e,without_children,472
+Total (persons moved into housing),592,all_persons,2022-04-01,2022-04-30,Q22e,with_children_and_adults,117
+Total (persons moved into housing),592,all_persons,2022-04-01,2022-04-30,Q22e,with_only_children,3
+Total (persons moved into housing),592,all_persons,2022-04-01,2022-04-30,Q22e,unknown_household_type,0
+Not yet moved into housing,43,all_persons,2022-04-01,2022-04-30,Q22e,without_children,28
+Not yet moved into housing,43,all_persons,2022-04-01,2022-04-30,Q22e,with_children_and_adults,15
+Not yet moved into housing,43,all_persons,2022-04-01,2022-04-30,Q22e,with_only_children,0
+Not yet moved into housing,43,all_persons,2022-04-01,2022-04-30,Q22e,unknown_household_type,0
+Data not collected,93,all_persons,2022-04-01,2022-04-30,Q22e,without_children,39
+Data not collected,93,all_persons,2022-04-01,2022-04-30,Q22e,with_children_and_adults,42
+Data not collected,93,all_persons,2022-04-01,2022-04-30,Q22e,with_only_children,10
+Data not collected,93,all_persons,2022-04-01,2022-04-30,Q22e,unknown_household_type,2
+Total persons,728,all_persons,2022-04-01,2022-04-30,Q22e,without_children,539
+Total persons,728,all_persons,2022-04-01,2022-04-30,Q22e,with_children_and_adults,174
+Total persons,728,all_persons,2022-04-01,2022-04-30,Q22e,with_only_children,13
+Total persons,728,all_persons,2022-04-01,2022-04-30,Q22e,unknown_household_type,2

@@ -1,0 +1,53 @@
+time_prior_to_housing,total,population,start_date,end_date,question,household_type,count
+7 days or less,42,all_persons,2019-06-01,2019-06-30,Q22e,without_children,27
+7 days or less,42,all_persons,2019-06-01,2019-06-30,Q22e,with_children_and_adults,15
+7 days or less,42,all_persons,2019-06-01,2019-06-30,Q22e,with_only_children,0
+7 days or less,42,all_persons,2019-06-01,2019-06-30,Q22e,unknown_household_type,0
+8 to 14 days,5,all_persons,2019-06-01,2019-06-30,Q22e,without_children,3
+8 to 14 days,5,all_persons,2019-06-01,2019-06-30,Q22e,with_children_and_adults,2
+8 to 14 days,5,all_persons,2019-06-01,2019-06-30,Q22e,with_only_children,0
+8 to 14 days,5,all_persons,2019-06-01,2019-06-30,Q22e,unknown_household_type,0
+15 to 21 days,14,all_persons,2019-06-01,2019-06-30,Q22e,without_children,2
+15 to 21 days,14,all_persons,2019-06-01,2019-06-30,Q22e,with_children_and_adults,12
+15 to 21 days,14,all_persons,2019-06-01,2019-06-30,Q22e,with_only_children,0
+15 to 21 days,14,all_persons,2019-06-01,2019-06-30,Q22e,unknown_household_type,0
+22 to 30 days,4,all_persons,2019-06-01,2019-06-30,Q22e,without_children,2
+22 to 30 days,4,all_persons,2019-06-01,2019-06-30,Q22e,with_children_and_adults,2
+22 to 30 days,4,all_persons,2019-06-01,2019-06-30,Q22e,with_only_children,0
+22 to 30 days,4,all_persons,2019-06-01,2019-06-30,Q22e,unknown_household_type,0
+31 to 60 days,19,all_persons,2019-06-01,2019-06-30,Q22e,without_children,9
+31 to 60 days,19,all_persons,2019-06-01,2019-06-30,Q22e,with_children_and_adults,10
+31 to 60 days,19,all_persons,2019-06-01,2019-06-30,Q22e,with_only_children,0
+31 to 60 days,19,all_persons,2019-06-01,2019-06-30,Q22e,unknown_household_type,0
+61 to 180 days,40,all_persons,2019-06-01,2019-06-30,Q22e,without_children,14
+61 to 180 days,40,all_persons,2019-06-01,2019-06-30,Q22e,with_children_and_adults,26
+61 to 180 days,40,all_persons,2019-06-01,2019-06-30,Q22e,with_only_children,0
+61 to 180 days,40,all_persons,2019-06-01,2019-06-30,Q22e,unknown_household_type,0
+181 to 365 days,34,all_persons,2019-06-01,2019-06-30,Q22e,without_children,15
+181 to 365 days,34,all_persons,2019-06-01,2019-06-30,Q22e,with_children_and_adults,19
+181 to 365 days,34,all_persons,2019-06-01,2019-06-30,Q22e,with_only_children,0
+181 to 365 days,34,all_persons,2019-06-01,2019-06-30,Q22e,unknown_household_type,0
+366-730 days (1-2 years),22,all_persons,2019-06-01,2019-06-30,Q22e,without_children,22
+366-730 days (1-2 years),22,all_persons,2019-06-01,2019-06-30,Q22e,with_children_and_adults,0
+366-730 days (1-2 years),22,all_persons,2019-06-01,2019-06-30,Q22e,with_only_children,0
+366-730 days (1-2 years),22,all_persons,2019-06-01,2019-06-30,Q22e,unknown_household_type,0
+731 days or more,44,all_persons,2019-06-01,2019-06-30,Q22e,without_children,35
+731 days or more,44,all_persons,2019-06-01,2019-06-30,Q22e,with_children_and_adults,9
+731 days or more,44,all_persons,2019-06-01,2019-06-30,Q22e,with_only_children,0
+731 days or more,44,all_persons,2019-06-01,2019-06-30,Q22e,unknown_household_type,0
+Total (persons moved into housing),224,all_persons,2019-06-01,2019-06-30,Q22e,without_children,129
+Total (persons moved into housing),224,all_persons,2019-06-01,2019-06-30,Q22e,with_children_and_adults,95
+Total (persons moved into housing),224,all_persons,2019-06-01,2019-06-30,Q22e,with_only_children,0
+Total (persons moved into housing),224,all_persons,2019-06-01,2019-06-30,Q22e,unknown_household_type,0
+Not yet moved into housing,18,all_persons,2019-06-01,2019-06-30,Q22e,without_children,11
+Not yet moved into housing,18,all_persons,2019-06-01,2019-06-30,Q22e,with_children_and_adults,7
+Not yet moved into housing,18,all_persons,2019-06-01,2019-06-30,Q22e,with_only_children,0
+Not yet moved into housing,18,all_persons,2019-06-01,2019-06-30,Q22e,unknown_household_type,0
+Data not collected,5,all_persons,2019-06-01,2019-06-30,Q22e,without_children,5
+Data not collected,5,all_persons,2019-06-01,2019-06-30,Q22e,with_children_and_adults,0
+Data not collected,5,all_persons,2019-06-01,2019-06-30,Q22e,with_only_children,0
+Data not collected,5,all_persons,2019-06-01,2019-06-30,Q22e,unknown_household_type,0
+Total persons,247,all_persons,2019-06-01,2019-06-30,Q22e,without_children,145
+Total persons,247,all_persons,2019-06-01,2019-06-30,Q22e,with_children_and_adults,102
+Total persons,247,all_persons,2019-06-01,2019-06-30,Q22e,with_only_children,0
+Total persons,247,all_persons,2019-06-01,2019-06-30,Q22e,unknown_household_type,0

@@ -1,0 +1,9 @@
+households_served,total,population,start_date,end_date,question,household_type,count
+Total Households,308,all_households,2017-05-01,2017-05-31,Q8a,without_children,245
+Total Households,308,all_households,2017-05-01,2017-05-31,Q8a,with_children_and_adults,62
+Total Households,308,all_households,2017-05-01,2017-05-31,Q8a,with_only_children,1
+Total Households,308,all_households,2017-05-01,2017-05-31,Q8a,unknown_household_type,0
+For PSH and RRH - the total persons served who moved into housing,86,all_households,2017-05-01,2017-05-31,Q8a,without_children,71
+For PSH and RRH - the total persons served who moved into housing,86,all_households,2017-05-01,2017-05-31,Q8a,with_children_and_adults,15
+For PSH and RRH - the total persons served who moved into housing,86,all_households,2017-05-01,2017-05-31,Q8a,with_only_children,0
+For PSH and RRH - the total persons served who moved into housing,86,all_households,2017-05-01,2017-05-31,Q8a,unknown_household_type,0

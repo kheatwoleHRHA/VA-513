@@ -1,0 +1,17 @@
+age_group,total,population,start_date,end_date,question,household_type,count
+12 - 17,1,youth,2015-09-01,2015-09-30,Q27a,without_children,0
+12 - 17,1,youth,2015-09-01,2015-09-30,Q27a,with_children_and_adults,0
+12 - 17,1,youth,2015-09-01,2015-09-30,Q27a,with_only_children,1
+12 - 17,1,youth,2015-09-01,2015-09-30,Q27a,unknown_household_type,0
+18 - 24,22,youth,2015-09-01,2015-09-30,Q27a,without_children,12
+18 - 24,22,youth,2015-09-01,2015-09-30,Q27a,with_children_and_adults,10
+18 - 24,22,youth,2015-09-01,2015-09-30,Q27a,with_only_children,0
+18 - 24,22,youth,2015-09-01,2015-09-30,Q27a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,youth,2015-09-01,2015-09-30,Q27a,without_children,0
+Client Doesn't Know/Client Refused,0,youth,2015-09-01,2015-09-30,Q27a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,youth,2015-09-01,2015-09-30,Q27a,with_only_children,0
+Client Doesn't Know/Client Refused,0,youth,2015-09-01,2015-09-30,Q27a,unknown_household_type,0
+Data Not Collected,0,youth,2015-09-01,2015-09-30,Q27a,without_children,0
+Data Not Collected,0,youth,2015-09-01,2015-09-30,Q27a,with_children_and_adults,0
+Data Not Collected,0,youth,2015-09-01,2015-09-30,Q27a,with_only_children,0
+Data Not Collected,0,youth,2015-09-01,2015-09-30,Q27a,unknown_household_type,0

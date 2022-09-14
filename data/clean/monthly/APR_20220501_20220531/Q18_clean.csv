@@ -1,0 +1,34 @@
+number_of_adults_by_income_category,population,start_date,end_date,question,status,count
+"Adults with Only Earned Income (ie.e, Employment Income)",all_persons,2022-05-01,2022-05-31,Q18,number_of_adults_at_start,215
+"Adults with Only Earned Income (ie.e, Employment Income)",all_persons,2022-05-01,2022-05-31,Q18,number_of_adults_at_annual_assessment_stayers,6
+"Adults with Only Earned Income (ie.e, Employment Income)",all_persons,2022-05-01,2022-05-31,Q18,number_of_adults_at_exit_leavers,38
+Adults with Only Other Income,all_persons,2022-05-01,2022-05-31,Q18,number_of_adults_at_start,258
+Adults with Only Other Income,all_persons,2022-05-01,2022-05-31,Q18,number_of_adults_at_annual_assessment_stayers,35
+Adults with Only Other Income,all_persons,2022-05-01,2022-05-31,Q18,number_of_adults_at_exit_leavers,31
+Adults with Both Earned and Other Income,all_persons,2022-05-01,2022-05-31,Q18,number_of_adults_at_start,36
+Adults with Both Earned and Other Income,all_persons,2022-05-01,2022-05-31,Q18,number_of_adults_at_annual_assessment_stayers,3
+Adults with Both Earned and Other Income,all_persons,2022-05-01,2022-05-31,Q18,number_of_adults_at_exit_leavers,6
+Adults with No Income,all_persons,2022-05-01,2022-05-31,Q18,number_of_adults_at_start,839
+Adults with No Income,all_persons,2022-05-01,2022-05-31,Q18,number_of_adults_at_annual_assessment_stayers,10
+Adults with No Income,all_persons,2022-05-01,2022-05-31,Q18,number_of_adults_at_exit_leavers,115
+Adults with Client Doesn't Know/Client Refused Income Information,all_persons,2022-05-01,2022-05-31,Q18,number_of_adults_at_start,3
+Adults with Client Doesn't Know/Client Refused Income Information,all_persons,2022-05-01,2022-05-31,Q18,number_of_adults_at_annual_assessment_stayers,0
+Adults with Client Doesn't Know/Client Refused Income Information,all_persons,2022-05-01,2022-05-31,Q18,number_of_adults_at_exit_leavers,0
+Adults with Missing Income Information,all_persons,2022-05-01,2022-05-31,Q18,number_of_adults_at_start,77
+Adults with Missing Income Information,all_persons,2022-05-01,2022-05-31,Q18,number_of_adults_at_annual_assessment_stayers,0
+Adults with Missing Income Information,all_persons,2022-05-01,2022-05-31,Q18,number_of_adults_at_exit_leavers,19
+Number of Adult Stayers not yet Required to Have an Annual Assessment,all_persons,2022-05-01,2022-05-31,Q18,number_of_adults_at_start,0
+Number of Adult Stayers not yet Required to Have an Annual Assessment,all_persons,2022-05-01,2022-05-31,Q18,number_of_adults_at_annual_assessment_stayers,749
+Number of Adult Stayers not yet Required to Have an Annual Assessment,all_persons,2022-05-01,2022-05-31,Q18,number_of_adults_at_exit_leavers,0
+Number of Adult Stayers without Required Annual Assessment,all_persons,2022-05-01,2022-05-31,Q18,number_of_adults_at_start,0
+Number of Adult Stayers without Required Annual Assessment,all_persons,2022-05-01,2022-05-31,Q18,number_of_adults_at_annual_assessment_stayers,421
+Number of Adult Stayers without Required Annual Assessment,all_persons,2022-05-01,2022-05-31,Q18,number_of_adults_at_exit_leavers,0
+Total Adults,all_persons,2022-05-01,2022-05-31,Q18,number_of_adults_at_start,1433
+Total Adults,all_persons,2022-05-01,2022-05-31,Q18,number_of_adults_at_annual_assessment_stayers,1224
+Total Adults,all_persons,2022-05-01,2022-05-31,Q18,number_of_adults_at_exit_leavers,209
+1 or More Source of Income,all_persons,2022-05-01,2022-05-31,Q18,number_of_adults_at_start,572
+1 or More Source of Income,all_persons,2022-05-01,2022-05-31,Q18,number_of_adults_at_annual_assessment_stayers,45
+1 or More Source of Income,all_persons,2022-05-01,2022-05-31,Q18,number_of_adults_at_exit_leavers,84
+Adults with Income Information at Start and Annual Assessment/Exit,all_persons,2022-05-01,2022-05-31,Q18,number_of_adults_at_start,0
+Adults with Income Information at Start and Annual Assessment/Exit,all_persons,2022-05-01,2022-05-31,Q18,number_of_adults_at_annual_assessment_stayers,54
+Adults with Income Information at Start and Annual Assessment/Exit,all_persons,2022-05-01,2022-05-31,Q18,number_of_adults_at_exit_leavers,0

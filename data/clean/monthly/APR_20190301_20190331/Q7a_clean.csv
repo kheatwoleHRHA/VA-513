@@ -1,0 +1,21 @@
+persons_served,total,population,start_date,end_date,question,household_type,count
+Adults,707,all_persons,2019-03-01,2019-03-31,Q7a,without_children,571
+Adults,707,all_persons,2019-03-01,2019-03-31,Q7a,with_children_and_adults,134
+Adults,707,all_persons,2019-03-01,2019-03-31,Q7a,with_only_children,0
+Adults,707,all_persons,2019-03-01,2019-03-31,Q7a,unknown_household_type,2
+Children,197,all_persons,2019-03-01,2019-03-31,Q7a,without_children,0
+Children,197,all_persons,2019-03-01,2019-03-31,Q7a,with_children_and_adults,186
+Children,197,all_persons,2019-03-01,2019-03-31,Q7a,with_only_children,11
+Children,197,all_persons,2019-03-01,2019-03-31,Q7a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,all_persons,2019-03-01,2019-03-31,Q7a,without_children,0
+Client Doesn't Know/Client Refused,0,all_persons,2019-03-01,2019-03-31,Q7a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,all_persons,2019-03-01,2019-03-31,Q7a,with_only_children,0
+Client Doesn't Know/Client Refused,0,all_persons,2019-03-01,2019-03-31,Q7a,unknown_household_type,0
+Data Not Collected,6,all_persons,2019-03-01,2019-03-31,Q7a,without_children,0
+Data Not Collected,6,all_persons,2019-03-01,2019-03-31,Q7a,with_children_and_adults,0
+Data Not Collected,6,all_persons,2019-03-01,2019-03-31,Q7a,with_only_children,0
+Data Not Collected,6,all_persons,2019-03-01,2019-03-31,Q7a,unknown_household_type,6
+For PSH and RRH - the total persons served who moved into housing,175,all_persons,2019-03-01,2019-03-31,Q7a,without_children,88
+For PSH and RRH - the total persons served who moved into housing,175,all_persons,2019-03-01,2019-03-31,Q7a,with_children_and_adults,87
+For PSH and RRH - the total persons served who moved into housing,175,all_persons,2019-03-01,2019-03-31,Q7a,with_only_children,0
+For PSH and RRH - the total persons served who moved into housing,175,all_persons,2019-03-01,2019-03-31,Q7a,unknown_household_type,0

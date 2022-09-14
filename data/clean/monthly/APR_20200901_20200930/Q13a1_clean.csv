@@ -1,0 +1,25 @@
+conditions,total,adults_in_hh_with_children_and_adults,children_in_hh_with_children_and_adults,population,start_date,end_date,question,household_type,count
+Mental Health Disorder,216,19,1,all_persons,2020-09-01,2020-09-30,Q13a1,without_children,196
+Mental Health Disorder,216,19,1,all_persons,2020-09-01,2020-09-30,Q13a1,with_only_children,0
+Mental Health Disorder,216,19,1,all_persons,2020-09-01,2020-09-30,Q13a1,unknown_household_type,0
+Alcohol Use Disorder,45,1,0,all_persons,2020-09-01,2020-09-30,Q13a1,without_children,44
+Alcohol Use Disorder,45,1,0,all_persons,2020-09-01,2020-09-30,Q13a1,with_only_children,0
+Alcohol Use Disorder,45,1,0,all_persons,2020-09-01,2020-09-30,Q13a1,unknown_household_type,0
+Drug Use Disorder,35,4,0,all_persons,2020-09-01,2020-09-30,Q13a1,without_children,31
+Drug Use Disorder,35,4,0,all_persons,2020-09-01,2020-09-30,Q13a1,with_only_children,0
+Drug Use Disorder,35,4,0,all_persons,2020-09-01,2020-09-30,Q13a1,unknown_household_type,0
+Both Alcohol and Drug Use Disorders,42,0,0,all_persons,2020-09-01,2020-09-30,Q13a1,without_children,42
+Both Alcohol and Drug Use Disorders,42,0,0,all_persons,2020-09-01,2020-09-30,Q13a1,with_only_children,0
+Both Alcohol and Drug Use Disorders,42,0,0,all_persons,2020-09-01,2020-09-30,Q13a1,unknown_household_type,0
+Chronic Health Condition,115,9,1,all_persons,2020-09-01,2020-09-30,Q13a1,without_children,105
+Chronic Health Condition,115,9,1,all_persons,2020-09-01,2020-09-30,Q13a1,with_only_children,0
+Chronic Health Condition,115,9,1,all_persons,2020-09-01,2020-09-30,Q13a1,unknown_household_type,0
+HIV/AIDS,100,8,0,all_persons,2020-09-01,2020-09-30,Q13a1,without_children,92
+HIV/AIDS,100,8,0,all_persons,2020-09-01,2020-09-30,Q13a1,with_only_children,0
+HIV/AIDS,100,8,0,all_persons,2020-09-01,2020-09-30,Q13a1,unknown_household_type,0
+Development Disability,54,5,12,all_persons,2020-09-01,2020-09-30,Q13a1,without_children,36
+Development Disability,54,5,12,all_persons,2020-09-01,2020-09-30,Q13a1,with_only_children,0
+Development Disability,54,5,12,all_persons,2020-09-01,2020-09-30,Q13a1,unknown_household_type,1
+Physical Disability,119,7,2,all_persons,2020-09-01,2020-09-30,Q13a1,without_children,110
+Physical Disability,119,7,2,all_persons,2020-09-01,2020-09-30,Q13a1,with_only_children,0
+Physical Disability,119,7,2,all_persons,2020-09-01,2020-09-30,Q13a1,unknown_household_type,0

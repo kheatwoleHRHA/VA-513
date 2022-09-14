@@ -1,0 +1,25 @@
+conditions,total,adults_in_hh_with_children_and_adults,children_in_hh_with_children_and_adults,population,start_date,end_date,question,household_type,count
+Mental Health Disorder,117,18,3,all_persons,2016-12-01,2016-12-31,Q13c1,without_children,96
+Mental Health Disorder,117,18,3,all_persons,2016-12-01,2016-12-31,Q13c1,with_only_children,0
+Mental Health Disorder,117,18,3,all_persons,2016-12-01,2016-12-31,Q13c1,unknown_household_type,0
+Alcohol Use Disorder,19,1,0,all_persons,2016-12-01,2016-12-31,Q13c1,without_children,18
+Alcohol Use Disorder,19,1,0,all_persons,2016-12-01,2016-12-31,Q13c1,with_only_children,0
+Alcohol Use Disorder,19,1,0,all_persons,2016-12-01,2016-12-31,Q13c1,unknown_household_type,0
+Drug Use Disorder,14,6,0,all_persons,2016-12-01,2016-12-31,Q13c1,without_children,8
+Drug Use Disorder,14,6,0,all_persons,2016-12-01,2016-12-31,Q13c1,with_only_children,0
+Drug Use Disorder,14,6,0,all_persons,2016-12-01,2016-12-31,Q13c1,unknown_household_type,0
+Both Alcohol and Drug Use Disorders,17,1,0,all_persons,2016-12-01,2016-12-31,Q13c1,without_children,16
+Both Alcohol and Drug Use Disorders,17,1,0,all_persons,2016-12-01,2016-12-31,Q13c1,with_only_children,0
+Both Alcohol and Drug Use Disorders,17,1,0,all_persons,2016-12-01,2016-12-31,Q13c1,unknown_household_type,0
+Chronic Health Condition,57,6,2,all_persons,2016-12-01,2016-12-31,Q13c1,without_children,49
+Chronic Health Condition,57,6,2,all_persons,2016-12-01,2016-12-31,Q13c1,with_only_children,0
+Chronic Health Condition,57,6,2,all_persons,2016-12-01,2016-12-31,Q13c1,unknown_household_type,0
+HIV/AIDS,91,1,0,all_persons,2016-12-01,2016-12-31,Q13c1,without_children,90
+HIV/AIDS,91,1,0,all_persons,2016-12-01,2016-12-31,Q13c1,with_only_children,0
+HIV/AIDS,91,1,0,all_persons,2016-12-01,2016-12-31,Q13c1,unknown_household_type,0
+Development Disability,21,4,6,all_persons,2016-12-01,2016-12-31,Q13c1,without_children,11
+Development Disability,21,4,6,all_persons,2016-12-01,2016-12-31,Q13c1,with_only_children,0
+Development Disability,21,4,6,all_persons,2016-12-01,2016-12-31,Q13c1,unknown_household_type,0
+Physical Disability,68,10,5,all_persons,2016-12-01,2016-12-31,Q13c1,without_children,53
+Physical Disability,68,10,5,all_persons,2016-12-01,2016-12-31,Q13c1,with_only_children,0
+Physical Disability,68,10,5,all_persons,2016-12-01,2016-12-31,Q13c1,unknown_household_type,0

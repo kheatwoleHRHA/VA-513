@@ -1,0 +1,5 @@
+summary,population,start_date,end_date,question,status,count
+Average Length,all_persons,2020-11-01,2020-11-30,Q22b,leavers,19
+Average Length,all_persons,2020-11-01,2020-11-30,Q22b,stayers,497
+Median Length,all_persons,2020-11-01,2020-11-30,Q22b,leavers,0
+Median Length,all_persons,2020-11-01,2020-11-30,Q22b,stayers,300

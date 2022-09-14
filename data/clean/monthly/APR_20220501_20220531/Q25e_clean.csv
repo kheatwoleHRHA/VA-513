@@ -1,0 +1,25 @@
+conditions,population,start_date,end_date,question,status,count
+Mental Health Disorder,veterans,2022-05-01,2022-05-31,Q25e,conditions_at_start,15
+Mental Health Disorder,veterans,2022-05-01,2022-05-31,Q25e,conditions_at_latest_assessment_for_stayers,13
+Mental Health Disorder,veterans,2022-05-01,2022-05-31,Q25e,conditions_at_exit_for_leavers,2
+Alcohol Use Disorder,veterans,2022-05-01,2022-05-31,Q25e,conditions_at_start,11
+Alcohol Use Disorder,veterans,2022-05-01,2022-05-31,Q25e,conditions_at_latest_assessment_for_stayers,10
+Alcohol Use Disorder,veterans,2022-05-01,2022-05-31,Q25e,conditions_at_exit_for_leavers,1
+Drug Use Disorder,veterans,2022-05-01,2022-05-31,Q25e,conditions_at_start,0
+Drug Use Disorder,veterans,2022-05-01,2022-05-31,Q25e,conditions_at_latest_assessment_for_stayers,0
+Drug Use Disorder,veterans,2022-05-01,2022-05-31,Q25e,conditions_at_exit_for_leavers,0
+Both Alcohol and Drug Use Disorders,veterans,2022-05-01,2022-05-31,Q25e,conditions_at_start,6
+Both Alcohol and Drug Use Disorders,veterans,2022-05-01,2022-05-31,Q25e,conditions_at_latest_assessment_for_stayers,6
+Both Alcohol and Drug Use Disorders,veterans,2022-05-01,2022-05-31,Q25e,conditions_at_exit_for_leavers,0
+Chronic Health Condition,veterans,2022-05-01,2022-05-31,Q25e,conditions_at_start,18
+Chronic Health Condition,veterans,2022-05-01,2022-05-31,Q25e,conditions_at_latest_assessment_for_stayers,17
+Chronic Health Condition,veterans,2022-05-01,2022-05-31,Q25e,conditions_at_exit_for_leavers,1
+HIV/AIDS,veterans,2022-05-01,2022-05-31,Q25e,conditions_at_start,2
+HIV/AIDS,veterans,2022-05-01,2022-05-31,Q25e,conditions_at_latest_assessment_for_stayers,2
+HIV/AIDS,veterans,2022-05-01,2022-05-31,Q25e,conditions_at_exit_for_leavers,0
+Development Disability,veterans,2022-05-01,2022-05-31,Q25e,conditions_at_start,2
+Development Disability,veterans,2022-05-01,2022-05-31,Q25e,conditions_at_latest_assessment_for_stayers,2
+Development Disability,veterans,2022-05-01,2022-05-31,Q25e,conditions_at_exit_for_leavers,1
+Physical Disability,veterans,2022-05-01,2022-05-31,Q25e,conditions_at_start,20
+Physical Disability,veterans,2022-05-01,2022-05-31,Q25e,conditions_at_latest_assessment_for_stayers,20
+Physical Disability,veterans,2022-05-01,2022-05-31,Q25e,conditions_at_exit_for_leavers,0

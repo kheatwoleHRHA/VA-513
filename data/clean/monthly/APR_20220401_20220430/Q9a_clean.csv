@@ -1,0 +1,6 @@
+number_of_persons_contacted,all_persons_contacted,first_contact_not_staying_on_the_streets_es_or_sh,first_contact_was_staying_on_the_streets_es_or_sh,first_contact_worker_unable_to_determine,population,start_date,end_date,question
+Once,67,0,13,0,CE,2022-04-01,2022-04-30,Q9a
+2-5 Times,39,0,8,0,CE,2022-04-01,2022-04-30,Q9a
+6-9 Times,3,0,2,0,CE,2022-04-01,2022-04-30,Q9a
+10+ Times,1,0,0,0,CE,2022-04-01,2022-04-30,Q9a
+Total Persons Contacted,110,0,23,0,CE,2022-04-01,2022-04-30,Q9a

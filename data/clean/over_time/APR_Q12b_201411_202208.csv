@@ -1,0 +1,1505 @@
+ethnicity,total,population,start_date,end_date,question,household_type,count
+Non-Hispanic/Non-Latin(a)(o)(x),511,all_persons,2014-11-01,2014-11-30,Q12b,without_children,285
+Non-Hispanic/Non-Latin(a)(o)(x),511,all_persons,2014-11-01,2014-11-30,Q12b,with_children_and_adults,226
+Non-Hispanic/Non-Latin(a)(o)(x),511,all_persons,2014-11-01,2014-11-30,Q12b,with_only_children,0
+Non-Hispanic/Non-Latin(a)(o)(x),511,all_persons,2014-11-01,2014-11-30,Q12b,unknown_household_type,0
+Hispanic/Latin(a)(o)(x),40,all_persons,2014-11-01,2014-11-30,Q12b,without_children,21
+Hispanic/Latin(a)(o)(x),40,all_persons,2014-11-01,2014-11-30,Q12b,with_children_and_adults,19
+Hispanic/Latin(a)(o)(x),40,all_persons,2014-11-01,2014-11-30,Q12b,with_only_children,0
+Hispanic/Latin(a)(o)(x),40,all_persons,2014-11-01,2014-11-30,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_persons,2014-11-01,2014-11-30,Q12b,without_children,1
+Client Doesn't Know/Client Refused,1,all_persons,2014-11-01,2014-11-30,Q12b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_persons,2014-11-01,2014-11-30,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2014-11-01,2014-11-30,Q12b,unknown_household_type,0
+Data Not Collected,0,all_persons,2014-11-01,2014-11-30,Q12b,without_children,0
+Data Not Collected,0,all_persons,2014-11-01,2014-11-30,Q12b,with_children_and_adults,0
+Data Not Collected,0,all_persons,2014-11-01,2014-11-30,Q12b,with_only_children,0
+Data Not Collected,0,all_persons,2014-11-01,2014-11-30,Q12b,unknown_household_type,0
+Non-Hispanic/Non-Latin(a)(o)(x),538,all_persons,2014-12-01,2014-12-31,Q12b,without_children,286
+Non-Hispanic/Non-Latin(a)(o)(x),538,all_persons,2014-12-01,2014-12-31,Q12b,with_children_and_adults,249
+Non-Hispanic/Non-Latin(a)(o)(x),538,all_persons,2014-12-01,2014-12-31,Q12b,with_only_children,3
+Non-Hispanic/Non-Latin(a)(o)(x),538,all_persons,2014-12-01,2014-12-31,Q12b,unknown_household_type,0
+Hispanic/Latin(a)(o)(x),35,all_persons,2014-12-01,2014-12-31,Q12b,without_children,19
+Hispanic/Latin(a)(o)(x),35,all_persons,2014-12-01,2014-12-31,Q12b,with_children_and_adults,16
+Hispanic/Latin(a)(o)(x),35,all_persons,2014-12-01,2014-12-31,Q12b,with_only_children,0
+Hispanic/Latin(a)(o)(x),35,all_persons,2014-12-01,2014-12-31,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,all_persons,2014-12-01,2014-12-31,Q12b,without_children,0
+Client Doesn't Know/Client Refused,0,all_persons,2014-12-01,2014-12-31,Q12b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,all_persons,2014-12-01,2014-12-31,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,0,all_persons,2014-12-01,2014-12-31,Q12b,unknown_household_type,0
+Data Not Collected,0,all_persons,2014-12-01,2014-12-31,Q12b,without_children,0
+Data Not Collected,0,all_persons,2014-12-01,2014-12-31,Q12b,with_children_and_adults,0
+Data Not Collected,0,all_persons,2014-12-01,2014-12-31,Q12b,with_only_children,0
+Data Not Collected,0,all_persons,2014-12-01,2014-12-31,Q12b,unknown_household_type,0
+Non-Hispanic/Non-Latin(a)(o)(x),546,all_persons,2015-01-01,2015-01-31,Q12b,without_children,295
+Non-Hispanic/Non-Latin(a)(o)(x),546,all_persons,2015-01-01,2015-01-31,Q12b,with_children_and_adults,249
+Non-Hispanic/Non-Latin(a)(o)(x),546,all_persons,2015-01-01,2015-01-31,Q12b,with_only_children,2
+Non-Hispanic/Non-Latin(a)(o)(x),546,all_persons,2015-01-01,2015-01-31,Q12b,unknown_household_type,0
+Hispanic/Latin(a)(o)(x),50,all_persons,2015-01-01,2015-01-31,Q12b,without_children,26
+Hispanic/Latin(a)(o)(x),50,all_persons,2015-01-01,2015-01-31,Q12b,with_children_and_adults,24
+Hispanic/Latin(a)(o)(x),50,all_persons,2015-01-01,2015-01-31,Q12b,with_only_children,0
+Hispanic/Latin(a)(o)(x),50,all_persons,2015-01-01,2015-01-31,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,all_persons,2015-01-01,2015-01-31,Q12b,without_children,0
+Client Doesn't Know/Client Refused,0,all_persons,2015-01-01,2015-01-31,Q12b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,all_persons,2015-01-01,2015-01-31,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,0,all_persons,2015-01-01,2015-01-31,Q12b,unknown_household_type,0
+Data Not Collected,0,all_persons,2015-01-01,2015-01-31,Q12b,without_children,0
+Data Not Collected,0,all_persons,2015-01-01,2015-01-31,Q12b,with_children_and_adults,0
+Data Not Collected,0,all_persons,2015-01-01,2015-01-31,Q12b,with_only_children,0
+Data Not Collected,0,all_persons,2015-01-01,2015-01-31,Q12b,unknown_household_type,0
+Non-Hispanic/Non-Latin(a)(o)(x),555,all_persons,2015-02-01,2015-02-28,Q12b,without_children,310
+Non-Hispanic/Non-Latin(a)(o)(x),555,all_persons,2015-02-01,2015-02-28,Q12b,with_children_and_adults,242
+Non-Hispanic/Non-Latin(a)(o)(x),555,all_persons,2015-02-01,2015-02-28,Q12b,with_only_children,2
+Non-Hispanic/Non-Latin(a)(o)(x),555,all_persons,2015-02-01,2015-02-28,Q12b,unknown_household_type,1
+Hispanic/Latin(a)(o)(x),43,all_persons,2015-02-01,2015-02-28,Q12b,without_children,24
+Hispanic/Latin(a)(o)(x),43,all_persons,2015-02-01,2015-02-28,Q12b,with_children_and_adults,19
+Hispanic/Latin(a)(o)(x),43,all_persons,2015-02-01,2015-02-28,Q12b,with_only_children,0
+Hispanic/Latin(a)(o)(x),43,all_persons,2015-02-01,2015-02-28,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,all_persons,2015-02-01,2015-02-28,Q12b,without_children,0
+Client Doesn't Know/Client Refused,0,all_persons,2015-02-01,2015-02-28,Q12b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,all_persons,2015-02-01,2015-02-28,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,0,all_persons,2015-02-01,2015-02-28,Q12b,unknown_household_type,0
+Data Not Collected,1,all_persons,2015-02-01,2015-02-28,Q12b,without_children,0
+Data Not Collected,1,all_persons,2015-02-01,2015-02-28,Q12b,with_children_and_adults,0
+Data Not Collected,1,all_persons,2015-02-01,2015-02-28,Q12b,with_only_children,0
+Data Not Collected,1,all_persons,2015-02-01,2015-02-28,Q12b,unknown_household_type,1
+Non-Hispanic/Non-Latin(a)(o)(x),527,all_persons,2015-03-01,2015-03-31,Q12b,without_children,313
+Non-Hispanic/Non-Latin(a)(o)(x),527,all_persons,2015-03-01,2015-03-31,Q12b,with_children_and_adults,211
+Non-Hispanic/Non-Latin(a)(o)(x),527,all_persons,2015-03-01,2015-03-31,Q12b,with_only_children,2
+Non-Hispanic/Non-Latin(a)(o)(x),527,all_persons,2015-03-01,2015-03-31,Q12b,unknown_household_type,1
+Hispanic/Latin(a)(o)(x),43,all_persons,2015-03-01,2015-03-31,Q12b,without_children,27
+Hispanic/Latin(a)(o)(x),43,all_persons,2015-03-01,2015-03-31,Q12b,with_children_and_adults,16
+Hispanic/Latin(a)(o)(x),43,all_persons,2015-03-01,2015-03-31,Q12b,with_only_children,0
+Hispanic/Latin(a)(o)(x),43,all_persons,2015-03-01,2015-03-31,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_persons,2015-03-01,2015-03-31,Q12b,without_children,1
+Client Doesn't Know/Client Refused,1,all_persons,2015-03-01,2015-03-31,Q12b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_persons,2015-03-01,2015-03-31,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2015-03-01,2015-03-31,Q12b,unknown_household_type,0
+Data Not Collected,1,all_persons,2015-03-01,2015-03-31,Q12b,without_children,0
+Data Not Collected,1,all_persons,2015-03-01,2015-03-31,Q12b,with_children_and_adults,0
+Data Not Collected,1,all_persons,2015-03-01,2015-03-31,Q12b,with_only_children,0
+Data Not Collected,1,all_persons,2015-03-01,2015-03-31,Q12b,unknown_household_type,1
+Non-Hispanic/Non-Latin(a)(o)(x),466,all_persons,2015-04-01,2015-04-30,Q12b,without_children,313
+Non-Hispanic/Non-Latin(a)(o)(x),466,all_persons,2015-04-01,2015-04-30,Q12b,with_children_and_adults,150
+Non-Hispanic/Non-Latin(a)(o)(x),466,all_persons,2015-04-01,2015-04-30,Q12b,with_only_children,2
+Non-Hispanic/Non-Latin(a)(o)(x),466,all_persons,2015-04-01,2015-04-30,Q12b,unknown_household_type,1
+Hispanic/Latin(a)(o)(x),47,all_persons,2015-04-01,2015-04-30,Q12b,without_children,23
+Hispanic/Latin(a)(o)(x),47,all_persons,2015-04-01,2015-04-30,Q12b,with_children_and_adults,24
+Hispanic/Latin(a)(o)(x),47,all_persons,2015-04-01,2015-04-30,Q12b,with_only_children,0
+Hispanic/Latin(a)(o)(x),47,all_persons,2015-04-01,2015-04-30,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_persons,2015-04-01,2015-04-30,Q12b,without_children,1
+Client Doesn't Know/Client Refused,1,all_persons,2015-04-01,2015-04-30,Q12b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_persons,2015-04-01,2015-04-30,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2015-04-01,2015-04-30,Q12b,unknown_household_type,0
+Data Not Collected,2,all_persons,2015-04-01,2015-04-30,Q12b,without_children,1
+Data Not Collected,2,all_persons,2015-04-01,2015-04-30,Q12b,with_children_and_adults,0
+Data Not Collected,2,all_persons,2015-04-01,2015-04-30,Q12b,with_only_children,0
+Data Not Collected,2,all_persons,2015-04-01,2015-04-30,Q12b,unknown_household_type,1
+Non-Hispanic/Non-Latin(a)(o)(x),412,all_persons,2015-05-01,2015-05-31,Q12b,without_children,242
+Non-Hispanic/Non-Latin(a)(o)(x),412,all_persons,2015-05-01,2015-05-31,Q12b,with_children_and_adults,167
+Non-Hispanic/Non-Latin(a)(o)(x),412,all_persons,2015-05-01,2015-05-31,Q12b,with_only_children,2
+Non-Hispanic/Non-Latin(a)(o)(x),412,all_persons,2015-05-01,2015-05-31,Q12b,unknown_household_type,1
+Hispanic/Latin(a)(o)(x),43,all_persons,2015-05-01,2015-05-31,Q12b,without_children,24
+Hispanic/Latin(a)(o)(x),43,all_persons,2015-05-01,2015-05-31,Q12b,with_children_and_adults,19
+Hispanic/Latin(a)(o)(x),43,all_persons,2015-05-01,2015-05-31,Q12b,with_only_children,0
+Hispanic/Latin(a)(o)(x),43,all_persons,2015-05-01,2015-05-31,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,2,all_persons,2015-05-01,2015-05-31,Q12b,without_children,2
+Client Doesn't Know/Client Refused,2,all_persons,2015-05-01,2015-05-31,Q12b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,2,all_persons,2015-05-01,2015-05-31,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,2,all_persons,2015-05-01,2015-05-31,Q12b,unknown_household_type,0
+Data Not Collected,2,all_persons,2015-05-01,2015-05-31,Q12b,without_children,1
+Data Not Collected,2,all_persons,2015-05-01,2015-05-31,Q12b,with_children_and_adults,0
+Data Not Collected,2,all_persons,2015-05-01,2015-05-31,Q12b,with_only_children,0
+Data Not Collected,2,all_persons,2015-05-01,2015-05-31,Q12b,unknown_household_type,1
+Non-Hispanic/Non-Latin(a)(o)(x),489,all_persons,2015-06-01,2015-06-30,Q12b,without_children,249
+Non-Hispanic/Non-Latin(a)(o)(x),489,all_persons,2015-06-01,2015-06-30,Q12b,with_children_and_adults,237
+Non-Hispanic/Non-Latin(a)(o)(x),489,all_persons,2015-06-01,2015-06-30,Q12b,with_only_children,2
+Non-Hispanic/Non-Latin(a)(o)(x),489,all_persons,2015-06-01,2015-06-30,Q12b,unknown_household_type,1
+Hispanic/Latin(a)(o)(x),43,all_persons,2015-06-01,2015-06-30,Q12b,without_children,23
+Hispanic/Latin(a)(o)(x),43,all_persons,2015-06-01,2015-06-30,Q12b,with_children_and_adults,20
+Hispanic/Latin(a)(o)(x),43,all_persons,2015-06-01,2015-06-30,Q12b,with_only_children,0
+Hispanic/Latin(a)(o)(x),43,all_persons,2015-06-01,2015-06-30,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,2,all_persons,2015-06-01,2015-06-30,Q12b,without_children,2
+Client Doesn't Know/Client Refused,2,all_persons,2015-06-01,2015-06-30,Q12b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,2,all_persons,2015-06-01,2015-06-30,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,2,all_persons,2015-06-01,2015-06-30,Q12b,unknown_household_type,0
+Data Not Collected,1,all_persons,2015-06-01,2015-06-30,Q12b,without_children,0
+Data Not Collected,1,all_persons,2015-06-01,2015-06-30,Q12b,with_children_and_adults,0
+Data Not Collected,1,all_persons,2015-06-01,2015-06-30,Q12b,with_only_children,0
+Data Not Collected,1,all_persons,2015-06-01,2015-06-30,Q12b,unknown_household_type,1
+Non-Hispanic/Non-Latin(a)(o)(x),503,all_persons,2015-07-01,2015-07-31,Q12b,without_children,248
+Non-Hispanic/Non-Latin(a)(o)(x),503,all_persons,2015-07-01,2015-07-31,Q12b,with_children_and_adults,252
+Non-Hispanic/Non-Latin(a)(o)(x),503,all_persons,2015-07-01,2015-07-31,Q12b,with_only_children,2
+Non-Hispanic/Non-Latin(a)(o)(x),503,all_persons,2015-07-01,2015-07-31,Q12b,unknown_household_type,1
+Hispanic/Latin(a)(o)(x),43,all_persons,2015-07-01,2015-07-31,Q12b,without_children,21
+Hispanic/Latin(a)(o)(x),43,all_persons,2015-07-01,2015-07-31,Q12b,with_children_and_adults,22
+Hispanic/Latin(a)(o)(x),43,all_persons,2015-07-01,2015-07-31,Q12b,with_only_children,0
+Hispanic/Latin(a)(o)(x),43,all_persons,2015-07-01,2015-07-31,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,all_persons,2015-07-01,2015-07-31,Q12b,without_children,0
+Client Doesn't Know/Client Refused,0,all_persons,2015-07-01,2015-07-31,Q12b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,all_persons,2015-07-01,2015-07-31,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,0,all_persons,2015-07-01,2015-07-31,Q12b,unknown_household_type,0
+Data Not Collected,1,all_persons,2015-07-01,2015-07-31,Q12b,without_children,0
+Data Not Collected,1,all_persons,2015-07-01,2015-07-31,Q12b,with_children_and_adults,0
+Data Not Collected,1,all_persons,2015-07-01,2015-07-31,Q12b,with_only_children,0
+Data Not Collected,1,all_persons,2015-07-01,2015-07-31,Q12b,unknown_household_type,1
+Non-Hispanic/Non-Latin(a)(o)(x),466,all_persons,2015-08-01,2015-08-31,Q12b,without_children,232
+Non-Hispanic/Non-Latin(a)(o)(x),466,all_persons,2015-08-01,2015-08-31,Q12b,with_children_and_adults,231
+Non-Hispanic/Non-Latin(a)(o)(x),466,all_persons,2015-08-01,2015-08-31,Q12b,with_only_children,2
+Non-Hispanic/Non-Latin(a)(o)(x),466,all_persons,2015-08-01,2015-08-31,Q12b,unknown_household_type,1
+Hispanic/Latin(a)(o)(x),40,all_persons,2015-08-01,2015-08-31,Q12b,without_children,20
+Hispanic/Latin(a)(o)(x),40,all_persons,2015-08-01,2015-08-31,Q12b,with_children_and_adults,20
+Hispanic/Latin(a)(o)(x),40,all_persons,2015-08-01,2015-08-31,Q12b,with_only_children,0
+Hispanic/Latin(a)(o)(x),40,all_persons,2015-08-01,2015-08-31,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,all_persons,2015-08-01,2015-08-31,Q12b,without_children,0
+Client Doesn't Know/Client Refused,0,all_persons,2015-08-01,2015-08-31,Q12b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,all_persons,2015-08-01,2015-08-31,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,0,all_persons,2015-08-01,2015-08-31,Q12b,unknown_household_type,0
+Data Not Collected,1,all_persons,2015-08-01,2015-08-31,Q12b,without_children,0
+Data Not Collected,1,all_persons,2015-08-01,2015-08-31,Q12b,with_children_and_adults,0
+Data Not Collected,1,all_persons,2015-08-01,2015-08-31,Q12b,with_only_children,0
+Data Not Collected,1,all_persons,2015-08-01,2015-08-31,Q12b,unknown_household_type,1
+Non-Hispanic/Non-Latin(a)(o)(x),559,all_persons,2015-09-01,2015-09-30,Q12b,without_children,233
+Non-Hispanic/Non-Latin(a)(o)(x),559,all_persons,2015-09-01,2015-09-30,Q12b,with_children_and_adults,322
+Non-Hispanic/Non-Latin(a)(o)(x),559,all_persons,2015-09-01,2015-09-30,Q12b,with_only_children,3
+Non-Hispanic/Non-Latin(a)(o)(x),559,all_persons,2015-09-01,2015-09-30,Q12b,unknown_household_type,1
+Hispanic/Latin(a)(o)(x),48,all_persons,2015-09-01,2015-09-30,Q12b,without_children,22
+Hispanic/Latin(a)(o)(x),48,all_persons,2015-09-01,2015-09-30,Q12b,with_children_and_adults,25
+Hispanic/Latin(a)(o)(x),48,all_persons,2015-09-01,2015-09-30,Q12b,with_only_children,1
+Hispanic/Latin(a)(o)(x),48,all_persons,2015-09-01,2015-09-30,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,all_persons,2015-09-01,2015-09-30,Q12b,without_children,0
+Client Doesn't Know/Client Refused,0,all_persons,2015-09-01,2015-09-30,Q12b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,all_persons,2015-09-01,2015-09-30,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,0,all_persons,2015-09-01,2015-09-30,Q12b,unknown_household_type,0
+Data Not Collected,1,all_persons,2015-09-01,2015-09-30,Q12b,without_children,0
+Data Not Collected,1,all_persons,2015-09-01,2015-09-30,Q12b,with_children_and_adults,0
+Data Not Collected,1,all_persons,2015-09-01,2015-09-30,Q12b,with_only_children,0
+Data Not Collected,1,all_persons,2015-09-01,2015-09-30,Q12b,unknown_household_type,1
+Non-Hispanic/Non-Latin(a)(o)(x),571,all_persons,2015-10-01,2015-10-31,Q12b,without_children,242
+Non-Hispanic/Non-Latin(a)(o)(x),571,all_persons,2015-10-01,2015-10-31,Q12b,with_children_and_adults,326
+Non-Hispanic/Non-Latin(a)(o)(x),571,all_persons,2015-10-01,2015-10-31,Q12b,with_only_children,2
+Non-Hispanic/Non-Latin(a)(o)(x),571,all_persons,2015-10-01,2015-10-31,Q12b,unknown_household_type,1
+Hispanic/Latin(a)(o)(x),58,all_persons,2015-10-01,2015-10-31,Q12b,without_children,25
+Hispanic/Latin(a)(o)(x),58,all_persons,2015-10-01,2015-10-31,Q12b,with_children_and_adults,33
+Hispanic/Latin(a)(o)(x),58,all_persons,2015-10-01,2015-10-31,Q12b,with_only_children,0
+Hispanic/Latin(a)(o)(x),58,all_persons,2015-10-01,2015-10-31,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,all_persons,2015-10-01,2015-10-31,Q12b,without_children,0
+Client Doesn't Know/Client Refused,0,all_persons,2015-10-01,2015-10-31,Q12b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,all_persons,2015-10-01,2015-10-31,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,0,all_persons,2015-10-01,2015-10-31,Q12b,unknown_household_type,0
+Data Not Collected,1,all_persons,2015-10-01,2015-10-31,Q12b,without_children,0
+Data Not Collected,1,all_persons,2015-10-01,2015-10-31,Q12b,with_children_and_adults,0
+Data Not Collected,1,all_persons,2015-10-01,2015-10-31,Q12b,with_only_children,0
+Data Not Collected,1,all_persons,2015-10-01,2015-10-31,Q12b,unknown_household_type,1
+Non-Hispanic/Non-Latin(a)(o)(x),576,all_persons,2015-11-01,2015-11-30,Q12b,without_children,285
+Non-Hispanic/Non-Latin(a)(o)(x),576,all_persons,2015-11-01,2015-11-30,Q12b,with_children_and_adults,288
+Non-Hispanic/Non-Latin(a)(o)(x),576,all_persons,2015-11-01,2015-11-30,Q12b,with_only_children,2
+Non-Hispanic/Non-Latin(a)(o)(x),576,all_persons,2015-11-01,2015-11-30,Q12b,unknown_household_type,1
+Hispanic/Latin(a)(o)(x),51,all_persons,2015-11-01,2015-11-30,Q12b,without_children,30
+Hispanic/Latin(a)(o)(x),51,all_persons,2015-11-01,2015-11-30,Q12b,with_children_and_adults,20
+Hispanic/Latin(a)(o)(x),51,all_persons,2015-11-01,2015-11-30,Q12b,with_only_children,1
+Hispanic/Latin(a)(o)(x),51,all_persons,2015-11-01,2015-11-30,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,all_persons,2015-11-01,2015-11-30,Q12b,without_children,0
+Client Doesn't Know/Client Refused,0,all_persons,2015-11-01,2015-11-30,Q12b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,all_persons,2015-11-01,2015-11-30,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,0,all_persons,2015-11-01,2015-11-30,Q12b,unknown_household_type,0
+Data Not Collected,2,all_persons,2015-11-01,2015-11-30,Q12b,without_children,1
+Data Not Collected,2,all_persons,2015-11-01,2015-11-30,Q12b,with_children_and_adults,0
+Data Not Collected,2,all_persons,2015-11-01,2015-11-30,Q12b,with_only_children,0
+Data Not Collected,2,all_persons,2015-11-01,2015-11-30,Q12b,unknown_household_type,1
+Non-Hispanic/Non-Latin(a)(o)(x),557,all_persons,2015-12-01,2015-12-31,Q12b,without_children,288
+Non-Hispanic/Non-Latin(a)(o)(x),557,all_persons,2015-12-01,2015-12-31,Q12b,with_children_and_adults,266
+Non-Hispanic/Non-Latin(a)(o)(x),557,all_persons,2015-12-01,2015-12-31,Q12b,with_only_children,2
+Non-Hispanic/Non-Latin(a)(o)(x),557,all_persons,2015-12-01,2015-12-31,Q12b,unknown_household_type,1
+Hispanic/Latin(a)(o)(x),60,all_persons,2015-12-01,2015-12-31,Q12b,without_children,27
+Hispanic/Latin(a)(o)(x),60,all_persons,2015-12-01,2015-12-31,Q12b,with_children_and_adults,32
+Hispanic/Latin(a)(o)(x),60,all_persons,2015-12-01,2015-12-31,Q12b,with_only_children,1
+Hispanic/Latin(a)(o)(x),60,all_persons,2015-12-01,2015-12-31,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,all_persons,2015-12-01,2015-12-31,Q12b,without_children,0
+Client Doesn't Know/Client Refused,0,all_persons,2015-12-01,2015-12-31,Q12b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,all_persons,2015-12-01,2015-12-31,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,0,all_persons,2015-12-01,2015-12-31,Q12b,unknown_household_type,0
+Data Not Collected,1,all_persons,2015-12-01,2015-12-31,Q12b,without_children,0
+Data Not Collected,1,all_persons,2015-12-01,2015-12-31,Q12b,with_children_and_adults,0
+Data Not Collected,1,all_persons,2015-12-01,2015-12-31,Q12b,with_only_children,0
+Data Not Collected,1,all_persons,2015-12-01,2015-12-31,Q12b,unknown_household_type,1
+Non-Hispanic/Non-Latin(a)(o)(x),536,all_persons,2016-01-01,2016-01-31,Q12b,without_children,296
+Non-Hispanic/Non-Latin(a)(o)(x),536,all_persons,2016-01-01,2016-01-31,Q12b,with_children_and_adults,237
+Non-Hispanic/Non-Latin(a)(o)(x),536,all_persons,2016-01-01,2016-01-31,Q12b,with_only_children,2
+Non-Hispanic/Non-Latin(a)(o)(x),536,all_persons,2016-01-01,2016-01-31,Q12b,unknown_household_type,1
+Hispanic/Latin(a)(o)(x),62,all_persons,2016-01-01,2016-01-31,Q12b,without_children,31
+Hispanic/Latin(a)(o)(x),62,all_persons,2016-01-01,2016-01-31,Q12b,with_children_and_adults,31
+Hispanic/Latin(a)(o)(x),62,all_persons,2016-01-01,2016-01-31,Q12b,with_only_children,0
+Hispanic/Latin(a)(o)(x),62,all_persons,2016-01-01,2016-01-31,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,all_persons,2016-01-01,2016-01-31,Q12b,without_children,0
+Client Doesn't Know/Client Refused,0,all_persons,2016-01-01,2016-01-31,Q12b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,all_persons,2016-01-01,2016-01-31,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,0,all_persons,2016-01-01,2016-01-31,Q12b,unknown_household_type,0
+Data Not Collected,2,all_persons,2016-01-01,2016-01-31,Q12b,without_children,1
+Data Not Collected,2,all_persons,2016-01-01,2016-01-31,Q12b,with_children_and_adults,0
+Data Not Collected,2,all_persons,2016-01-01,2016-01-31,Q12b,with_only_children,0
+Data Not Collected,2,all_persons,2016-01-01,2016-01-31,Q12b,unknown_household_type,1
+Non-Hispanic/Non-Latin(a)(o)(x),510,all_persons,2016-02-01,2016-02-29,Q12b,without_children,304
+Non-Hispanic/Non-Latin(a)(o)(x),510,all_persons,2016-02-01,2016-02-29,Q12b,with_children_and_adults,202
+Non-Hispanic/Non-Latin(a)(o)(x),510,all_persons,2016-02-01,2016-02-29,Q12b,with_only_children,3
+Non-Hispanic/Non-Latin(a)(o)(x),510,all_persons,2016-02-01,2016-02-29,Q12b,unknown_household_type,1
+Hispanic/Latin(a)(o)(x),64,all_persons,2016-02-01,2016-02-29,Q12b,without_children,30
+Hispanic/Latin(a)(o)(x),64,all_persons,2016-02-01,2016-02-29,Q12b,with_children_and_adults,34
+Hispanic/Latin(a)(o)(x),64,all_persons,2016-02-01,2016-02-29,Q12b,with_only_children,0
+Hispanic/Latin(a)(o)(x),64,all_persons,2016-02-01,2016-02-29,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,all_persons,2016-02-01,2016-02-29,Q12b,without_children,0
+Client Doesn't Know/Client Refused,0,all_persons,2016-02-01,2016-02-29,Q12b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,all_persons,2016-02-01,2016-02-29,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,0,all_persons,2016-02-01,2016-02-29,Q12b,unknown_household_type,0
+Data Not Collected,1,all_persons,2016-02-01,2016-02-29,Q12b,without_children,0
+Data Not Collected,1,all_persons,2016-02-01,2016-02-29,Q12b,with_children_and_adults,0
+Data Not Collected,1,all_persons,2016-02-01,2016-02-29,Q12b,with_only_children,0
+Data Not Collected,1,all_persons,2016-02-01,2016-02-29,Q12b,unknown_household_type,1
+Non-Hispanic/Non-Latin(a)(o)(x),516,all_persons,2016-03-01,2016-03-31,Q12b,without_children,318
+Non-Hispanic/Non-Latin(a)(o)(x),516,all_persons,2016-03-01,2016-03-31,Q12b,with_children_and_adults,193
+Non-Hispanic/Non-Latin(a)(o)(x),516,all_persons,2016-03-01,2016-03-31,Q12b,with_only_children,4
+Non-Hispanic/Non-Latin(a)(o)(x),516,all_persons,2016-03-01,2016-03-31,Q12b,unknown_household_type,1
+Hispanic/Latin(a)(o)(x),55,all_persons,2016-03-01,2016-03-31,Q12b,without_children,23
+Hispanic/Latin(a)(o)(x),55,all_persons,2016-03-01,2016-03-31,Q12b,with_children_and_adults,32
+Hispanic/Latin(a)(o)(x),55,all_persons,2016-03-01,2016-03-31,Q12b,with_only_children,0
+Hispanic/Latin(a)(o)(x),55,all_persons,2016-03-01,2016-03-31,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_persons,2016-03-01,2016-03-31,Q12b,without_children,1
+Client Doesn't Know/Client Refused,1,all_persons,2016-03-01,2016-03-31,Q12b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_persons,2016-03-01,2016-03-31,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2016-03-01,2016-03-31,Q12b,unknown_household_type,0
+Data Not Collected,2,all_persons,2016-03-01,2016-03-31,Q12b,without_children,1
+Data Not Collected,2,all_persons,2016-03-01,2016-03-31,Q12b,with_children_and_adults,0
+Data Not Collected,2,all_persons,2016-03-01,2016-03-31,Q12b,with_only_children,0
+Data Not Collected,2,all_persons,2016-03-01,2016-03-31,Q12b,unknown_household_type,1
+Non-Hispanic/Non-Latin(a)(o)(x),478,all_persons,2016-04-01,2016-04-30,Q12b,without_children,274
+Non-Hispanic/Non-Latin(a)(o)(x),478,all_persons,2016-04-01,2016-04-30,Q12b,with_children_and_adults,199
+Non-Hispanic/Non-Latin(a)(o)(x),478,all_persons,2016-04-01,2016-04-30,Q12b,with_only_children,4
+Non-Hispanic/Non-Latin(a)(o)(x),478,all_persons,2016-04-01,2016-04-30,Q12b,unknown_household_type,1
+Hispanic/Latin(a)(o)(x),52,all_persons,2016-04-01,2016-04-30,Q12b,without_children,19
+Hispanic/Latin(a)(o)(x),52,all_persons,2016-04-01,2016-04-30,Q12b,with_children_and_adults,33
+Hispanic/Latin(a)(o)(x),52,all_persons,2016-04-01,2016-04-30,Q12b,with_only_children,0
+Hispanic/Latin(a)(o)(x),52,all_persons,2016-04-01,2016-04-30,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,all_persons,2016-04-01,2016-04-30,Q12b,without_children,0
+Client Doesn't Know/Client Refused,0,all_persons,2016-04-01,2016-04-30,Q12b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,all_persons,2016-04-01,2016-04-30,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,0,all_persons,2016-04-01,2016-04-30,Q12b,unknown_household_type,0
+Data Not Collected,2,all_persons,2016-04-01,2016-04-30,Q12b,without_children,1
+Data Not Collected,2,all_persons,2016-04-01,2016-04-30,Q12b,with_children_and_adults,0
+Data Not Collected,2,all_persons,2016-04-01,2016-04-30,Q12b,with_only_children,0
+Data Not Collected,2,all_persons,2016-04-01,2016-04-30,Q12b,unknown_household_type,1
+Non-Hispanic/Non-Latin(a)(o)(x),485,all_persons,2016-05-01,2016-05-31,Q12b,without_children,247
+Non-Hispanic/Non-Latin(a)(o)(x),485,all_persons,2016-05-01,2016-05-31,Q12b,with_children_and_adults,226
+Non-Hispanic/Non-Latin(a)(o)(x),485,all_persons,2016-05-01,2016-05-31,Q12b,with_only_children,8
+Non-Hispanic/Non-Latin(a)(o)(x),485,all_persons,2016-05-01,2016-05-31,Q12b,unknown_household_type,4
+Hispanic/Latin(a)(o)(x),52,all_persons,2016-05-01,2016-05-31,Q12b,without_children,19
+Hispanic/Latin(a)(o)(x),52,all_persons,2016-05-01,2016-05-31,Q12b,with_children_and_adults,32
+Hispanic/Latin(a)(o)(x),52,all_persons,2016-05-01,2016-05-31,Q12b,with_only_children,1
+Hispanic/Latin(a)(o)(x),52,all_persons,2016-05-01,2016-05-31,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,all_persons,2016-05-01,2016-05-31,Q12b,without_children,0
+Client Doesn't Know/Client Refused,0,all_persons,2016-05-01,2016-05-31,Q12b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,all_persons,2016-05-01,2016-05-31,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,0,all_persons,2016-05-01,2016-05-31,Q12b,unknown_household_type,0
+Data Not Collected,1,all_persons,2016-05-01,2016-05-31,Q12b,without_children,0
+Data Not Collected,1,all_persons,2016-05-01,2016-05-31,Q12b,with_children_and_adults,0
+Data Not Collected,1,all_persons,2016-05-01,2016-05-31,Q12b,with_only_children,0
+Data Not Collected,1,all_persons,2016-05-01,2016-05-31,Q12b,unknown_household_type,1
+Non-Hispanic/Non-Latin(a)(o)(x),480,all_persons,2016-06-01,2016-06-30,Q12b,without_children,244
+Non-Hispanic/Non-Latin(a)(o)(x),480,all_persons,2016-06-01,2016-06-30,Q12b,with_children_and_adults,226
+Non-Hispanic/Non-Latin(a)(o)(x),480,all_persons,2016-06-01,2016-06-30,Q12b,with_only_children,6
+Non-Hispanic/Non-Latin(a)(o)(x),480,all_persons,2016-06-01,2016-06-30,Q12b,unknown_household_type,4
+Hispanic/Latin(a)(o)(x),50,all_persons,2016-06-01,2016-06-30,Q12b,without_children,20
+Hispanic/Latin(a)(o)(x),50,all_persons,2016-06-01,2016-06-30,Q12b,with_children_and_adults,29
+Hispanic/Latin(a)(o)(x),50,all_persons,2016-06-01,2016-06-30,Q12b,with_only_children,1
+Hispanic/Latin(a)(o)(x),50,all_persons,2016-06-01,2016-06-30,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,all_persons,2016-06-01,2016-06-30,Q12b,without_children,0
+Client Doesn't Know/Client Refused,0,all_persons,2016-06-01,2016-06-30,Q12b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,all_persons,2016-06-01,2016-06-30,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,0,all_persons,2016-06-01,2016-06-30,Q12b,unknown_household_type,0
+Data Not Collected,3,all_persons,2016-06-01,2016-06-30,Q12b,without_children,1
+Data Not Collected,3,all_persons,2016-06-01,2016-06-30,Q12b,with_children_and_adults,0
+Data Not Collected,3,all_persons,2016-06-01,2016-06-30,Q12b,with_only_children,0
+Data Not Collected,3,all_persons,2016-06-01,2016-06-30,Q12b,unknown_household_type,2
+Non-Hispanic/Non-Latin(a)(o)(x),514,all_persons,2016-07-01,2016-07-31,Q12b,without_children,255
+Non-Hispanic/Non-Latin(a)(o)(x),514,all_persons,2016-07-01,2016-07-31,Q12b,with_children_and_adults,254
+Non-Hispanic/Non-Latin(a)(o)(x),514,all_persons,2016-07-01,2016-07-31,Q12b,with_only_children,4
+Non-Hispanic/Non-Latin(a)(o)(x),514,all_persons,2016-07-01,2016-07-31,Q12b,unknown_household_type,1
+Hispanic/Latin(a)(o)(x),61,all_persons,2016-07-01,2016-07-31,Q12b,without_children,24
+Hispanic/Latin(a)(o)(x),61,all_persons,2016-07-01,2016-07-31,Q12b,with_children_and_adults,36
+Hispanic/Latin(a)(o)(x),61,all_persons,2016-07-01,2016-07-31,Q12b,with_only_children,1
+Hispanic/Latin(a)(o)(x),61,all_persons,2016-07-01,2016-07-31,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,all_persons,2016-07-01,2016-07-31,Q12b,without_children,0
+Client Doesn't Know/Client Refused,0,all_persons,2016-07-01,2016-07-31,Q12b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,all_persons,2016-07-01,2016-07-31,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,0,all_persons,2016-07-01,2016-07-31,Q12b,unknown_household_type,0
+Data Not Collected,2,all_persons,2016-07-01,2016-07-31,Q12b,without_children,0
+Data Not Collected,2,all_persons,2016-07-01,2016-07-31,Q12b,with_children_and_adults,0
+Data Not Collected,2,all_persons,2016-07-01,2016-07-31,Q12b,with_only_children,0
+Data Not Collected,2,all_persons,2016-07-01,2016-07-31,Q12b,unknown_household_type,2
+Non-Hispanic/Non-Latin(a)(o)(x),632,all_persons,2016-08-01,2016-08-31,Q12b,without_children,278
+Non-Hispanic/Non-Latin(a)(o)(x),632,all_persons,2016-08-01,2016-08-31,Q12b,with_children_and_adults,349
+Non-Hispanic/Non-Latin(a)(o)(x),632,all_persons,2016-08-01,2016-08-31,Q12b,with_only_children,4
+Non-Hispanic/Non-Latin(a)(o)(x),632,all_persons,2016-08-01,2016-08-31,Q12b,unknown_household_type,1
+Hispanic/Latin(a)(o)(x),70,all_persons,2016-08-01,2016-08-31,Q12b,without_children,23
+Hispanic/Latin(a)(o)(x),70,all_persons,2016-08-01,2016-08-31,Q12b,with_children_and_adults,46
+Hispanic/Latin(a)(o)(x),70,all_persons,2016-08-01,2016-08-31,Q12b,with_only_children,1
+Hispanic/Latin(a)(o)(x),70,all_persons,2016-08-01,2016-08-31,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,all_persons,2016-08-01,2016-08-31,Q12b,without_children,0
+Client Doesn't Know/Client Refused,0,all_persons,2016-08-01,2016-08-31,Q12b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,all_persons,2016-08-01,2016-08-31,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,0,all_persons,2016-08-01,2016-08-31,Q12b,unknown_household_type,0
+Data Not Collected,3,all_persons,2016-08-01,2016-08-31,Q12b,without_children,1
+Data Not Collected,3,all_persons,2016-08-01,2016-08-31,Q12b,with_children_and_adults,0
+Data Not Collected,3,all_persons,2016-08-01,2016-08-31,Q12b,with_only_children,0
+Data Not Collected,3,all_persons,2016-08-01,2016-08-31,Q12b,unknown_household_type,2
+Non-Hispanic/Non-Latin(a)(o)(x),664,all_persons,2016-09-01,2016-09-30,Q12b,without_children,271
+Non-Hispanic/Non-Latin(a)(o)(x),664,all_persons,2016-09-01,2016-09-30,Q12b,with_children_and_adults,386
+Non-Hispanic/Non-Latin(a)(o)(x),664,all_persons,2016-09-01,2016-09-30,Q12b,with_only_children,6
+Non-Hispanic/Non-Latin(a)(o)(x),664,all_persons,2016-09-01,2016-09-30,Q12b,unknown_household_type,1
+Hispanic/Latin(a)(o)(x),70,all_persons,2016-09-01,2016-09-30,Q12b,without_children,20
+Hispanic/Latin(a)(o)(x),70,all_persons,2016-09-01,2016-09-30,Q12b,with_children_and_adults,49
+Hispanic/Latin(a)(o)(x),70,all_persons,2016-09-01,2016-09-30,Q12b,with_only_children,1
+Hispanic/Latin(a)(o)(x),70,all_persons,2016-09-01,2016-09-30,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,all_persons,2016-09-01,2016-09-30,Q12b,without_children,0
+Client Doesn't Know/Client Refused,0,all_persons,2016-09-01,2016-09-30,Q12b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,all_persons,2016-09-01,2016-09-30,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,0,all_persons,2016-09-01,2016-09-30,Q12b,unknown_household_type,0
+Data Not Collected,4,all_persons,2016-09-01,2016-09-30,Q12b,without_children,2
+Data Not Collected,4,all_persons,2016-09-01,2016-09-30,Q12b,with_children_and_adults,0
+Data Not Collected,4,all_persons,2016-09-01,2016-09-30,Q12b,with_only_children,0
+Data Not Collected,4,all_persons,2016-09-01,2016-09-30,Q12b,unknown_household_type,2
+Non-Hispanic/Non-Latin(a)(o)(x),607,all_persons,2016-10-01,2016-10-31,Q12b,without_children,264
+Non-Hispanic/Non-Latin(a)(o)(x),607,all_persons,2016-10-01,2016-10-31,Q12b,with_children_and_adults,336
+Non-Hispanic/Non-Latin(a)(o)(x),607,all_persons,2016-10-01,2016-10-31,Q12b,with_only_children,6
+Non-Hispanic/Non-Latin(a)(o)(x),607,all_persons,2016-10-01,2016-10-31,Q12b,unknown_household_type,1
+Hispanic/Latin(a)(o)(x),55,all_persons,2016-10-01,2016-10-31,Q12b,without_children,24
+Hispanic/Latin(a)(o)(x),55,all_persons,2016-10-01,2016-10-31,Q12b,with_children_and_adults,31
+Hispanic/Latin(a)(o)(x),55,all_persons,2016-10-01,2016-10-31,Q12b,with_only_children,0
+Hispanic/Latin(a)(o)(x),55,all_persons,2016-10-01,2016-10-31,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,all_persons,2016-10-01,2016-10-31,Q12b,without_children,0
+Client Doesn't Know/Client Refused,0,all_persons,2016-10-01,2016-10-31,Q12b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,all_persons,2016-10-01,2016-10-31,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,0,all_persons,2016-10-01,2016-10-31,Q12b,unknown_household_type,0
+Data Not Collected,3,all_persons,2016-10-01,2016-10-31,Q12b,without_children,1
+Data Not Collected,3,all_persons,2016-10-01,2016-10-31,Q12b,with_children_and_adults,0
+Data Not Collected,3,all_persons,2016-10-01,2016-10-31,Q12b,with_only_children,0
+Data Not Collected,3,all_persons,2016-10-01,2016-10-31,Q12b,unknown_household_type,2
+Non-Hispanic/Non-Latin(a)(o)(x),650,all_persons,2016-11-01,2016-11-30,Q12b,without_children,305
+Non-Hispanic/Non-Latin(a)(o)(x),650,all_persons,2016-11-01,2016-11-30,Q12b,with_children_and_adults,336
+Non-Hispanic/Non-Latin(a)(o)(x),650,all_persons,2016-11-01,2016-11-30,Q12b,with_only_children,8
+Non-Hispanic/Non-Latin(a)(o)(x),650,all_persons,2016-11-01,2016-11-30,Q12b,unknown_household_type,1
+Hispanic/Latin(a)(o)(x),61,all_persons,2016-11-01,2016-11-30,Q12b,without_children,33
+Hispanic/Latin(a)(o)(x),61,all_persons,2016-11-01,2016-11-30,Q12b,with_children_and_adults,27
+Hispanic/Latin(a)(o)(x),61,all_persons,2016-11-01,2016-11-30,Q12b,with_only_children,1
+Hispanic/Latin(a)(o)(x),61,all_persons,2016-11-01,2016-11-30,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_persons,2016-11-01,2016-11-30,Q12b,without_children,1
+Client Doesn't Know/Client Refused,1,all_persons,2016-11-01,2016-11-30,Q12b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_persons,2016-11-01,2016-11-30,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2016-11-01,2016-11-30,Q12b,unknown_household_type,0
+Data Not Collected,2,all_persons,2016-11-01,2016-11-30,Q12b,without_children,0
+Data Not Collected,2,all_persons,2016-11-01,2016-11-30,Q12b,with_children_and_adults,0
+Data Not Collected,2,all_persons,2016-11-01,2016-11-30,Q12b,with_only_children,0
+Data Not Collected,2,all_persons,2016-11-01,2016-11-30,Q12b,unknown_household_type,2
+Non-Hispanic/Non-Latin(a)(o)(x),660,all_persons,2016-12-01,2016-12-31,Q12b,without_children,313
+Non-Hispanic/Non-Latin(a)(o)(x),660,all_persons,2016-12-01,2016-12-31,Q12b,with_children_and_adults,338
+Non-Hispanic/Non-Latin(a)(o)(x),660,all_persons,2016-12-01,2016-12-31,Q12b,with_only_children,8
+Non-Hispanic/Non-Latin(a)(o)(x),660,all_persons,2016-12-01,2016-12-31,Q12b,unknown_household_type,1
+Hispanic/Latin(a)(o)(x),73,all_persons,2016-12-01,2016-12-31,Q12b,without_children,29
+Hispanic/Latin(a)(o)(x),73,all_persons,2016-12-01,2016-12-31,Q12b,with_children_and_adults,43
+Hispanic/Latin(a)(o)(x),73,all_persons,2016-12-01,2016-12-31,Q12b,with_only_children,1
+Hispanic/Latin(a)(o)(x),73,all_persons,2016-12-01,2016-12-31,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_persons,2016-12-01,2016-12-31,Q12b,without_children,1
+Client Doesn't Know/Client Refused,1,all_persons,2016-12-01,2016-12-31,Q12b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_persons,2016-12-01,2016-12-31,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2016-12-01,2016-12-31,Q12b,unknown_household_type,0
+Data Not Collected,2,all_persons,2016-12-01,2016-12-31,Q12b,without_children,0
+Data Not Collected,2,all_persons,2016-12-01,2016-12-31,Q12b,with_children_and_adults,0
+Data Not Collected,2,all_persons,2016-12-01,2016-12-31,Q12b,with_only_children,0
+Data Not Collected,2,all_persons,2016-12-01,2016-12-31,Q12b,unknown_household_type,2
+Non-Hispanic/Non-Latin(a)(o)(x),636,all_persons,2017-01-01,2017-01-31,Q12b,without_children,320
+Non-Hispanic/Non-Latin(a)(o)(x),636,all_persons,2017-01-01,2017-01-31,Q12b,with_children_and_adults,309
+Non-Hispanic/Non-Latin(a)(o)(x),636,all_persons,2017-01-01,2017-01-31,Q12b,with_only_children,6
+Non-Hispanic/Non-Latin(a)(o)(x),636,all_persons,2017-01-01,2017-01-31,Q12b,unknown_household_type,1
+Hispanic/Latin(a)(o)(x),65,all_persons,2017-01-01,2017-01-31,Q12b,without_children,27
+Hispanic/Latin(a)(o)(x),65,all_persons,2017-01-01,2017-01-31,Q12b,with_children_and_adults,37
+Hispanic/Latin(a)(o)(x),65,all_persons,2017-01-01,2017-01-31,Q12b,with_only_children,1
+Hispanic/Latin(a)(o)(x),65,all_persons,2017-01-01,2017-01-31,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,all_persons,2017-01-01,2017-01-31,Q12b,without_children,0
+Client Doesn't Know/Client Refused,0,all_persons,2017-01-01,2017-01-31,Q12b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,all_persons,2017-01-01,2017-01-31,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,0,all_persons,2017-01-01,2017-01-31,Q12b,unknown_household_type,0
+Data Not Collected,2,all_persons,2017-01-01,2017-01-31,Q12b,without_children,0
+Data Not Collected,2,all_persons,2017-01-01,2017-01-31,Q12b,with_children_and_adults,0
+Data Not Collected,2,all_persons,2017-01-01,2017-01-31,Q12b,with_only_children,0
+Data Not Collected,2,all_persons,2017-01-01,2017-01-31,Q12b,unknown_household_type,2
+Non-Hispanic/Non-Latin(a)(o)(x),546,all_persons,2017-02-01,2017-02-28,Q12b,without_children,314
+Non-Hispanic/Non-Latin(a)(o)(x),546,all_persons,2017-02-01,2017-02-28,Q12b,with_children_and_adults,222
+Non-Hispanic/Non-Latin(a)(o)(x),546,all_persons,2017-02-01,2017-02-28,Q12b,with_only_children,9
+Non-Hispanic/Non-Latin(a)(o)(x),546,all_persons,2017-02-01,2017-02-28,Q12b,unknown_household_type,1
+Hispanic/Latin(a)(o)(x),56,all_persons,2017-02-01,2017-02-28,Q12b,without_children,29
+Hispanic/Latin(a)(o)(x),56,all_persons,2017-02-01,2017-02-28,Q12b,with_children_and_adults,26
+Hispanic/Latin(a)(o)(x),56,all_persons,2017-02-01,2017-02-28,Q12b,with_only_children,1
+Hispanic/Latin(a)(o)(x),56,all_persons,2017-02-01,2017-02-28,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_persons,2017-02-01,2017-02-28,Q12b,without_children,1
+Client Doesn't Know/Client Refused,1,all_persons,2017-02-01,2017-02-28,Q12b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_persons,2017-02-01,2017-02-28,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2017-02-01,2017-02-28,Q12b,unknown_household_type,0
+Data Not Collected,2,all_persons,2017-02-01,2017-02-28,Q12b,without_children,0
+Data Not Collected,2,all_persons,2017-02-01,2017-02-28,Q12b,with_children_and_adults,0
+Data Not Collected,2,all_persons,2017-02-01,2017-02-28,Q12b,with_only_children,0
+Data Not Collected,2,all_persons,2017-02-01,2017-02-28,Q12b,unknown_household_type,2
+Non-Hispanic/Non-Latin(a)(o)(x),504,all_persons,2017-03-01,2017-03-31,Q12b,without_children,317
+Non-Hispanic/Non-Latin(a)(o)(x),504,all_persons,2017-03-01,2017-03-31,Q12b,with_children_and_adults,177
+Non-Hispanic/Non-Latin(a)(o)(x),504,all_persons,2017-03-01,2017-03-31,Q12b,with_only_children,9
+Non-Hispanic/Non-Latin(a)(o)(x),504,all_persons,2017-03-01,2017-03-31,Q12b,unknown_household_type,1
+Hispanic/Latin(a)(o)(x),59,all_persons,2017-03-01,2017-03-31,Q12b,without_children,32
+Hispanic/Latin(a)(o)(x),59,all_persons,2017-03-01,2017-03-31,Q12b,with_children_and_adults,26
+Hispanic/Latin(a)(o)(x),59,all_persons,2017-03-01,2017-03-31,Q12b,with_only_children,1
+Hispanic/Latin(a)(o)(x),59,all_persons,2017-03-01,2017-03-31,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_persons,2017-03-01,2017-03-31,Q12b,without_children,1
+Client Doesn't Know/Client Refused,1,all_persons,2017-03-01,2017-03-31,Q12b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_persons,2017-03-01,2017-03-31,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2017-03-01,2017-03-31,Q12b,unknown_household_type,0
+Data Not Collected,2,all_persons,2017-03-01,2017-03-31,Q12b,without_children,0
+Data Not Collected,2,all_persons,2017-03-01,2017-03-31,Q12b,with_children_and_adults,0
+Data Not Collected,2,all_persons,2017-03-01,2017-03-31,Q12b,with_only_children,0
+Data Not Collected,2,all_persons,2017-03-01,2017-03-31,Q12b,unknown_household_type,2
+Non-Hispanic/Non-Latin(a)(o)(x),475,all_persons,2017-04-01,2017-04-30,Q12b,without_children,284
+Non-Hispanic/Non-Latin(a)(o)(x),475,all_persons,2017-04-01,2017-04-30,Q12b,with_children_and_adults,181
+Non-Hispanic/Non-Latin(a)(o)(x),475,all_persons,2017-04-01,2017-04-30,Q12b,with_only_children,9
+Non-Hispanic/Non-Latin(a)(o)(x),475,all_persons,2017-04-01,2017-04-30,Q12b,unknown_household_type,1
+Hispanic/Latin(a)(o)(x),55,all_persons,2017-04-01,2017-04-30,Q12b,without_children,33
+Hispanic/Latin(a)(o)(x),55,all_persons,2017-04-01,2017-04-30,Q12b,with_children_and_adults,21
+Hispanic/Latin(a)(o)(x),55,all_persons,2017-04-01,2017-04-30,Q12b,with_only_children,1
+Hispanic/Latin(a)(o)(x),55,all_persons,2017-04-01,2017-04-30,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,all_persons,2017-04-01,2017-04-30,Q12b,without_children,0
+Client Doesn't Know/Client Refused,0,all_persons,2017-04-01,2017-04-30,Q12b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,all_persons,2017-04-01,2017-04-30,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,0,all_persons,2017-04-01,2017-04-30,Q12b,unknown_household_type,0
+Data Not Collected,2,all_persons,2017-04-01,2017-04-30,Q12b,without_children,0
+Data Not Collected,2,all_persons,2017-04-01,2017-04-30,Q12b,with_children_and_adults,0
+Data Not Collected,2,all_persons,2017-04-01,2017-04-30,Q12b,with_only_children,0
+Data Not Collected,2,all_persons,2017-04-01,2017-04-30,Q12b,unknown_household_type,2
+Non-Hispanic/Non-Latin(a)(o)(x),451,all_persons,2017-05-01,2017-05-31,Q12b,without_children,246
+Non-Hispanic/Non-Latin(a)(o)(x),451,all_persons,2017-05-01,2017-05-31,Q12b,with_children_and_adults,194
+Non-Hispanic/Non-Latin(a)(o)(x),451,all_persons,2017-05-01,2017-05-31,Q12b,with_only_children,10
+Non-Hispanic/Non-Latin(a)(o)(x),451,all_persons,2017-05-01,2017-05-31,Q12b,unknown_household_type,1
+Hispanic/Latin(a)(o)(x),49,all_persons,2017-05-01,2017-05-31,Q12b,without_children,26
+Hispanic/Latin(a)(o)(x),49,all_persons,2017-05-01,2017-05-31,Q12b,with_children_and_adults,22
+Hispanic/Latin(a)(o)(x),49,all_persons,2017-05-01,2017-05-31,Q12b,with_only_children,1
+Hispanic/Latin(a)(o)(x),49,all_persons,2017-05-01,2017-05-31,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,all_persons,2017-05-01,2017-05-31,Q12b,without_children,0
+Client Doesn't Know/Client Refused,0,all_persons,2017-05-01,2017-05-31,Q12b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,all_persons,2017-05-01,2017-05-31,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,0,all_persons,2017-05-01,2017-05-31,Q12b,unknown_household_type,0
+Data Not Collected,3,all_persons,2017-05-01,2017-05-31,Q12b,without_children,1
+Data Not Collected,3,all_persons,2017-05-01,2017-05-31,Q12b,with_children_and_adults,0
+Data Not Collected,3,all_persons,2017-05-01,2017-05-31,Q12b,with_only_children,0
+Data Not Collected,3,all_persons,2017-05-01,2017-05-31,Q12b,unknown_household_type,2
+Non-Hispanic/Non-Latin(a)(o)(x),488,all_persons,2017-06-01,2017-06-30,Q12b,without_children,240
+Non-Hispanic/Non-Latin(a)(o)(x),488,all_persons,2017-06-01,2017-06-30,Q12b,with_children_and_adults,237
+Non-Hispanic/Non-Latin(a)(o)(x),488,all_persons,2017-06-01,2017-06-30,Q12b,with_only_children,10
+Non-Hispanic/Non-Latin(a)(o)(x),488,all_persons,2017-06-01,2017-06-30,Q12b,unknown_household_type,1
+Hispanic/Latin(a)(o)(x),55,all_persons,2017-06-01,2017-06-30,Q12b,without_children,30
+Hispanic/Latin(a)(o)(x),55,all_persons,2017-06-01,2017-06-30,Q12b,with_children_and_adults,24
+Hispanic/Latin(a)(o)(x),55,all_persons,2017-06-01,2017-06-30,Q12b,with_only_children,1
+Hispanic/Latin(a)(o)(x),55,all_persons,2017-06-01,2017-06-30,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,all_persons,2017-06-01,2017-06-30,Q12b,without_children,0
+Client Doesn't Know/Client Refused,0,all_persons,2017-06-01,2017-06-30,Q12b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,all_persons,2017-06-01,2017-06-30,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,0,all_persons,2017-06-01,2017-06-30,Q12b,unknown_household_type,0
+Data Not Collected,3,all_persons,2017-06-01,2017-06-30,Q12b,without_children,1
+Data Not Collected,3,all_persons,2017-06-01,2017-06-30,Q12b,with_children_and_adults,0
+Data Not Collected,3,all_persons,2017-06-01,2017-06-30,Q12b,with_only_children,0
+Data Not Collected,3,all_persons,2017-06-01,2017-06-30,Q12b,unknown_household_type,2
+Non-Hispanic/Non-Latin(a)(o)(x),545,all_persons,2017-07-01,2017-07-31,Q12b,without_children,242
+Non-Hispanic/Non-Latin(a)(o)(x),545,all_persons,2017-07-01,2017-07-31,Q12b,with_children_and_adults,292
+Non-Hispanic/Non-Latin(a)(o)(x),545,all_persons,2017-07-01,2017-07-31,Q12b,with_only_children,10
+Non-Hispanic/Non-Latin(a)(o)(x),545,all_persons,2017-07-01,2017-07-31,Q12b,unknown_household_type,1
+Hispanic/Latin(a)(o)(x),58,all_persons,2017-07-01,2017-07-31,Q12b,without_children,33
+Hispanic/Latin(a)(o)(x),58,all_persons,2017-07-01,2017-07-31,Q12b,with_children_and_adults,24
+Hispanic/Latin(a)(o)(x),58,all_persons,2017-07-01,2017-07-31,Q12b,with_only_children,1
+Hispanic/Latin(a)(o)(x),58,all_persons,2017-07-01,2017-07-31,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_persons,2017-07-01,2017-07-31,Q12b,without_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2017-07-01,2017-07-31,Q12b,with_children_and_adults,1
+Client Doesn't Know/Client Refused,1,all_persons,2017-07-01,2017-07-31,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2017-07-01,2017-07-31,Q12b,unknown_household_type,0
+Data Not Collected,3,all_persons,2017-07-01,2017-07-31,Q12b,without_children,1
+Data Not Collected,3,all_persons,2017-07-01,2017-07-31,Q12b,with_children_and_adults,0
+Data Not Collected,3,all_persons,2017-07-01,2017-07-31,Q12b,with_only_children,0
+Data Not Collected,3,all_persons,2017-07-01,2017-07-31,Q12b,unknown_household_type,2
+Non-Hispanic/Non-Latin(a)(o)(x),571,all_persons,2017-08-01,2017-08-31,Q12b,without_children,262
+Non-Hispanic/Non-Latin(a)(o)(x),571,all_persons,2017-08-01,2017-08-31,Q12b,with_children_and_adults,298
+Non-Hispanic/Non-Latin(a)(o)(x),571,all_persons,2017-08-01,2017-08-31,Q12b,with_only_children,10
+Non-Hispanic/Non-Latin(a)(o)(x),571,all_persons,2017-08-01,2017-08-31,Q12b,unknown_household_type,1
+Hispanic/Latin(a)(o)(x),60,all_persons,2017-08-01,2017-08-31,Q12b,without_children,33
+Hispanic/Latin(a)(o)(x),60,all_persons,2017-08-01,2017-08-31,Q12b,with_children_and_adults,26
+Hispanic/Latin(a)(o)(x),60,all_persons,2017-08-01,2017-08-31,Q12b,with_only_children,1
+Hispanic/Latin(a)(o)(x),60,all_persons,2017-08-01,2017-08-31,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,2,all_persons,2017-08-01,2017-08-31,Q12b,without_children,1
+Client Doesn't Know/Client Refused,2,all_persons,2017-08-01,2017-08-31,Q12b,with_children_and_adults,1
+Client Doesn't Know/Client Refused,2,all_persons,2017-08-01,2017-08-31,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,2,all_persons,2017-08-01,2017-08-31,Q12b,unknown_household_type,0
+Data Not Collected,6,all_persons,2017-08-01,2017-08-31,Q12b,without_children,1
+Data Not Collected,6,all_persons,2017-08-01,2017-08-31,Q12b,with_children_and_adults,3
+Data Not Collected,6,all_persons,2017-08-01,2017-08-31,Q12b,with_only_children,0
+Data Not Collected,6,all_persons,2017-08-01,2017-08-31,Q12b,unknown_household_type,2
+Non-Hispanic/Non-Latin(a)(o)(x),526,all_persons,2017-09-01,2017-09-30,Q12b,without_children,259
+Non-Hispanic/Non-Latin(a)(o)(x),526,all_persons,2017-09-01,2017-09-30,Q12b,with_children_and_adults,257
+Non-Hispanic/Non-Latin(a)(o)(x),526,all_persons,2017-09-01,2017-09-30,Q12b,with_only_children,9
+Non-Hispanic/Non-Latin(a)(o)(x),526,all_persons,2017-09-01,2017-09-30,Q12b,unknown_household_type,1
+Hispanic/Latin(a)(o)(x),50,all_persons,2017-09-01,2017-09-30,Q12b,without_children,33
+Hispanic/Latin(a)(o)(x),50,all_persons,2017-09-01,2017-09-30,Q12b,with_children_and_adults,16
+Hispanic/Latin(a)(o)(x),50,all_persons,2017-09-01,2017-09-30,Q12b,with_only_children,1
+Hispanic/Latin(a)(o)(x),50,all_persons,2017-09-01,2017-09-30,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,2,all_persons,2017-09-01,2017-09-30,Q12b,without_children,1
+Client Doesn't Know/Client Refused,2,all_persons,2017-09-01,2017-09-30,Q12b,with_children_and_adults,1
+Client Doesn't Know/Client Refused,2,all_persons,2017-09-01,2017-09-30,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,2,all_persons,2017-09-01,2017-09-30,Q12b,unknown_household_type,0
+Data Not Collected,2,all_persons,2017-09-01,2017-09-30,Q12b,without_children,0
+Data Not Collected,2,all_persons,2017-09-01,2017-09-30,Q12b,with_children_and_adults,0
+Data Not Collected,2,all_persons,2017-09-01,2017-09-30,Q12b,with_only_children,0
+Data Not Collected,2,all_persons,2017-09-01,2017-09-30,Q12b,unknown_household_type,2
+Non-Hispanic/Non-Latin(a)(o)(x),469,all_persons,2017-10-01,2017-10-31,Q12b,without_children,229
+Non-Hispanic/Non-Latin(a)(o)(x),469,all_persons,2017-10-01,2017-10-31,Q12b,with_children_and_adults,228
+Non-Hispanic/Non-Latin(a)(o)(x),469,all_persons,2017-10-01,2017-10-31,Q12b,with_only_children,11
+Non-Hispanic/Non-Latin(a)(o)(x),469,all_persons,2017-10-01,2017-10-31,Q12b,unknown_household_type,1
+Hispanic/Latin(a)(o)(x),45,all_persons,2017-10-01,2017-10-31,Q12b,without_children,22
+Hispanic/Latin(a)(o)(x),45,all_persons,2017-10-01,2017-10-31,Q12b,with_children_and_adults,21
+Hispanic/Latin(a)(o)(x),45,all_persons,2017-10-01,2017-10-31,Q12b,with_only_children,2
+Hispanic/Latin(a)(o)(x),45,all_persons,2017-10-01,2017-10-31,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_persons,2017-10-01,2017-10-31,Q12b,without_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2017-10-01,2017-10-31,Q12b,with_children_and_adults,1
+Client Doesn't Know/Client Refused,1,all_persons,2017-10-01,2017-10-31,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2017-10-01,2017-10-31,Q12b,unknown_household_type,0
+Data Not Collected,2,all_persons,2017-10-01,2017-10-31,Q12b,without_children,0
+Data Not Collected,2,all_persons,2017-10-01,2017-10-31,Q12b,with_children_and_adults,0
+Data Not Collected,2,all_persons,2017-10-01,2017-10-31,Q12b,with_only_children,0
+Data Not Collected,2,all_persons,2017-10-01,2017-10-31,Q12b,unknown_household_type,2
+Non-Hispanic/Non-Latin(a)(o)(x),549,all_persons,2017-11-01,2017-11-30,Q12b,without_children,305
+Non-Hispanic/Non-Latin(a)(o)(x),549,all_persons,2017-11-01,2017-11-30,Q12b,with_children_and_adults,233
+Non-Hispanic/Non-Latin(a)(o)(x),549,all_persons,2017-11-01,2017-11-30,Q12b,with_only_children,10
+Non-Hispanic/Non-Latin(a)(o)(x),549,all_persons,2017-11-01,2017-11-30,Q12b,unknown_household_type,1
+Hispanic/Latin(a)(o)(x),42,all_persons,2017-11-01,2017-11-30,Q12b,without_children,22
+Hispanic/Latin(a)(o)(x),42,all_persons,2017-11-01,2017-11-30,Q12b,with_children_and_adults,19
+Hispanic/Latin(a)(o)(x),42,all_persons,2017-11-01,2017-11-30,Q12b,with_only_children,1
+Hispanic/Latin(a)(o)(x),42,all_persons,2017-11-01,2017-11-30,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_persons,2017-11-01,2017-11-30,Q12b,without_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2017-11-01,2017-11-30,Q12b,with_children_and_adults,1
+Client Doesn't Know/Client Refused,1,all_persons,2017-11-01,2017-11-30,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2017-11-01,2017-11-30,Q12b,unknown_household_type,0
+Data Not Collected,2,all_persons,2017-11-01,2017-11-30,Q12b,without_children,0
+Data Not Collected,2,all_persons,2017-11-01,2017-11-30,Q12b,with_children_and_adults,0
+Data Not Collected,2,all_persons,2017-11-01,2017-11-30,Q12b,with_only_children,0
+Data Not Collected,2,all_persons,2017-11-01,2017-11-30,Q12b,unknown_household_type,2
+Non-Hispanic/Non-Latin(a)(o)(x),534,all_persons,2017-12-01,2017-12-31,Q12b,without_children,311
+Non-Hispanic/Non-Latin(a)(o)(x),534,all_persons,2017-12-01,2017-12-31,Q12b,with_children_and_adults,212
+Non-Hispanic/Non-Latin(a)(o)(x),534,all_persons,2017-12-01,2017-12-31,Q12b,with_only_children,10
+Non-Hispanic/Non-Latin(a)(o)(x),534,all_persons,2017-12-01,2017-12-31,Q12b,unknown_household_type,1
+Hispanic/Latin(a)(o)(x),41,all_persons,2017-12-01,2017-12-31,Q12b,without_children,22
+Hispanic/Latin(a)(o)(x),41,all_persons,2017-12-01,2017-12-31,Q12b,with_children_and_adults,18
+Hispanic/Latin(a)(o)(x),41,all_persons,2017-12-01,2017-12-31,Q12b,with_only_children,1
+Hispanic/Latin(a)(o)(x),41,all_persons,2017-12-01,2017-12-31,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_persons,2017-12-01,2017-12-31,Q12b,without_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2017-12-01,2017-12-31,Q12b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_persons,2017-12-01,2017-12-31,Q12b,with_only_children,1
+Client Doesn't Know/Client Refused,1,all_persons,2017-12-01,2017-12-31,Q12b,unknown_household_type,0
+Data Not Collected,2,all_persons,2017-12-01,2017-12-31,Q12b,without_children,0
+Data Not Collected,2,all_persons,2017-12-01,2017-12-31,Q12b,with_children_and_adults,0
+Data Not Collected,2,all_persons,2017-12-01,2017-12-31,Q12b,with_only_children,0
+Data Not Collected,2,all_persons,2017-12-01,2017-12-31,Q12b,unknown_household_type,2
+Non-Hispanic/Non-Latin(a)(o)(x),514,all_persons,2018-01-01,2018-01-31,Q12b,without_children,305
+Non-Hispanic/Non-Latin(a)(o)(x),514,all_persons,2018-01-01,2018-01-31,Q12b,with_children_and_adults,198
+Non-Hispanic/Non-Latin(a)(o)(x),514,all_persons,2018-01-01,2018-01-31,Q12b,with_only_children,10
+Non-Hispanic/Non-Latin(a)(o)(x),514,all_persons,2018-01-01,2018-01-31,Q12b,unknown_household_type,1
+Hispanic/Latin(a)(o)(x),44,all_persons,2018-01-01,2018-01-31,Q12b,without_children,23
+Hispanic/Latin(a)(o)(x),44,all_persons,2018-01-01,2018-01-31,Q12b,with_children_and_adults,20
+Hispanic/Latin(a)(o)(x),44,all_persons,2018-01-01,2018-01-31,Q12b,with_only_children,1
+Hispanic/Latin(a)(o)(x),44,all_persons,2018-01-01,2018-01-31,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_persons,2018-01-01,2018-01-31,Q12b,without_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2018-01-01,2018-01-31,Q12b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_persons,2018-01-01,2018-01-31,Q12b,with_only_children,1
+Client Doesn't Know/Client Refused,1,all_persons,2018-01-01,2018-01-31,Q12b,unknown_household_type,0
+Data Not Collected,2,all_persons,2018-01-01,2018-01-31,Q12b,without_children,0
+Data Not Collected,2,all_persons,2018-01-01,2018-01-31,Q12b,with_children_and_adults,0
+Data Not Collected,2,all_persons,2018-01-01,2018-01-31,Q12b,with_only_children,0
+Data Not Collected,2,all_persons,2018-01-01,2018-01-31,Q12b,unknown_household_type,2
+Non-Hispanic/Non-Latin(a)(o)(x),542,all_persons,2018-02-01,2018-02-28,Q12b,without_children,315
+Non-Hispanic/Non-Latin(a)(o)(x),542,all_persons,2018-02-01,2018-02-28,Q12b,with_children_and_adults,216
+Non-Hispanic/Non-Latin(a)(o)(x),542,all_persons,2018-02-01,2018-02-28,Q12b,with_only_children,10
+Non-Hispanic/Non-Latin(a)(o)(x),542,all_persons,2018-02-01,2018-02-28,Q12b,unknown_household_type,1
+Hispanic/Latin(a)(o)(x),42,all_persons,2018-02-01,2018-02-28,Q12b,without_children,23
+Hispanic/Latin(a)(o)(x),42,all_persons,2018-02-01,2018-02-28,Q12b,with_children_and_adults,17
+Hispanic/Latin(a)(o)(x),42,all_persons,2018-02-01,2018-02-28,Q12b,with_only_children,2
+Hispanic/Latin(a)(o)(x),42,all_persons,2018-02-01,2018-02-28,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_persons,2018-02-01,2018-02-28,Q12b,without_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2018-02-01,2018-02-28,Q12b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_persons,2018-02-01,2018-02-28,Q12b,with_only_children,1
+Client Doesn't Know/Client Refused,1,all_persons,2018-02-01,2018-02-28,Q12b,unknown_household_type,0
+Data Not Collected,2,all_persons,2018-02-01,2018-02-28,Q12b,without_children,0
+Data Not Collected,2,all_persons,2018-02-01,2018-02-28,Q12b,with_children_and_adults,0
+Data Not Collected,2,all_persons,2018-02-01,2018-02-28,Q12b,with_only_children,0
+Data Not Collected,2,all_persons,2018-02-01,2018-02-28,Q12b,unknown_household_type,2
+Non-Hispanic/Non-Latin(a)(o)(x),544,all_persons,2018-03-01,2018-03-31,Q12b,without_children,318
+Non-Hispanic/Non-Latin(a)(o)(x),544,all_persons,2018-03-01,2018-03-31,Q12b,with_children_and_adults,215
+Non-Hispanic/Non-Latin(a)(o)(x),544,all_persons,2018-03-01,2018-03-31,Q12b,with_only_children,10
+Non-Hispanic/Non-Latin(a)(o)(x),544,all_persons,2018-03-01,2018-03-31,Q12b,unknown_household_type,1
+Hispanic/Latin(a)(o)(x),36,all_persons,2018-03-01,2018-03-31,Q12b,without_children,23
+Hispanic/Latin(a)(o)(x),36,all_persons,2018-03-01,2018-03-31,Q12b,with_children_and_adults,11
+Hispanic/Latin(a)(o)(x),36,all_persons,2018-03-01,2018-03-31,Q12b,with_only_children,2
+Hispanic/Latin(a)(o)(x),36,all_persons,2018-03-01,2018-03-31,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_persons,2018-03-01,2018-03-31,Q12b,without_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2018-03-01,2018-03-31,Q12b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_persons,2018-03-01,2018-03-31,Q12b,with_only_children,1
+Client Doesn't Know/Client Refused,1,all_persons,2018-03-01,2018-03-31,Q12b,unknown_household_type,0
+Data Not Collected,2,all_persons,2018-03-01,2018-03-31,Q12b,without_children,0
+Data Not Collected,2,all_persons,2018-03-01,2018-03-31,Q12b,with_children_and_adults,0
+Data Not Collected,2,all_persons,2018-03-01,2018-03-31,Q12b,with_only_children,0
+Data Not Collected,2,all_persons,2018-03-01,2018-03-31,Q12b,unknown_household_type,2
+Non-Hispanic/Non-Latin(a)(o)(x),510,all_persons,2018-04-01,2018-04-30,Q12b,without_children,295
+Non-Hispanic/Non-Latin(a)(o)(x),510,all_persons,2018-04-01,2018-04-30,Q12b,with_children_and_adults,205
+Non-Hispanic/Non-Latin(a)(o)(x),510,all_persons,2018-04-01,2018-04-30,Q12b,with_only_children,9
+Non-Hispanic/Non-Latin(a)(o)(x),510,all_persons,2018-04-01,2018-04-30,Q12b,unknown_household_type,1
+Hispanic/Latin(a)(o)(x),36,all_persons,2018-04-01,2018-04-30,Q12b,without_children,19
+Hispanic/Latin(a)(o)(x),36,all_persons,2018-04-01,2018-04-30,Q12b,with_children_and_adults,15
+Hispanic/Latin(a)(o)(x),36,all_persons,2018-04-01,2018-04-30,Q12b,with_only_children,2
+Hispanic/Latin(a)(o)(x),36,all_persons,2018-04-01,2018-04-30,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_persons,2018-04-01,2018-04-30,Q12b,without_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2018-04-01,2018-04-30,Q12b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_persons,2018-04-01,2018-04-30,Q12b,with_only_children,1
+Client Doesn't Know/Client Refused,1,all_persons,2018-04-01,2018-04-30,Q12b,unknown_household_type,0
+Data Not Collected,3,all_persons,2018-04-01,2018-04-30,Q12b,without_children,1
+Data Not Collected,3,all_persons,2018-04-01,2018-04-30,Q12b,with_children_and_adults,0
+Data Not Collected,3,all_persons,2018-04-01,2018-04-30,Q12b,with_only_children,0
+Data Not Collected,3,all_persons,2018-04-01,2018-04-30,Q12b,unknown_household_type,2
+Non-Hispanic/Non-Latin(a)(o)(x),540,all_persons,2018-05-01,2018-05-31,Q12b,without_children,257
+Non-Hispanic/Non-Latin(a)(o)(x),540,all_persons,2018-05-01,2018-05-31,Q12b,with_children_and_adults,273
+Non-Hispanic/Non-Latin(a)(o)(x),540,all_persons,2018-05-01,2018-05-31,Q12b,with_only_children,9
+Non-Hispanic/Non-Latin(a)(o)(x),540,all_persons,2018-05-01,2018-05-31,Q12b,unknown_household_type,1
+Hispanic/Latin(a)(o)(x),43,all_persons,2018-05-01,2018-05-31,Q12b,without_children,14
+Hispanic/Latin(a)(o)(x),43,all_persons,2018-05-01,2018-05-31,Q12b,with_children_and_adults,27
+Hispanic/Latin(a)(o)(x),43,all_persons,2018-05-01,2018-05-31,Q12b,with_only_children,2
+Hispanic/Latin(a)(o)(x),43,all_persons,2018-05-01,2018-05-31,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_persons,2018-05-01,2018-05-31,Q12b,without_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2018-05-01,2018-05-31,Q12b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_persons,2018-05-01,2018-05-31,Q12b,with_only_children,1
+Client Doesn't Know/Client Refused,1,all_persons,2018-05-01,2018-05-31,Q12b,unknown_household_type,0
+Data Not Collected,3,all_persons,2018-05-01,2018-05-31,Q12b,without_children,1
+Data Not Collected,3,all_persons,2018-05-01,2018-05-31,Q12b,with_children_and_adults,0
+Data Not Collected,3,all_persons,2018-05-01,2018-05-31,Q12b,with_only_children,0
+Data Not Collected,3,all_persons,2018-05-01,2018-05-31,Q12b,unknown_household_type,2
+Non-Hispanic/Non-Latin(a)(o)(x),486,all_persons,2018-06-01,2018-06-30,Q12b,without_children,246
+Non-Hispanic/Non-Latin(a)(o)(x),486,all_persons,2018-06-01,2018-06-30,Q12b,with_children_and_adults,230
+Non-Hispanic/Non-Latin(a)(o)(x),486,all_persons,2018-06-01,2018-06-30,Q12b,with_only_children,9
+Non-Hispanic/Non-Latin(a)(o)(x),486,all_persons,2018-06-01,2018-06-30,Q12b,unknown_household_type,1
+Hispanic/Latin(a)(o)(x),45,all_persons,2018-06-01,2018-06-30,Q12b,without_children,13
+Hispanic/Latin(a)(o)(x),45,all_persons,2018-06-01,2018-06-30,Q12b,with_children_and_adults,30
+Hispanic/Latin(a)(o)(x),45,all_persons,2018-06-01,2018-06-30,Q12b,with_only_children,2
+Hispanic/Latin(a)(o)(x),45,all_persons,2018-06-01,2018-06-30,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_persons,2018-06-01,2018-06-30,Q12b,without_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2018-06-01,2018-06-30,Q12b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_persons,2018-06-01,2018-06-30,Q12b,with_only_children,1
+Client Doesn't Know/Client Refused,1,all_persons,2018-06-01,2018-06-30,Q12b,unknown_household_type,0
+Data Not Collected,2,all_persons,2018-06-01,2018-06-30,Q12b,without_children,0
+Data Not Collected,2,all_persons,2018-06-01,2018-06-30,Q12b,with_children_and_adults,0
+Data Not Collected,2,all_persons,2018-06-01,2018-06-30,Q12b,with_only_children,0
+Data Not Collected,2,all_persons,2018-06-01,2018-06-30,Q12b,unknown_household_type,2
+Non-Hispanic/Non-Latin(a)(o)(x),461,all_persons,2018-07-01,2018-07-31,Q12b,without_children,220
+Non-Hispanic/Non-Latin(a)(o)(x),461,all_persons,2018-07-01,2018-07-31,Q12b,with_children_and_adults,231
+Non-Hispanic/Non-Latin(a)(o)(x),461,all_persons,2018-07-01,2018-07-31,Q12b,with_only_children,10
+Non-Hispanic/Non-Latin(a)(o)(x),461,all_persons,2018-07-01,2018-07-31,Q12b,unknown_household_type,0
+Hispanic/Latin(a)(o)(x),37,all_persons,2018-07-01,2018-07-31,Q12b,without_children,11
+Hispanic/Latin(a)(o)(x),37,all_persons,2018-07-01,2018-07-31,Q12b,with_children_and_adults,24
+Hispanic/Latin(a)(o)(x),37,all_persons,2018-07-01,2018-07-31,Q12b,with_only_children,2
+Hispanic/Latin(a)(o)(x),37,all_persons,2018-07-01,2018-07-31,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_persons,2018-07-01,2018-07-31,Q12b,without_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2018-07-01,2018-07-31,Q12b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_persons,2018-07-01,2018-07-31,Q12b,with_only_children,1
+Client Doesn't Know/Client Refused,1,all_persons,2018-07-01,2018-07-31,Q12b,unknown_household_type,0
+Data Not Collected,1,all_persons,2018-07-01,2018-07-31,Q12b,without_children,0
+Data Not Collected,1,all_persons,2018-07-01,2018-07-31,Q12b,with_children_and_adults,0
+Data Not Collected,1,all_persons,2018-07-01,2018-07-31,Q12b,with_only_children,0
+Data Not Collected,1,all_persons,2018-07-01,2018-07-31,Q12b,unknown_household_type,1
+Non-Hispanic/Non-Latin(a)(o)(x),496,all_persons,2018-08-01,2018-08-31,Q12b,without_children,231
+Non-Hispanic/Non-Latin(a)(o)(x),496,all_persons,2018-08-01,2018-08-31,Q12b,with_children_and_adults,253
+Non-Hispanic/Non-Latin(a)(o)(x),496,all_persons,2018-08-01,2018-08-31,Q12b,with_only_children,12
+Non-Hispanic/Non-Latin(a)(o)(x),496,all_persons,2018-08-01,2018-08-31,Q12b,unknown_household_type,0
+Hispanic/Latin(a)(o)(x),46,all_persons,2018-08-01,2018-08-31,Q12b,without_children,14
+Hispanic/Latin(a)(o)(x),46,all_persons,2018-08-01,2018-08-31,Q12b,with_children_and_adults,30
+Hispanic/Latin(a)(o)(x),46,all_persons,2018-08-01,2018-08-31,Q12b,with_only_children,2
+Hispanic/Latin(a)(o)(x),46,all_persons,2018-08-01,2018-08-31,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_persons,2018-08-01,2018-08-31,Q12b,without_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2018-08-01,2018-08-31,Q12b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_persons,2018-08-01,2018-08-31,Q12b,with_only_children,1
+Client Doesn't Know/Client Refused,1,all_persons,2018-08-01,2018-08-31,Q12b,unknown_household_type,0
+Data Not Collected,1,all_persons,2018-08-01,2018-08-31,Q12b,without_children,0
+Data Not Collected,1,all_persons,2018-08-01,2018-08-31,Q12b,with_children_and_adults,0
+Data Not Collected,1,all_persons,2018-08-01,2018-08-31,Q12b,with_only_children,0
+Data Not Collected,1,all_persons,2018-08-01,2018-08-31,Q12b,unknown_household_type,1
+Non-Hispanic/Non-Latin(a)(o)(x),509,all_persons,2018-09-01,2018-09-30,Q12b,without_children,226
+Non-Hispanic/Non-Latin(a)(o)(x),509,all_persons,2018-09-01,2018-09-30,Q12b,with_children_and_adults,271
+Non-Hispanic/Non-Latin(a)(o)(x),509,all_persons,2018-09-01,2018-09-30,Q12b,with_only_children,12
+Non-Hispanic/Non-Latin(a)(o)(x),509,all_persons,2018-09-01,2018-09-30,Q12b,unknown_household_type,0
+Hispanic/Latin(a)(o)(x),47,all_persons,2018-09-01,2018-09-30,Q12b,without_children,12
+Hispanic/Latin(a)(o)(x),47,all_persons,2018-09-01,2018-09-30,Q12b,with_children_and_adults,33
+Hispanic/Latin(a)(o)(x),47,all_persons,2018-09-01,2018-09-30,Q12b,with_only_children,2
+Hispanic/Latin(a)(o)(x),47,all_persons,2018-09-01,2018-09-30,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_persons,2018-09-01,2018-09-30,Q12b,without_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2018-09-01,2018-09-30,Q12b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_persons,2018-09-01,2018-09-30,Q12b,with_only_children,1
+Client Doesn't Know/Client Refused,1,all_persons,2018-09-01,2018-09-30,Q12b,unknown_household_type,0
+Data Not Collected,1,all_persons,2018-09-01,2018-09-30,Q12b,without_children,0
+Data Not Collected,1,all_persons,2018-09-01,2018-09-30,Q12b,with_children_and_adults,0
+Data Not Collected,1,all_persons,2018-09-01,2018-09-30,Q12b,with_only_children,0
+Data Not Collected,1,all_persons,2018-09-01,2018-09-30,Q12b,unknown_household_type,1
+Non-Hispanic/Non-Latin(a)(o)(x),574,all_persons,2018-10-01,2018-10-31,Q12b,without_children,245
+Non-Hispanic/Non-Latin(a)(o)(x),574,all_persons,2018-10-01,2018-10-31,Q12b,with_children_and_adults,317
+Non-Hispanic/Non-Latin(a)(o)(x),574,all_persons,2018-10-01,2018-10-31,Q12b,with_only_children,12
+Non-Hispanic/Non-Latin(a)(o)(x),574,all_persons,2018-10-01,2018-10-31,Q12b,unknown_household_type,0
+Hispanic/Latin(a)(o)(x),42,all_persons,2018-10-01,2018-10-31,Q12b,without_children,12
+Hispanic/Latin(a)(o)(x),42,all_persons,2018-10-01,2018-10-31,Q12b,with_children_and_adults,28
+Hispanic/Latin(a)(o)(x),42,all_persons,2018-10-01,2018-10-31,Q12b,with_only_children,2
+Hispanic/Latin(a)(o)(x),42,all_persons,2018-10-01,2018-10-31,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_persons,2018-10-01,2018-10-31,Q12b,without_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2018-10-01,2018-10-31,Q12b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_persons,2018-10-01,2018-10-31,Q12b,with_only_children,1
+Client Doesn't Know/Client Refused,1,all_persons,2018-10-01,2018-10-31,Q12b,unknown_household_type,0
+Data Not Collected,1,all_persons,2018-10-01,2018-10-31,Q12b,without_children,0
+Data Not Collected,1,all_persons,2018-10-01,2018-10-31,Q12b,with_children_and_adults,0
+Data Not Collected,1,all_persons,2018-10-01,2018-10-31,Q12b,with_only_children,0
+Data Not Collected,1,all_persons,2018-10-01,2018-10-31,Q12b,unknown_household_type,1
+Non-Hispanic/Non-Latin(a)(o)(x),611,all_persons,2018-11-01,2018-11-30,Q12b,without_children,301
+Non-Hispanic/Non-Latin(a)(o)(x),611,all_persons,2018-11-01,2018-11-30,Q12b,with_children_and_adults,299
+Non-Hispanic/Non-Latin(a)(o)(x),611,all_persons,2018-11-01,2018-11-30,Q12b,with_only_children,11
+Non-Hispanic/Non-Latin(a)(o)(x),611,all_persons,2018-11-01,2018-11-30,Q12b,unknown_household_type,0
+Hispanic/Latin(a)(o)(x),51,all_persons,2018-11-01,2018-11-30,Q12b,without_children,18
+Hispanic/Latin(a)(o)(x),51,all_persons,2018-11-01,2018-11-30,Q12b,with_children_and_adults,33
+Hispanic/Latin(a)(o)(x),51,all_persons,2018-11-01,2018-11-30,Q12b,with_only_children,0
+Hispanic/Latin(a)(o)(x),51,all_persons,2018-11-01,2018-11-30,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_persons,2018-11-01,2018-11-30,Q12b,without_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2018-11-01,2018-11-30,Q12b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_persons,2018-11-01,2018-11-30,Q12b,with_only_children,1
+Client Doesn't Know/Client Refused,1,all_persons,2018-11-01,2018-11-30,Q12b,unknown_household_type,0
+Data Not Collected,1,all_persons,2018-11-01,2018-11-30,Q12b,without_children,0
+Data Not Collected,1,all_persons,2018-11-01,2018-11-30,Q12b,with_children_and_adults,0
+Data Not Collected,1,all_persons,2018-11-01,2018-11-30,Q12b,with_only_children,0
+Data Not Collected,1,all_persons,2018-11-01,2018-11-30,Q12b,unknown_household_type,1
+Non-Hispanic/Non-Latin(a)(o)(x),699,all_persons,2018-12-01,2018-12-31,Q12b,without_children,371
+Non-Hispanic/Non-Latin(a)(o)(x),699,all_persons,2018-12-01,2018-12-31,Q12b,with_children_and_adults,319
+Non-Hispanic/Non-Latin(a)(o)(x),699,all_persons,2018-12-01,2018-12-31,Q12b,with_only_children,9
+Non-Hispanic/Non-Latin(a)(o)(x),699,all_persons,2018-12-01,2018-12-31,Q12b,unknown_household_type,0
+Hispanic/Latin(a)(o)(x),61,all_persons,2018-12-01,2018-12-31,Q12b,without_children,28
+Hispanic/Latin(a)(o)(x),61,all_persons,2018-12-01,2018-12-31,Q12b,with_children_and_adults,33
+Hispanic/Latin(a)(o)(x),61,all_persons,2018-12-01,2018-12-31,Q12b,with_only_children,0
+Hispanic/Latin(a)(o)(x),61,all_persons,2018-12-01,2018-12-31,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_persons,2018-12-01,2018-12-31,Q12b,without_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2018-12-01,2018-12-31,Q12b,with_children_and_adults,1
+Client Doesn't Know/Client Refused,1,all_persons,2018-12-01,2018-12-31,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2018-12-01,2018-12-31,Q12b,unknown_household_type,0
+Data Not Collected,1,all_persons,2018-12-01,2018-12-31,Q12b,without_children,0
+Data Not Collected,1,all_persons,2018-12-01,2018-12-31,Q12b,with_children_and_adults,0
+Data Not Collected,1,all_persons,2018-12-01,2018-12-31,Q12b,with_only_children,0
+Data Not Collected,1,all_persons,2018-12-01,2018-12-31,Q12b,unknown_household_type,1
+Non-Hispanic/Non-Latin(a)(o)(x),782,all_persons,2019-01-01,2019-01-31,Q12b,without_children,474
+Non-Hispanic/Non-Latin(a)(o)(x),782,all_persons,2019-01-01,2019-01-31,Q12b,with_children_and_adults,295
+Non-Hispanic/Non-Latin(a)(o)(x),782,all_persons,2019-01-01,2019-01-31,Q12b,with_only_children,13
+Non-Hispanic/Non-Latin(a)(o)(x),782,all_persons,2019-01-01,2019-01-31,Q12b,unknown_household_type,0
+Hispanic/Latin(a)(o)(x),90,all_persons,2019-01-01,2019-01-31,Q12b,without_children,39
+Hispanic/Latin(a)(o)(x),90,all_persons,2019-01-01,2019-01-31,Q12b,with_children_and_adults,51
+Hispanic/Latin(a)(o)(x),90,all_persons,2019-01-01,2019-01-31,Q12b,with_only_children,0
+Hispanic/Latin(a)(o)(x),90,all_persons,2019-01-01,2019-01-31,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_persons,2019-01-01,2019-01-31,Q12b,without_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2019-01-01,2019-01-31,Q12b,with_children_and_adults,1
+Client Doesn't Know/Client Refused,1,all_persons,2019-01-01,2019-01-31,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2019-01-01,2019-01-31,Q12b,unknown_household_type,0
+Data Not Collected,1,all_persons,2019-01-01,2019-01-31,Q12b,without_children,0
+Data Not Collected,1,all_persons,2019-01-01,2019-01-31,Q12b,with_children_and_adults,0
+Data Not Collected,1,all_persons,2019-01-01,2019-01-31,Q12b,with_only_children,0
+Data Not Collected,1,all_persons,2019-01-01,2019-01-31,Q12b,unknown_household_type,1
+Non-Hispanic/Non-Latin(a)(o)(x),856,all_persons,2019-02-01,2019-02-28,Q12b,without_children,544
+Non-Hispanic/Non-Latin(a)(o)(x),856,all_persons,2019-02-01,2019-02-28,Q12b,with_children_and_adults,294
+Non-Hispanic/Non-Latin(a)(o)(x),856,all_persons,2019-02-01,2019-02-28,Q12b,with_only_children,14
+Non-Hispanic/Non-Latin(a)(o)(x),856,all_persons,2019-02-01,2019-02-28,Q12b,unknown_household_type,4
+Hispanic/Latin(a)(o)(x),97,all_persons,2019-02-01,2019-02-28,Q12b,without_children,40
+Hispanic/Latin(a)(o)(x),97,all_persons,2019-02-01,2019-02-28,Q12b,with_children_and_adults,57
+Hispanic/Latin(a)(o)(x),97,all_persons,2019-02-01,2019-02-28,Q12b,with_only_children,0
+Hispanic/Latin(a)(o)(x),97,all_persons,2019-02-01,2019-02-28,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_persons,2019-02-01,2019-02-28,Q12b,without_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2019-02-01,2019-02-28,Q12b,with_children_and_adults,1
+Client Doesn't Know/Client Refused,1,all_persons,2019-02-01,2019-02-28,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2019-02-01,2019-02-28,Q12b,unknown_household_type,0
+Data Not Collected,1,all_persons,2019-02-01,2019-02-28,Q12b,without_children,0
+Data Not Collected,1,all_persons,2019-02-01,2019-02-28,Q12b,with_children_and_adults,0
+Data Not Collected,1,all_persons,2019-02-01,2019-02-28,Q12b,with_only_children,0
+Data Not Collected,1,all_persons,2019-02-01,2019-02-28,Q12b,unknown_household_type,1
+Non-Hispanic/Non-Latin(a)(o)(x),825,all_persons,2019-03-01,2019-03-31,Q12b,without_children,532
+Non-Hispanic/Non-Latin(a)(o)(x),825,all_persons,2019-03-01,2019-03-31,Q12b,with_children_and_adults,275
+Non-Hispanic/Non-Latin(a)(o)(x),825,all_persons,2019-03-01,2019-03-31,Q12b,with_only_children,11
+Non-Hispanic/Non-Latin(a)(o)(x),825,all_persons,2019-03-01,2019-03-31,Q12b,unknown_household_type,7
+Hispanic/Latin(a)(o)(x),83,all_persons,2019-03-01,2019-03-31,Q12b,without_children,39
+Hispanic/Latin(a)(o)(x),83,all_persons,2019-03-01,2019-03-31,Q12b,with_children_and_adults,44
+Hispanic/Latin(a)(o)(x),83,all_persons,2019-03-01,2019-03-31,Q12b,with_only_children,0
+Hispanic/Latin(a)(o)(x),83,all_persons,2019-03-01,2019-03-31,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_persons,2019-03-01,2019-03-31,Q12b,without_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2019-03-01,2019-03-31,Q12b,with_children_and_adults,1
+Client Doesn't Know/Client Refused,1,all_persons,2019-03-01,2019-03-31,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2019-03-01,2019-03-31,Q12b,unknown_household_type,0
+Data Not Collected,1,all_persons,2019-03-01,2019-03-31,Q12b,without_children,0
+Data Not Collected,1,all_persons,2019-03-01,2019-03-31,Q12b,with_children_and_adults,0
+Data Not Collected,1,all_persons,2019-03-01,2019-03-31,Q12b,with_only_children,0
+Data Not Collected,1,all_persons,2019-03-01,2019-03-31,Q12b,unknown_household_type,1
+Non-Hispanic/Non-Latin(a)(o)(x),839,all_persons,2019-04-01,2019-04-30,Q12b,without_children,559
+Non-Hispanic/Non-Latin(a)(o)(x),839,all_persons,2019-04-01,2019-04-30,Q12b,with_children_and_adults,262
+Non-Hispanic/Non-Latin(a)(o)(x),839,all_persons,2019-04-01,2019-04-30,Q12b,with_only_children,11
+Non-Hispanic/Non-Latin(a)(o)(x),839,all_persons,2019-04-01,2019-04-30,Q12b,unknown_household_type,7
+Hispanic/Latin(a)(o)(x),77,all_persons,2019-04-01,2019-04-30,Q12b,without_children,35
+Hispanic/Latin(a)(o)(x),77,all_persons,2019-04-01,2019-04-30,Q12b,with_children_and_adults,42
+Hispanic/Latin(a)(o)(x),77,all_persons,2019-04-01,2019-04-30,Q12b,with_only_children,0
+Hispanic/Latin(a)(o)(x),77,all_persons,2019-04-01,2019-04-30,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_persons,2019-04-01,2019-04-30,Q12b,without_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2019-04-01,2019-04-30,Q12b,with_children_and_adults,1
+Client Doesn't Know/Client Refused,1,all_persons,2019-04-01,2019-04-30,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2019-04-01,2019-04-30,Q12b,unknown_household_type,0
+Data Not Collected,2,all_persons,2019-04-01,2019-04-30,Q12b,without_children,0
+Data Not Collected,2,all_persons,2019-04-01,2019-04-30,Q12b,with_children_and_adults,1
+Data Not Collected,2,all_persons,2019-04-01,2019-04-30,Q12b,with_only_children,0
+Data Not Collected,2,all_persons,2019-04-01,2019-04-30,Q12b,unknown_household_type,1
+Non-Hispanic/Non-Latin(a)(o)(x),856,all_persons,2019-05-01,2019-05-31,Q12b,without_children,539
+Non-Hispanic/Non-Latin(a)(o)(x),856,all_persons,2019-05-01,2019-05-31,Q12b,with_children_and_adults,296
+Non-Hispanic/Non-Latin(a)(o)(x),856,all_persons,2019-05-01,2019-05-31,Q12b,with_only_children,14
+Non-Hispanic/Non-Latin(a)(o)(x),856,all_persons,2019-05-01,2019-05-31,Q12b,unknown_household_type,7
+Hispanic/Latin(a)(o)(x),79,all_persons,2019-05-01,2019-05-31,Q12b,without_children,32
+Hispanic/Latin(a)(o)(x),79,all_persons,2019-05-01,2019-05-31,Q12b,with_children_and_adults,47
+Hispanic/Latin(a)(o)(x),79,all_persons,2019-05-01,2019-05-31,Q12b,with_only_children,0
+Hispanic/Latin(a)(o)(x),79,all_persons,2019-05-01,2019-05-31,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_persons,2019-05-01,2019-05-31,Q12b,without_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2019-05-01,2019-05-31,Q12b,with_children_and_adults,1
+Client Doesn't Know/Client Refused,1,all_persons,2019-05-01,2019-05-31,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2019-05-01,2019-05-31,Q12b,unknown_household_type,0
+Data Not Collected,2,all_persons,2019-05-01,2019-05-31,Q12b,without_children,0
+Data Not Collected,2,all_persons,2019-05-01,2019-05-31,Q12b,with_children_and_adults,1
+Data Not Collected,2,all_persons,2019-05-01,2019-05-31,Q12b,with_only_children,0
+Data Not Collected,2,all_persons,2019-05-01,2019-05-31,Q12b,unknown_household_type,1
+Non-Hispanic/Non-Latin(a)(o)(x),833,all_persons,2019-06-01,2019-06-30,Q12b,without_children,533
+Non-Hispanic/Non-Latin(a)(o)(x),833,all_persons,2019-06-01,2019-06-30,Q12b,with_children_and_adults,283
+Non-Hispanic/Non-Latin(a)(o)(x),833,all_persons,2019-06-01,2019-06-30,Q12b,with_only_children,14
+Non-Hispanic/Non-Latin(a)(o)(x),833,all_persons,2019-06-01,2019-06-30,Q12b,unknown_household_type,3
+Hispanic/Latin(a)(o)(x),89,all_persons,2019-06-01,2019-06-30,Q12b,without_children,35
+Hispanic/Latin(a)(o)(x),89,all_persons,2019-06-01,2019-06-30,Q12b,with_children_and_adults,54
+Hispanic/Latin(a)(o)(x),89,all_persons,2019-06-01,2019-06-30,Q12b,with_only_children,0
+Hispanic/Latin(a)(o)(x),89,all_persons,2019-06-01,2019-06-30,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_persons,2019-06-01,2019-06-30,Q12b,without_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2019-06-01,2019-06-30,Q12b,with_children_and_adults,1
+Client Doesn't Know/Client Refused,1,all_persons,2019-06-01,2019-06-30,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2019-06-01,2019-06-30,Q12b,unknown_household_type,0
+Data Not Collected,2,all_persons,2019-06-01,2019-06-30,Q12b,without_children,0
+Data Not Collected,2,all_persons,2019-06-01,2019-06-30,Q12b,with_children_and_adults,1
+Data Not Collected,2,all_persons,2019-06-01,2019-06-30,Q12b,with_only_children,0
+Data Not Collected,2,all_persons,2019-06-01,2019-06-30,Q12b,unknown_household_type,1
+Non-Hispanic/Non-Latin(a)(o)(x),983,all_persons,2019-07-01,2019-07-31,Q12b,without_children,567
+Non-Hispanic/Non-Latin(a)(o)(x),983,all_persons,2019-07-01,2019-07-31,Q12b,with_children_and_adults,398
+Non-Hispanic/Non-Latin(a)(o)(x),983,all_persons,2019-07-01,2019-07-31,Q12b,with_only_children,13
+Non-Hispanic/Non-Latin(a)(o)(x),983,all_persons,2019-07-01,2019-07-31,Q12b,unknown_household_type,5
+Hispanic/Latin(a)(o)(x),102,all_persons,2019-07-01,2019-07-31,Q12b,without_children,33
+Hispanic/Latin(a)(o)(x),102,all_persons,2019-07-01,2019-07-31,Q12b,with_children_and_adults,67
+Hispanic/Latin(a)(o)(x),102,all_persons,2019-07-01,2019-07-31,Q12b,with_only_children,2
+Hispanic/Latin(a)(o)(x),102,all_persons,2019-07-01,2019-07-31,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,2,all_persons,2019-07-01,2019-07-31,Q12b,without_children,0
+Client Doesn't Know/Client Refused,2,all_persons,2019-07-01,2019-07-31,Q12b,with_children_and_adults,2
+Client Doesn't Know/Client Refused,2,all_persons,2019-07-01,2019-07-31,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,2,all_persons,2019-07-01,2019-07-31,Q12b,unknown_household_type,0
+Data Not Collected,2,all_persons,2019-07-01,2019-07-31,Q12b,without_children,0
+Data Not Collected,2,all_persons,2019-07-01,2019-07-31,Q12b,with_children_and_adults,1
+Data Not Collected,2,all_persons,2019-07-01,2019-07-31,Q12b,with_only_children,0
+Data Not Collected,2,all_persons,2019-07-01,2019-07-31,Q12b,unknown_household_type,1
+Non-Hispanic/Non-Latin(a)(o)(x),1072,all_persons,2019-08-01,2019-08-31,Q12b,without_children,544
+Non-Hispanic/Non-Latin(a)(o)(x),1072,all_persons,2019-08-01,2019-08-31,Q12b,with_children_and_adults,509
+Non-Hispanic/Non-Latin(a)(o)(x),1072,all_persons,2019-08-01,2019-08-31,Q12b,with_only_children,14
+Non-Hispanic/Non-Latin(a)(o)(x),1072,all_persons,2019-08-01,2019-08-31,Q12b,unknown_household_type,5
+Hispanic/Latin(a)(o)(x),115,all_persons,2019-08-01,2019-08-31,Q12b,without_children,35
+Hispanic/Latin(a)(o)(x),115,all_persons,2019-08-01,2019-08-31,Q12b,with_children_and_adults,79
+Hispanic/Latin(a)(o)(x),115,all_persons,2019-08-01,2019-08-31,Q12b,with_only_children,1
+Hispanic/Latin(a)(o)(x),115,all_persons,2019-08-01,2019-08-31,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,2,all_persons,2019-08-01,2019-08-31,Q12b,without_children,0
+Client Doesn't Know/Client Refused,2,all_persons,2019-08-01,2019-08-31,Q12b,with_children_and_adults,2
+Client Doesn't Know/Client Refused,2,all_persons,2019-08-01,2019-08-31,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,2,all_persons,2019-08-01,2019-08-31,Q12b,unknown_household_type,0
+Data Not Collected,2,all_persons,2019-08-01,2019-08-31,Q12b,without_children,0
+Data Not Collected,2,all_persons,2019-08-01,2019-08-31,Q12b,with_children_and_adults,1
+Data Not Collected,2,all_persons,2019-08-01,2019-08-31,Q12b,with_only_children,0
+Data Not Collected,2,all_persons,2019-08-01,2019-08-31,Q12b,unknown_household_type,1
+Non-Hispanic/Non-Latin(a)(o)(x),1059,all_persons,2019-09-01,2019-09-30,Q12b,without_children,577
+Non-Hispanic/Non-Latin(a)(o)(x),1059,all_persons,2019-09-01,2019-09-30,Q12b,with_children_and_adults,464
+Non-Hispanic/Non-Latin(a)(o)(x),1059,all_persons,2019-09-01,2019-09-30,Q12b,with_only_children,13
+Non-Hispanic/Non-Latin(a)(o)(x),1059,all_persons,2019-09-01,2019-09-30,Q12b,unknown_household_type,5
+Hispanic/Latin(a)(o)(x),94,all_persons,2019-09-01,2019-09-30,Q12b,without_children,26
+Hispanic/Latin(a)(o)(x),94,all_persons,2019-09-01,2019-09-30,Q12b,with_children_and_adults,66
+Hispanic/Latin(a)(o)(x),94,all_persons,2019-09-01,2019-09-30,Q12b,with_only_children,2
+Hispanic/Latin(a)(o)(x),94,all_persons,2019-09-01,2019-09-30,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,2,all_persons,2019-09-01,2019-09-30,Q12b,without_children,0
+Client Doesn't Know/Client Refused,2,all_persons,2019-09-01,2019-09-30,Q12b,with_children_and_adults,2
+Client Doesn't Know/Client Refused,2,all_persons,2019-09-01,2019-09-30,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,2,all_persons,2019-09-01,2019-09-30,Q12b,unknown_household_type,0
+Data Not Collected,4,all_persons,2019-09-01,2019-09-30,Q12b,without_children,0
+Data Not Collected,4,all_persons,2019-09-01,2019-09-30,Q12b,with_children_and_adults,3
+Data Not Collected,4,all_persons,2019-09-01,2019-09-30,Q12b,with_only_children,0
+Data Not Collected,4,all_persons,2019-09-01,2019-09-30,Q12b,unknown_household_type,1
+Non-Hispanic/Non-Latin(a)(o)(x),1071,all_persons,2019-10-01,2019-10-31,Q12b,without_children,602
+Non-Hispanic/Non-Latin(a)(o)(x),1071,all_persons,2019-10-01,2019-10-31,Q12b,with_children_and_adults,445
+Non-Hispanic/Non-Latin(a)(o)(x),1071,all_persons,2019-10-01,2019-10-31,Q12b,with_only_children,13
+Non-Hispanic/Non-Latin(a)(o)(x),1071,all_persons,2019-10-01,2019-10-31,Q12b,unknown_household_type,11
+Hispanic/Latin(a)(o)(x),95,all_persons,2019-10-01,2019-10-31,Q12b,without_children,33
+Hispanic/Latin(a)(o)(x),95,all_persons,2019-10-01,2019-10-31,Q12b,with_children_and_adults,60
+Hispanic/Latin(a)(o)(x),95,all_persons,2019-10-01,2019-10-31,Q12b,with_only_children,2
+Hispanic/Latin(a)(o)(x),95,all_persons,2019-10-01,2019-10-31,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_persons,2019-10-01,2019-10-31,Q12b,without_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2019-10-01,2019-10-31,Q12b,with_children_and_adults,1
+Client Doesn't Know/Client Refused,1,all_persons,2019-10-01,2019-10-31,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2019-10-01,2019-10-31,Q12b,unknown_household_type,0
+Data Not Collected,6,all_persons,2019-10-01,2019-10-31,Q12b,without_children,0
+Data Not Collected,6,all_persons,2019-10-01,2019-10-31,Q12b,with_children_and_adults,2
+Data Not Collected,6,all_persons,2019-10-01,2019-10-31,Q12b,with_only_children,0
+Data Not Collected,6,all_persons,2019-10-01,2019-10-31,Q12b,unknown_household_type,4
+Non-Hispanic/Non-Latin(a)(o)(x),1087,all_persons,2019-11-01,2019-11-30,Q12b,without_children,629
+Non-Hispanic/Non-Latin(a)(o)(x),1087,all_persons,2019-11-01,2019-11-30,Q12b,with_children_and_adults,434
+Non-Hispanic/Non-Latin(a)(o)(x),1087,all_persons,2019-11-01,2019-11-30,Q12b,with_only_children,14
+Non-Hispanic/Non-Latin(a)(o)(x),1087,all_persons,2019-11-01,2019-11-30,Q12b,unknown_household_type,10
+Hispanic/Latin(a)(o)(x),103,all_persons,2019-11-01,2019-11-30,Q12b,without_children,34
+Hispanic/Latin(a)(o)(x),103,all_persons,2019-11-01,2019-11-30,Q12b,with_children_and_adults,67
+Hispanic/Latin(a)(o)(x),103,all_persons,2019-11-01,2019-11-30,Q12b,with_only_children,2
+Hispanic/Latin(a)(o)(x),103,all_persons,2019-11-01,2019-11-30,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,2,all_persons,2019-11-01,2019-11-30,Q12b,without_children,1
+Client Doesn't Know/Client Refused,2,all_persons,2019-11-01,2019-11-30,Q12b,with_children_and_adults,1
+Client Doesn't Know/Client Refused,2,all_persons,2019-11-01,2019-11-30,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,2,all_persons,2019-11-01,2019-11-30,Q12b,unknown_household_type,0
+Data Not Collected,7,all_persons,2019-11-01,2019-11-30,Q12b,without_children,2
+Data Not Collected,7,all_persons,2019-11-01,2019-11-30,Q12b,with_children_and_adults,2
+Data Not Collected,7,all_persons,2019-11-01,2019-11-30,Q12b,with_only_children,0
+Data Not Collected,7,all_persons,2019-11-01,2019-11-30,Q12b,unknown_household_type,3
+Non-Hispanic/Non-Latin(a)(o)(x),1118,all_persons,2019-12-01,2019-12-31,Q12b,without_children,632
+Non-Hispanic/Non-Latin(a)(o)(x),1118,all_persons,2019-12-01,2019-12-31,Q12b,with_children_and_adults,463
+Non-Hispanic/Non-Latin(a)(o)(x),1118,all_persons,2019-12-01,2019-12-31,Q12b,with_only_children,13
+Non-Hispanic/Non-Latin(a)(o)(x),1118,all_persons,2019-12-01,2019-12-31,Q12b,unknown_household_type,10
+Hispanic/Latin(a)(o)(x),103,all_persons,2019-12-01,2019-12-31,Q12b,without_children,35
+Hispanic/Latin(a)(o)(x),103,all_persons,2019-12-01,2019-12-31,Q12b,with_children_and_adults,66
+Hispanic/Latin(a)(o)(x),103,all_persons,2019-12-01,2019-12-31,Q12b,with_only_children,2
+Hispanic/Latin(a)(o)(x),103,all_persons,2019-12-01,2019-12-31,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_persons,2019-12-01,2019-12-31,Q12b,without_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2019-12-01,2019-12-31,Q12b,with_children_and_adults,1
+Client Doesn't Know/Client Refused,1,all_persons,2019-12-01,2019-12-31,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2019-12-01,2019-12-31,Q12b,unknown_household_type,0
+Data Not Collected,6,all_persons,2019-12-01,2019-12-31,Q12b,without_children,2
+Data Not Collected,6,all_persons,2019-12-01,2019-12-31,Q12b,with_children_and_adults,1
+Data Not Collected,6,all_persons,2019-12-01,2019-12-31,Q12b,with_only_children,0
+Data Not Collected,6,all_persons,2019-12-01,2019-12-31,Q12b,unknown_household_type,3
+Non-Hispanic/Non-Latin(a)(o)(x),1123,all_persons,2020-01-01,2020-01-31,Q12b,without_children,672
+Non-Hispanic/Non-Latin(a)(o)(x),1123,all_persons,2020-01-01,2020-01-31,Q12b,with_children_and_adults,430
+Non-Hispanic/Non-Latin(a)(o)(x),1123,all_persons,2020-01-01,2020-01-31,Q12b,with_only_children,11
+Non-Hispanic/Non-Latin(a)(o)(x),1123,all_persons,2020-01-01,2020-01-31,Q12b,unknown_household_type,10
+Hispanic/Latin(a)(o)(x),116,all_persons,2020-01-01,2020-01-31,Q12b,without_children,55
+Hispanic/Latin(a)(o)(x),116,all_persons,2020-01-01,2020-01-31,Q12b,with_children_and_adults,59
+Hispanic/Latin(a)(o)(x),116,all_persons,2020-01-01,2020-01-31,Q12b,with_only_children,2
+Hispanic/Latin(a)(o)(x),116,all_persons,2020-01-01,2020-01-31,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_persons,2020-01-01,2020-01-31,Q12b,without_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2020-01-01,2020-01-31,Q12b,with_children_and_adults,1
+Client Doesn't Know/Client Refused,1,all_persons,2020-01-01,2020-01-31,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2020-01-01,2020-01-31,Q12b,unknown_household_type,0
+Data Not Collected,6,all_persons,2020-01-01,2020-01-31,Q12b,without_children,2
+Data Not Collected,6,all_persons,2020-01-01,2020-01-31,Q12b,with_children_and_adults,1
+Data Not Collected,6,all_persons,2020-01-01,2020-01-31,Q12b,with_only_children,0
+Data Not Collected,6,all_persons,2020-01-01,2020-01-31,Q12b,unknown_household_type,3
+Non-Hispanic/Non-Latin(a)(o)(x),1098,all_persons,2020-02-01,2020-02-29,Q12b,without_children,664
+Non-Hispanic/Non-Latin(a)(o)(x),1098,all_persons,2020-02-01,2020-02-29,Q12b,with_children_and_adults,413
+Non-Hispanic/Non-Latin(a)(o)(x),1098,all_persons,2020-02-01,2020-02-29,Q12b,with_only_children,11
+Non-Hispanic/Non-Latin(a)(o)(x),1098,all_persons,2020-02-01,2020-02-29,Q12b,unknown_household_type,10
+Hispanic/Latin(a)(o)(x),96,all_persons,2020-02-01,2020-02-29,Q12b,without_children,40
+Hispanic/Latin(a)(o)(x),96,all_persons,2020-02-01,2020-02-29,Q12b,with_children_and_adults,54
+Hispanic/Latin(a)(o)(x),96,all_persons,2020-02-01,2020-02-29,Q12b,with_only_children,2
+Hispanic/Latin(a)(o)(x),96,all_persons,2020-02-01,2020-02-29,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_persons,2020-02-01,2020-02-29,Q12b,without_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2020-02-01,2020-02-29,Q12b,with_children_and_adults,1
+Client Doesn't Know/Client Refused,1,all_persons,2020-02-01,2020-02-29,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2020-02-01,2020-02-29,Q12b,unknown_household_type,0
+Data Not Collected,5,all_persons,2020-02-01,2020-02-29,Q12b,without_children,1
+Data Not Collected,5,all_persons,2020-02-01,2020-02-29,Q12b,with_children_and_adults,1
+Data Not Collected,5,all_persons,2020-02-01,2020-02-29,Q12b,with_only_children,0
+Data Not Collected,5,all_persons,2020-02-01,2020-02-29,Q12b,unknown_household_type,3
+Non-Hispanic/Non-Latin(a)(o)(x),1020,all_persons,2020-03-01,2020-03-31,Q12b,without_children,644
+Non-Hispanic/Non-Latin(a)(o)(x),1020,all_persons,2020-03-01,2020-03-31,Q12b,with_children_and_adults,353
+Non-Hispanic/Non-Latin(a)(o)(x),1020,all_persons,2020-03-01,2020-03-31,Q12b,with_only_children,13
+Non-Hispanic/Non-Latin(a)(o)(x),1020,all_persons,2020-03-01,2020-03-31,Q12b,unknown_household_type,10
+Hispanic/Latin(a)(o)(x),85,all_persons,2020-03-01,2020-03-31,Q12b,without_children,34
+Hispanic/Latin(a)(o)(x),85,all_persons,2020-03-01,2020-03-31,Q12b,with_children_and_adults,49
+Hispanic/Latin(a)(o)(x),85,all_persons,2020-03-01,2020-03-31,Q12b,with_only_children,2
+Hispanic/Latin(a)(o)(x),85,all_persons,2020-03-01,2020-03-31,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,2,all_persons,2020-03-01,2020-03-31,Q12b,without_children,1
+Client Doesn't Know/Client Refused,2,all_persons,2020-03-01,2020-03-31,Q12b,with_children_and_adults,1
+Client Doesn't Know/Client Refused,2,all_persons,2020-03-01,2020-03-31,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,2,all_persons,2020-03-01,2020-03-31,Q12b,unknown_household_type,0
+Data Not Collected,5,all_persons,2020-03-01,2020-03-31,Q12b,without_children,1
+Data Not Collected,5,all_persons,2020-03-01,2020-03-31,Q12b,with_children_and_adults,1
+Data Not Collected,5,all_persons,2020-03-01,2020-03-31,Q12b,with_only_children,0
+Data Not Collected,5,all_persons,2020-03-01,2020-03-31,Q12b,unknown_household_type,3
+Non-Hispanic/Non-Latin(a)(o)(x),983,all_persons,2020-04-01,2020-04-30,Q12b,without_children,631
+Non-Hispanic/Non-Latin(a)(o)(x),983,all_persons,2020-04-01,2020-04-30,Q12b,with_children_and_adults,329
+Non-Hispanic/Non-Latin(a)(o)(x),983,all_persons,2020-04-01,2020-04-30,Q12b,with_only_children,13
+Non-Hispanic/Non-Latin(a)(o)(x),983,all_persons,2020-04-01,2020-04-30,Q12b,unknown_household_type,10
+Hispanic/Latin(a)(o)(x),94,all_persons,2020-04-01,2020-04-30,Q12b,without_children,41
+Hispanic/Latin(a)(o)(x),94,all_persons,2020-04-01,2020-04-30,Q12b,with_children_and_adults,51
+Hispanic/Latin(a)(o)(x),94,all_persons,2020-04-01,2020-04-30,Q12b,with_only_children,2
+Hispanic/Latin(a)(o)(x),94,all_persons,2020-04-01,2020-04-30,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,3,all_persons,2020-04-01,2020-04-30,Q12b,without_children,2
+Client Doesn't Know/Client Refused,3,all_persons,2020-04-01,2020-04-30,Q12b,with_children_and_adults,1
+Client Doesn't Know/Client Refused,3,all_persons,2020-04-01,2020-04-30,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,3,all_persons,2020-04-01,2020-04-30,Q12b,unknown_household_type,0
+Data Not Collected,5,all_persons,2020-04-01,2020-04-30,Q12b,without_children,1
+Data Not Collected,5,all_persons,2020-04-01,2020-04-30,Q12b,with_children_and_adults,1
+Data Not Collected,5,all_persons,2020-04-01,2020-04-30,Q12b,with_only_children,0
+Data Not Collected,5,all_persons,2020-04-01,2020-04-30,Q12b,unknown_household_type,3
+Non-Hispanic/Non-Latin(a)(o)(x),979,all_persons,2020-05-01,2020-05-31,Q12b,without_children,639
+Non-Hispanic/Non-Latin(a)(o)(x),979,all_persons,2020-05-01,2020-05-31,Q12b,with_children_and_adults,318
+Non-Hispanic/Non-Latin(a)(o)(x),979,all_persons,2020-05-01,2020-05-31,Q12b,with_only_children,13
+Non-Hispanic/Non-Latin(a)(o)(x),979,all_persons,2020-05-01,2020-05-31,Q12b,unknown_household_type,9
+Hispanic/Latin(a)(o)(x),85,all_persons,2020-05-01,2020-05-31,Q12b,without_children,35
+Hispanic/Latin(a)(o)(x),85,all_persons,2020-05-01,2020-05-31,Q12b,with_children_and_adults,48
+Hispanic/Latin(a)(o)(x),85,all_persons,2020-05-01,2020-05-31,Q12b,with_only_children,2
+Hispanic/Latin(a)(o)(x),85,all_persons,2020-05-01,2020-05-31,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,3,all_persons,2020-05-01,2020-05-31,Q12b,without_children,2
+Client Doesn't Know/Client Refused,3,all_persons,2020-05-01,2020-05-31,Q12b,with_children_and_adults,1
+Client Doesn't Know/Client Refused,3,all_persons,2020-05-01,2020-05-31,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,3,all_persons,2020-05-01,2020-05-31,Q12b,unknown_household_type,0
+Data Not Collected,6,all_persons,2020-05-01,2020-05-31,Q12b,without_children,2
+Data Not Collected,6,all_persons,2020-05-01,2020-05-31,Q12b,with_children_and_adults,1
+Data Not Collected,6,all_persons,2020-05-01,2020-05-31,Q12b,with_only_children,0
+Data Not Collected,6,all_persons,2020-05-01,2020-05-31,Q12b,unknown_household_type,3
+Non-Hispanic/Non-Latin(a)(o)(x),991,all_persons,2020-06-01,2020-06-30,Q12b,without_children,646
+Non-Hispanic/Non-Latin(a)(o)(x),991,all_persons,2020-06-01,2020-06-30,Q12b,with_children_and_adults,323
+Non-Hispanic/Non-Latin(a)(o)(x),991,all_persons,2020-06-01,2020-06-30,Q12b,with_only_children,13
+Non-Hispanic/Non-Latin(a)(o)(x),991,all_persons,2020-06-01,2020-06-30,Q12b,unknown_household_type,9
+Hispanic/Latin(a)(o)(x),95,all_persons,2020-06-01,2020-06-30,Q12b,without_children,37
+Hispanic/Latin(a)(o)(x),95,all_persons,2020-06-01,2020-06-30,Q12b,with_children_and_adults,56
+Hispanic/Latin(a)(o)(x),95,all_persons,2020-06-01,2020-06-30,Q12b,with_only_children,2
+Hispanic/Latin(a)(o)(x),95,all_persons,2020-06-01,2020-06-30,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,2,all_persons,2020-06-01,2020-06-30,Q12b,without_children,1
+Client Doesn't Know/Client Refused,2,all_persons,2020-06-01,2020-06-30,Q12b,with_children_and_adults,1
+Client Doesn't Know/Client Refused,2,all_persons,2020-06-01,2020-06-30,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,2,all_persons,2020-06-01,2020-06-30,Q12b,unknown_household_type,0
+Data Not Collected,6,all_persons,2020-06-01,2020-06-30,Q12b,without_children,2
+Data Not Collected,6,all_persons,2020-06-01,2020-06-30,Q12b,with_children_and_adults,1
+Data Not Collected,6,all_persons,2020-06-01,2020-06-30,Q12b,with_only_children,0
+Data Not Collected,6,all_persons,2020-06-01,2020-06-30,Q12b,unknown_household_type,3
+Non-Hispanic/Non-Latin(a)(o)(x),953,all_persons,2020-07-01,2020-07-31,Q12b,without_children,609
+Non-Hispanic/Non-Latin(a)(o)(x),953,all_persons,2020-07-01,2020-07-31,Q12b,with_children_and_adults,322
+Non-Hispanic/Non-Latin(a)(o)(x),953,all_persons,2020-07-01,2020-07-31,Q12b,with_only_children,13
+Non-Hispanic/Non-Latin(a)(o)(x),953,all_persons,2020-07-01,2020-07-31,Q12b,unknown_household_type,9
+Hispanic/Latin(a)(o)(x),95,all_persons,2020-07-01,2020-07-31,Q12b,without_children,37
+Hispanic/Latin(a)(o)(x),95,all_persons,2020-07-01,2020-07-31,Q12b,with_children_and_adults,56
+Hispanic/Latin(a)(o)(x),95,all_persons,2020-07-01,2020-07-31,Q12b,with_only_children,2
+Hispanic/Latin(a)(o)(x),95,all_persons,2020-07-01,2020-07-31,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,2,all_persons,2020-07-01,2020-07-31,Q12b,without_children,1
+Client Doesn't Know/Client Refused,2,all_persons,2020-07-01,2020-07-31,Q12b,with_children_and_adults,1
+Client Doesn't Know/Client Refused,2,all_persons,2020-07-01,2020-07-31,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,2,all_persons,2020-07-01,2020-07-31,Q12b,unknown_household_type,0
+Data Not Collected,6,all_persons,2020-07-01,2020-07-31,Q12b,without_children,2
+Data Not Collected,6,all_persons,2020-07-01,2020-07-31,Q12b,with_children_and_adults,1
+Data Not Collected,6,all_persons,2020-07-01,2020-07-31,Q12b,with_only_children,0
+Data Not Collected,6,all_persons,2020-07-01,2020-07-31,Q12b,unknown_household_type,3
+Non-Hispanic/Non-Latin(a)(o)(x),943,all_persons,2020-08-01,2020-08-31,Q12b,without_children,613
+Non-Hispanic/Non-Latin(a)(o)(x),943,all_persons,2020-08-01,2020-08-31,Q12b,with_children_and_adults,308
+Non-Hispanic/Non-Latin(a)(o)(x),943,all_persons,2020-08-01,2020-08-31,Q12b,with_only_children,13
+Non-Hispanic/Non-Latin(a)(o)(x),943,all_persons,2020-08-01,2020-08-31,Q12b,unknown_household_type,9
+Hispanic/Latin(a)(o)(x),90,all_persons,2020-08-01,2020-08-31,Q12b,without_children,35
+Hispanic/Latin(a)(o)(x),90,all_persons,2020-08-01,2020-08-31,Q12b,with_children_and_adults,53
+Hispanic/Latin(a)(o)(x),90,all_persons,2020-08-01,2020-08-31,Q12b,with_only_children,2
+Hispanic/Latin(a)(o)(x),90,all_persons,2020-08-01,2020-08-31,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,2,all_persons,2020-08-01,2020-08-31,Q12b,without_children,1
+Client Doesn't Know/Client Refused,2,all_persons,2020-08-01,2020-08-31,Q12b,with_children_and_adults,1
+Client Doesn't Know/Client Refused,2,all_persons,2020-08-01,2020-08-31,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,2,all_persons,2020-08-01,2020-08-31,Q12b,unknown_household_type,0
+Data Not Collected,6,all_persons,2020-08-01,2020-08-31,Q12b,without_children,2
+Data Not Collected,6,all_persons,2020-08-01,2020-08-31,Q12b,with_children_and_adults,1
+Data Not Collected,6,all_persons,2020-08-01,2020-08-31,Q12b,with_only_children,0
+Data Not Collected,6,all_persons,2020-08-01,2020-08-31,Q12b,unknown_household_type,3
+Non-Hispanic/Non-Latin(a)(o)(x),991,all_persons,2020-09-01,2020-09-30,Q12b,without_children,636
+Non-Hispanic/Non-Latin(a)(o)(x),991,all_persons,2020-09-01,2020-09-30,Q12b,with_children_and_adults,333
+Non-Hispanic/Non-Latin(a)(o)(x),991,all_persons,2020-09-01,2020-09-30,Q12b,with_only_children,13
+Non-Hispanic/Non-Latin(a)(o)(x),991,all_persons,2020-09-01,2020-09-30,Q12b,unknown_household_type,9
+Hispanic/Latin(a)(o)(x),91,all_persons,2020-09-01,2020-09-30,Q12b,without_children,37
+Hispanic/Latin(a)(o)(x),91,all_persons,2020-09-01,2020-09-30,Q12b,with_children_and_adults,52
+Hispanic/Latin(a)(o)(x),91,all_persons,2020-09-01,2020-09-30,Q12b,with_only_children,2
+Hispanic/Latin(a)(o)(x),91,all_persons,2020-09-01,2020-09-30,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,2,all_persons,2020-09-01,2020-09-30,Q12b,without_children,1
+Client Doesn't Know/Client Refused,2,all_persons,2020-09-01,2020-09-30,Q12b,with_children_and_adults,1
+Client Doesn't Know/Client Refused,2,all_persons,2020-09-01,2020-09-30,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,2,all_persons,2020-09-01,2020-09-30,Q12b,unknown_household_type,0
+Data Not Collected,7,all_persons,2020-09-01,2020-09-30,Q12b,without_children,2
+Data Not Collected,7,all_persons,2020-09-01,2020-09-30,Q12b,with_children_and_adults,2
+Data Not Collected,7,all_persons,2020-09-01,2020-09-30,Q12b,with_only_children,0
+Data Not Collected,7,all_persons,2020-09-01,2020-09-30,Q12b,unknown_household_type,3
+Non-Hispanic/Non-Latin(a)(o)(x),1033,all_persons,2020-10-01,2020-10-31,Q12b,without_children,666
+Non-Hispanic/Non-Latin(a)(o)(x),1033,all_persons,2020-10-01,2020-10-31,Q12b,with_children_and_adults,342
+Non-Hispanic/Non-Latin(a)(o)(x),1033,all_persons,2020-10-01,2020-10-31,Q12b,with_only_children,14
+Non-Hispanic/Non-Latin(a)(o)(x),1033,all_persons,2020-10-01,2020-10-31,Q12b,unknown_household_type,11
+Hispanic/Latin(a)(o)(x),93,all_persons,2020-10-01,2020-10-31,Q12b,without_children,37
+Hispanic/Latin(a)(o)(x),93,all_persons,2020-10-01,2020-10-31,Q12b,with_children_and_adults,54
+Hispanic/Latin(a)(o)(x),93,all_persons,2020-10-01,2020-10-31,Q12b,with_only_children,2
+Hispanic/Latin(a)(o)(x),93,all_persons,2020-10-01,2020-10-31,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,2,all_persons,2020-10-01,2020-10-31,Q12b,without_children,1
+Client Doesn't Know/Client Refused,2,all_persons,2020-10-01,2020-10-31,Q12b,with_children_and_adults,1
+Client Doesn't Know/Client Refused,2,all_persons,2020-10-01,2020-10-31,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,2,all_persons,2020-10-01,2020-10-31,Q12b,unknown_household_type,0
+Data Not Collected,6,all_persons,2020-10-01,2020-10-31,Q12b,without_children,2
+Data Not Collected,6,all_persons,2020-10-01,2020-10-31,Q12b,with_children_and_adults,1
+Data Not Collected,6,all_persons,2020-10-01,2020-10-31,Q12b,with_only_children,0
+Data Not Collected,6,all_persons,2020-10-01,2020-10-31,Q12b,unknown_household_type,3
+Non-Hispanic/Non-Latin(a)(o)(x),1094,all_persons,2020-11-01,2020-11-30,Q12b,without_children,721
+Non-Hispanic/Non-Latin(a)(o)(x),1094,all_persons,2020-11-01,2020-11-30,Q12b,with_children_and_adults,348
+Non-Hispanic/Non-Latin(a)(o)(x),1094,all_persons,2020-11-01,2020-11-30,Q12b,with_only_children,14
+Non-Hispanic/Non-Latin(a)(o)(x),1094,all_persons,2020-11-01,2020-11-30,Q12b,unknown_household_type,11
+Hispanic/Latin(a)(o)(x),104,all_persons,2020-11-01,2020-11-30,Q12b,without_children,48
+Hispanic/Latin(a)(o)(x),104,all_persons,2020-11-01,2020-11-30,Q12b,with_children_and_adults,54
+Hispanic/Latin(a)(o)(x),104,all_persons,2020-11-01,2020-11-30,Q12b,with_only_children,2
+Hispanic/Latin(a)(o)(x),104,all_persons,2020-11-01,2020-11-30,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_persons,2020-11-01,2020-11-30,Q12b,without_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2020-11-01,2020-11-30,Q12b,with_children_and_adults,1
+Client Doesn't Know/Client Refused,1,all_persons,2020-11-01,2020-11-30,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2020-11-01,2020-11-30,Q12b,unknown_household_type,0
+Data Not Collected,6,all_persons,2020-11-01,2020-11-30,Q12b,without_children,2
+Data Not Collected,6,all_persons,2020-11-01,2020-11-30,Q12b,with_children_and_adults,1
+Data Not Collected,6,all_persons,2020-11-01,2020-11-30,Q12b,with_only_children,0
+Data Not Collected,6,all_persons,2020-11-01,2020-11-30,Q12b,unknown_household_type,3
+Non-Hispanic/Non-Latin(a)(o)(x),1120,all_persons,2020-12-01,2020-12-31,Q12b,without_children,734
+Non-Hispanic/Non-Latin(a)(o)(x),1120,all_persons,2020-12-01,2020-12-31,Q12b,with_children_and_adults,361
+Non-Hispanic/Non-Latin(a)(o)(x),1120,all_persons,2020-12-01,2020-12-31,Q12b,with_only_children,14
+Non-Hispanic/Non-Latin(a)(o)(x),1120,all_persons,2020-12-01,2020-12-31,Q12b,unknown_household_type,11
+Hispanic/Latin(a)(o)(x),98,all_persons,2020-12-01,2020-12-31,Q12b,without_children,43
+Hispanic/Latin(a)(o)(x),98,all_persons,2020-12-01,2020-12-31,Q12b,with_children_and_adults,53
+Hispanic/Latin(a)(o)(x),98,all_persons,2020-12-01,2020-12-31,Q12b,with_only_children,2
+Hispanic/Latin(a)(o)(x),98,all_persons,2020-12-01,2020-12-31,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_persons,2020-12-01,2020-12-31,Q12b,without_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2020-12-01,2020-12-31,Q12b,with_children_and_adults,1
+Client Doesn't Know/Client Refused,1,all_persons,2020-12-01,2020-12-31,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2020-12-01,2020-12-31,Q12b,unknown_household_type,0
+Data Not Collected,7,all_persons,2020-12-01,2020-12-31,Q12b,without_children,2
+Data Not Collected,7,all_persons,2020-12-01,2020-12-31,Q12b,with_children_and_adults,2
+Data Not Collected,7,all_persons,2020-12-01,2020-12-31,Q12b,with_only_children,0
+Data Not Collected,7,all_persons,2020-12-01,2020-12-31,Q12b,unknown_household_type,3
+Non-Hispanic/Non-Latin(a)(o)(x),1136,all_persons,2021-01-01,2021-01-31,Q12b,without_children,760
+Non-Hispanic/Non-Latin(a)(o)(x),1136,all_persons,2021-01-01,2021-01-31,Q12b,with_children_and_adults,349
+Non-Hispanic/Non-Latin(a)(o)(x),1136,all_persons,2021-01-01,2021-01-31,Q12b,with_only_children,15
+Non-Hispanic/Non-Latin(a)(o)(x),1136,all_persons,2021-01-01,2021-01-31,Q12b,unknown_household_type,12
+Hispanic/Latin(a)(o)(x),105,all_persons,2021-01-01,2021-01-31,Q12b,without_children,44
+Hispanic/Latin(a)(o)(x),105,all_persons,2021-01-01,2021-01-31,Q12b,with_children_and_adults,59
+Hispanic/Latin(a)(o)(x),105,all_persons,2021-01-01,2021-01-31,Q12b,with_only_children,2
+Hispanic/Latin(a)(o)(x),105,all_persons,2021-01-01,2021-01-31,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_persons,2021-01-01,2021-01-31,Q12b,without_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2021-01-01,2021-01-31,Q12b,with_children_and_adults,1
+Client Doesn't Know/Client Refused,1,all_persons,2021-01-01,2021-01-31,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2021-01-01,2021-01-31,Q12b,unknown_household_type,0
+Data Not Collected,7,all_persons,2021-01-01,2021-01-31,Q12b,without_children,2
+Data Not Collected,7,all_persons,2021-01-01,2021-01-31,Q12b,with_children_and_adults,2
+Data Not Collected,7,all_persons,2021-01-01,2021-01-31,Q12b,with_only_children,0
+Data Not Collected,7,all_persons,2021-01-01,2021-01-31,Q12b,unknown_household_type,3
+Non-Hispanic/Non-Latin(a)(o)(x),1098,all_persons,2021-02-01,2021-02-28,Q12b,without_children,721
+Non-Hispanic/Non-Latin(a)(o)(x),1098,all_persons,2021-02-01,2021-02-28,Q12b,with_children_and_adults,351
+Non-Hispanic/Non-Latin(a)(o)(x),1098,all_persons,2021-02-01,2021-02-28,Q12b,with_only_children,15
+Non-Hispanic/Non-Latin(a)(o)(x),1098,all_persons,2021-02-01,2021-02-28,Q12b,unknown_household_type,11
+Hispanic/Latin(a)(o)(x),96,all_persons,2021-02-01,2021-02-28,Q12b,without_children,39
+Hispanic/Latin(a)(o)(x),96,all_persons,2021-02-01,2021-02-28,Q12b,with_children_and_adults,55
+Hispanic/Latin(a)(o)(x),96,all_persons,2021-02-01,2021-02-28,Q12b,with_only_children,2
+Hispanic/Latin(a)(o)(x),96,all_persons,2021-02-01,2021-02-28,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_persons,2021-02-01,2021-02-28,Q12b,without_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2021-02-01,2021-02-28,Q12b,with_children_and_adults,1
+Client Doesn't Know/Client Refused,1,all_persons,2021-02-01,2021-02-28,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2021-02-01,2021-02-28,Q12b,unknown_household_type,0
+Data Not Collected,7,all_persons,2021-02-01,2021-02-28,Q12b,without_children,2
+Data Not Collected,7,all_persons,2021-02-01,2021-02-28,Q12b,with_children_and_adults,2
+Data Not Collected,7,all_persons,2021-02-01,2021-02-28,Q12b,with_only_children,0
+Data Not Collected,7,all_persons,2021-02-01,2021-02-28,Q12b,unknown_household_type,3
+Non-Hispanic/Non-Latin(a)(o)(x),1092,all_persons,2021-03-01,2021-03-31,Q12b,without_children,722
+Non-Hispanic/Non-Latin(a)(o)(x),1092,all_persons,2021-03-01,2021-03-31,Q12b,with_children_and_adults,340
+Non-Hispanic/Non-Latin(a)(o)(x),1092,all_persons,2021-03-01,2021-03-31,Q12b,with_only_children,19
+Non-Hispanic/Non-Latin(a)(o)(x),1092,all_persons,2021-03-01,2021-03-31,Q12b,unknown_household_type,11
+Hispanic/Latin(a)(o)(x),101,all_persons,2021-03-01,2021-03-31,Q12b,without_children,40
+Hispanic/Latin(a)(o)(x),101,all_persons,2021-03-01,2021-03-31,Q12b,with_children_and_adults,59
+Hispanic/Latin(a)(o)(x),101,all_persons,2021-03-01,2021-03-31,Q12b,with_only_children,2
+Hispanic/Latin(a)(o)(x),101,all_persons,2021-03-01,2021-03-31,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_persons,2021-03-01,2021-03-31,Q12b,without_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2021-03-01,2021-03-31,Q12b,with_children_and_adults,1
+Client Doesn't Know/Client Refused,1,all_persons,2021-03-01,2021-03-31,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2021-03-01,2021-03-31,Q12b,unknown_household_type,0
+Data Not Collected,7,all_persons,2021-03-01,2021-03-31,Q12b,without_children,2
+Data Not Collected,7,all_persons,2021-03-01,2021-03-31,Q12b,with_children_and_adults,2
+Data Not Collected,7,all_persons,2021-03-01,2021-03-31,Q12b,with_only_children,0
+Data Not Collected,7,all_persons,2021-03-01,2021-03-31,Q12b,unknown_household_type,3
+Non-Hispanic/Non-Latin(a)(o)(x),1058,all_persons,2021-04-01,2021-04-30,Q12b,without_children,696
+Non-Hispanic/Non-Latin(a)(o)(x),1058,all_persons,2021-04-01,2021-04-30,Q12b,with_children_and_adults,332
+Non-Hispanic/Non-Latin(a)(o)(x),1058,all_persons,2021-04-01,2021-04-30,Q12b,with_only_children,19
+Non-Hispanic/Non-Latin(a)(o)(x),1058,all_persons,2021-04-01,2021-04-30,Q12b,unknown_household_type,11
+Hispanic/Latin(a)(o)(x),89,all_persons,2021-04-01,2021-04-30,Q12b,without_children,39
+Hispanic/Latin(a)(o)(x),89,all_persons,2021-04-01,2021-04-30,Q12b,with_children_and_adults,48
+Hispanic/Latin(a)(o)(x),89,all_persons,2021-04-01,2021-04-30,Q12b,with_only_children,2
+Hispanic/Latin(a)(o)(x),89,all_persons,2021-04-01,2021-04-30,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_persons,2021-04-01,2021-04-30,Q12b,without_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2021-04-01,2021-04-30,Q12b,with_children_and_adults,1
+Client Doesn't Know/Client Refused,1,all_persons,2021-04-01,2021-04-30,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2021-04-01,2021-04-30,Q12b,unknown_household_type,0
+Data Not Collected,9,all_persons,2021-04-01,2021-04-30,Q12b,without_children,4
+Data Not Collected,9,all_persons,2021-04-01,2021-04-30,Q12b,with_children_and_adults,2
+Data Not Collected,9,all_persons,2021-04-01,2021-04-30,Q12b,with_only_children,0
+Data Not Collected,9,all_persons,2021-04-01,2021-04-30,Q12b,unknown_household_type,3
+Non-Hispanic/Non-Latin(a)(o)(x),1012,all_persons,2021-05-01,2021-05-31,Q12b,without_children,669
+Non-Hispanic/Non-Latin(a)(o)(x),1012,all_persons,2021-05-01,2021-05-31,Q12b,with_children_and_adults,312
+Non-Hispanic/Non-Latin(a)(o)(x),1012,all_persons,2021-05-01,2021-05-31,Q12b,with_only_children,20
+Non-Hispanic/Non-Latin(a)(o)(x),1012,all_persons,2021-05-01,2021-05-31,Q12b,unknown_household_type,11
+Hispanic/Latin(a)(o)(x),97,all_persons,2021-05-01,2021-05-31,Q12b,without_children,37
+Hispanic/Latin(a)(o)(x),97,all_persons,2021-05-01,2021-05-31,Q12b,with_children_and_adults,58
+Hispanic/Latin(a)(o)(x),97,all_persons,2021-05-01,2021-05-31,Q12b,with_only_children,2
+Hispanic/Latin(a)(o)(x),97,all_persons,2021-05-01,2021-05-31,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,2,all_persons,2021-05-01,2021-05-31,Q12b,without_children,1
+Client Doesn't Know/Client Refused,2,all_persons,2021-05-01,2021-05-31,Q12b,with_children_and_adults,1
+Client Doesn't Know/Client Refused,2,all_persons,2021-05-01,2021-05-31,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,2,all_persons,2021-05-01,2021-05-31,Q12b,unknown_household_type,0
+Data Not Collected,10,all_persons,2021-05-01,2021-05-31,Q12b,without_children,5
+Data Not Collected,10,all_persons,2021-05-01,2021-05-31,Q12b,with_children_and_adults,2
+Data Not Collected,10,all_persons,2021-05-01,2021-05-31,Q12b,with_only_children,0
+Data Not Collected,10,all_persons,2021-05-01,2021-05-31,Q12b,unknown_household_type,3
+Non-Hispanic/Non-Latin(a)(o)(x),1057,all_persons,2021-06-01,2021-06-30,Q12b,without_children,712
+Non-Hispanic/Non-Latin(a)(o)(x),1057,all_persons,2021-06-01,2021-06-30,Q12b,with_children_and_adults,316
+Non-Hispanic/Non-Latin(a)(o)(x),1057,all_persons,2021-06-01,2021-06-30,Q12b,with_only_children,19
+Non-Hispanic/Non-Latin(a)(o)(x),1057,all_persons,2021-06-01,2021-06-30,Q12b,unknown_household_type,10
+Hispanic/Latin(a)(o)(x),93,all_persons,2021-06-01,2021-06-30,Q12b,without_children,40
+Hispanic/Latin(a)(o)(x),93,all_persons,2021-06-01,2021-06-30,Q12b,with_children_and_adults,51
+Hispanic/Latin(a)(o)(x),93,all_persons,2021-06-01,2021-06-30,Q12b,with_only_children,2
+Hispanic/Latin(a)(o)(x),93,all_persons,2021-06-01,2021-06-30,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_persons,2021-06-01,2021-06-30,Q12b,without_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2021-06-01,2021-06-30,Q12b,with_children_and_adults,1
+Client Doesn't Know/Client Refused,1,all_persons,2021-06-01,2021-06-30,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2021-06-01,2021-06-30,Q12b,unknown_household_type,0
+Data Not Collected,9,all_persons,2021-06-01,2021-06-30,Q12b,without_children,4
+Data Not Collected,9,all_persons,2021-06-01,2021-06-30,Q12b,with_children_and_adults,2
+Data Not Collected,9,all_persons,2021-06-01,2021-06-30,Q12b,with_only_children,0
+Data Not Collected,9,all_persons,2021-06-01,2021-06-30,Q12b,unknown_household_type,3
+Non-Hispanic/Non-Latin(a)(o)(x),1079,all_persons,2021-07-01,2021-07-31,Q12b,without_children,703
+Non-Hispanic/Non-Latin(a)(o)(x),1079,all_persons,2021-07-01,2021-07-31,Q12b,with_children_and_adults,352
+Non-Hispanic/Non-Latin(a)(o)(x),1079,all_persons,2021-07-01,2021-07-31,Q12b,with_only_children,14
+Non-Hispanic/Non-Latin(a)(o)(x),1079,all_persons,2021-07-01,2021-07-31,Q12b,unknown_household_type,10
+Hispanic/Latin(a)(o)(x),99,all_persons,2021-07-01,2021-07-31,Q12b,without_children,42
+Hispanic/Latin(a)(o)(x),99,all_persons,2021-07-01,2021-07-31,Q12b,with_children_and_adults,55
+Hispanic/Latin(a)(o)(x),99,all_persons,2021-07-01,2021-07-31,Q12b,with_only_children,2
+Hispanic/Latin(a)(o)(x),99,all_persons,2021-07-01,2021-07-31,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_persons,2021-07-01,2021-07-31,Q12b,without_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2021-07-01,2021-07-31,Q12b,with_children_and_adults,1
+Client Doesn't Know/Client Refused,1,all_persons,2021-07-01,2021-07-31,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2021-07-01,2021-07-31,Q12b,unknown_household_type,0
+Data Not Collected,10,all_persons,2021-07-01,2021-07-31,Q12b,without_children,6
+Data Not Collected,10,all_persons,2021-07-01,2021-07-31,Q12b,with_children_and_adults,1
+Data Not Collected,10,all_persons,2021-07-01,2021-07-31,Q12b,with_only_children,0
+Data Not Collected,10,all_persons,2021-07-01,2021-07-31,Q12b,unknown_household_type,3
+Non-Hispanic/Non-Latin(a)(o)(x),1226,all_persons,2021-08-01,2021-08-31,Q12b,without_children,793
+Non-Hispanic/Non-Latin(a)(o)(x),1226,all_persons,2021-08-01,2021-08-31,Q12b,with_children_and_adults,408
+Non-Hispanic/Non-Latin(a)(o)(x),1226,all_persons,2021-08-01,2021-08-31,Q12b,with_only_children,15
+Non-Hispanic/Non-Latin(a)(o)(x),1226,all_persons,2021-08-01,2021-08-31,Q12b,unknown_household_type,10
+Hispanic/Latin(a)(o)(x),118,all_persons,2021-08-01,2021-08-31,Q12b,without_children,50
+Hispanic/Latin(a)(o)(x),118,all_persons,2021-08-01,2021-08-31,Q12b,with_children_and_adults,64
+Hispanic/Latin(a)(o)(x),118,all_persons,2021-08-01,2021-08-31,Q12b,with_only_children,4
+Hispanic/Latin(a)(o)(x),118,all_persons,2021-08-01,2021-08-31,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,2,all_persons,2021-08-01,2021-08-31,Q12b,without_children,1
+Client Doesn't Know/Client Refused,2,all_persons,2021-08-01,2021-08-31,Q12b,with_children_and_adults,1
+Client Doesn't Know/Client Refused,2,all_persons,2021-08-01,2021-08-31,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,2,all_persons,2021-08-01,2021-08-31,Q12b,unknown_household_type,0
+Data Not Collected,10,all_persons,2021-08-01,2021-08-31,Q12b,without_children,5
+Data Not Collected,10,all_persons,2021-08-01,2021-08-31,Q12b,with_children_and_adults,2
+Data Not Collected,10,all_persons,2021-08-01,2021-08-31,Q12b,with_only_children,0
+Data Not Collected,10,all_persons,2021-08-01,2021-08-31,Q12b,unknown_household_type,3
+Non-Hispanic/Non-Latin(a)(o)(x),1275,all_persons,2021-09-01,2021-09-30,Q12b,without_children,834
+Non-Hispanic/Non-Latin(a)(o)(x),1275,all_persons,2021-09-01,2021-09-30,Q12b,with_children_and_adults,413
+Non-Hispanic/Non-Latin(a)(o)(x),1275,all_persons,2021-09-01,2021-09-30,Q12b,with_only_children,18
+Non-Hispanic/Non-Latin(a)(o)(x),1275,all_persons,2021-09-01,2021-09-30,Q12b,unknown_household_type,10
+Hispanic/Latin(a)(o)(x),141,all_persons,2021-09-01,2021-09-30,Q12b,without_children,49
+Hispanic/Latin(a)(o)(x),141,all_persons,2021-09-01,2021-09-30,Q12b,with_children_and_adults,86
+Hispanic/Latin(a)(o)(x),141,all_persons,2021-09-01,2021-09-30,Q12b,with_only_children,6
+Hispanic/Latin(a)(o)(x),141,all_persons,2021-09-01,2021-09-30,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_persons,2021-09-01,2021-09-30,Q12b,without_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2021-09-01,2021-09-30,Q12b,with_children_and_adults,1
+Client Doesn't Know/Client Refused,1,all_persons,2021-09-01,2021-09-30,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2021-09-01,2021-09-30,Q12b,unknown_household_type,0
+Data Not Collected,8,all_persons,2021-09-01,2021-09-30,Q12b,without_children,3
+Data Not Collected,8,all_persons,2021-09-01,2021-09-30,Q12b,with_children_and_adults,2
+Data Not Collected,8,all_persons,2021-09-01,2021-09-30,Q12b,with_only_children,0
+Data Not Collected,8,all_persons,2021-09-01,2021-09-30,Q12b,unknown_household_type,3
+Non-Hispanic/Non-Latin(a)(o)(x),1313,all_persons,2021-10-01,2021-10-31,Q12b,without_children,875
+Non-Hispanic/Non-Latin(a)(o)(x),1313,all_persons,2021-10-01,2021-10-31,Q12b,with_children_and_adults,405
+Non-Hispanic/Non-Latin(a)(o)(x),1313,all_persons,2021-10-01,2021-10-31,Q12b,with_only_children,20
+Non-Hispanic/Non-Latin(a)(o)(x),1313,all_persons,2021-10-01,2021-10-31,Q12b,unknown_household_type,13
+Hispanic/Latin(a)(o)(x),148,all_persons,2021-10-01,2021-10-31,Q12b,without_children,49
+Hispanic/Latin(a)(o)(x),148,all_persons,2021-10-01,2021-10-31,Q12b,with_children_and_adults,92
+Hispanic/Latin(a)(o)(x),148,all_persons,2021-10-01,2021-10-31,Q12b,with_only_children,6
+Hispanic/Latin(a)(o)(x),148,all_persons,2021-10-01,2021-10-31,Q12b,unknown_household_type,1
+Client Doesn't Know/Client Refused,3,all_persons,2021-10-01,2021-10-31,Q12b,without_children,2
+Client Doesn't Know/Client Refused,3,all_persons,2021-10-01,2021-10-31,Q12b,with_children_and_adults,1
+Client Doesn't Know/Client Refused,3,all_persons,2021-10-01,2021-10-31,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,3,all_persons,2021-10-01,2021-10-31,Q12b,unknown_household_type,0
+Data Not Collected,8,all_persons,2021-10-01,2021-10-31,Q12b,without_children,3
+Data Not Collected,8,all_persons,2021-10-01,2021-10-31,Q12b,with_children_and_adults,2
+Data Not Collected,8,all_persons,2021-10-01,2021-10-31,Q12b,with_only_children,0
+Data Not Collected,8,all_persons,2021-10-01,2021-10-31,Q12b,unknown_household_type,3
+Non-Hispanic/Non-Latin(a)(o)(x),1388,all_persons,2021-11-01,2021-11-30,Q12b,without_children,917
+Non-Hispanic/Non-Latin(a)(o)(x),1388,all_persons,2021-11-01,2021-11-30,Q12b,with_children_and_adults,436
+Non-Hispanic/Non-Latin(a)(o)(x),1388,all_persons,2021-11-01,2021-11-30,Q12b,with_only_children,22
+Non-Hispanic/Non-Latin(a)(o)(x),1388,all_persons,2021-11-01,2021-11-30,Q12b,unknown_household_type,13
+Hispanic/Latin(a)(o)(x),146,all_persons,2021-11-01,2021-11-30,Q12b,without_children,52
+Hispanic/Latin(a)(o)(x),146,all_persons,2021-11-01,2021-11-30,Q12b,with_children_and_adults,88
+Hispanic/Latin(a)(o)(x),146,all_persons,2021-11-01,2021-11-30,Q12b,with_only_children,6
+Hispanic/Latin(a)(o)(x),146,all_persons,2021-11-01,2021-11-30,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,7,all_persons,2021-11-01,2021-11-30,Q12b,without_children,6
+Client Doesn't Know/Client Refused,7,all_persons,2021-11-01,2021-11-30,Q12b,with_children_and_adults,1
+Client Doesn't Know/Client Refused,7,all_persons,2021-11-01,2021-11-30,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,7,all_persons,2021-11-01,2021-11-30,Q12b,unknown_household_type,0
+Data Not Collected,10,all_persons,2021-11-01,2021-11-30,Q12b,without_children,3
+Data Not Collected,10,all_persons,2021-11-01,2021-11-30,Q12b,with_children_and_adults,3
+Data Not Collected,10,all_persons,2021-11-01,2021-11-30,Q12b,with_only_children,1
+Data Not Collected,10,all_persons,2021-11-01,2021-11-30,Q12b,unknown_household_type,3
+Non-Hispanic/Non-Latin(a)(o)(x),1497,all_persons,2021-12-01,2021-12-31,Q12b,without_children,980
+Non-Hispanic/Non-Latin(a)(o)(x),1497,all_persons,2021-12-01,2021-12-31,Q12b,with_children_and_adults,481
+Non-Hispanic/Non-Latin(a)(o)(x),1497,all_persons,2021-12-01,2021-12-31,Q12b,with_only_children,23
+Non-Hispanic/Non-Latin(a)(o)(x),1497,all_persons,2021-12-01,2021-12-31,Q12b,unknown_household_type,13
+Hispanic/Latin(a)(o)(x),148,all_persons,2021-12-01,2021-12-31,Q12b,without_children,52
+Hispanic/Latin(a)(o)(x),148,all_persons,2021-12-01,2021-12-31,Q12b,with_children_and_adults,90
+Hispanic/Latin(a)(o)(x),148,all_persons,2021-12-01,2021-12-31,Q12b,with_only_children,6
+Hispanic/Latin(a)(o)(x),148,all_persons,2021-12-01,2021-12-31,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,10,all_persons,2021-12-01,2021-12-31,Q12b,without_children,6
+Client Doesn't Know/Client Refused,10,all_persons,2021-12-01,2021-12-31,Q12b,with_children_and_adults,1
+Client Doesn't Know/Client Refused,10,all_persons,2021-12-01,2021-12-31,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,10,all_persons,2021-12-01,2021-12-31,Q12b,unknown_household_type,3
+Data Not Collected,15,all_persons,2021-12-01,2021-12-31,Q12b,without_children,4
+Data Not Collected,15,all_persons,2021-12-01,2021-12-31,Q12b,with_children_and_adults,5
+Data Not Collected,15,all_persons,2021-12-01,2021-12-31,Q12b,with_only_children,1
+Data Not Collected,15,all_persons,2021-12-01,2021-12-31,Q12b,unknown_household_type,5
+Non-Hispanic/Non-Latin(a)(o)(x),1477,all_persons,2022-01-01,2022-01-31,Q12b,without_children,986
+Non-Hispanic/Non-Latin(a)(o)(x),1477,all_persons,2022-01-01,2022-01-31,Q12b,with_children_and_adults,453
+Non-Hispanic/Non-Latin(a)(o)(x),1477,all_persons,2022-01-01,2022-01-31,Q12b,with_only_children,25
+Non-Hispanic/Non-Latin(a)(o)(x),1477,all_persons,2022-01-01,2022-01-31,Q12b,unknown_household_type,13
+Hispanic/Latin(a)(o)(x),155,all_persons,2022-01-01,2022-01-31,Q12b,without_children,54
+Hispanic/Latin(a)(o)(x),155,all_persons,2022-01-01,2022-01-31,Q12b,with_children_and_adults,95
+Hispanic/Latin(a)(o)(x),155,all_persons,2022-01-01,2022-01-31,Q12b,with_only_children,6
+Hispanic/Latin(a)(o)(x),155,all_persons,2022-01-01,2022-01-31,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,8,all_persons,2022-01-01,2022-01-31,Q12b,without_children,5
+Client Doesn't Know/Client Refused,8,all_persons,2022-01-01,2022-01-31,Q12b,with_children_and_adults,1
+Client Doesn't Know/Client Refused,8,all_persons,2022-01-01,2022-01-31,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,8,all_persons,2022-01-01,2022-01-31,Q12b,unknown_household_type,2
+Data Not Collected,15,all_persons,2022-01-01,2022-01-31,Q12b,without_children,4
+Data Not Collected,15,all_persons,2022-01-01,2022-01-31,Q12b,with_children_and_adults,6
+Data Not Collected,15,all_persons,2022-01-01,2022-01-31,Q12b,with_only_children,1
+Data Not Collected,15,all_persons,2022-01-01,2022-01-31,Q12b,unknown_household_type,4
+Non-Hispanic/Non-Latin(a)(o)(x),1519,all_persons,2022-02-01,2022-02-28,Q12b,without_children,998
+Non-Hispanic/Non-Latin(a)(o)(x),1519,all_persons,2022-02-01,2022-02-28,Q12b,with_children_and_adults,480
+Non-Hispanic/Non-Latin(a)(o)(x),1519,all_persons,2022-02-01,2022-02-28,Q12b,with_only_children,27
+Non-Hispanic/Non-Latin(a)(o)(x),1519,all_persons,2022-02-01,2022-02-28,Q12b,unknown_household_type,14
+Hispanic/Latin(a)(o)(x),163,all_persons,2022-02-01,2022-02-28,Q12b,without_children,56
+Hispanic/Latin(a)(o)(x),163,all_persons,2022-02-01,2022-02-28,Q12b,with_children_and_adults,99
+Hispanic/Latin(a)(o)(x),163,all_persons,2022-02-01,2022-02-28,Q12b,with_only_children,8
+Hispanic/Latin(a)(o)(x),163,all_persons,2022-02-01,2022-02-28,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,6,all_persons,2022-02-01,2022-02-28,Q12b,without_children,4
+Client Doesn't Know/Client Refused,6,all_persons,2022-02-01,2022-02-28,Q12b,with_children_and_adults,1
+Client Doesn't Know/Client Refused,6,all_persons,2022-02-01,2022-02-28,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,6,all_persons,2022-02-01,2022-02-28,Q12b,unknown_household_type,1
+Data Not Collected,17,all_persons,2022-02-01,2022-02-28,Q12b,without_children,4
+Data Not Collected,17,all_persons,2022-02-01,2022-02-28,Q12b,with_children_and_adults,5
+Data Not Collected,17,all_persons,2022-02-01,2022-02-28,Q12b,with_only_children,2
+Data Not Collected,17,all_persons,2022-02-01,2022-02-28,Q12b,unknown_household_type,6
+Non-Hispanic/Non-Latin(a)(o)(x),1659,all_persons,2022-03-01,2022-03-31,Q12b,without_children,1057
+Non-Hispanic/Non-Latin(a)(o)(x),1659,all_persons,2022-03-01,2022-03-31,Q12b,with_children_and_adults,560
+Non-Hispanic/Non-Latin(a)(o)(x),1659,all_persons,2022-03-01,2022-03-31,Q12b,with_only_children,24
+Non-Hispanic/Non-Latin(a)(o)(x),1659,all_persons,2022-03-01,2022-03-31,Q12b,unknown_household_type,18
+Hispanic/Latin(a)(o)(x),169,all_persons,2022-03-01,2022-03-31,Q12b,without_children,57
+Hispanic/Latin(a)(o)(x),169,all_persons,2022-03-01,2022-03-31,Q12b,with_children_and_adults,104
+Hispanic/Latin(a)(o)(x),169,all_persons,2022-03-01,2022-03-31,Q12b,with_only_children,8
+Hispanic/Latin(a)(o)(x),169,all_persons,2022-03-01,2022-03-31,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,9,all_persons,2022-03-01,2022-03-31,Q12b,without_children,7
+Client Doesn't Know/Client Refused,9,all_persons,2022-03-01,2022-03-31,Q12b,with_children_and_adults,1
+Client Doesn't Know/Client Refused,9,all_persons,2022-03-01,2022-03-31,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,9,all_persons,2022-03-01,2022-03-31,Q12b,unknown_household_type,1
+Data Not Collected,18,all_persons,2022-03-01,2022-03-31,Q12b,without_children,4
+Data Not Collected,18,all_persons,2022-03-01,2022-03-31,Q12b,with_children_and_adults,5
+Data Not Collected,18,all_persons,2022-03-01,2022-03-31,Q12b,with_only_children,2
+Data Not Collected,18,all_persons,2022-03-01,2022-03-31,Q12b,unknown_household_type,7
+Non-Hispanic/Non-Latin(a)(o)(x),1685,all_persons,2022-04-01,2022-04-30,Q12b,without_children,1069
+Non-Hispanic/Non-Latin(a)(o)(x),1685,all_persons,2022-04-01,2022-04-30,Q12b,with_children_and_adults,567
+Non-Hispanic/Non-Latin(a)(o)(x),1685,all_persons,2022-04-01,2022-04-30,Q12b,with_only_children,36
+Non-Hispanic/Non-Latin(a)(o)(x),1685,all_persons,2022-04-01,2022-04-30,Q12b,unknown_household_type,13
+Hispanic/Latin(a)(o)(x),160,all_persons,2022-04-01,2022-04-30,Q12b,without_children,58
+Hispanic/Latin(a)(o)(x),160,all_persons,2022-04-01,2022-04-30,Q12b,with_children_and_adults,96
+Hispanic/Latin(a)(o)(x),160,all_persons,2022-04-01,2022-04-30,Q12b,with_only_children,6
+Hispanic/Latin(a)(o)(x),160,all_persons,2022-04-01,2022-04-30,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,8,all_persons,2022-04-01,2022-04-30,Q12b,without_children,6
+Client Doesn't Know/Client Refused,8,all_persons,2022-04-01,2022-04-30,Q12b,with_children_and_adults,1
+Client Doesn't Know/Client Refused,8,all_persons,2022-04-01,2022-04-30,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,8,all_persons,2022-04-01,2022-04-30,Q12b,unknown_household_type,1
+Data Not Collected,18,all_persons,2022-04-01,2022-04-30,Q12b,without_children,6
+Data Not Collected,18,all_persons,2022-04-01,2022-04-30,Q12b,with_children_and_adults,5
+Data Not Collected,18,all_persons,2022-04-01,2022-04-30,Q12b,with_only_children,2
+Data Not Collected,18,all_persons,2022-04-01,2022-04-30,Q12b,unknown_household_type,5
+Non-Hispanic/Non-Latin(a)(o)(x),1679,all_persons,2022-05-01,2022-05-31,Q12b,without_children,1043
+Non-Hispanic/Non-Latin(a)(o)(x),1679,all_persons,2022-05-01,2022-05-31,Q12b,with_children_and_adults,589
+Non-Hispanic/Non-Latin(a)(o)(x),1679,all_persons,2022-05-01,2022-05-31,Q12b,with_only_children,34
+Non-Hispanic/Non-Latin(a)(o)(x),1679,all_persons,2022-05-01,2022-05-31,Q12b,unknown_household_type,13
+Hispanic/Latin(a)(o)(x),188,all_persons,2022-05-01,2022-05-31,Q12b,without_children,63
+Hispanic/Latin(a)(o)(x),188,all_persons,2022-05-01,2022-05-31,Q12b,with_children_and_adults,117
+Hispanic/Latin(a)(o)(x),188,all_persons,2022-05-01,2022-05-31,Q12b,with_only_children,8
+Hispanic/Latin(a)(o)(x),188,all_persons,2022-05-01,2022-05-31,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,8,all_persons,2022-05-01,2022-05-31,Q12b,without_children,6
+Client Doesn't Know/Client Refused,8,all_persons,2022-05-01,2022-05-31,Q12b,with_children_and_adults,1
+Client Doesn't Know/Client Refused,8,all_persons,2022-05-01,2022-05-31,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,8,all_persons,2022-05-01,2022-05-31,Q12b,unknown_household_type,1
+Data Not Collected,19,all_persons,2022-05-01,2022-05-31,Q12b,without_children,6
+Data Not Collected,19,all_persons,2022-05-01,2022-05-31,Q12b,with_children_and_adults,6
+Data Not Collected,19,all_persons,2022-05-01,2022-05-31,Q12b,with_only_children,2
+Data Not Collected,19,all_persons,2022-05-01,2022-05-31,Q12b,unknown_household_type,5
+Non-Hispanic/Non-Latin(a)(o)(x),1757,all_persons,2022-06-01,2022-06-30,Q12b,without_children,1079
+Non-Hispanic/Non-Latin(a)(o)(x),1757,all_persons,2022-06-01,2022-06-30,Q12b,with_children_and_adults,628
+Non-Hispanic/Non-Latin(a)(o)(x),1757,all_persons,2022-06-01,2022-06-30,Q12b,with_only_children,37
+Non-Hispanic/Non-Latin(a)(o)(x),1757,all_persons,2022-06-01,2022-06-30,Q12b,unknown_household_type,13
+Hispanic/Latin(a)(o)(x),198,all_persons,2022-06-01,2022-06-30,Q12b,without_children,69
+Hispanic/Latin(a)(o)(x),198,all_persons,2022-06-01,2022-06-30,Q12b,with_children_and_adults,121
+Hispanic/Latin(a)(o)(x),198,all_persons,2022-06-01,2022-06-30,Q12b,with_only_children,8
+Hispanic/Latin(a)(o)(x),198,all_persons,2022-06-01,2022-06-30,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,12,all_persons,2022-06-01,2022-06-30,Q12b,without_children,10
+Client Doesn't Know/Client Refused,12,all_persons,2022-06-01,2022-06-30,Q12b,with_children_and_adults,1
+Client Doesn't Know/Client Refused,12,all_persons,2022-06-01,2022-06-30,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,12,all_persons,2022-06-01,2022-06-30,Q12b,unknown_household_type,1
+Data Not Collected,22,all_persons,2022-06-01,2022-06-30,Q12b,without_children,8
+Data Not Collected,22,all_persons,2022-06-01,2022-06-30,Q12b,with_children_and_adults,5
+Data Not Collected,22,all_persons,2022-06-01,2022-06-30,Q12b,with_only_children,3
+Data Not Collected,22,all_persons,2022-06-01,2022-06-30,Q12b,unknown_household_type,6
+Non-Hispanic/Non-Latin(a)(o)(x),1691,all_persons,2022-07-01,2022-07-31,Q12b,without_children,1049
+Non-Hispanic/Non-Latin(a)(o)(x),1691,all_persons,2022-07-01,2022-07-31,Q12b,with_children_and_adults,588
+Non-Hispanic/Non-Latin(a)(o)(x),1691,all_persons,2022-07-01,2022-07-31,Q12b,with_only_children,40
+Non-Hispanic/Non-Latin(a)(o)(x),1691,all_persons,2022-07-01,2022-07-31,Q12b,unknown_household_type,14
+Hispanic/Latin(a)(o)(x),200,all_persons,2022-07-01,2022-07-31,Q12b,without_children,67
+Hispanic/Latin(a)(o)(x),200,all_persons,2022-07-01,2022-07-31,Q12b,with_children_and_adults,125
+Hispanic/Latin(a)(o)(x),200,all_persons,2022-07-01,2022-07-31,Q12b,with_only_children,8
+Hispanic/Latin(a)(o)(x),200,all_persons,2022-07-01,2022-07-31,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,12,all_persons,2022-07-01,2022-07-31,Q12b,without_children,10
+Client Doesn't Know/Client Refused,12,all_persons,2022-07-01,2022-07-31,Q12b,with_children_and_adults,1
+Client Doesn't Know/Client Refused,12,all_persons,2022-07-01,2022-07-31,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,12,all_persons,2022-07-01,2022-07-31,Q12b,unknown_household_type,1
+Data Not Collected,24,all_persons,2022-07-01,2022-07-31,Q12b,without_children,7
+Data Not Collected,24,all_persons,2022-07-01,2022-07-31,Q12b,with_children_and_adults,6
+Data Not Collected,24,all_persons,2022-07-01,2022-07-31,Q12b,with_only_children,3
+Data Not Collected,24,all_persons,2022-07-01,2022-07-31,Q12b,unknown_household_type,8
+Non-Hispanic/Non-Latin(a)(o)(x),1757,all_persons,2022-08-01,2022-08-31,Q12b,without_children,1056
+Non-Hispanic/Non-Latin(a)(o)(x),1757,all_persons,2022-08-01,2022-08-31,Q12b,with_children_and_adults,643
+Non-Hispanic/Non-Latin(a)(o)(x),1757,all_persons,2022-08-01,2022-08-31,Q12b,with_only_children,41
+Non-Hispanic/Non-Latin(a)(o)(x),1757,all_persons,2022-08-01,2022-08-31,Q12b,unknown_household_type,17
+Hispanic/Latin(a)(o)(x),205,all_persons,2022-08-01,2022-08-31,Q12b,without_children,68
+Hispanic/Latin(a)(o)(x),205,all_persons,2022-08-01,2022-08-31,Q12b,with_children_and_adults,131
+Hispanic/Latin(a)(o)(x),205,all_persons,2022-08-01,2022-08-31,Q12b,with_only_children,6
+Hispanic/Latin(a)(o)(x),205,all_persons,2022-08-01,2022-08-31,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,12,all_persons,2022-08-01,2022-08-31,Q12b,without_children,10
+Client Doesn't Know/Client Refused,12,all_persons,2022-08-01,2022-08-31,Q12b,with_children_and_adults,1
+Client Doesn't Know/Client Refused,12,all_persons,2022-08-01,2022-08-31,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,12,all_persons,2022-08-01,2022-08-31,Q12b,unknown_household_type,1
+Data Not Collected,28,all_persons,2022-08-01,2022-08-31,Q12b,without_children,11
+Data Not Collected,28,all_persons,2022-08-01,2022-08-31,Q12b,with_children_and_adults,6
+Data Not Collected,28,all_persons,2022-08-01,2022-08-31,Q12b,with_only_children,3
+Data Not Collected,28,all_persons,2022-08-01,2022-08-31,Q12b,unknown_household_type,8

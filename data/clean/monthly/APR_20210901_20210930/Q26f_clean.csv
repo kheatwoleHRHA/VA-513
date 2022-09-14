@@ -1,0 +1,28 @@
+number_of_chronically_homeless_persons_by_income_category,population,start_date,end_date,question,status,count
+"Chronically Homeless Persons with Only Earned Income (i.e., Employment Income)",chronically_homeless,2021-09-01,2021-09-30,Q26f,number_of_chronically_homeless_persons_at_start,19
+"Chronically Homeless Persons with Only Earned Income (i.e., Employment Income)",chronically_homeless,2021-09-01,2021-09-30,Q26f,number_of_chronically_homeless_persons_at_annual_assessment_stayers,7
+"Chronically Homeless Persons with Only Earned Income (i.e., Employment Income)",chronically_homeless,2021-09-01,2021-09-30,Q26f,number_of_chronically_homeless_persons_at_exit_leavers,2
+Chronically Homeless Persons with Only Other Income,chronically_homeless,2021-09-01,2021-09-30,Q26f,number_of_chronically_homeless_persons_at_start,52
+Chronically Homeless Persons with Only Other Income,chronically_homeless,2021-09-01,2021-09-30,Q26f,number_of_chronically_homeless_persons_at_annual_assessment_stayers,26
+Chronically Homeless Persons with Only Other Income,chronically_homeless,2021-09-01,2021-09-30,Q26f,number_of_chronically_homeless_persons_at_exit_leavers,5
+Chronically Homeless Persons with Both Earned and Other Income,chronically_homeless,2021-09-01,2021-09-30,Q26f,number_of_chronically_homeless_persons_at_start,5
+Chronically Homeless Persons with Both Earned and Other Income,chronically_homeless,2021-09-01,2021-09-30,Q26f,number_of_chronically_homeless_persons_at_annual_assessment_stayers,0
+Chronically Homeless Persons with Both Earned and Other Income,chronically_homeless,2021-09-01,2021-09-30,Q26f,number_of_chronically_homeless_persons_at_exit_leavers,0
+Chronically Homeless Persons with No Income,chronically_homeless,2021-09-01,2021-09-30,Q26f,number_of_chronically_homeless_persons_at_start,87
+Chronically Homeless Persons with No Income,chronically_homeless,2021-09-01,2021-09-30,Q26f,number_of_chronically_homeless_persons_at_annual_assessment_stayers,9
+Chronically Homeless Persons with No Income,chronically_homeless,2021-09-01,2021-09-30,Q26f,number_of_chronically_homeless_persons_at_exit_leavers,7
+Chronically Homeless Persons with Client Doesn't Know/Client Refused Income Information,chronically_homeless,2021-09-01,2021-09-30,Q26f,number_of_chronically_homeless_persons_at_start,0
+Chronically Homeless Persons with Client Doesn't Know/Client Refused Income Information,chronically_homeless,2021-09-01,2021-09-30,Q26f,number_of_chronically_homeless_persons_at_annual_assessment_stayers,0
+Chronically Homeless Persons with Client Doesn't Know/Client Refused Income Information,chronically_homeless,2021-09-01,2021-09-30,Q26f,number_of_chronically_homeless_persons_at_exit_leavers,0
+Chronically Homeless Persons with Missing Income Information,chronically_homeless,2021-09-01,2021-09-30,Q26f,number_of_chronically_homeless_persons_at_start,0
+Chronically Homeless Persons with Missing Income Information,chronically_homeless,2021-09-01,2021-09-30,Q26f,number_of_chronically_homeless_persons_at_annual_assessment_stayers,0
+Chronically Homeless Persons with Missing Income Information,chronically_homeless,2021-09-01,2021-09-30,Q26f,number_of_chronically_homeless_persons_at_exit_leavers,0
+Number of Chronically Homeless Persons not yet required to have an annual assessment,chronically_homeless,2021-09-01,2021-09-30,Q26f,number_of_chronically_homeless_persons_at_start,0
+Number of Chronically Homeless Persons not yet required to have an annual assessment,chronically_homeless,2021-09-01,2021-09-30,Q26f,number_of_chronically_homeless_persons_at_annual_assessment_stayers,74
+Number of Chronically Homeless Persons not yet required to have an annual assessment,chronically_homeless,2021-09-01,2021-09-30,Q26f,number_of_chronically_homeless_persons_at_exit_leavers,0
+Number of Chronically Homeless Persons without required annual assessment,chronically_homeless,2021-09-01,2021-09-30,Q26f,number_of_chronically_homeless_persons_at_start,0
+Number of Chronically Homeless Persons without required annual assessment,chronically_homeless,2021-09-01,2021-09-30,Q26f,number_of_chronically_homeless_persons_at_annual_assessment_stayers,33
+Number of Chronically Homeless Persons without required annual assessment,chronically_homeless,2021-09-01,2021-09-30,Q26f,number_of_chronically_homeless_persons_at_exit_leavers,0
+Total Chronically Homeless Persons,chronically_homeless,2021-09-01,2021-09-30,Q26f,number_of_chronically_homeless_persons_at_start,163
+Total Chronically Homeless Persons,chronically_homeless,2021-09-01,2021-09-30,Q26f,number_of_chronically_homeless_persons_at_annual_assessment_stayers,149
+Total Chronically Homeless Persons,chronically_homeless,2021-09-01,2021-09-30,Q26f,number_of_chronically_homeless_persons_at_exit_leavers,14

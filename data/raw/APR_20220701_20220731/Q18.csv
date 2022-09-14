@@ -1,0 +1,12 @@
+"""Number of Adults by Income Category""", "Number of Adults at Start" , "Number of Adults at Annual Assessment (Stayers)" , "Number of Adults at Exit (Leavers)"
+"""Adults with Only Earned Income (ie.e, Employment Income)""",209,6,20
+"""Adults with Only Other Income""",255,33,18
+"""Adults with Both Earned and Other Income""",32,3,0
+"""Adults with No Income""",861,11,106
+"""Adults with Client Doesn't Know/Client Refused Income Information""",5,0,1
+"""Adults with Missing Income Information""",75,0,14
+"""Number of Adult Stayers not yet Required to Have an Annual Assessment""",0,744,0
+"""Number of Adult Stayers without Required Annual Assessment""",0,486,0
+"""Total Adults""",1442,1283,159
+"""1 or More Source of Income""",561,43,43
+"""Adults with Income Information at Start and Annual Assessment/Exit""",0,53,0

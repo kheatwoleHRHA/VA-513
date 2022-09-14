@@ -1,0 +1,17 @@
+ch_status_households,total,population,start_date,end_date,question,household_type,count
+Chronically Homeless ,25,all_households,2015-10-01,2015-10-31,Q26a,without_children,24
+Chronically Homeless ,25,all_households,2015-10-01,2015-10-31,Q26a,with_children_and_adults,1
+Chronically Homeless ,25,all_households,2015-10-01,2015-10-31,Q26a,with_only_children,0
+Chronically Homeless ,25,all_households,2015-10-01,2015-10-31,Q26a,unknown_household_type,0
+Not Chronically Homeless,240,all_households,2015-10-01,2015-10-31,Q26a,without_children,152
+Not Chronically Homeless,240,all_households,2015-10-01,2015-10-31,Q26a,with_children_and_adults,88
+Not Chronically Homeless,240,all_households,2015-10-01,2015-10-31,Q26a,with_only_children,0
+Not Chronically Homeless,240,all_households,2015-10-01,2015-10-31,Q26a,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_households,2015-10-01,2015-10-31,Q26a,without_children,1
+Client Doesn't Know/Client Refused,1,all_households,2015-10-01,2015-10-31,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_households,2015-10-01,2015-10-31,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,1,all_households,2015-10-01,2015-10-31,Q26a,unknown_household_type,0
+Data Not Collected,74,all_households,2015-10-01,2015-10-31,Q26a,without_children,57
+Data Not Collected,74,all_households,2015-10-01,2015-10-31,Q26a,with_children_and_adults,17
+Data Not Collected,74,all_households,2015-10-01,2015-10-31,Q26a,with_only_children,0
+Data Not Collected,74,all_households,2015-10-01,2015-10-31,Q26a,unknown_household_type,0

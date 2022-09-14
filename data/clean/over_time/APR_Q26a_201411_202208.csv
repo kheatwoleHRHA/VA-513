@@ -1,0 +1,1505 @@
+ch_status_households,total,population,start_date,end_date,question,household_type,count
+Chronically Homeless,19,all_households,2014-11-01,2014-11-30,Q26a,without_children,19
+Chronically Homeless,19,all_households,2014-11-01,2014-11-30,Q26a,with_children_and_adults,0
+Chronically Homeless,19,all_households,2014-11-01,2014-11-30,Q26a,with_only_children,0
+Chronically Homeless,19,all_households,2014-11-01,2014-11-30,Q26a,unknown_household_type,0
+Not Chronically Homeless,183,all_households,2014-11-01,2014-11-30,Q26a,without_children,136
+Not Chronically Homeless,183,all_households,2014-11-01,2014-11-30,Q26a,with_children_and_adults,47
+Not Chronically Homeless,183,all_households,2014-11-01,2014-11-30,Q26a,with_only_children,0
+Not Chronically Homeless,183,all_households,2014-11-01,2014-11-30,Q26a,unknown_household_type,0
+Client Doesn't Know/Client Refused,4,all_households,2014-11-01,2014-11-30,Q26a,without_children,4
+Client Doesn't Know/Client Refused,4,all_households,2014-11-01,2014-11-30,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,4,all_households,2014-11-01,2014-11-30,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,4,all_households,2014-11-01,2014-11-30,Q26a,unknown_household_type,0
+Data Not Collected,99,all_households,2014-11-01,2014-11-30,Q26a,without_children,89
+Data Not Collected,99,all_households,2014-11-01,2014-11-30,Q26a,with_children_and_adults,10
+Data Not Collected,99,all_households,2014-11-01,2014-11-30,Q26a,with_only_children,0
+Data Not Collected,99,all_households,2014-11-01,2014-11-30,Q26a,unknown_household_type,0
+Chronically Homeless,25,all_households,2014-12-01,2014-12-31,Q26a,without_children,25
+Chronically Homeless,25,all_households,2014-12-01,2014-12-31,Q26a,with_children_and_adults,0
+Chronically Homeless,25,all_households,2014-12-01,2014-12-31,Q26a,with_only_children,0
+Chronically Homeless,25,all_households,2014-12-01,2014-12-31,Q26a,unknown_household_type,0
+Not Chronically Homeless,188,all_households,2014-12-01,2014-12-31,Q26a,without_children,136
+Not Chronically Homeless,188,all_households,2014-12-01,2014-12-31,Q26a,with_children_and_adults,52
+Not Chronically Homeless,188,all_households,2014-12-01,2014-12-31,Q26a,with_only_children,0
+Not Chronically Homeless,188,all_households,2014-12-01,2014-12-31,Q26a,unknown_household_type,0
+Client Doesn't Know/Client Refused,4,all_households,2014-12-01,2014-12-31,Q26a,without_children,4
+Client Doesn't Know/Client Refused,4,all_households,2014-12-01,2014-12-31,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,4,all_households,2014-12-01,2014-12-31,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,4,all_households,2014-12-01,2014-12-31,Q26a,unknown_household_type,0
+Data Not Collected,106,all_households,2014-12-01,2014-12-31,Q26a,without_children,94
+Data Not Collected,106,all_households,2014-12-01,2014-12-31,Q26a,with_children_and_adults,12
+Data Not Collected,106,all_households,2014-12-01,2014-12-31,Q26a,with_only_children,0
+Data Not Collected,106,all_households,2014-12-01,2014-12-31,Q26a,unknown_household_type,0
+Chronically Homeless,28,all_households,2015-01-01,2015-01-31,Q26a,without_children,28
+Chronically Homeless,28,all_households,2015-01-01,2015-01-31,Q26a,with_children_and_adults,0
+Chronically Homeless,28,all_households,2015-01-01,2015-01-31,Q26a,with_only_children,0
+Chronically Homeless,28,all_households,2015-01-01,2015-01-31,Q26a,unknown_household_type,0
+Not Chronically Homeless,206,all_households,2015-01-01,2015-01-31,Q26a,without_children,151
+Not Chronically Homeless,206,all_households,2015-01-01,2015-01-31,Q26a,with_children_and_adults,55
+Not Chronically Homeless,206,all_households,2015-01-01,2015-01-31,Q26a,with_only_children,0
+Not Chronically Homeless,206,all_households,2015-01-01,2015-01-31,Q26a,unknown_household_type,0
+Client Doesn't Know/Client Refused,4,all_households,2015-01-01,2015-01-31,Q26a,without_children,4
+Client Doesn't Know/Client Refused,4,all_households,2015-01-01,2015-01-31,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,4,all_households,2015-01-01,2015-01-31,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,4,all_households,2015-01-01,2015-01-31,Q26a,unknown_household_type,0
+Data Not Collected,114,all_households,2015-01-01,2015-01-31,Q26a,without_children,95
+Data Not Collected,114,all_households,2015-01-01,2015-01-31,Q26a,with_children_and_adults,19
+Data Not Collected,114,all_households,2015-01-01,2015-01-31,Q26a,with_only_children,0
+Data Not Collected,114,all_households,2015-01-01,2015-01-31,Q26a,unknown_household_type,0
+Chronically Homeless,31,all_households,2015-02-01,2015-02-28,Q26a,without_children,31
+Chronically Homeless,31,all_households,2015-02-01,2015-02-28,Q26a,with_children_and_adults,0
+Chronically Homeless,31,all_households,2015-02-01,2015-02-28,Q26a,with_only_children,0
+Chronically Homeless,31,all_households,2015-02-01,2015-02-28,Q26a,unknown_household_type,0
+Not Chronically Homeless,210,all_households,2015-02-01,2015-02-28,Q26a,without_children,162
+Not Chronically Homeless,210,all_households,2015-02-01,2015-02-28,Q26a,with_children_and_adults,48
+Not Chronically Homeless,210,all_households,2015-02-01,2015-02-28,Q26a,with_only_children,0
+Not Chronically Homeless,210,all_households,2015-02-01,2015-02-28,Q26a,unknown_household_type,0
+Client Doesn't Know/Client Refused,4,all_households,2015-02-01,2015-02-28,Q26a,without_children,4
+Client Doesn't Know/Client Refused,4,all_households,2015-02-01,2015-02-28,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,4,all_households,2015-02-01,2015-02-28,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,4,all_households,2015-02-01,2015-02-28,Q26a,unknown_household_type,0
+Data Not Collected,116,all_households,2015-02-01,2015-02-28,Q26a,without_children,96
+Data Not Collected,116,all_households,2015-02-01,2015-02-28,Q26a,with_children_and_adults,20
+Data Not Collected,116,all_households,2015-02-01,2015-02-28,Q26a,with_only_children,0
+Data Not Collected,116,all_households,2015-02-01,2015-02-28,Q26a,unknown_household_type,0
+Chronically Homeless,27,all_households,2015-03-01,2015-03-31,Q26a,without_children,27
+Chronically Homeless,27,all_households,2015-03-01,2015-03-31,Q26a,with_children_and_adults,0
+Chronically Homeless,27,all_households,2015-03-01,2015-03-31,Q26a,with_only_children,0
+Chronically Homeless,27,all_households,2015-03-01,2015-03-31,Q26a,unknown_household_type,0
+Not Chronically Homeless,203,all_households,2015-03-01,2015-03-31,Q26a,without_children,161
+Not Chronically Homeless,203,all_households,2015-03-01,2015-03-31,Q26a,with_children_and_adults,42
+Not Chronically Homeless,203,all_households,2015-03-01,2015-03-31,Q26a,with_only_children,0
+Not Chronically Homeless,203,all_households,2015-03-01,2015-03-31,Q26a,unknown_household_type,0
+Client Doesn't Know/Client Refused,8,all_households,2015-03-01,2015-03-31,Q26a,without_children,8
+Client Doesn't Know/Client Refused,8,all_households,2015-03-01,2015-03-31,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,8,all_households,2015-03-01,2015-03-31,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,8,all_households,2015-03-01,2015-03-31,Q26a,unknown_household_type,0
+Data Not Collected,116,all_households,2015-03-01,2015-03-31,Q26a,without_children,101
+Data Not Collected,116,all_households,2015-03-01,2015-03-31,Q26a,with_children_and_adults,15
+Data Not Collected,116,all_households,2015-03-01,2015-03-31,Q26a,with_only_children,0
+Data Not Collected,116,all_households,2015-03-01,2015-03-31,Q26a,unknown_household_type,0
+Chronically Homeless,25,all_households,2015-04-01,2015-04-30,Q26a,without_children,25
+Chronically Homeless,25,all_households,2015-04-01,2015-04-30,Q26a,with_children_and_adults,0
+Chronically Homeless,25,all_households,2015-04-01,2015-04-30,Q26a,with_only_children,0
+Chronically Homeless,25,all_households,2015-04-01,2015-04-30,Q26a,unknown_household_type,0
+Not Chronically Homeless,199,all_households,2015-04-01,2015-04-30,Q26a,without_children,163
+Not Chronically Homeless,199,all_households,2015-04-01,2015-04-30,Q26a,with_children_and_adults,36
+Not Chronically Homeless,199,all_households,2015-04-01,2015-04-30,Q26a,with_only_children,0
+Not Chronically Homeless,199,all_households,2015-04-01,2015-04-30,Q26a,unknown_household_type,0
+Client Doesn't Know/Client Refused,5,all_households,2015-04-01,2015-04-30,Q26a,without_children,5
+Client Doesn't Know/Client Refused,5,all_households,2015-04-01,2015-04-30,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,5,all_households,2015-04-01,2015-04-30,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,5,all_households,2015-04-01,2015-04-30,Q26a,unknown_household_type,0
+Data Not Collected,96,all_households,2015-04-01,2015-04-30,Q26a,without_children,84
+Data Not Collected,96,all_households,2015-04-01,2015-04-30,Q26a,with_children_and_adults,12
+Data Not Collected,96,all_households,2015-04-01,2015-04-30,Q26a,with_only_children,0
+Data Not Collected,96,all_households,2015-04-01,2015-04-30,Q26a,unknown_household_type,0
+Chronically Homeless,16,all_households,2015-05-01,2015-05-31,Q26a,without_children,16
+Chronically Homeless,16,all_households,2015-05-01,2015-05-31,Q26a,with_children_and_adults,0
+Chronically Homeless,16,all_households,2015-05-01,2015-05-31,Q26a,with_only_children,0
+Chronically Homeless,16,all_households,2015-05-01,2015-05-31,Q26a,unknown_household_type,0
+Not Chronically Homeless,195,all_households,2015-05-01,2015-05-31,Q26a,without_children,147
+Not Chronically Homeless,195,all_households,2015-05-01,2015-05-31,Q26a,with_children_and_adults,48
+Not Chronically Homeless,195,all_households,2015-05-01,2015-05-31,Q26a,with_only_children,0
+Not Chronically Homeless,195,all_households,2015-05-01,2015-05-31,Q26a,unknown_household_type,0
+Client Doesn't Know/Client Refused,3,all_households,2015-05-01,2015-05-31,Q26a,without_children,3
+Client Doesn't Know/Client Refused,3,all_households,2015-05-01,2015-05-31,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,3,all_households,2015-05-01,2015-05-31,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,3,all_households,2015-05-01,2015-05-31,Q26a,unknown_household_type,0
+Data Not Collected,74,all_households,2015-05-01,2015-05-31,Q26a,without_children,64
+Data Not Collected,74,all_households,2015-05-01,2015-05-31,Q26a,with_children_and_adults,10
+Data Not Collected,74,all_households,2015-05-01,2015-05-31,Q26a,with_only_children,0
+Data Not Collected,74,all_households,2015-05-01,2015-05-31,Q26a,unknown_household_type,0
+Chronically Homeless,17,all_households,2015-06-01,2015-06-30,Q26a,without_children,17
+Chronically Homeless,17,all_households,2015-06-01,2015-06-30,Q26a,with_children_and_adults,0
+Chronically Homeless,17,all_households,2015-06-01,2015-06-30,Q26a,with_only_children,0
+Chronically Homeless,17,all_households,2015-06-01,2015-06-30,Q26a,unknown_household_type,0
+Not Chronically Homeless,206,all_households,2015-06-01,2015-06-30,Q26a,without_children,149
+Not Chronically Homeless,206,all_households,2015-06-01,2015-06-30,Q26a,with_children_and_adults,57
+Not Chronically Homeless,206,all_households,2015-06-01,2015-06-30,Q26a,with_only_children,0
+Not Chronically Homeless,206,all_households,2015-06-01,2015-06-30,Q26a,unknown_household_type,0
+Client Doesn't Know/Client Refused,3,all_households,2015-06-01,2015-06-30,Q26a,without_children,3
+Client Doesn't Know/Client Refused,3,all_households,2015-06-01,2015-06-30,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,3,all_households,2015-06-01,2015-06-30,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,3,all_households,2015-06-01,2015-06-30,Q26a,unknown_household_type,0
+Data Not Collected,78,all_households,2015-06-01,2015-06-30,Q26a,without_children,64
+Data Not Collected,78,all_households,2015-06-01,2015-06-30,Q26a,with_children_and_adults,14
+Data Not Collected,78,all_households,2015-06-01,2015-06-30,Q26a,with_only_children,0
+Data Not Collected,78,all_households,2015-06-01,2015-06-30,Q26a,unknown_household_type,0
+Chronically Homeless,16,all_households,2015-07-01,2015-07-31,Q26a,without_children,16
+Chronically Homeless,16,all_households,2015-07-01,2015-07-31,Q26a,with_children_and_adults,0
+Chronically Homeless,16,all_households,2015-07-01,2015-07-31,Q26a,with_only_children,0
+Chronically Homeless,16,all_households,2015-07-01,2015-07-31,Q26a,unknown_household_type,0
+Not Chronically Homeless,214,all_households,2015-07-01,2015-07-31,Q26a,without_children,150
+Not Chronically Homeless,214,all_households,2015-07-01,2015-07-31,Q26a,with_children_and_adults,64
+Not Chronically Homeless,214,all_households,2015-07-01,2015-07-31,Q26a,with_only_children,0
+Not Chronically Homeless,214,all_households,2015-07-01,2015-07-31,Q26a,unknown_household_type,0
+Client Doesn't Know/Client Refused,2,all_households,2015-07-01,2015-07-31,Q26a,without_children,2
+Client Doesn't Know/Client Refused,2,all_households,2015-07-01,2015-07-31,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,2,all_households,2015-07-01,2015-07-31,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,2,all_households,2015-07-01,2015-07-31,Q26a,unknown_household_type,0
+Data Not Collected,75,all_households,2015-07-01,2015-07-31,Q26a,without_children,63
+Data Not Collected,75,all_households,2015-07-01,2015-07-31,Q26a,with_children_and_adults,12
+Data Not Collected,75,all_households,2015-07-01,2015-07-31,Q26a,with_only_children,0
+Data Not Collected,75,all_households,2015-07-01,2015-07-31,Q26a,unknown_household_type,0
+Chronically Homeless,21,all_households,2015-08-01,2015-08-31,Q26a,without_children,20
+Chronically Homeless,21,all_households,2015-08-01,2015-08-31,Q26a,with_children_and_adults,1
+Chronically Homeless,21,all_households,2015-08-01,2015-08-31,Q26a,with_only_children,0
+Chronically Homeless,21,all_households,2015-08-01,2015-08-31,Q26a,unknown_household_type,0
+Not Chronically Homeless,196,all_households,2015-08-01,2015-08-31,Q26a,without_children,134
+Not Chronically Homeless,196,all_households,2015-08-01,2015-08-31,Q26a,with_children_and_adults,62
+Not Chronically Homeless,196,all_households,2015-08-01,2015-08-31,Q26a,with_only_children,0
+Not Chronically Homeless,196,all_households,2015-08-01,2015-08-31,Q26a,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_households,2015-08-01,2015-08-31,Q26a,without_children,1
+Client Doesn't Know/Client Refused,1,all_households,2015-08-01,2015-08-31,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_households,2015-08-01,2015-08-31,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,1,all_households,2015-08-01,2015-08-31,Q26a,unknown_household_type,0
+Data Not Collected,73,all_households,2015-08-01,2015-08-31,Q26a,without_children,60
+Data Not Collected,73,all_households,2015-08-01,2015-08-31,Q26a,with_children_and_adults,13
+Data Not Collected,73,all_households,2015-08-01,2015-08-31,Q26a,with_only_children,0
+Data Not Collected,73,all_households,2015-08-01,2015-08-31,Q26a,unknown_household_type,0
+Chronically Homeless,23,all_households,2015-09-01,2015-09-30,Q26a,without_children,21
+Chronically Homeless,23,all_households,2015-09-01,2015-09-30,Q26a,with_children_and_adults,2
+Chronically Homeless,23,all_households,2015-09-01,2015-09-30,Q26a,with_only_children,0
+Chronically Homeless,23,all_households,2015-09-01,2015-09-30,Q26a,unknown_household_type,0
+Not Chronically Homeless,215,all_households,2015-09-01,2015-09-30,Q26a,without_children,138
+Not Chronically Homeless,215,all_households,2015-09-01,2015-09-30,Q26a,with_children_and_adults,77
+Not Chronically Homeless,215,all_households,2015-09-01,2015-09-30,Q26a,with_only_children,0
+Not Chronically Homeless,215,all_households,2015-09-01,2015-09-30,Q26a,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_households,2015-09-01,2015-09-30,Q26a,without_children,1
+Client Doesn't Know/Client Refused,1,all_households,2015-09-01,2015-09-30,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_households,2015-09-01,2015-09-30,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,1,all_households,2015-09-01,2015-09-30,Q26a,unknown_household_type,0
+Data Not Collected,79,all_households,2015-09-01,2015-09-30,Q26a,without_children,58
+Data Not Collected,79,all_households,2015-09-01,2015-09-30,Q26a,with_children_and_adults,21
+Data Not Collected,79,all_households,2015-09-01,2015-09-30,Q26a,with_only_children,0
+Data Not Collected,79,all_households,2015-09-01,2015-09-30,Q26a,unknown_household_type,0
+Chronically Homeless,25,all_households,2015-10-01,2015-10-31,Q26a,without_children,24
+Chronically Homeless,25,all_households,2015-10-01,2015-10-31,Q26a,with_children_and_adults,1
+Chronically Homeless,25,all_households,2015-10-01,2015-10-31,Q26a,with_only_children,0
+Chronically Homeless,25,all_households,2015-10-01,2015-10-31,Q26a,unknown_household_type,0
+Not Chronically Homeless,240,all_households,2015-10-01,2015-10-31,Q26a,without_children,152
+Not Chronically Homeless,240,all_households,2015-10-01,2015-10-31,Q26a,with_children_and_adults,88
+Not Chronically Homeless,240,all_households,2015-10-01,2015-10-31,Q26a,with_only_children,0
+Not Chronically Homeless,240,all_households,2015-10-01,2015-10-31,Q26a,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_households,2015-10-01,2015-10-31,Q26a,without_children,1
+Client Doesn't Know/Client Refused,1,all_households,2015-10-01,2015-10-31,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_households,2015-10-01,2015-10-31,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,1,all_households,2015-10-01,2015-10-31,Q26a,unknown_household_type,0
+Data Not Collected,74,all_households,2015-10-01,2015-10-31,Q26a,without_children,57
+Data Not Collected,74,all_households,2015-10-01,2015-10-31,Q26a,with_children_and_adults,17
+Data Not Collected,74,all_households,2015-10-01,2015-10-31,Q26a,with_only_children,0
+Data Not Collected,74,all_households,2015-10-01,2015-10-31,Q26a,unknown_household_type,0
+Chronically Homeless,36,all_households,2015-11-01,2015-11-30,Q26a,without_children,35
+Chronically Homeless,36,all_households,2015-11-01,2015-11-30,Q26a,with_children_and_adults,1
+Chronically Homeless,36,all_households,2015-11-01,2015-11-30,Q26a,with_only_children,0
+Chronically Homeless,36,all_households,2015-11-01,2015-11-30,Q26a,unknown_household_type,0
+Not Chronically Homeless,240,all_households,2015-11-01,2015-11-30,Q26a,without_children,167
+Not Chronically Homeless,240,all_households,2015-11-01,2015-11-30,Q26a,with_children_and_adults,73
+Not Chronically Homeless,240,all_households,2015-11-01,2015-11-30,Q26a,with_only_children,0
+Not Chronically Homeless,240,all_households,2015-11-01,2015-11-30,Q26a,unknown_household_type,0
+Client Doesn't Know/Client Refused,2,all_households,2015-11-01,2015-11-30,Q26a,without_children,2
+Client Doesn't Know/Client Refused,2,all_households,2015-11-01,2015-11-30,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,2,all_households,2015-11-01,2015-11-30,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,2,all_households,2015-11-01,2015-11-30,Q26a,unknown_household_type,0
+Data Not Collected,92,all_households,2015-11-01,2015-11-30,Q26a,without_children,79
+Data Not Collected,92,all_households,2015-11-01,2015-11-30,Q26a,with_children_and_adults,13
+Data Not Collected,92,all_households,2015-11-01,2015-11-30,Q26a,with_only_children,0
+Data Not Collected,92,all_households,2015-11-01,2015-11-30,Q26a,unknown_household_type,0
+Chronically Homeless,35,all_households,2015-12-01,2015-12-31,Q26a,without_children,34
+Chronically Homeless,35,all_households,2015-12-01,2015-12-31,Q26a,with_children_and_adults,1
+Chronically Homeless,35,all_households,2015-12-01,2015-12-31,Q26a,with_only_children,0
+Chronically Homeless,35,all_households,2015-12-01,2015-12-31,Q26a,unknown_household_type,0
+Not Chronically Homeless,236,all_households,2015-12-01,2015-12-31,Q26a,without_children,166
+Not Chronically Homeless,236,all_households,2015-12-01,2015-12-31,Q26a,with_children_and_adults,70
+Not Chronically Homeless,236,all_households,2015-12-01,2015-12-31,Q26a,with_only_children,0
+Not Chronically Homeless,236,all_households,2015-12-01,2015-12-31,Q26a,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_households,2015-12-01,2015-12-31,Q26a,without_children,1
+Client Doesn't Know/Client Refused,1,all_households,2015-12-01,2015-12-31,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_households,2015-12-01,2015-12-31,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,1,all_households,2015-12-01,2015-12-31,Q26a,unknown_household_type,0
+Data Not Collected,87,all_households,2015-12-01,2015-12-31,Q26a,without_children,74
+Data Not Collected,87,all_households,2015-12-01,2015-12-31,Q26a,with_children_and_adults,13
+Data Not Collected,87,all_households,2015-12-01,2015-12-31,Q26a,with_only_children,0
+Data Not Collected,87,all_households,2015-12-01,2015-12-31,Q26a,unknown_household_type,0
+Chronically Homeless,40,all_households,2016-01-01,2016-01-31,Q26a,without_children,39
+Chronically Homeless,40,all_households,2016-01-01,2016-01-31,Q26a,with_children_and_adults,1
+Chronically Homeless,40,all_households,2016-01-01,2016-01-31,Q26a,with_only_children,0
+Chronically Homeless,40,all_households,2016-01-01,2016-01-31,Q26a,unknown_household_type,0
+Not Chronically Homeless,234,all_households,2016-01-01,2016-01-31,Q26a,without_children,169
+Not Chronically Homeless,234,all_households,2016-01-01,2016-01-31,Q26a,with_children_and_adults,65
+Not Chronically Homeless,234,all_households,2016-01-01,2016-01-31,Q26a,with_only_children,0
+Not Chronically Homeless,234,all_households,2016-01-01,2016-01-31,Q26a,unknown_household_type,0
+Client Doesn't Know/Client Refused,3,all_households,2016-01-01,2016-01-31,Q26a,without_children,3
+Client Doesn't Know/Client Refused,3,all_households,2016-01-01,2016-01-31,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,3,all_households,2016-01-01,2016-01-31,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,3,all_households,2016-01-01,2016-01-31,Q26a,unknown_household_type,0
+Data Not Collected,93,all_households,2016-01-01,2016-01-31,Q26a,without_children,82
+Data Not Collected,93,all_households,2016-01-01,2016-01-31,Q26a,with_children_and_adults,11
+Data Not Collected,93,all_households,2016-01-01,2016-01-31,Q26a,with_only_children,0
+Data Not Collected,93,all_households,2016-01-01,2016-01-31,Q26a,unknown_household_type,0
+Chronically Homeless,48,all_households,2016-02-01,2016-02-29,Q26a,without_children,48
+Chronically Homeless,48,all_households,2016-02-01,2016-02-29,Q26a,with_children_and_adults,0
+Chronically Homeless,48,all_households,2016-02-01,2016-02-29,Q26a,with_only_children,0
+Chronically Homeless,48,all_households,2016-02-01,2016-02-29,Q26a,unknown_household_type,0
+Not Chronically Homeless,226,all_households,2016-02-01,2016-02-29,Q26a,without_children,165
+Not Chronically Homeless,226,all_households,2016-02-01,2016-02-29,Q26a,with_children_and_adults,60
+Not Chronically Homeless,226,all_households,2016-02-01,2016-02-29,Q26a,with_only_children,1
+Not Chronically Homeless,226,all_households,2016-02-01,2016-02-29,Q26a,unknown_household_type,0
+Client Doesn't Know/Client Refused,3,all_households,2016-02-01,2016-02-29,Q26a,without_children,3
+Client Doesn't Know/Client Refused,3,all_households,2016-02-01,2016-02-29,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,3,all_households,2016-02-01,2016-02-29,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,3,all_households,2016-02-01,2016-02-29,Q26a,unknown_household_type,0
+Data Not Collected,89,all_households,2016-02-01,2016-02-29,Q26a,without_children,83
+Data Not Collected,89,all_households,2016-02-01,2016-02-29,Q26a,with_children_and_adults,6
+Data Not Collected,89,all_households,2016-02-01,2016-02-29,Q26a,with_only_children,0
+Data Not Collected,89,all_households,2016-02-01,2016-02-29,Q26a,unknown_household_type,0
+Chronically Homeless,49,all_households,2016-03-01,2016-03-31,Q26a,without_children,49
+Chronically Homeless,49,all_households,2016-03-01,2016-03-31,Q26a,with_children_and_adults,0
+Chronically Homeless,49,all_households,2016-03-01,2016-03-31,Q26a,with_only_children,0
+Chronically Homeless,49,all_households,2016-03-01,2016-03-31,Q26a,unknown_household_type,0
+Not Chronically Homeless,234,all_households,2016-03-01,2016-03-31,Q26a,without_children,177
+Not Chronically Homeless,234,all_households,2016-03-01,2016-03-31,Q26a,with_children_and_adults,57
+Not Chronically Homeless,234,all_households,2016-03-01,2016-03-31,Q26a,with_only_children,0
+Not Chronically Homeless,234,all_households,2016-03-01,2016-03-31,Q26a,unknown_household_type,0
+Client Doesn't Know/Client Refused,2,all_households,2016-03-01,2016-03-31,Q26a,without_children,2
+Client Doesn't Know/Client Refused,2,all_households,2016-03-01,2016-03-31,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,2,all_households,2016-03-01,2016-03-31,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,2,all_households,2016-03-01,2016-03-31,Q26a,unknown_household_type,0
+Data Not Collected,87,all_households,2016-03-01,2016-03-31,Q26a,without_children,79
+Data Not Collected,87,all_households,2016-03-01,2016-03-31,Q26a,with_children_and_adults,8
+Data Not Collected,87,all_households,2016-03-01,2016-03-31,Q26a,with_only_children,0
+Data Not Collected,87,all_households,2016-03-01,2016-03-31,Q26a,unknown_household_type,0
+Chronically Homeless,47,all_households,2016-04-01,2016-04-30,Q26a,without_children,45
+Chronically Homeless,47,all_households,2016-04-01,2016-04-30,Q26a,with_children_and_adults,2
+Chronically Homeless,47,all_households,2016-04-01,2016-04-30,Q26a,with_only_children,0
+Chronically Homeless,47,all_households,2016-04-01,2016-04-30,Q26a,unknown_household_type,0
+Not Chronically Homeless,229,all_households,2016-04-01,2016-04-30,Q26a,without_children,168
+Not Chronically Homeless,229,all_households,2016-04-01,2016-04-30,Q26a,with_children_and_adults,61
+Not Chronically Homeless,229,all_households,2016-04-01,2016-04-30,Q26a,with_only_children,0
+Not Chronically Homeless,229,all_households,2016-04-01,2016-04-30,Q26a,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_households,2016-04-01,2016-04-30,Q26a,without_children,1
+Client Doesn't Know/Client Refused,1,all_households,2016-04-01,2016-04-30,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_households,2016-04-01,2016-04-30,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,1,all_households,2016-04-01,2016-04-30,Q26a,unknown_household_type,0
+Data Not Collected,54,all_households,2016-04-01,2016-04-30,Q26a,without_children,47
+Data Not Collected,54,all_households,2016-04-01,2016-04-30,Q26a,with_children_and_adults,7
+Data Not Collected,54,all_households,2016-04-01,2016-04-30,Q26a,with_only_children,0
+Data Not Collected,54,all_households,2016-04-01,2016-04-30,Q26a,unknown_household_type,0
+Chronically Homeless,42,all_households,2016-05-01,2016-05-31,Q26a,without_children,42
+Chronically Homeless,42,all_households,2016-05-01,2016-05-31,Q26a,with_children_and_adults,0
+Chronically Homeless,42,all_households,2016-05-01,2016-05-31,Q26a,with_only_children,0
+Chronically Homeless,42,all_households,2016-05-01,2016-05-31,Q26a,unknown_household_type,0
+Not Chronically Homeless,229,all_households,2016-05-01,2016-05-31,Q26a,without_children,161
+Not Chronically Homeless,229,all_households,2016-05-01,2016-05-31,Q26a,with_children_and_adults,66
+Not Chronically Homeless,229,all_households,2016-05-01,2016-05-31,Q26a,with_only_children,1
+Not Chronically Homeless,229,all_households,2016-05-01,2016-05-31,Q26a,unknown_household_type,1
+Client Doesn't Know/Client Refused,0,all_households,2016-05-01,2016-05-31,Q26a,without_children,0
+Client Doesn't Know/Client Refused,0,all_households,2016-05-01,2016-05-31,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,all_households,2016-05-01,2016-05-31,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,0,all_households,2016-05-01,2016-05-31,Q26a,unknown_household_type,0
+Data Not Collected,41,all_households,2016-05-01,2016-05-31,Q26a,without_children,33
+Data Not Collected,41,all_households,2016-05-01,2016-05-31,Q26a,with_children_and_adults,8
+Data Not Collected,41,all_households,2016-05-01,2016-05-31,Q26a,with_only_children,0
+Data Not Collected,41,all_households,2016-05-01,2016-05-31,Q26a,unknown_household_type,0
+Chronically Homeless,45,all_households,2016-06-01,2016-06-30,Q26a,without_children,45
+Chronically Homeless,45,all_households,2016-06-01,2016-06-30,Q26a,with_children_and_adults,0
+Chronically Homeless,45,all_households,2016-06-01,2016-06-30,Q26a,with_only_children,0
+Chronically Homeless,45,all_households,2016-06-01,2016-06-30,Q26a,unknown_household_type,0
+Not Chronically Homeless,231,all_households,2016-06-01,2016-06-30,Q26a,without_children,163
+Not Chronically Homeless,231,all_households,2016-06-01,2016-06-30,Q26a,with_children_and_adults,66
+Not Chronically Homeless,231,all_households,2016-06-01,2016-06-30,Q26a,with_only_children,1
+Not Chronically Homeless,231,all_households,2016-06-01,2016-06-30,Q26a,unknown_household_type,1
+Client Doesn't Know/Client Refused,0,all_households,2016-06-01,2016-06-30,Q26a,without_children,0
+Client Doesn't Know/Client Refused,0,all_households,2016-06-01,2016-06-30,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,all_households,2016-06-01,2016-06-30,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,0,all_households,2016-06-01,2016-06-30,Q26a,unknown_household_type,0
+Data Not Collected,35,all_households,2016-06-01,2016-06-30,Q26a,without_children,28
+Data Not Collected,35,all_households,2016-06-01,2016-06-30,Q26a,with_children_and_adults,7
+Data Not Collected,35,all_households,2016-06-01,2016-06-30,Q26a,with_only_children,0
+Data Not Collected,35,all_households,2016-06-01,2016-06-30,Q26a,unknown_household_type,0
+Chronically Homeless,45,all_households,2016-07-01,2016-07-31,Q26a,without_children,45
+Chronically Homeless,45,all_households,2016-07-01,2016-07-31,Q26a,with_children_and_adults,0
+Chronically Homeless,45,all_households,2016-07-01,2016-07-31,Q26a,with_only_children,0
+Chronically Homeless,45,all_households,2016-07-01,2016-07-31,Q26a,unknown_household_type,0
+Not Chronically Homeless,244,all_households,2016-07-01,2016-07-31,Q26a,without_children,170
+Not Chronically Homeless,244,all_households,2016-07-01,2016-07-31,Q26a,with_children_and_adults,74
+Not Chronically Homeless,244,all_households,2016-07-01,2016-07-31,Q26a,with_only_children,0
+Not Chronically Homeless,244,all_households,2016-07-01,2016-07-31,Q26a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,all_households,2016-07-01,2016-07-31,Q26a,without_children,0
+Client Doesn't Know/Client Refused,0,all_households,2016-07-01,2016-07-31,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,all_households,2016-07-01,2016-07-31,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,0,all_households,2016-07-01,2016-07-31,Q26a,unknown_household_type,0
+Data Not Collected,36,all_households,2016-07-01,2016-07-31,Q26a,without_children,31
+Data Not Collected,36,all_households,2016-07-01,2016-07-31,Q26a,with_children_and_adults,5
+Data Not Collected,36,all_households,2016-07-01,2016-07-31,Q26a,with_only_children,0
+Data Not Collected,36,all_households,2016-07-01,2016-07-31,Q26a,unknown_household_type,0
+Chronically Homeless,47,all_households,2016-08-01,2016-08-31,Q26a,without_children,46
+Chronically Homeless,47,all_households,2016-08-01,2016-08-31,Q26a,with_children_and_adults,1
+Chronically Homeless,47,all_households,2016-08-01,2016-08-31,Q26a,with_only_children,0
+Chronically Homeless,47,all_households,2016-08-01,2016-08-31,Q26a,unknown_household_type,0
+Not Chronically Homeless,283,all_households,2016-08-01,2016-08-31,Q26a,without_children,186
+Not Chronically Homeless,283,all_households,2016-08-01,2016-08-31,Q26a,with_children_and_adults,97
+Not Chronically Homeless,283,all_households,2016-08-01,2016-08-31,Q26a,with_only_children,0
+Not Chronically Homeless,283,all_households,2016-08-01,2016-08-31,Q26a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,all_households,2016-08-01,2016-08-31,Q26a,without_children,0
+Client Doesn't Know/Client Refused,0,all_households,2016-08-01,2016-08-31,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,all_households,2016-08-01,2016-08-31,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,0,all_households,2016-08-01,2016-08-31,Q26a,unknown_household_type,0
+Data Not Collected,34,all_households,2016-08-01,2016-08-31,Q26a,without_children,27
+Data Not Collected,34,all_households,2016-08-01,2016-08-31,Q26a,with_children_and_adults,7
+Data Not Collected,34,all_households,2016-08-01,2016-08-31,Q26a,with_only_children,0
+Data Not Collected,34,all_households,2016-08-01,2016-08-31,Q26a,unknown_household_type,0
+Chronically Homeless,44,all_households,2016-09-01,2016-09-30,Q26a,without_children,42
+Chronically Homeless,44,all_households,2016-09-01,2016-09-30,Q26a,with_children_and_adults,2
+Chronically Homeless,44,all_households,2016-09-01,2016-09-30,Q26a,with_only_children,0
+Chronically Homeless,44,all_households,2016-09-01,2016-09-30,Q26a,unknown_household_type,0
+Not Chronically Homeless,289,all_households,2016-09-01,2016-09-30,Q26a,without_children,186
+Not Chronically Homeless,289,all_households,2016-09-01,2016-09-30,Q26a,with_children_and_adults,103
+Not Chronically Homeless,289,all_households,2016-09-01,2016-09-30,Q26a,with_only_children,0
+Not Chronically Homeless,289,all_households,2016-09-01,2016-09-30,Q26a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,all_households,2016-09-01,2016-09-30,Q26a,without_children,0
+Client Doesn't Know/Client Refused,0,all_households,2016-09-01,2016-09-30,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,all_households,2016-09-01,2016-09-30,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,0,all_households,2016-09-01,2016-09-30,Q26a,unknown_household_type,0
+Data Not Collected,36,all_households,2016-09-01,2016-09-30,Q26a,without_children,30
+Data Not Collected,36,all_households,2016-09-01,2016-09-30,Q26a,with_children_and_adults,6
+Data Not Collected,36,all_households,2016-09-01,2016-09-30,Q26a,with_only_children,0
+Data Not Collected,36,all_households,2016-09-01,2016-09-30,Q26a,unknown_household_type,0
+Chronically Homeless,48,all_households,2016-10-01,2016-10-31,Q26a,without_children,47
+Chronically Homeless,48,all_households,2016-10-01,2016-10-31,Q26a,with_children_and_adults,1
+Chronically Homeless,48,all_households,2016-10-01,2016-10-31,Q26a,with_only_children,0
+Chronically Homeless,48,all_households,2016-10-01,2016-10-31,Q26a,unknown_household_type,0
+Not Chronically Homeless,273,all_households,2016-10-01,2016-10-31,Q26a,without_children,180
+Not Chronically Homeless,273,all_households,2016-10-01,2016-10-31,Q26a,with_children_and_adults,93
+Not Chronically Homeless,273,all_households,2016-10-01,2016-10-31,Q26a,with_only_children,0
+Not Chronically Homeless,273,all_households,2016-10-01,2016-10-31,Q26a,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_households,2016-10-01,2016-10-31,Q26a,without_children,1
+Client Doesn't Know/Client Refused,1,all_households,2016-10-01,2016-10-31,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_households,2016-10-01,2016-10-31,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,1,all_households,2016-10-01,2016-10-31,Q26a,unknown_household_type,0
+Data Not Collected,32,all_households,2016-10-01,2016-10-31,Q26a,without_children,29
+Data Not Collected,32,all_households,2016-10-01,2016-10-31,Q26a,with_children_and_adults,3
+Data Not Collected,32,all_households,2016-10-01,2016-10-31,Q26a,with_only_children,0
+Data Not Collected,32,all_households,2016-10-01,2016-10-31,Q26a,unknown_household_type,0
+Chronically Homeless,57,all_households,2016-11-01,2016-11-30,Q26a,without_children,57
+Chronically Homeless,57,all_households,2016-11-01,2016-11-30,Q26a,with_children_and_adults,0
+Chronically Homeless,57,all_households,2016-11-01,2016-11-30,Q26a,with_only_children,0
+Chronically Homeless,57,all_households,2016-11-01,2016-11-30,Q26a,unknown_household_type,0
+Not Chronically Homeless,301,all_households,2016-11-01,2016-11-30,Q26a,without_children,208
+Not Chronically Homeless,301,all_households,2016-11-01,2016-11-30,Q26a,with_children_and_adults,93
+Not Chronically Homeless,301,all_households,2016-11-01,2016-11-30,Q26a,with_only_children,0
+Not Chronically Homeless,301,all_households,2016-11-01,2016-11-30,Q26a,unknown_household_type,0
+Client Doesn't Know/Client Refused,5,all_households,2016-11-01,2016-11-30,Q26a,without_children,5
+Client Doesn't Know/Client Refused,5,all_households,2016-11-01,2016-11-30,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,5,all_households,2016-11-01,2016-11-30,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,5,all_households,2016-11-01,2016-11-30,Q26a,unknown_household_type,0
+Data Not Collected,32,all_households,2016-11-01,2016-11-30,Q26a,without_children,30
+Data Not Collected,32,all_households,2016-11-01,2016-11-30,Q26a,with_children_and_adults,2
+Data Not Collected,32,all_households,2016-11-01,2016-11-30,Q26a,with_only_children,0
+Data Not Collected,32,all_households,2016-11-01,2016-11-30,Q26a,unknown_household_type,0
+Chronically Homeless,53,all_households,2016-12-01,2016-12-31,Q26a,without_children,53
+Chronically Homeless,53,all_households,2016-12-01,2016-12-31,Q26a,with_children_and_adults,0
+Chronically Homeless,53,all_households,2016-12-01,2016-12-31,Q26a,with_only_children,0
+Chronically Homeless,53,all_households,2016-12-01,2016-12-31,Q26a,unknown_household_type,0
+Not Chronically Homeless,315,all_households,2016-12-01,2016-12-31,Q26a,without_children,220
+Not Chronically Homeless,315,all_households,2016-12-01,2016-12-31,Q26a,with_children_and_adults,95
+Not Chronically Homeless,315,all_households,2016-12-01,2016-12-31,Q26a,with_only_children,0
+Not Chronically Homeless,315,all_households,2016-12-01,2016-12-31,Q26a,unknown_household_type,0
+Client Doesn't Know/Client Refused,4,all_households,2016-12-01,2016-12-31,Q26a,without_children,4
+Client Doesn't Know/Client Refused,4,all_households,2016-12-01,2016-12-31,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,4,all_households,2016-12-01,2016-12-31,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,4,all_households,2016-12-01,2016-12-31,Q26a,unknown_household_type,0
+Data Not Collected,32,all_households,2016-12-01,2016-12-31,Q26a,without_children,30
+Data Not Collected,32,all_households,2016-12-01,2016-12-31,Q26a,with_children_and_adults,2
+Data Not Collected,32,all_households,2016-12-01,2016-12-31,Q26a,with_only_children,0
+Data Not Collected,32,all_households,2016-12-01,2016-12-31,Q26a,unknown_household_type,0
+Chronically Homeless,59,all_households,2017-01-01,2017-01-31,Q26a,without_children,59
+Chronically Homeless,59,all_households,2017-01-01,2017-01-31,Q26a,with_children_and_adults,0
+Chronically Homeless,59,all_households,2017-01-01,2017-01-31,Q26a,with_only_children,0
+Chronically Homeless,59,all_households,2017-01-01,2017-01-31,Q26a,unknown_household_type,0
+Not Chronically Homeless,312,all_households,2017-01-01,2017-01-31,Q26a,without_children,224
+Not Chronically Homeless,312,all_households,2017-01-01,2017-01-31,Q26a,with_children_and_adults,88
+Not Chronically Homeless,312,all_households,2017-01-01,2017-01-31,Q26a,with_only_children,0
+Not Chronically Homeless,312,all_households,2017-01-01,2017-01-31,Q26a,unknown_household_type,0
+Client Doesn't Know/Client Refused,6,all_households,2017-01-01,2017-01-31,Q26a,without_children,6
+Client Doesn't Know/Client Refused,6,all_households,2017-01-01,2017-01-31,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,6,all_households,2017-01-01,2017-01-31,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,6,all_households,2017-01-01,2017-01-31,Q26a,unknown_household_type,0
+Data Not Collected,31,all_households,2017-01-01,2017-01-31,Q26a,without_children,30
+Data Not Collected,31,all_households,2017-01-01,2017-01-31,Q26a,with_children_and_adults,1
+Data Not Collected,31,all_households,2017-01-01,2017-01-31,Q26a,with_only_children,0
+Data Not Collected,31,all_households,2017-01-01,2017-01-31,Q26a,unknown_household_type,0
+Chronically Homeless,59,all_households,2017-02-01,2017-02-28,Q26a,without_children,58
+Chronically Homeless,59,all_households,2017-02-01,2017-02-28,Q26a,with_children_and_adults,1
+Chronically Homeless,59,all_households,2017-02-01,2017-02-28,Q26a,with_only_children,0
+Chronically Homeless,59,all_households,2017-02-01,2017-02-28,Q26a,unknown_household_type,0
+Not Chronically Homeless,291,all_households,2017-02-01,2017-02-28,Q26a,without_children,224
+Not Chronically Homeless,291,all_households,2017-02-01,2017-02-28,Q26a,with_children_and_adults,66
+Not Chronically Homeless,291,all_households,2017-02-01,2017-02-28,Q26a,with_only_children,1
+Not Chronically Homeless,291,all_households,2017-02-01,2017-02-28,Q26a,unknown_household_type,0
+Client Doesn't Know/Client Refused,3,all_households,2017-02-01,2017-02-28,Q26a,without_children,3
+Client Doesn't Know/Client Refused,3,all_households,2017-02-01,2017-02-28,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,3,all_households,2017-02-01,2017-02-28,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,3,all_households,2017-02-01,2017-02-28,Q26a,unknown_household_type,0
+Data Not Collected,27,all_households,2017-02-01,2017-02-28,Q26a,without_children,27
+Data Not Collected,27,all_households,2017-02-01,2017-02-28,Q26a,with_children_and_adults,0
+Data Not Collected,27,all_households,2017-02-01,2017-02-28,Q26a,with_only_children,0
+Data Not Collected,27,all_households,2017-02-01,2017-02-28,Q26a,unknown_household_type,0
+Chronically Homeless,63,all_households,2017-03-01,2017-03-31,Q26a,without_children,62
+Chronically Homeless,63,all_households,2017-03-01,2017-03-31,Q26a,with_children_and_adults,1
+Chronically Homeless,63,all_households,2017-03-01,2017-03-31,Q26a,with_only_children,0
+Chronically Homeless,63,all_households,2017-03-01,2017-03-31,Q26a,unknown_household_type,0
+Not Chronically Homeless,290,all_households,2017-03-01,2017-03-31,Q26a,without_children,231
+Not Chronically Homeless,290,all_households,2017-03-01,2017-03-31,Q26a,with_children_and_adults,58
+Not Chronically Homeless,290,all_households,2017-03-01,2017-03-31,Q26a,with_only_children,1
+Not Chronically Homeless,290,all_households,2017-03-01,2017-03-31,Q26a,unknown_household_type,0
+Client Doesn't Know/Client Refused,6,all_households,2017-03-01,2017-03-31,Q26a,without_children,6
+Client Doesn't Know/Client Refused,6,all_households,2017-03-01,2017-03-31,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,6,all_households,2017-03-01,2017-03-31,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,6,all_households,2017-03-01,2017-03-31,Q26a,unknown_household_type,0
+Data Not Collected,24,all_households,2017-03-01,2017-03-31,Q26a,without_children,24
+Data Not Collected,24,all_households,2017-03-01,2017-03-31,Q26a,with_children_and_adults,0
+Data Not Collected,24,all_households,2017-03-01,2017-03-31,Q26a,with_only_children,0
+Data Not Collected,24,all_households,2017-03-01,2017-03-31,Q26a,unknown_household_type,0
+Chronically Homeless,56,all_households,2017-04-01,2017-04-30,Q26a,without_children,56
+Chronically Homeless,56,all_households,2017-04-01,2017-04-30,Q26a,with_children_and_adults,0
+Chronically Homeless,56,all_households,2017-04-01,2017-04-30,Q26a,with_only_children,0
+Chronically Homeless,56,all_households,2017-04-01,2017-04-30,Q26a,unknown_household_type,0
+Not Chronically Homeless,269,all_households,2017-04-01,2017-04-30,Q26a,without_children,211
+Not Chronically Homeless,269,all_households,2017-04-01,2017-04-30,Q26a,with_children_and_adults,58
+Not Chronically Homeless,269,all_households,2017-04-01,2017-04-30,Q26a,with_only_children,0
+Not Chronically Homeless,269,all_households,2017-04-01,2017-04-30,Q26a,unknown_household_type,0
+Client Doesn't Know/Client Refused,5,all_households,2017-04-01,2017-04-30,Q26a,without_children,5
+Client Doesn't Know/Client Refused,5,all_households,2017-04-01,2017-04-30,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,5,all_households,2017-04-01,2017-04-30,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,5,all_households,2017-04-01,2017-04-30,Q26a,unknown_household_type,0
+Data Not Collected,18,all_households,2017-04-01,2017-04-30,Q26a,without_children,17
+Data Not Collected,18,all_households,2017-04-01,2017-04-30,Q26a,with_children_and_adults,1
+Data Not Collected,18,all_households,2017-04-01,2017-04-30,Q26a,with_only_children,0
+Data Not Collected,18,all_households,2017-04-01,2017-04-30,Q26a,unknown_household_type,0
+Chronically Homeless,48,all_households,2017-05-01,2017-05-31,Q26a,without_children,48
+Chronically Homeless,48,all_households,2017-05-01,2017-05-31,Q26a,with_children_and_adults,0
+Chronically Homeless,48,all_households,2017-05-01,2017-05-31,Q26a,with_only_children,0
+Chronically Homeless,48,all_households,2017-05-01,2017-05-31,Q26a,unknown_household_type,0
+Not Chronically Homeless,247,all_households,2017-05-01,2017-05-31,Q26a,without_children,185
+Not Chronically Homeless,247,all_households,2017-05-01,2017-05-31,Q26a,with_children_and_adults,61
+Not Chronically Homeless,247,all_households,2017-05-01,2017-05-31,Q26a,with_only_children,1
+Not Chronically Homeless,247,all_households,2017-05-01,2017-05-31,Q26a,unknown_household_type,0
+Client Doesn't Know/Client Refused,2,all_households,2017-05-01,2017-05-31,Q26a,without_children,2
+Client Doesn't Know/Client Refused,2,all_households,2017-05-01,2017-05-31,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,2,all_households,2017-05-01,2017-05-31,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,2,all_households,2017-05-01,2017-05-31,Q26a,unknown_household_type,0
+Data Not Collected,11,all_households,2017-05-01,2017-05-31,Q26a,without_children,10
+Data Not Collected,11,all_households,2017-05-01,2017-05-31,Q26a,with_children_and_adults,1
+Data Not Collected,11,all_households,2017-05-01,2017-05-31,Q26a,with_only_children,0
+Data Not Collected,11,all_households,2017-05-01,2017-05-31,Q26a,unknown_household_type,0
+Chronically Homeless,47,all_households,2017-06-01,2017-06-30,Q26a,without_children,47
+Chronically Homeless,47,all_households,2017-06-01,2017-06-30,Q26a,with_children_and_adults,0
+Chronically Homeless,47,all_households,2017-06-01,2017-06-30,Q26a,with_only_children,0
+Chronically Homeless,47,all_households,2017-06-01,2017-06-30,Q26a,unknown_household_type,0
+Not Chronically Homeless,254,all_households,2017-06-01,2017-06-30,Q26a,without_children,181
+Not Chronically Homeless,254,all_households,2017-06-01,2017-06-30,Q26a,with_children_and_adults,72
+Not Chronically Homeless,254,all_households,2017-06-01,2017-06-30,Q26a,with_only_children,1
+Not Chronically Homeless,254,all_households,2017-06-01,2017-06-30,Q26a,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_households,2017-06-01,2017-06-30,Q26a,without_children,1
+Client Doesn't Know/Client Refused,1,all_households,2017-06-01,2017-06-30,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_households,2017-06-01,2017-06-30,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,1,all_households,2017-06-01,2017-06-30,Q26a,unknown_household_type,0
+Data Not Collected,12,all_households,2017-06-01,2017-06-30,Q26a,without_children,11
+Data Not Collected,12,all_households,2017-06-01,2017-06-30,Q26a,with_children_and_adults,1
+Data Not Collected,12,all_households,2017-06-01,2017-06-30,Q26a,with_only_children,0
+Data Not Collected,12,all_households,2017-06-01,2017-06-30,Q26a,unknown_household_type,0
+Chronically Homeless,48,all_households,2017-07-01,2017-07-31,Q26a,without_children,48
+Chronically Homeless,48,all_households,2017-07-01,2017-07-31,Q26a,with_children_and_adults,0
+Chronically Homeless,48,all_households,2017-07-01,2017-07-31,Q26a,with_only_children,0
+Chronically Homeless,48,all_households,2017-07-01,2017-07-31,Q26a,unknown_household_type,0
+Not Chronically Homeless,272,all_households,2017-07-01,2017-07-31,Q26a,without_children,183
+Not Chronically Homeless,272,all_households,2017-07-01,2017-07-31,Q26a,with_children_and_adults,88
+Not Chronically Homeless,272,all_households,2017-07-01,2017-07-31,Q26a,with_only_children,1
+Not Chronically Homeless,272,all_households,2017-07-01,2017-07-31,Q26a,unknown_household_type,0
+Client Doesn't Know/Client Refused,2,all_households,2017-07-01,2017-07-31,Q26a,without_children,2
+Client Doesn't Know/Client Refused,2,all_households,2017-07-01,2017-07-31,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,2,all_households,2017-07-01,2017-07-31,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,2,all_households,2017-07-01,2017-07-31,Q26a,unknown_household_type,0
+Data Not Collected,13,all_households,2017-07-01,2017-07-31,Q26a,without_children,12
+Data Not Collected,13,all_households,2017-07-01,2017-07-31,Q26a,with_children_and_adults,1
+Data Not Collected,13,all_households,2017-07-01,2017-07-31,Q26a,with_only_children,0
+Data Not Collected,13,all_households,2017-07-01,2017-07-31,Q26a,unknown_household_type,0
+Chronically Homeless,53,all_households,2017-08-01,2017-08-31,Q26a,without_children,52
+Chronically Homeless,53,all_households,2017-08-01,2017-08-31,Q26a,with_children_and_adults,1
+Chronically Homeless,53,all_households,2017-08-01,2017-08-31,Q26a,with_only_children,0
+Chronically Homeless,53,all_households,2017-08-01,2017-08-31,Q26a,unknown_household_type,0
+Not Chronically Homeless,286,all_households,2017-08-01,2017-08-31,Q26a,without_children,196
+Not Chronically Homeless,286,all_households,2017-08-01,2017-08-31,Q26a,with_children_and_adults,89
+Not Chronically Homeless,286,all_households,2017-08-01,2017-08-31,Q26a,with_only_children,1
+Not Chronically Homeless,286,all_households,2017-08-01,2017-08-31,Q26a,unknown_household_type,0
+Client Doesn't Know/Client Refused,2,all_households,2017-08-01,2017-08-31,Q26a,without_children,2
+Client Doesn't Know/Client Refused,2,all_households,2017-08-01,2017-08-31,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,2,all_households,2017-08-01,2017-08-31,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,2,all_households,2017-08-01,2017-08-31,Q26a,unknown_household_type,0
+Data Not Collected,15,all_households,2017-08-01,2017-08-31,Q26a,without_children,14
+Data Not Collected,15,all_households,2017-08-01,2017-08-31,Q26a,with_children_and_adults,1
+Data Not Collected,15,all_households,2017-08-01,2017-08-31,Q26a,with_only_children,0
+Data Not Collected,15,all_households,2017-08-01,2017-08-31,Q26a,unknown_household_type,0
+Chronically Homeless,51,all_households,2017-09-01,2017-09-30,Q26a,without_children,49
+Chronically Homeless,51,all_households,2017-09-01,2017-09-30,Q26a,with_children_and_adults,2
+Chronically Homeless,51,all_households,2017-09-01,2017-09-30,Q26a,with_only_children,0
+Chronically Homeless,51,all_households,2017-09-01,2017-09-30,Q26a,unknown_household_type,0
+Not Chronically Homeless,263,all_households,2017-09-01,2017-09-30,Q26a,without_children,190
+Not Chronically Homeless,263,all_households,2017-09-01,2017-09-30,Q26a,with_children_and_adults,72
+Not Chronically Homeless,263,all_households,2017-09-01,2017-09-30,Q26a,with_only_children,1
+Not Chronically Homeless,263,all_households,2017-09-01,2017-09-30,Q26a,unknown_household_type,0
+Client Doesn't Know/Client Refused,5,all_households,2017-09-01,2017-09-30,Q26a,without_children,5
+Client Doesn't Know/Client Refused,5,all_households,2017-09-01,2017-09-30,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,5,all_households,2017-09-01,2017-09-30,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,5,all_households,2017-09-01,2017-09-30,Q26a,unknown_household_type,0
+Data Not Collected,15,all_households,2017-09-01,2017-09-30,Q26a,without_children,14
+Data Not Collected,15,all_households,2017-09-01,2017-09-30,Q26a,with_children_and_adults,1
+Data Not Collected,15,all_households,2017-09-01,2017-09-30,Q26a,with_only_children,0
+Data Not Collected,15,all_households,2017-09-01,2017-09-30,Q26a,unknown_household_type,0
+Chronically Homeless,52,all_households,2017-10-01,2017-10-31,Q26a,without_children,51
+Chronically Homeless,52,all_households,2017-10-01,2017-10-31,Q26a,with_children_and_adults,1
+Chronically Homeless,52,all_households,2017-10-01,2017-10-31,Q26a,with_only_children,0
+Chronically Homeless,52,all_households,2017-10-01,2017-10-31,Q26a,unknown_household_type,0
+Not Chronically Homeless,225,all_households,2017-10-01,2017-10-31,Q26a,without_children,162
+Not Chronically Homeless,225,all_households,2017-10-01,2017-10-31,Q26a,with_children_and_adults,63
+Not Chronically Homeless,225,all_households,2017-10-01,2017-10-31,Q26a,with_only_children,0
+Not Chronically Homeless,225,all_households,2017-10-01,2017-10-31,Q26a,unknown_household_type,0
+Client Doesn't Know/Client Refused,2,all_households,2017-10-01,2017-10-31,Q26a,without_children,2
+Client Doesn't Know/Client Refused,2,all_households,2017-10-01,2017-10-31,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,2,all_households,2017-10-01,2017-10-31,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,2,all_households,2017-10-01,2017-10-31,Q26a,unknown_household_type,0
+Data Not Collected,10,all_households,2017-10-01,2017-10-31,Q26a,without_children,10
+Data Not Collected,10,all_households,2017-10-01,2017-10-31,Q26a,with_children_and_adults,0
+Data Not Collected,10,all_households,2017-10-01,2017-10-31,Q26a,with_only_children,0
+Data Not Collected,10,all_households,2017-10-01,2017-10-31,Q26a,unknown_household_type,0
+Chronically Homeless,62,all_households,2017-11-01,2017-11-30,Q26a,without_children,59
+Chronically Homeless,62,all_households,2017-11-01,2017-11-30,Q26a,with_children_and_adults,2
+Chronically Homeless,62,all_households,2017-11-01,2017-11-30,Q26a,with_only_children,1
+Chronically Homeless,62,all_households,2017-11-01,2017-11-30,Q26a,unknown_household_type,0
+Not Chronically Homeless,277,all_households,2017-11-01,2017-11-30,Q26a,without_children,212
+Not Chronically Homeless,277,all_households,2017-11-01,2017-11-30,Q26a,with_children_and_adults,65
+Not Chronically Homeless,277,all_households,2017-11-01,2017-11-30,Q26a,with_only_children,0
+Not Chronically Homeless,277,all_households,2017-11-01,2017-11-30,Q26a,unknown_household_type,0
+Client Doesn't Know/Client Refused,7,all_households,2017-11-01,2017-11-30,Q26a,without_children,7
+Client Doesn't Know/Client Refused,7,all_households,2017-11-01,2017-11-30,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,7,all_households,2017-11-01,2017-11-30,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,7,all_households,2017-11-01,2017-11-30,Q26a,unknown_household_type,0
+Data Not Collected,13,all_households,2017-11-01,2017-11-30,Q26a,without_children,13
+Data Not Collected,13,all_households,2017-11-01,2017-11-30,Q26a,with_children_and_adults,0
+Data Not Collected,13,all_households,2017-11-01,2017-11-30,Q26a,with_only_children,0
+Data Not Collected,13,all_households,2017-11-01,2017-11-30,Q26a,unknown_household_type,0
+Chronically Homeless,62,all_households,2017-12-01,2017-12-31,Q26a,without_children,59
+Chronically Homeless,62,all_households,2017-12-01,2017-12-31,Q26a,with_children_and_adults,2
+Chronically Homeless,62,all_households,2017-12-01,2017-12-31,Q26a,with_only_children,1
+Chronically Homeless,62,all_households,2017-12-01,2017-12-31,Q26a,unknown_household_type,0
+Not Chronically Homeless,277,all_households,2017-12-01,2017-12-31,Q26a,without_children,217
+Not Chronically Homeless,277,all_households,2017-12-01,2017-12-31,Q26a,with_children_and_adults,60
+Not Chronically Homeless,277,all_households,2017-12-01,2017-12-31,Q26a,with_only_children,0
+Not Chronically Homeless,277,all_households,2017-12-01,2017-12-31,Q26a,unknown_household_type,0
+Client Doesn't Know/Client Refused,6,all_households,2017-12-01,2017-12-31,Q26a,without_children,6
+Client Doesn't Know/Client Refused,6,all_households,2017-12-01,2017-12-31,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,6,all_households,2017-12-01,2017-12-31,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,6,all_households,2017-12-01,2017-12-31,Q26a,unknown_household_type,0
+Data Not Collected,11,all_households,2017-12-01,2017-12-31,Q26a,without_children,11
+Data Not Collected,11,all_households,2017-12-01,2017-12-31,Q26a,with_children_and_adults,0
+Data Not Collected,11,all_households,2017-12-01,2017-12-31,Q26a,with_only_children,0
+Data Not Collected,11,all_households,2017-12-01,2017-12-31,Q26a,unknown_household_type,0
+Chronically Homeless,64,all_households,2018-01-01,2018-01-31,Q26a,without_children,61
+Chronically Homeless,64,all_households,2018-01-01,2018-01-31,Q26a,with_children_and_adults,2
+Chronically Homeless,64,all_households,2018-01-01,2018-01-31,Q26a,with_only_children,1
+Chronically Homeless,64,all_households,2018-01-01,2018-01-31,Q26a,unknown_household_type,0
+Not Chronically Homeless,277,all_households,2018-01-01,2018-01-31,Q26a,without_children,217
+Not Chronically Homeless,277,all_households,2018-01-01,2018-01-31,Q26a,with_children_and_adults,60
+Not Chronically Homeless,277,all_households,2018-01-01,2018-01-31,Q26a,with_only_children,0
+Not Chronically Homeless,277,all_households,2018-01-01,2018-01-31,Q26a,unknown_household_type,0
+Client Doesn't Know/Client Refused,4,all_households,2018-01-01,2018-01-31,Q26a,without_children,4
+Client Doesn't Know/Client Refused,4,all_households,2018-01-01,2018-01-31,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,4,all_households,2018-01-01,2018-01-31,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,4,all_households,2018-01-01,2018-01-31,Q26a,unknown_household_type,0
+Data Not Collected,10,all_households,2018-01-01,2018-01-31,Q26a,without_children,10
+Data Not Collected,10,all_households,2018-01-01,2018-01-31,Q26a,with_children_and_adults,0
+Data Not Collected,10,all_households,2018-01-01,2018-01-31,Q26a,with_only_children,0
+Data Not Collected,10,all_households,2018-01-01,2018-01-31,Q26a,unknown_household_type,0
+Chronically Homeless,65,all_households,2018-02-01,2018-02-28,Q26a,without_children,61
+Chronically Homeless,65,all_households,2018-02-01,2018-02-28,Q26a,with_children_and_adults,3
+Chronically Homeless,65,all_households,2018-02-01,2018-02-28,Q26a,with_only_children,1
+Chronically Homeless,65,all_households,2018-02-01,2018-02-28,Q26a,unknown_household_type,0
+Not Chronically Homeless,288,all_households,2018-02-01,2018-02-28,Q26a,without_children,226
+Not Chronically Homeless,288,all_households,2018-02-01,2018-02-28,Q26a,with_children_and_adults,61
+Not Chronically Homeless,288,all_households,2018-02-01,2018-02-28,Q26a,with_only_children,1
+Not Chronically Homeless,288,all_households,2018-02-01,2018-02-28,Q26a,unknown_household_type,0
+Client Doesn't Know/Client Refused,5,all_households,2018-02-01,2018-02-28,Q26a,without_children,5
+Client Doesn't Know/Client Refused,5,all_households,2018-02-01,2018-02-28,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,5,all_households,2018-02-01,2018-02-28,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,5,all_households,2018-02-01,2018-02-28,Q26a,unknown_household_type,0
+Data Not Collected,9,all_households,2018-02-01,2018-02-28,Q26a,without_children,9
+Data Not Collected,9,all_households,2018-02-01,2018-02-28,Q26a,with_children_and_adults,0
+Data Not Collected,9,all_households,2018-02-01,2018-02-28,Q26a,with_only_children,0
+Data Not Collected,9,all_households,2018-02-01,2018-02-28,Q26a,unknown_household_type,0
+Chronically Homeless,69,all_households,2018-03-01,2018-03-31,Q26a,without_children,65
+Chronically Homeless,69,all_households,2018-03-01,2018-03-31,Q26a,with_children_and_adults,3
+Chronically Homeless,69,all_households,2018-03-01,2018-03-31,Q26a,with_only_children,1
+Chronically Homeless,69,all_households,2018-03-01,2018-03-31,Q26a,unknown_household_type,0
+Not Chronically Homeless,291,all_households,2018-03-01,2018-03-31,Q26a,without_children,233
+Not Chronically Homeless,291,all_households,2018-03-01,2018-03-31,Q26a,with_children_and_adults,57
+Not Chronically Homeless,291,all_households,2018-03-01,2018-03-31,Q26a,with_only_children,1
+Not Chronically Homeless,291,all_households,2018-03-01,2018-03-31,Q26a,unknown_household_type,0
+Client Doesn't Know/Client Refused,3,all_households,2018-03-01,2018-03-31,Q26a,without_children,3
+Client Doesn't Know/Client Refused,3,all_households,2018-03-01,2018-03-31,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,3,all_households,2018-03-01,2018-03-31,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,3,all_households,2018-03-01,2018-03-31,Q26a,unknown_household_type,0
+Data Not Collected,9,all_households,2018-03-01,2018-03-31,Q26a,without_children,9
+Data Not Collected,9,all_households,2018-03-01,2018-03-31,Q26a,with_children_and_adults,0
+Data Not Collected,9,all_households,2018-03-01,2018-03-31,Q26a,with_only_children,0
+Data Not Collected,9,all_households,2018-03-01,2018-03-31,Q26a,unknown_household_type,0
+Chronically Homeless,69,all_households,2018-04-01,2018-04-30,Q26a,without_children,66
+Chronically Homeless,69,all_households,2018-04-01,2018-04-30,Q26a,with_children_and_adults,3
+Chronically Homeless,69,all_households,2018-04-01,2018-04-30,Q26a,with_only_children,0
+Chronically Homeless,69,all_households,2018-04-01,2018-04-30,Q26a,unknown_household_type,0
+Not Chronically Homeless,266,all_households,2018-04-01,2018-04-30,Q26a,without_children,212
+Not Chronically Homeless,266,all_households,2018-04-01,2018-04-30,Q26a,with_children_and_adults,53
+Not Chronically Homeless,266,all_households,2018-04-01,2018-04-30,Q26a,with_only_children,1
+Not Chronically Homeless,266,all_households,2018-04-01,2018-04-30,Q26a,unknown_household_type,0
+Client Doesn't Know/Client Refused,2,all_households,2018-04-01,2018-04-30,Q26a,without_children,2
+Client Doesn't Know/Client Refused,2,all_households,2018-04-01,2018-04-30,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,2,all_households,2018-04-01,2018-04-30,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,2,all_households,2018-04-01,2018-04-30,Q26a,unknown_household_type,0
+Data Not Collected,5,all_households,2018-04-01,2018-04-30,Q26a,without_children,5
+Data Not Collected,5,all_households,2018-04-01,2018-04-30,Q26a,with_children_and_adults,0
+Data Not Collected,5,all_households,2018-04-01,2018-04-30,Q26a,with_only_children,0
+Data Not Collected,5,all_households,2018-04-01,2018-04-30,Q26a,unknown_household_type,0
+Chronically Homeless,61,all_households,2018-05-01,2018-05-31,Q26a,without_children,58
+Chronically Homeless,61,all_households,2018-05-01,2018-05-31,Q26a,with_children_and_adults,3
+Chronically Homeless,61,all_households,2018-05-01,2018-05-31,Q26a,with_only_children,0
+Chronically Homeless,61,all_households,2018-05-01,2018-05-31,Q26a,unknown_household_type,0
+Not Chronically Homeless,254,all_households,2018-05-01,2018-05-31,Q26a,without_children,176
+Not Chronically Homeless,254,all_households,2018-05-01,2018-05-31,Q26a,with_children_and_adults,77
+Not Chronically Homeless,254,all_households,2018-05-01,2018-05-31,Q26a,with_only_children,1
+Not Chronically Homeless,254,all_households,2018-05-01,2018-05-31,Q26a,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_households,2018-05-01,2018-05-31,Q26a,without_children,1
+Client Doesn't Know/Client Refused,1,all_households,2018-05-01,2018-05-31,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_households,2018-05-01,2018-05-31,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,1,all_households,2018-05-01,2018-05-31,Q26a,unknown_household_type,0
+Data Not Collected,3,all_households,2018-05-01,2018-05-31,Q26a,without_children,3
+Data Not Collected,3,all_households,2018-05-01,2018-05-31,Q26a,with_children_and_adults,0
+Data Not Collected,3,all_households,2018-05-01,2018-05-31,Q26a,with_only_children,0
+Data Not Collected,3,all_households,2018-05-01,2018-05-31,Q26a,unknown_household_type,0
+Chronically Homeless,64,all_households,2018-06-01,2018-06-30,Q26a,without_children,59
+Chronically Homeless,64,all_households,2018-06-01,2018-06-30,Q26a,with_children_and_adults,5
+Chronically Homeless,64,all_households,2018-06-01,2018-06-30,Q26a,with_only_children,0
+Chronically Homeless,64,all_households,2018-06-01,2018-06-30,Q26a,unknown_household_type,0
+Not Chronically Homeless,235,all_households,2018-06-01,2018-06-30,Q26a,without_children,165
+Not Chronically Homeless,235,all_households,2018-06-01,2018-06-30,Q26a,with_children_and_adults,69
+Not Chronically Homeless,235,all_households,2018-06-01,2018-06-30,Q26a,with_only_children,1
+Not Chronically Homeless,235,all_households,2018-06-01,2018-06-30,Q26a,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_households,2018-06-01,2018-06-30,Q26a,without_children,1
+Client Doesn't Know/Client Refused,1,all_households,2018-06-01,2018-06-30,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_households,2018-06-01,2018-06-30,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,1,all_households,2018-06-01,2018-06-30,Q26a,unknown_household_type,0
+Data Not Collected,5,all_households,2018-06-01,2018-06-30,Q26a,without_children,5
+Data Not Collected,5,all_households,2018-06-01,2018-06-30,Q26a,with_children_and_adults,0
+Data Not Collected,5,all_households,2018-06-01,2018-06-30,Q26a,with_only_children,0
+Data Not Collected,5,all_households,2018-06-01,2018-06-30,Q26a,unknown_household_type,0
+Chronically Homeless,62,all_households,2018-07-01,2018-07-31,Q26a,without_children,57
+Chronically Homeless,62,all_households,2018-07-01,2018-07-31,Q26a,with_children_and_adults,5
+Chronically Homeless,62,all_households,2018-07-01,2018-07-31,Q26a,with_only_children,0
+Chronically Homeless,62,all_households,2018-07-01,2018-07-31,Q26a,unknown_household_type,0
+Not Chronically Homeless,208,all_households,2018-07-01,2018-07-31,Q26a,without_children,142
+Not Chronically Homeless,208,all_households,2018-07-01,2018-07-31,Q26a,with_children_and_adults,65
+Not Chronically Homeless,208,all_households,2018-07-01,2018-07-31,Q26a,with_only_children,1
+Not Chronically Homeless,208,all_households,2018-07-01,2018-07-31,Q26a,unknown_household_type,0
+Client Doesn't Know/Client Refused,2,all_households,2018-07-01,2018-07-31,Q26a,without_children,2
+Client Doesn't Know/Client Refused,2,all_households,2018-07-01,2018-07-31,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,2,all_households,2018-07-01,2018-07-31,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,2,all_households,2018-07-01,2018-07-31,Q26a,unknown_household_type,0
+Data Not Collected,6,all_households,2018-07-01,2018-07-31,Q26a,without_children,6
+Data Not Collected,6,all_households,2018-07-01,2018-07-31,Q26a,with_children_and_adults,0
+Data Not Collected,6,all_households,2018-07-01,2018-07-31,Q26a,with_only_children,0
+Data Not Collected,6,all_households,2018-07-01,2018-07-31,Q26a,unknown_household_type,0
+Chronically Homeless,63,all_households,2018-08-01,2018-08-31,Q26a,without_children,58
+Chronically Homeless,63,all_households,2018-08-01,2018-08-31,Q26a,with_children_and_adults,5
+Chronically Homeless,63,all_households,2018-08-01,2018-08-31,Q26a,with_only_children,0
+Chronically Homeless,63,all_households,2018-08-01,2018-08-31,Q26a,unknown_household_type,0
+Not Chronically Homeless,226,all_households,2018-08-01,2018-08-31,Q26a,without_children,154
+Not Chronically Homeless,226,all_households,2018-08-01,2018-08-31,Q26a,with_children_and_adults,71
+Not Chronically Homeless,226,all_households,2018-08-01,2018-08-31,Q26a,with_only_children,1
+Not Chronically Homeless,226,all_households,2018-08-01,2018-08-31,Q26a,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_households,2018-08-01,2018-08-31,Q26a,without_children,1
+Client Doesn't Know/Client Refused,1,all_households,2018-08-01,2018-08-31,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_households,2018-08-01,2018-08-31,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,1,all_households,2018-08-01,2018-08-31,Q26a,unknown_household_type,0
+Data Not Collected,5,all_households,2018-08-01,2018-08-31,Q26a,without_children,5
+Data Not Collected,5,all_households,2018-08-01,2018-08-31,Q26a,with_children_and_adults,0
+Data Not Collected,5,all_households,2018-08-01,2018-08-31,Q26a,with_only_children,0
+Data Not Collected,5,all_households,2018-08-01,2018-08-31,Q26a,unknown_household_type,0
+Chronically Homeless,65,all_households,2018-09-01,2018-09-30,Q26a,without_children,60
+Chronically Homeless,65,all_households,2018-09-01,2018-09-30,Q26a,with_children_and_adults,5
+Chronically Homeless,65,all_households,2018-09-01,2018-09-30,Q26a,with_only_children,0
+Chronically Homeless,65,all_households,2018-09-01,2018-09-30,Q26a,unknown_household_type,0
+Not Chronically Homeless,223,all_households,2018-09-01,2018-09-30,Q26a,without_children,145
+Not Chronically Homeless,223,all_households,2018-09-01,2018-09-30,Q26a,with_children_and_adults,77
+Not Chronically Homeless,223,all_households,2018-09-01,2018-09-30,Q26a,with_only_children,1
+Not Chronically Homeless,223,all_households,2018-09-01,2018-09-30,Q26a,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_households,2018-09-01,2018-09-30,Q26a,without_children,1
+Client Doesn't Know/Client Refused,1,all_households,2018-09-01,2018-09-30,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_households,2018-09-01,2018-09-30,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,1,all_households,2018-09-01,2018-09-30,Q26a,unknown_household_type,0
+Data Not Collected,5,all_households,2018-09-01,2018-09-30,Q26a,without_children,5
+Data Not Collected,5,all_households,2018-09-01,2018-09-30,Q26a,with_children_and_adults,0
+Data Not Collected,5,all_households,2018-09-01,2018-09-30,Q26a,with_only_children,0
+Data Not Collected,5,all_households,2018-09-01,2018-09-30,Q26a,unknown_household_type,0
+Chronically Homeless,64,all_households,2018-10-01,2018-10-31,Q26a,without_children,59
+Chronically Homeless,64,all_households,2018-10-01,2018-10-31,Q26a,with_children_and_adults,5
+Chronically Homeless,64,all_households,2018-10-01,2018-10-31,Q26a,with_only_children,0
+Chronically Homeless,64,all_households,2018-10-01,2018-10-31,Q26a,unknown_household_type,0
+Not Chronically Homeless,243,all_households,2018-10-01,2018-10-31,Q26a,without_children,160
+Not Chronically Homeless,243,all_households,2018-10-01,2018-10-31,Q26a,with_children_and_adults,82
+Not Chronically Homeless,243,all_households,2018-10-01,2018-10-31,Q26a,with_only_children,1
+Not Chronically Homeless,243,all_households,2018-10-01,2018-10-31,Q26a,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_households,2018-10-01,2018-10-31,Q26a,without_children,1
+Client Doesn't Know/Client Refused,1,all_households,2018-10-01,2018-10-31,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_households,2018-10-01,2018-10-31,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,1,all_households,2018-10-01,2018-10-31,Q26a,unknown_household_type,0
+Data Not Collected,5,all_households,2018-10-01,2018-10-31,Q26a,without_children,5
+Data Not Collected,5,all_households,2018-10-01,2018-10-31,Q26a,with_children_and_adults,0
+Data Not Collected,5,all_households,2018-10-01,2018-10-31,Q26a,with_only_children,0
+Data Not Collected,5,all_households,2018-10-01,2018-10-31,Q26a,unknown_household_type,0
+Chronically Homeless,79,all_households,2018-11-01,2018-11-30,Q26a,without_children,75
+Chronically Homeless,79,all_households,2018-11-01,2018-11-30,Q26a,with_children_and_adults,4
+Chronically Homeless,79,all_households,2018-11-01,2018-11-30,Q26a,with_only_children,0
+Chronically Homeless,79,all_households,2018-11-01,2018-11-30,Q26a,unknown_household_type,0
+Not Chronically Homeless,272,all_households,2018-11-01,2018-11-30,Q26a,without_children,192
+Not Chronically Homeless,272,all_households,2018-11-01,2018-11-30,Q26a,with_children_and_adults,80
+Not Chronically Homeless,272,all_households,2018-11-01,2018-11-30,Q26a,with_only_children,0
+Not Chronically Homeless,272,all_households,2018-11-01,2018-11-30,Q26a,unknown_household_type,0
+Client Doesn't Know/Client Refused,10,all_households,2018-11-01,2018-11-30,Q26a,without_children,10
+Client Doesn't Know/Client Refused,10,all_households,2018-11-01,2018-11-30,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,10,all_households,2018-11-01,2018-11-30,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,10,all_households,2018-11-01,2018-11-30,Q26a,unknown_household_type,0
+Data Not Collected,12,all_households,2018-11-01,2018-11-30,Q26a,without_children,12
+Data Not Collected,12,all_households,2018-11-01,2018-11-30,Q26a,with_children_and_adults,0
+Data Not Collected,12,all_households,2018-11-01,2018-11-30,Q26a,with_only_children,0
+Data Not Collected,12,all_households,2018-11-01,2018-11-30,Q26a,unknown_household_type,0
+Chronically Homeless,78,all_households,2018-12-01,2018-12-31,Q26a,without_children,74
+Chronically Homeless,78,all_households,2018-12-01,2018-12-31,Q26a,with_children_and_adults,4
+Chronically Homeless,78,all_households,2018-12-01,2018-12-31,Q26a,with_only_children,0
+Chronically Homeless,78,all_households,2018-12-01,2018-12-31,Q26a,unknown_household_type,0
+Not Chronically Homeless,353,all_households,2018-12-01,2018-12-31,Q26a,without_children,266
+Not Chronically Homeless,353,all_households,2018-12-01,2018-12-31,Q26a,with_children_and_adults,87
+Not Chronically Homeless,353,all_households,2018-12-01,2018-12-31,Q26a,with_only_children,0
+Not Chronically Homeless,353,all_households,2018-12-01,2018-12-31,Q26a,unknown_household_type,0
+Client Doesn't Know/Client Refused,11,all_households,2018-12-01,2018-12-31,Q26a,without_children,11
+Client Doesn't Know/Client Refused,11,all_households,2018-12-01,2018-12-31,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,11,all_households,2018-12-01,2018-12-31,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,11,all_households,2018-12-01,2018-12-31,Q26a,unknown_household_type,0
+Data Not Collected,19,all_households,2018-12-01,2018-12-31,Q26a,without_children,18
+Data Not Collected,19,all_households,2018-12-01,2018-12-31,Q26a,with_children_and_adults,1
+Data Not Collected,19,all_households,2018-12-01,2018-12-31,Q26a,with_only_children,0
+Data Not Collected,19,all_households,2018-12-01,2018-12-31,Q26a,unknown_household_type,0
+Chronically Homeless,81,all_households,2019-01-01,2019-01-31,Q26a,without_children,77
+Chronically Homeless,81,all_households,2019-01-01,2019-01-31,Q26a,with_children_and_adults,4
+Chronically Homeless,81,all_households,2019-01-01,2019-01-31,Q26a,with_only_children,0
+Chronically Homeless,81,all_households,2019-01-01,2019-01-31,Q26a,unknown_household_type,0
+Not Chronically Homeless,452,all_households,2019-01-01,2019-01-31,Q26a,without_children,364
+Not Chronically Homeless,452,all_households,2019-01-01,2019-01-31,Q26a,with_children_and_adults,88
+Not Chronically Homeless,452,all_households,2019-01-01,2019-01-31,Q26a,with_only_children,0
+Not Chronically Homeless,452,all_households,2019-01-01,2019-01-31,Q26a,unknown_household_type,0
+Client Doesn't Know/Client Refused,11,all_households,2019-01-01,2019-01-31,Q26a,without_children,11
+Client Doesn't Know/Client Refused,11,all_households,2019-01-01,2019-01-31,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,11,all_households,2019-01-01,2019-01-31,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,11,all_households,2019-01-01,2019-01-31,Q26a,unknown_household_type,0
+Data Not Collected,19,all_households,2019-01-01,2019-01-31,Q26a,without_children,18
+Data Not Collected,19,all_households,2019-01-01,2019-01-31,Q26a,with_children_and_adults,1
+Data Not Collected,19,all_households,2019-01-01,2019-01-31,Q26a,with_only_children,0
+Data Not Collected,19,all_households,2019-01-01,2019-01-31,Q26a,unknown_household_type,0
+Chronically Homeless,85,all_households,2019-02-01,2019-02-28,Q26a,without_children,81
+Chronically Homeless,85,all_households,2019-02-01,2019-02-28,Q26a,with_children_and_adults,4
+Chronically Homeless,85,all_households,2019-02-01,2019-02-28,Q26a,with_only_children,0
+Chronically Homeless,85,all_households,2019-02-01,2019-02-28,Q26a,unknown_household_type,0
+Not Chronically Homeless,513,all_households,2019-02-01,2019-02-28,Q26a,without_children,415
+Not Chronically Homeless,513,all_households,2019-02-01,2019-02-28,Q26a,with_children_and_adults,97
+Not Chronically Homeless,513,all_households,2019-02-01,2019-02-28,Q26a,with_only_children,0
+Not Chronically Homeless,513,all_households,2019-02-01,2019-02-28,Q26a,unknown_household_type,1
+Client Doesn't Know/Client Refused,11,all_households,2019-02-01,2019-02-28,Q26a,without_children,11
+Client Doesn't Know/Client Refused,11,all_households,2019-02-01,2019-02-28,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,11,all_households,2019-02-01,2019-02-28,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,11,all_households,2019-02-01,2019-02-28,Q26a,unknown_household_type,0
+Data Not Collected,16,all_households,2019-02-01,2019-02-28,Q26a,without_children,15
+Data Not Collected,16,all_households,2019-02-01,2019-02-28,Q26a,with_children_and_adults,1
+Data Not Collected,16,all_households,2019-02-01,2019-02-28,Q26a,with_only_children,0
+Data Not Collected,16,all_households,2019-02-01,2019-02-28,Q26a,unknown_household_type,0
+Chronically Homeless,84,all_households,2019-03-01,2019-03-31,Q26a,without_children,80
+Chronically Homeless,84,all_households,2019-03-01,2019-03-31,Q26a,with_children_and_adults,4
+Chronically Homeless,84,all_households,2019-03-01,2019-03-31,Q26a,with_only_children,0
+Chronically Homeless,84,all_households,2019-03-01,2019-03-31,Q26a,unknown_household_type,0
+Not Chronically Homeless,493,all_households,2019-03-01,2019-03-31,Q26a,without_children,404
+Not Chronically Homeless,493,all_households,2019-03-01,2019-03-31,Q26a,with_children_and_adults,88
+Not Chronically Homeless,493,all_households,2019-03-01,2019-03-31,Q26a,with_only_children,0
+Not Chronically Homeless,493,all_households,2019-03-01,2019-03-31,Q26a,unknown_household_type,1
+Client Doesn't Know/Client Refused,11,all_households,2019-03-01,2019-03-31,Q26a,without_children,11
+Client Doesn't Know/Client Refused,11,all_households,2019-03-01,2019-03-31,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,11,all_households,2019-03-01,2019-03-31,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,11,all_households,2019-03-01,2019-03-31,Q26a,unknown_household_type,0
+Data Not Collected,16,all_households,2019-03-01,2019-03-31,Q26a,without_children,15
+Data Not Collected,16,all_households,2019-03-01,2019-03-31,Q26a,with_children_and_adults,1
+Data Not Collected,16,all_households,2019-03-01,2019-03-31,Q26a,with_only_children,0
+Data Not Collected,16,all_households,2019-03-01,2019-03-31,Q26a,unknown_household_type,0
+Chronically Homeless,85,all_households,2019-04-01,2019-04-30,Q26a,without_children,82
+Chronically Homeless,85,all_households,2019-04-01,2019-04-30,Q26a,with_children_and_adults,3
+Chronically Homeless,85,all_households,2019-04-01,2019-04-30,Q26a,with_only_children,0
+Chronically Homeless,85,all_households,2019-04-01,2019-04-30,Q26a,unknown_household_type,0
+Not Chronically Homeless,517,all_households,2019-04-01,2019-04-30,Q26a,without_children,432
+Not Chronically Homeless,517,all_households,2019-04-01,2019-04-30,Q26a,with_children_and_adults,84
+Not Chronically Homeless,517,all_households,2019-04-01,2019-04-30,Q26a,with_only_children,0
+Not Chronically Homeless,517,all_households,2019-04-01,2019-04-30,Q26a,unknown_household_type,1
+Client Doesn't Know/Client Refused,6,all_households,2019-04-01,2019-04-30,Q26a,without_children,6
+Client Doesn't Know/Client Refused,6,all_households,2019-04-01,2019-04-30,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,6,all_households,2019-04-01,2019-04-30,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,6,all_households,2019-04-01,2019-04-30,Q26a,unknown_household_type,0
+Data Not Collected,14,all_households,2019-04-01,2019-04-30,Q26a,without_children,13
+Data Not Collected,14,all_households,2019-04-01,2019-04-30,Q26a,with_children_and_adults,1
+Data Not Collected,14,all_households,2019-04-01,2019-04-30,Q26a,with_only_children,0
+Data Not Collected,14,all_households,2019-04-01,2019-04-30,Q26a,unknown_household_type,0
+Chronically Homeless,91,all_households,2019-05-01,2019-05-31,Q26a,without_children,88
+Chronically Homeless,91,all_households,2019-05-01,2019-05-31,Q26a,with_children_and_adults,3
+Chronically Homeless,91,all_households,2019-05-01,2019-05-31,Q26a,with_only_children,0
+Chronically Homeless,91,all_households,2019-05-01,2019-05-31,Q26a,unknown_household_type,0
+Not Chronically Homeless,499,all_households,2019-05-01,2019-05-31,Q26a,without_children,408
+Not Chronically Homeless,499,all_households,2019-05-01,2019-05-31,Q26a,with_children_and_adults,90
+Not Chronically Homeless,499,all_households,2019-05-01,2019-05-31,Q26a,with_only_children,0
+Not Chronically Homeless,499,all_households,2019-05-01,2019-05-31,Q26a,unknown_household_type,1
+Client Doesn't Know/Client Refused,6,all_households,2019-05-01,2019-05-31,Q26a,without_children,6
+Client Doesn't Know/Client Refused,6,all_households,2019-05-01,2019-05-31,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,6,all_households,2019-05-01,2019-05-31,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,6,all_households,2019-05-01,2019-05-31,Q26a,unknown_household_type,0
+Data Not Collected,11,all_households,2019-05-01,2019-05-31,Q26a,without_children,11
+Data Not Collected,11,all_households,2019-05-01,2019-05-31,Q26a,with_children_and_adults,0
+Data Not Collected,11,all_households,2019-05-01,2019-05-31,Q26a,with_only_children,0
+Data Not Collected,11,all_households,2019-05-01,2019-05-31,Q26a,unknown_household_type,0
+Chronically Homeless,91,all_households,2019-06-01,2019-06-30,Q26a,without_children,88
+Chronically Homeless,91,all_households,2019-06-01,2019-06-30,Q26a,with_children_and_adults,3
+Chronically Homeless,91,all_households,2019-06-01,2019-06-30,Q26a,with_only_children,0
+Chronically Homeless,91,all_households,2019-06-01,2019-06-30,Q26a,unknown_household_type,0
+Not Chronically Homeless,498,all_households,2019-06-01,2019-06-30,Q26a,without_children,404
+Not Chronically Homeless,498,all_households,2019-06-01,2019-06-30,Q26a,with_children_and_adults,94
+Not Chronically Homeless,498,all_households,2019-06-01,2019-06-30,Q26a,with_only_children,0
+Not Chronically Homeless,498,all_households,2019-06-01,2019-06-30,Q26a,unknown_household_type,0
+Client Doesn't Know/Client Refused,7,all_households,2019-06-01,2019-06-30,Q26a,without_children,7
+Client Doesn't Know/Client Refused,7,all_households,2019-06-01,2019-06-30,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,7,all_households,2019-06-01,2019-06-30,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,7,all_households,2019-06-01,2019-06-30,Q26a,unknown_household_type,0
+Data Not Collected,13,all_households,2019-06-01,2019-06-30,Q26a,without_children,13
+Data Not Collected,13,all_households,2019-06-01,2019-06-30,Q26a,with_children_and_adults,0
+Data Not Collected,13,all_households,2019-06-01,2019-06-30,Q26a,with_only_children,0
+Data Not Collected,13,all_households,2019-06-01,2019-06-30,Q26a,unknown_household_type,0
+Chronically Homeless,95,all_households,2019-07-01,2019-07-31,Q26a,without_children,91
+Chronically Homeless,95,all_households,2019-07-01,2019-07-31,Q26a,with_children_and_adults,4
+Chronically Homeless,95,all_households,2019-07-01,2019-07-31,Q26a,with_only_children,0
+Chronically Homeless,95,all_households,2019-07-01,2019-07-31,Q26a,unknown_household_type,0
+Not Chronically Homeless,547,all_households,2019-07-01,2019-07-31,Q26a,without_children,413
+Not Chronically Homeless,547,all_households,2019-07-01,2019-07-31,Q26a,with_children_and_adults,133
+Not Chronically Homeless,547,all_households,2019-07-01,2019-07-31,Q26a,with_only_children,0
+Not Chronically Homeless,547,all_households,2019-07-01,2019-07-31,Q26a,unknown_household_type,1
+Client Doesn't Know/Client Refused,8,all_households,2019-07-01,2019-07-31,Q26a,without_children,8
+Client Doesn't Know/Client Refused,8,all_households,2019-07-01,2019-07-31,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,8,all_households,2019-07-01,2019-07-31,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,8,all_households,2019-07-01,2019-07-31,Q26a,unknown_household_type,0
+Data Not Collected,13,all_households,2019-07-01,2019-07-31,Q26a,without_children,12
+Data Not Collected,13,all_households,2019-07-01,2019-07-31,Q26a,with_children_and_adults,1
+Data Not Collected,13,all_households,2019-07-01,2019-07-31,Q26a,with_only_children,0
+Data Not Collected,13,all_households,2019-07-01,2019-07-31,Q26a,unknown_household_type,0
+Chronically Homeless,90,all_households,2019-08-01,2019-08-31,Q26a,without_children,87
+Chronically Homeless,90,all_households,2019-08-01,2019-08-31,Q26a,with_children_and_adults,3
+Chronically Homeless,90,all_households,2019-08-01,2019-08-31,Q26a,with_only_children,0
+Chronically Homeless,90,all_households,2019-08-01,2019-08-31,Q26a,unknown_household_type,0
+Not Chronically Homeless,570,all_households,2019-08-01,2019-08-31,Q26a,without_children,405
+Not Chronically Homeless,570,all_households,2019-08-01,2019-08-31,Q26a,with_children_and_adults,164
+Not Chronically Homeless,570,all_households,2019-08-01,2019-08-31,Q26a,with_only_children,0
+Not Chronically Homeless,570,all_households,2019-08-01,2019-08-31,Q26a,unknown_household_type,1
+Client Doesn't Know/Client Refused,6,all_households,2019-08-01,2019-08-31,Q26a,without_children,6
+Client Doesn't Know/Client Refused,6,all_households,2019-08-01,2019-08-31,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,6,all_households,2019-08-01,2019-08-31,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,6,all_households,2019-08-01,2019-08-31,Q26a,unknown_household_type,0
+Data Not Collected,9,all_households,2019-08-01,2019-08-31,Q26a,without_children,8
+Data Not Collected,9,all_households,2019-08-01,2019-08-31,Q26a,with_children_and_adults,1
+Data Not Collected,9,all_households,2019-08-01,2019-08-31,Q26a,with_only_children,0
+Data Not Collected,9,all_households,2019-08-01,2019-08-31,Q26a,unknown_household_type,0
+Chronically Homeless,89,all_households,2019-09-01,2019-09-30,Q26a,without_children,85
+Chronically Homeless,89,all_households,2019-09-01,2019-09-30,Q26a,with_children_and_adults,4
+Chronically Homeless,89,all_households,2019-09-01,2019-09-30,Q26a,with_only_children,0
+Chronically Homeless,89,all_households,2019-09-01,2019-09-30,Q26a,unknown_household_type,0
+Not Chronically Homeless,564,all_households,2019-09-01,2019-09-30,Q26a,without_children,426
+Not Chronically Homeless,564,all_households,2019-09-01,2019-09-30,Q26a,with_children_and_adults,137
+Not Chronically Homeless,564,all_households,2019-09-01,2019-09-30,Q26a,with_only_children,0
+Not Chronically Homeless,564,all_households,2019-09-01,2019-09-30,Q26a,unknown_household_type,1
+Client Doesn't Know/Client Refused,6,all_households,2019-09-01,2019-09-30,Q26a,without_children,6
+Client Doesn't Know/Client Refused,6,all_households,2019-09-01,2019-09-30,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,6,all_households,2019-09-01,2019-09-30,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,6,all_households,2019-09-01,2019-09-30,Q26a,unknown_household_type,0
+Data Not Collected,13,all_households,2019-09-01,2019-09-30,Q26a,without_children,10
+Data Not Collected,13,all_households,2019-09-01,2019-09-30,Q26a,with_children_and_adults,3
+Data Not Collected,13,all_households,2019-09-01,2019-09-30,Q26a,with_only_children,0
+Data Not Collected,13,all_households,2019-09-01,2019-09-30,Q26a,unknown_household_type,0
+Chronically Homeless,89,all_households,2019-10-01,2019-10-31,Q26a,without_children,84
+Chronically Homeless,89,all_households,2019-10-01,2019-10-31,Q26a,with_children_and_adults,5
+Chronically Homeless,89,all_households,2019-10-01,2019-10-31,Q26a,with_only_children,0
+Chronically Homeless,89,all_households,2019-10-01,2019-10-31,Q26a,unknown_household_type,0
+Not Chronically Homeless,583,all_households,2019-10-01,2019-10-31,Q26a,without_children,458
+Not Chronically Homeless,583,all_households,2019-10-01,2019-10-31,Q26a,with_children_and_adults,122
+Not Chronically Homeless,583,all_households,2019-10-01,2019-10-31,Q26a,with_only_children,0
+Not Chronically Homeless,583,all_households,2019-10-01,2019-10-31,Q26a,unknown_household_type,3
+Client Doesn't Know/Client Refused,6,all_households,2019-10-01,2019-10-31,Q26a,without_children,6
+Client Doesn't Know/Client Refused,6,all_households,2019-10-01,2019-10-31,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,6,all_households,2019-10-01,2019-10-31,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,6,all_households,2019-10-01,2019-10-31,Q26a,unknown_household_type,0
+Data Not Collected,18,all_households,2019-10-01,2019-10-31,Q26a,without_children,11
+Data Not Collected,18,all_households,2019-10-01,2019-10-31,Q26a,with_children_and_adults,6
+Data Not Collected,18,all_households,2019-10-01,2019-10-31,Q26a,with_only_children,0
+Data Not Collected,18,all_households,2019-10-01,2019-10-31,Q26a,unknown_household_type,1
+Chronically Homeless,98,all_households,2019-11-01,2019-11-30,Q26a,without_children,94
+Chronically Homeless,98,all_households,2019-11-01,2019-11-30,Q26a,with_children_and_adults,4
+Chronically Homeless,98,all_households,2019-11-01,2019-11-30,Q26a,with_only_children,0
+Chronically Homeless,98,all_households,2019-11-01,2019-11-30,Q26a,unknown_household_type,0
+Not Chronically Homeless,574,all_households,2019-11-01,2019-11-30,Q26a,without_children,457
+Not Chronically Homeless,574,all_households,2019-11-01,2019-11-30,Q26a,with_children_and_adults,115
+Not Chronically Homeless,574,all_households,2019-11-01,2019-11-30,Q26a,with_only_children,0
+Not Chronically Homeless,574,all_households,2019-11-01,2019-11-30,Q26a,unknown_household_type,2
+Client Doesn't Know/Client Refused,5,all_households,2019-11-01,2019-11-30,Q26a,without_children,4
+Client Doesn't Know/Client Refused,5,all_households,2019-11-01,2019-11-30,Q26a,with_children_and_adults,1
+Client Doesn't Know/Client Refused,5,all_households,2019-11-01,2019-11-30,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,5,all_households,2019-11-01,2019-11-30,Q26a,unknown_household_type,0
+Data Not Collected,23,all_households,2019-11-01,2019-11-30,Q26a,without_children,16
+Data Not Collected,23,all_households,2019-11-01,2019-11-30,Q26a,with_children_and_adults,6
+Data Not Collected,23,all_households,2019-11-01,2019-11-30,Q26a,with_only_children,0
+Data Not Collected,23,all_households,2019-11-01,2019-11-30,Q26a,unknown_household_type,1
+Chronically Homeless,97,all_households,2019-12-01,2019-12-31,Q26a,without_children,92
+Chronically Homeless,97,all_households,2019-12-01,2019-12-31,Q26a,with_children_and_adults,5
+Chronically Homeless,97,all_households,2019-12-01,2019-12-31,Q26a,with_only_children,0
+Chronically Homeless,97,all_households,2019-12-01,2019-12-31,Q26a,unknown_household_type,0
+Not Chronically Homeless,595,all_households,2019-12-01,2019-12-31,Q26a,without_children,465
+Not Chronically Homeless,595,all_households,2019-12-01,2019-12-31,Q26a,with_children_and_adults,128
+Not Chronically Homeless,595,all_households,2019-12-01,2019-12-31,Q26a,with_only_children,0
+Not Chronically Homeless,595,all_households,2019-12-01,2019-12-31,Q26a,unknown_household_type,2
+Client Doesn't Know/Client Refused,8,all_households,2019-12-01,2019-12-31,Q26a,without_children,6
+Client Doesn't Know/Client Refused,8,all_households,2019-12-01,2019-12-31,Q26a,with_children_and_adults,2
+Client Doesn't Know/Client Refused,8,all_households,2019-12-01,2019-12-31,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,8,all_households,2019-12-01,2019-12-31,Q26a,unknown_household_type,0
+Data Not Collected,21,all_households,2019-12-01,2019-12-31,Q26a,without_children,15
+Data Not Collected,21,all_households,2019-12-01,2019-12-31,Q26a,with_children_and_adults,5
+Data Not Collected,21,all_households,2019-12-01,2019-12-31,Q26a,with_only_children,0
+Data Not Collected,21,all_households,2019-12-01,2019-12-31,Q26a,unknown_household_type,1
+Chronically Homeless,103,all_households,2020-01-01,2020-01-31,Q26a,without_children,97
+Chronically Homeless,103,all_households,2020-01-01,2020-01-31,Q26a,with_children_and_adults,6
+Chronically Homeless,103,all_households,2020-01-01,2020-01-31,Q26a,with_only_children,0
+Chronically Homeless,103,all_households,2020-01-01,2020-01-31,Q26a,unknown_household_type,0
+Not Chronically Homeless,635,all_households,2020-01-01,2020-01-31,Q26a,without_children,516
+Not Chronically Homeless,635,all_households,2020-01-01,2020-01-31,Q26a,with_children_and_adults,117
+Not Chronically Homeless,635,all_households,2020-01-01,2020-01-31,Q26a,with_only_children,0
+Not Chronically Homeless,635,all_households,2020-01-01,2020-01-31,Q26a,unknown_household_type,2
+Client Doesn't Know/Client Refused,7,all_households,2020-01-01,2020-01-31,Q26a,without_children,6
+Client Doesn't Know/Client Refused,7,all_households,2020-01-01,2020-01-31,Q26a,with_children_and_adults,1
+Client Doesn't Know/Client Refused,7,all_households,2020-01-01,2020-01-31,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,7,all_households,2020-01-01,2020-01-31,Q26a,unknown_household_type,0
+Data Not Collected,19,all_households,2020-01-01,2020-01-31,Q26a,without_children,14
+Data Not Collected,19,all_households,2020-01-01,2020-01-31,Q26a,with_children_and_adults,4
+Data Not Collected,19,all_households,2020-01-01,2020-01-31,Q26a,with_only_children,0
+Data Not Collected,19,all_households,2020-01-01,2020-01-31,Q26a,unknown_household_type,1
+Chronically Homeless,112,all_households,2020-02-01,2020-02-29,Q26a,without_children,106
+Chronically Homeless,112,all_households,2020-02-01,2020-02-29,Q26a,with_children_and_adults,6
+Chronically Homeless,112,all_households,2020-02-01,2020-02-29,Q26a,with_only_children,0
+Chronically Homeless,112,all_households,2020-02-01,2020-02-29,Q26a,unknown_household_type,0
+Not Chronically Homeless,599,all_households,2020-02-01,2020-02-29,Q26a,without_children,483
+Not Chronically Homeless,599,all_households,2020-02-01,2020-02-29,Q26a,with_children_and_adults,114
+Not Chronically Homeless,599,all_households,2020-02-01,2020-02-29,Q26a,with_only_children,0
+Not Chronically Homeless,599,all_households,2020-02-01,2020-02-29,Q26a,unknown_household_type,2
+Client Doesn't Know/Client Refused,8,all_households,2020-02-01,2020-02-29,Q26a,without_children,8
+Client Doesn't Know/Client Refused,8,all_households,2020-02-01,2020-02-29,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,8,all_households,2020-02-01,2020-02-29,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,8,all_households,2020-02-01,2020-02-29,Q26a,unknown_household_type,0
+Data Not Collected,20,all_households,2020-02-01,2020-02-29,Q26a,without_children,18
+Data Not Collected,20,all_households,2020-02-01,2020-02-29,Q26a,with_children_and_adults,1
+Data Not Collected,20,all_households,2020-02-01,2020-02-29,Q26a,with_only_children,0
+Data Not Collected,20,all_households,2020-02-01,2020-02-29,Q26a,unknown_household_type,1
+Chronically Homeless,114,all_households,2020-03-01,2020-03-31,Q26a,without_children,110
+Chronically Homeless,114,all_households,2020-03-01,2020-03-31,Q26a,with_children_and_adults,4
+Chronically Homeless,114,all_households,2020-03-01,2020-03-31,Q26a,with_only_children,0
+Chronically Homeless,114,all_households,2020-03-01,2020-03-31,Q26a,unknown_household_type,0
+Not Chronically Homeless,553,all_households,2020-03-01,2020-03-31,Q26a,without_children,457
+Not Chronically Homeless,553,all_households,2020-03-01,2020-03-31,Q26a,with_children_and_adults,94
+Not Chronically Homeless,553,all_households,2020-03-01,2020-03-31,Q26a,with_only_children,0
+Not Chronically Homeless,553,all_households,2020-03-01,2020-03-31,Q26a,unknown_household_type,2
+Client Doesn't Know/Client Refused,6,all_households,2020-03-01,2020-03-31,Q26a,without_children,6
+Client Doesn't Know/Client Refused,6,all_households,2020-03-01,2020-03-31,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,6,all_households,2020-03-01,2020-03-31,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,6,all_households,2020-03-01,2020-03-31,Q26a,unknown_household_type,0
+Data Not Collected,19,all_households,2020-03-01,2020-03-31,Q26a,without_children,17
+Data Not Collected,19,all_households,2020-03-01,2020-03-31,Q26a,with_children_and_adults,1
+Data Not Collected,19,all_households,2020-03-01,2020-03-31,Q26a,with_only_children,0
+Data Not Collected,19,all_households,2020-03-01,2020-03-31,Q26a,unknown_household_type,1
+Chronically Homeless,131,all_households,2020-04-01,2020-04-30,Q26a,without_children,127
+Chronically Homeless,131,all_households,2020-04-01,2020-04-30,Q26a,with_children_and_adults,4
+Chronically Homeless,131,all_households,2020-04-01,2020-04-30,Q26a,with_only_children,0
+Chronically Homeless,131,all_households,2020-04-01,2020-04-30,Q26a,unknown_household_type,0
+Not Chronically Homeless,519,all_households,2020-04-01,2020-04-30,Q26a,without_children,434
+Not Chronically Homeless,519,all_households,2020-04-01,2020-04-30,Q26a,with_children_and_adults,83
+Not Chronically Homeless,519,all_households,2020-04-01,2020-04-30,Q26a,with_only_children,0
+Not Chronically Homeless,519,all_households,2020-04-01,2020-04-30,Q26a,unknown_household_type,2
+Client Doesn't Know/Client Refused,9,all_households,2020-04-01,2020-04-30,Q26a,without_children,9
+Client Doesn't Know/Client Refused,9,all_households,2020-04-01,2020-04-30,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,9,all_households,2020-04-01,2020-04-30,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,9,all_households,2020-04-01,2020-04-30,Q26a,unknown_household_type,0
+Data Not Collected,24,all_households,2020-04-01,2020-04-30,Q26a,without_children,20
+Data Not Collected,24,all_households,2020-04-01,2020-04-30,Q26a,with_children_and_adults,3
+Data Not Collected,24,all_households,2020-04-01,2020-04-30,Q26a,with_only_children,0
+Data Not Collected,24,all_households,2020-04-01,2020-04-30,Q26a,unknown_household_type,1
+Chronically Homeless,132,all_households,2020-05-01,2020-05-31,Q26a,without_children,128
+Chronically Homeless,132,all_households,2020-05-01,2020-05-31,Q26a,with_children_and_adults,4
+Chronically Homeless,132,all_households,2020-05-01,2020-05-31,Q26a,with_only_children,0
+Chronically Homeless,132,all_households,2020-05-01,2020-05-31,Q26a,unknown_household_type,0
+Not Chronically Homeless,522,all_households,2020-05-01,2020-05-31,Q26a,without_children,437
+Not Chronically Homeless,522,all_households,2020-05-01,2020-05-31,Q26a,with_children_and_adults,84
+Not Chronically Homeless,522,all_households,2020-05-01,2020-05-31,Q26a,with_only_children,0
+Not Chronically Homeless,522,all_households,2020-05-01,2020-05-31,Q26a,unknown_household_type,1
+Client Doesn't Know/Client Refused,7,all_households,2020-05-01,2020-05-31,Q26a,without_children,7
+Client Doesn't Know/Client Refused,7,all_households,2020-05-01,2020-05-31,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,7,all_households,2020-05-01,2020-05-31,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,7,all_households,2020-05-01,2020-05-31,Q26a,unknown_household_type,0
+Data Not Collected,19,all_households,2020-05-01,2020-05-31,Q26a,without_children,17
+Data Not Collected,19,all_households,2020-05-01,2020-05-31,Q26a,with_children_and_adults,1
+Data Not Collected,19,all_households,2020-05-01,2020-05-31,Q26a,with_only_children,0
+Data Not Collected,19,all_households,2020-05-01,2020-05-31,Q26a,unknown_household_type,1
+Chronically Homeless,137,all_households,2020-06-01,2020-06-30,Q26a,without_children,133
+Chronically Homeless,137,all_households,2020-06-01,2020-06-30,Q26a,with_children_and_adults,4
+Chronically Homeless,137,all_households,2020-06-01,2020-06-30,Q26a,with_only_children,0
+Chronically Homeless,137,all_households,2020-06-01,2020-06-30,Q26a,unknown_household_type,0
+Not Chronically Homeless,534,all_households,2020-06-01,2020-06-30,Q26a,without_children,449
+Not Chronically Homeless,534,all_households,2020-06-01,2020-06-30,Q26a,with_children_and_adults,84
+Not Chronically Homeless,534,all_households,2020-06-01,2020-06-30,Q26a,with_only_children,0
+Not Chronically Homeless,534,all_households,2020-06-01,2020-06-30,Q26a,unknown_household_type,1
+Client Doesn't Know/Client Refused,6,all_households,2020-06-01,2020-06-30,Q26a,without_children,6
+Client Doesn't Know/Client Refused,6,all_households,2020-06-01,2020-06-30,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,6,all_households,2020-06-01,2020-06-30,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,6,all_households,2020-06-01,2020-06-30,Q26a,unknown_household_type,0
+Data Not Collected,16,all_households,2020-06-01,2020-06-30,Q26a,without_children,14
+Data Not Collected,16,all_households,2020-06-01,2020-06-30,Q26a,with_children_and_adults,1
+Data Not Collected,16,all_households,2020-06-01,2020-06-30,Q26a,with_only_children,0
+Data Not Collected,16,all_households,2020-06-01,2020-06-30,Q26a,unknown_household_type,1
+Chronically Homeless,128,all_households,2020-07-01,2020-07-31,Q26a,without_children,124
+Chronically Homeless,128,all_households,2020-07-01,2020-07-31,Q26a,with_children_and_adults,4
+Chronically Homeless,128,all_households,2020-07-01,2020-07-31,Q26a,with_only_children,0
+Chronically Homeless,128,all_households,2020-07-01,2020-07-31,Q26a,unknown_household_type,0
+Not Chronically Homeless,513,all_households,2020-07-01,2020-07-31,Q26a,without_children,426
+Not Chronically Homeless,513,all_households,2020-07-01,2020-07-31,Q26a,with_children_and_adults,86
+Not Chronically Homeless,513,all_households,2020-07-01,2020-07-31,Q26a,with_only_children,0
+Not Chronically Homeless,513,all_households,2020-07-01,2020-07-31,Q26a,unknown_household_type,1
+Client Doesn't Know/Client Refused,4,all_households,2020-07-01,2020-07-31,Q26a,without_children,4
+Client Doesn't Know/Client Refused,4,all_households,2020-07-01,2020-07-31,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,4,all_households,2020-07-01,2020-07-31,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,4,all_households,2020-07-01,2020-07-31,Q26a,unknown_household_type,0
+Data Not Collected,15,all_households,2020-07-01,2020-07-31,Q26a,without_children,11
+Data Not Collected,15,all_households,2020-07-01,2020-07-31,Q26a,with_children_and_adults,3
+Data Not Collected,15,all_households,2020-07-01,2020-07-31,Q26a,with_only_children,0
+Data Not Collected,15,all_households,2020-07-01,2020-07-31,Q26a,unknown_household_type,1
+Chronically Homeless,137,all_households,2020-08-01,2020-08-31,Q26a,without_children,133
+Chronically Homeless,137,all_households,2020-08-01,2020-08-31,Q26a,with_children_and_adults,4
+Chronically Homeless,137,all_households,2020-08-01,2020-08-31,Q26a,with_only_children,0
+Chronically Homeless,137,all_households,2020-08-01,2020-08-31,Q26a,unknown_household_type,0
+Not Chronically Homeless,506,all_households,2020-08-01,2020-08-31,Q26a,without_children,422
+Not Chronically Homeless,506,all_households,2020-08-01,2020-08-31,Q26a,with_children_and_adults,83
+Not Chronically Homeless,506,all_households,2020-08-01,2020-08-31,Q26a,with_only_children,0
+Not Chronically Homeless,506,all_households,2020-08-01,2020-08-31,Q26a,unknown_household_type,1
+Client Doesn't Know/Client Refused,5,all_households,2020-08-01,2020-08-31,Q26a,without_children,5
+Client Doesn't Know/Client Refused,5,all_households,2020-08-01,2020-08-31,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,5,all_households,2020-08-01,2020-08-31,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,5,all_households,2020-08-01,2020-08-31,Q26a,unknown_household_type,0
+Data Not Collected,13,all_households,2020-08-01,2020-08-31,Q26a,without_children,9
+Data Not Collected,13,all_households,2020-08-01,2020-08-31,Q26a,with_children_and_adults,3
+Data Not Collected,13,all_households,2020-08-01,2020-08-31,Q26a,with_only_children,0
+Data Not Collected,13,all_households,2020-08-01,2020-08-31,Q26a,unknown_household_type,1
+Chronically Homeless,139,all_households,2020-09-01,2020-09-30,Q26a,without_children,135
+Chronically Homeless,139,all_households,2020-09-01,2020-09-30,Q26a,with_children_and_adults,4
+Chronically Homeless,139,all_households,2020-09-01,2020-09-30,Q26a,with_only_children,0
+Chronically Homeless,139,all_households,2020-09-01,2020-09-30,Q26a,unknown_household_type,0
+Not Chronically Homeless,529,all_households,2020-09-01,2020-09-30,Q26a,without_children,437
+Not Chronically Homeless,529,all_households,2020-09-01,2020-09-30,Q26a,with_children_and_adults,91
+Not Chronically Homeless,529,all_households,2020-09-01,2020-09-30,Q26a,with_only_children,0
+Not Chronically Homeless,529,all_households,2020-09-01,2020-09-30,Q26a,unknown_household_type,1
+Client Doesn't Know/Client Refused,4,all_households,2020-09-01,2020-09-30,Q26a,without_children,4
+Client Doesn't Know/Client Refused,4,all_households,2020-09-01,2020-09-30,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,4,all_households,2020-09-01,2020-09-30,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,4,all_households,2020-09-01,2020-09-30,Q26a,unknown_household_type,0
+Data Not Collected,13,all_households,2020-09-01,2020-09-30,Q26a,without_children,11
+Data Not Collected,13,all_households,2020-09-01,2020-09-30,Q26a,with_children_and_adults,1
+Data Not Collected,13,all_households,2020-09-01,2020-09-30,Q26a,with_only_children,0
+Data Not Collected,13,all_households,2020-09-01,2020-09-30,Q26a,unknown_household_type,1
+Chronically Homeless,148,all_households,2020-10-01,2020-10-31,Q26a,without_children,144
+Chronically Homeless,148,all_households,2020-10-01,2020-10-31,Q26a,with_children_and_adults,4
+Chronically Homeless,148,all_households,2020-10-01,2020-10-31,Q26a,with_only_children,0
+Chronically Homeless,148,all_households,2020-10-01,2020-10-31,Q26a,unknown_household_type,0
+Not Chronically Homeless,549,all_households,2020-10-01,2020-10-31,Q26a,without_children,455
+Not Chronically Homeless,549,all_households,2020-10-01,2020-10-31,Q26a,with_children_and_adults,92
+Not Chronically Homeless,549,all_households,2020-10-01,2020-10-31,Q26a,with_only_children,0
+Not Chronically Homeless,549,all_households,2020-10-01,2020-10-31,Q26a,unknown_household_type,2
+Client Doesn't Know/Client Refused,4,all_households,2020-10-01,2020-10-31,Q26a,without_children,4
+Client Doesn't Know/Client Refused,4,all_households,2020-10-01,2020-10-31,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,4,all_households,2020-10-01,2020-10-31,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,4,all_households,2020-10-01,2020-10-31,Q26a,unknown_household_type,0
+Data Not Collected,19,all_households,2020-10-01,2020-10-31,Q26a,without_children,17
+Data Not Collected,19,all_households,2020-10-01,2020-10-31,Q26a,with_children_and_adults,1
+Data Not Collected,19,all_households,2020-10-01,2020-10-31,Q26a,with_only_children,0
+Data Not Collected,19,all_households,2020-10-01,2020-10-31,Q26a,unknown_household_type,1
+Chronically Homeless,157,all_households,2020-11-01,2020-11-30,Q26a,without_children,153
+Chronically Homeless,157,all_households,2020-11-01,2020-11-30,Q26a,with_children_and_adults,4
+Chronically Homeless,157,all_households,2020-11-01,2020-11-30,Q26a,with_only_children,0
+Chronically Homeless,157,all_households,2020-11-01,2020-11-30,Q26a,unknown_household_type,0
+Not Chronically Homeless,595,all_households,2020-11-01,2020-11-30,Q26a,without_children,501
+Not Chronically Homeless,595,all_households,2020-11-01,2020-11-30,Q26a,with_children_and_adults,92
+Not Chronically Homeless,595,all_households,2020-11-01,2020-11-30,Q26a,with_only_children,0
+Not Chronically Homeless,595,all_households,2020-11-01,2020-11-30,Q26a,unknown_household_type,2
+Client Doesn't Know/Client Refused,4,all_households,2020-11-01,2020-11-30,Q26a,without_children,4
+Client Doesn't Know/Client Refused,4,all_households,2020-11-01,2020-11-30,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,4,all_households,2020-11-01,2020-11-30,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,4,all_households,2020-11-01,2020-11-30,Q26a,unknown_household_type,0
+Data Not Collected,20,all_households,2020-11-01,2020-11-30,Q26a,without_children,18
+Data Not Collected,20,all_households,2020-11-01,2020-11-30,Q26a,with_children_and_adults,1
+Data Not Collected,20,all_households,2020-11-01,2020-11-30,Q26a,with_only_children,0
+Data Not Collected,20,all_households,2020-11-01,2020-11-30,Q26a,unknown_household_type,1
+Chronically Homeless,163,all_households,2020-12-01,2020-12-31,Q26a,without_children,159
+Chronically Homeless,163,all_households,2020-12-01,2020-12-31,Q26a,with_children_and_adults,4
+Chronically Homeless,163,all_households,2020-12-01,2020-12-31,Q26a,with_only_children,0
+Chronically Homeless,163,all_households,2020-12-01,2020-12-31,Q26a,unknown_household_type,0
+Not Chronically Homeless,598,all_households,2020-12-01,2020-12-31,Q26a,without_children,500
+Not Chronically Homeless,598,all_households,2020-12-01,2020-12-31,Q26a,with_children_and_adults,96
+Not Chronically Homeless,598,all_households,2020-12-01,2020-12-31,Q26a,with_only_children,0
+Not Chronically Homeless,598,all_households,2020-12-01,2020-12-31,Q26a,unknown_household_type,2
+Client Doesn't Know/Client Refused,4,all_households,2020-12-01,2020-12-31,Q26a,without_children,4
+Client Doesn't Know/Client Refused,4,all_households,2020-12-01,2020-12-31,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,4,all_households,2020-12-01,2020-12-31,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,4,all_households,2020-12-01,2020-12-31,Q26a,unknown_household_type,0
+Data Not Collected,23,all_households,2020-12-01,2020-12-31,Q26a,without_children,21
+Data Not Collected,23,all_households,2020-12-01,2020-12-31,Q26a,with_children_and_adults,1
+Data Not Collected,23,all_households,2020-12-01,2020-12-31,Q26a,with_only_children,0
+Data Not Collected,23,all_households,2020-12-01,2020-12-31,Q26a,unknown_household_type,1
+Chronically Homeless,169,all_households,2021-01-01,2021-01-31,Q26a,without_children,163
+Chronically Homeless,169,all_households,2021-01-01,2021-01-31,Q26a,with_children_and_adults,5
+Chronically Homeless,169,all_households,2021-01-01,2021-01-31,Q26a,with_only_children,0
+Chronically Homeless,169,all_households,2021-01-01,2021-01-31,Q26a,unknown_household_type,1
+Not Chronically Homeless,616,all_households,2021-01-01,2021-01-31,Q26a,without_children,520
+Not Chronically Homeless,616,all_households,2021-01-01,2021-01-31,Q26a,with_children_and_adults,94
+Not Chronically Homeless,616,all_households,2021-01-01,2021-01-31,Q26a,with_only_children,0
+Not Chronically Homeless,616,all_households,2021-01-01,2021-01-31,Q26a,unknown_household_type,2
+Client Doesn't Know/Client Refused,7,all_households,2021-01-01,2021-01-31,Q26a,without_children,7
+Client Doesn't Know/Client Refused,7,all_households,2021-01-01,2021-01-31,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,7,all_households,2021-01-01,2021-01-31,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,7,all_households,2021-01-01,2021-01-31,Q26a,unknown_household_type,0
+Data Not Collected,25,all_households,2021-01-01,2021-01-31,Q26a,without_children,22
+Data Not Collected,25,all_households,2021-01-01,2021-01-31,Q26a,with_children_and_adults,2
+Data Not Collected,25,all_households,2021-01-01,2021-01-31,Q26a,with_only_children,0
+Data Not Collected,25,all_households,2021-01-01,2021-01-31,Q26a,unknown_household_type,1
+Chronically Homeless,158,all_households,2021-02-01,2021-02-28,Q26a,without_children,154
+Chronically Homeless,158,all_households,2021-02-01,2021-02-28,Q26a,with_children_and_adults,4
+Chronically Homeless,158,all_households,2021-02-01,2021-02-28,Q26a,with_only_children,0
+Chronically Homeless,158,all_households,2021-02-01,2021-02-28,Q26a,unknown_household_type,0
+Not Chronically Homeless,580,all_households,2021-02-01,2021-02-28,Q26a,without_children,488
+Not Chronically Homeless,580,all_households,2021-02-01,2021-02-28,Q26a,with_children_and_adults,90
+Not Chronically Homeless,580,all_households,2021-02-01,2021-02-28,Q26a,with_only_children,0
+Not Chronically Homeless,580,all_households,2021-02-01,2021-02-28,Q26a,unknown_household_type,2
+Client Doesn't Know/Client Refused,11,all_households,2021-02-01,2021-02-28,Q26a,without_children,11
+Client Doesn't Know/Client Refused,11,all_households,2021-02-01,2021-02-28,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,11,all_households,2021-02-01,2021-02-28,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,11,all_households,2021-02-01,2021-02-28,Q26a,unknown_household_type,0
+Data Not Collected,26,all_households,2021-02-01,2021-02-28,Q26a,without_children,24
+Data Not Collected,26,all_households,2021-02-01,2021-02-28,Q26a,with_children_and_adults,1
+Data Not Collected,26,all_households,2021-02-01,2021-02-28,Q26a,with_only_children,0
+Data Not Collected,26,all_households,2021-02-01,2021-02-28,Q26a,unknown_household_type,1
+Chronically Homeless,153,all_households,2021-03-01,2021-03-31,Q26a,without_children,148
+Chronically Homeless,153,all_households,2021-03-01,2021-03-31,Q26a,with_children_and_adults,5
+Chronically Homeless,153,all_households,2021-03-01,2021-03-31,Q26a,with_only_children,0
+Chronically Homeless,153,all_households,2021-03-01,2021-03-31,Q26a,unknown_household_type,0
+Not Chronically Homeless,584,all_households,2021-03-01,2021-03-31,Q26a,without_children,495
+Not Chronically Homeless,584,all_households,2021-03-01,2021-03-31,Q26a,with_children_and_adults,87
+Not Chronically Homeless,584,all_households,2021-03-01,2021-03-31,Q26a,with_only_children,0
+Not Chronically Homeless,584,all_households,2021-03-01,2021-03-31,Q26a,unknown_household_type,2
+Client Doesn't Know/Client Refused,10,all_households,2021-03-01,2021-03-31,Q26a,without_children,10
+Client Doesn't Know/Client Refused,10,all_households,2021-03-01,2021-03-31,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,10,all_households,2021-03-01,2021-03-31,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,10,all_households,2021-03-01,2021-03-31,Q26a,unknown_household_type,0
+Data Not Collected,30,all_households,2021-03-01,2021-03-31,Q26a,without_children,27
+Data Not Collected,30,all_households,2021-03-01,2021-03-31,Q26a,with_children_and_adults,2
+Data Not Collected,30,all_households,2021-03-01,2021-03-31,Q26a,with_only_children,0
+Data Not Collected,30,all_households,2021-03-01,2021-03-31,Q26a,unknown_household_type,1
+Chronically Homeless,145,all_households,2021-04-01,2021-04-30,Q26a,without_children,140
+Chronically Homeless,145,all_households,2021-04-01,2021-04-30,Q26a,with_children_and_adults,5
+Chronically Homeless,145,all_households,2021-04-01,2021-04-30,Q26a,with_only_children,0
+Chronically Homeless,145,all_households,2021-04-01,2021-04-30,Q26a,unknown_household_type,0
+Not Chronically Homeless,560,all_households,2021-04-01,2021-04-30,Q26a,without_children,476
+Not Chronically Homeless,560,all_households,2021-04-01,2021-04-30,Q26a,with_children_and_adults,82
+Not Chronically Homeless,560,all_households,2021-04-01,2021-04-30,Q26a,with_only_children,0
+Not Chronically Homeless,560,all_households,2021-04-01,2021-04-30,Q26a,unknown_household_type,2
+Client Doesn't Know/Client Refused,9,all_households,2021-04-01,2021-04-30,Q26a,without_children,9
+Client Doesn't Know/Client Refused,9,all_households,2021-04-01,2021-04-30,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,9,all_households,2021-04-01,2021-04-30,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,9,all_households,2021-04-01,2021-04-30,Q26a,unknown_household_type,0
+Data Not Collected,30,all_households,2021-04-01,2021-04-30,Q26a,without_children,27
+Data Not Collected,30,all_households,2021-04-01,2021-04-30,Q26a,with_children_and_adults,2
+Data Not Collected,30,all_households,2021-04-01,2021-04-30,Q26a,with_only_children,0
+Data Not Collected,30,all_households,2021-04-01,2021-04-30,Q26a,unknown_household_type,1
+Chronically Homeless,147,all_households,2021-05-01,2021-05-31,Q26a,without_children,141
+Chronically Homeless,147,all_households,2021-05-01,2021-05-31,Q26a,with_children_and_adults,6
+Chronically Homeless,147,all_households,2021-05-01,2021-05-31,Q26a,with_only_children,0
+Chronically Homeless,147,all_households,2021-05-01,2021-05-31,Q26a,unknown_household_type,0
+Not Chronically Homeless,524,all_households,2021-05-01,2021-05-31,Q26a,without_children,444
+Not Chronically Homeless,524,all_households,2021-05-01,2021-05-31,Q26a,with_children_and_adults,78
+Not Chronically Homeless,524,all_households,2021-05-01,2021-05-31,Q26a,with_only_children,0
+Not Chronically Homeless,524,all_households,2021-05-01,2021-05-31,Q26a,unknown_household_type,2
+Client Doesn't Know/Client Refused,14,all_households,2021-05-01,2021-05-31,Q26a,without_children,13
+Client Doesn't Know/Client Refused,14,all_households,2021-05-01,2021-05-31,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,14,all_households,2021-05-01,2021-05-31,Q26a,with_only_children,1
+Client Doesn't Know/Client Refused,14,all_households,2021-05-01,2021-05-31,Q26a,unknown_household_type,0
+Data Not Collected,30,all_households,2021-05-01,2021-05-31,Q26a,without_children,27
+Data Not Collected,30,all_households,2021-05-01,2021-05-31,Q26a,with_children_and_adults,2
+Data Not Collected,30,all_households,2021-05-01,2021-05-31,Q26a,with_only_children,0
+Data Not Collected,30,all_households,2021-05-01,2021-05-31,Q26a,unknown_household_type,1
+Chronically Homeless,151,all_households,2021-06-01,2021-06-30,Q26a,without_children,145
+Chronically Homeless,151,all_households,2021-06-01,2021-06-30,Q26a,with_children_and_adults,6
+Chronically Homeless,151,all_households,2021-06-01,2021-06-30,Q26a,with_only_children,0
+Chronically Homeless,151,all_households,2021-06-01,2021-06-30,Q26a,unknown_household_type,0
+Not Chronically Homeless,549,all_households,2021-06-01,2021-06-30,Q26a,without_children,472
+Not Chronically Homeless,549,all_households,2021-06-01,2021-06-30,Q26a,with_children_and_adults,76
+Not Chronically Homeless,549,all_households,2021-06-01,2021-06-30,Q26a,with_only_children,0
+Not Chronically Homeless,549,all_households,2021-06-01,2021-06-30,Q26a,unknown_household_type,1
+Client Doesn't Know/Client Refused,12,all_households,2021-06-01,2021-06-30,Q26a,without_children,12
+Client Doesn't Know/Client Refused,12,all_households,2021-06-01,2021-06-30,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,12,all_households,2021-06-01,2021-06-30,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,12,all_households,2021-06-01,2021-06-30,Q26a,unknown_household_type,0
+Data Not Collected,33,all_households,2021-06-01,2021-06-30,Q26a,without_children,28
+Data Not Collected,33,all_households,2021-06-01,2021-06-30,Q26a,with_children_and_adults,4
+Data Not Collected,33,all_households,2021-06-01,2021-06-30,Q26a,with_only_children,0
+Data Not Collected,33,all_households,2021-06-01,2021-06-30,Q26a,unknown_household_type,1
+Chronically Homeless,144,all_households,2021-07-01,2021-07-31,Q26a,without_children,139
+Chronically Homeless,144,all_households,2021-07-01,2021-07-31,Q26a,with_children_and_adults,5
+Chronically Homeless,144,all_households,2021-07-01,2021-07-31,Q26a,with_only_children,0
+Chronically Homeless,144,all_households,2021-07-01,2021-07-31,Q26a,unknown_household_type,0
+Not Chronically Homeless,565,all_households,2021-07-01,2021-07-31,Q26a,without_children,471
+Not Chronically Homeless,565,all_households,2021-07-01,2021-07-31,Q26a,with_children_and_adults,93
+Not Chronically Homeless,565,all_households,2021-07-01,2021-07-31,Q26a,with_only_children,0
+Not Chronically Homeless,565,all_households,2021-07-01,2021-07-31,Q26a,unknown_household_type,1
+Client Doesn't Know/Client Refused,11,all_households,2021-07-01,2021-07-31,Q26a,without_children,11
+Client Doesn't Know/Client Refused,11,all_households,2021-07-01,2021-07-31,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,11,all_households,2021-07-01,2021-07-31,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,11,all_households,2021-07-01,2021-07-31,Q26a,unknown_household_type,0
+Data Not Collected,33,all_households,2021-07-01,2021-07-31,Q26a,without_children,29
+Data Not Collected,33,all_households,2021-07-01,2021-07-31,Q26a,with_children_and_adults,3
+Data Not Collected,33,all_households,2021-07-01,2021-07-31,Q26a,with_only_children,0
+Data Not Collected,33,all_households,2021-07-01,2021-07-31,Q26a,unknown_household_type,1
+Chronically Homeless,142,all_households,2021-08-01,2021-08-31,Q26a,without_children,138
+Chronically Homeless,142,all_households,2021-08-01,2021-08-31,Q26a,with_children_and_adults,4
+Chronically Homeless,142,all_households,2021-08-01,2021-08-31,Q26a,with_only_children,0
+Chronically Homeless,142,all_households,2021-08-01,2021-08-31,Q26a,unknown_household_type,0
+Not Chronically Homeless,663,all_households,2021-08-01,2021-08-31,Q26a,without_children,546
+Not Chronically Homeless,663,all_households,2021-08-01,2021-08-31,Q26a,with_children_and_adults,116
+Not Chronically Homeless,663,all_households,2021-08-01,2021-08-31,Q26a,with_only_children,0
+Not Chronically Homeless,663,all_households,2021-08-01,2021-08-31,Q26a,unknown_household_type,1
+Client Doesn't Know/Client Refused,11,all_households,2021-08-01,2021-08-31,Q26a,without_children,11
+Client Doesn't Know/Client Refused,11,all_households,2021-08-01,2021-08-31,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,11,all_households,2021-08-01,2021-08-31,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,11,all_households,2021-08-01,2021-08-31,Q26a,unknown_household_type,0
+Data Not Collected,36,all_households,2021-08-01,2021-08-31,Q26a,without_children,33
+Data Not Collected,36,all_households,2021-08-01,2021-08-31,Q26a,with_children_and_adults,2
+Data Not Collected,36,all_households,2021-08-01,2021-08-31,Q26a,with_only_children,0
+Data Not Collected,36,all_households,2021-08-01,2021-08-31,Q26a,unknown_household_type,1
+Chronically Homeless,150,all_households,2021-09-01,2021-09-30,Q26a,without_children,145
+Chronically Homeless,150,all_households,2021-09-01,2021-09-30,Q26a,with_children_and_adults,5
+Chronically Homeless,150,all_households,2021-09-01,2021-09-30,Q26a,with_only_children,0
+Chronically Homeless,150,all_households,2021-09-01,2021-09-30,Q26a,unknown_household_type,0
+Not Chronically Homeless,695,all_households,2021-09-01,2021-09-30,Q26a,without_children,574
+Not Chronically Homeless,695,all_households,2021-09-01,2021-09-30,Q26a,with_children_and_adults,120
+Not Chronically Homeless,695,all_households,2021-09-01,2021-09-30,Q26a,with_only_children,0
+Not Chronically Homeless,695,all_households,2021-09-01,2021-09-30,Q26a,unknown_household_type,1
+Client Doesn't Know/Client Refused,13,all_households,2021-09-01,2021-09-30,Q26a,without_children,12
+Client Doesn't Know/Client Refused,13,all_households,2021-09-01,2021-09-30,Q26a,with_children_and_adults,1
+Client Doesn't Know/Client Refused,13,all_households,2021-09-01,2021-09-30,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,13,all_households,2021-09-01,2021-09-30,Q26a,unknown_household_type,0
+Data Not Collected,36,all_households,2021-09-01,2021-09-30,Q26a,without_children,31
+Data Not Collected,36,all_households,2021-09-01,2021-09-30,Q26a,with_children_and_adults,4
+Data Not Collected,36,all_households,2021-09-01,2021-09-30,Q26a,with_only_children,0
+Data Not Collected,36,all_households,2021-09-01,2021-09-30,Q26a,unknown_household_type,1
+Chronically Homeless,163,all_households,2021-10-01,2021-10-31,Q26a,without_children,157
+Chronically Homeless,163,all_households,2021-10-01,2021-10-31,Q26a,with_children_and_adults,6
+Chronically Homeless,163,all_households,2021-10-01,2021-10-31,Q26a,with_only_children,0
+Chronically Homeless,163,all_households,2021-10-01,2021-10-31,Q26a,unknown_household_type,0
+Not Chronically Homeless,707,all_households,2021-10-01,2021-10-31,Q26a,without_children,588
+Not Chronically Homeless,707,all_households,2021-10-01,2021-10-31,Q26a,with_children_and_adults,117
+Not Chronically Homeless,707,all_households,2021-10-01,2021-10-31,Q26a,with_only_children,1
+Not Chronically Homeless,707,all_households,2021-10-01,2021-10-31,Q26a,unknown_household_type,1
+Client Doesn't Know/Client Refused,17,all_households,2021-10-01,2021-10-31,Q26a,without_children,16
+Client Doesn't Know/Client Refused,17,all_households,2021-10-01,2021-10-31,Q26a,with_children_and_adults,1
+Client Doesn't Know/Client Refused,17,all_households,2021-10-01,2021-10-31,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,17,all_households,2021-10-01,2021-10-31,Q26a,unknown_household_type,0
+Data Not Collected,40,all_households,2021-10-01,2021-10-31,Q26a,without_children,32
+Data Not Collected,40,all_households,2021-10-01,2021-10-31,Q26a,with_children_and_adults,6
+Data Not Collected,40,all_households,2021-10-01,2021-10-31,Q26a,with_only_children,0
+Data Not Collected,40,all_households,2021-10-01,2021-10-31,Q26a,unknown_household_type,2
+Chronically Homeless,175,all_households,2021-11-01,2021-11-30,Q26a,without_children,170
+Chronically Homeless,175,all_households,2021-11-01,2021-11-30,Q26a,with_children_and_adults,5
+Chronically Homeless,175,all_households,2021-11-01,2021-11-30,Q26a,with_only_children,0
+Chronically Homeless,175,all_households,2021-11-01,2021-11-30,Q26a,unknown_household_type,0
+Not Chronically Homeless,745,all_households,2021-11-01,2021-11-30,Q26a,without_children,623
+Not Chronically Homeless,745,all_households,2021-11-01,2021-11-30,Q26a,with_children_and_adults,121
+Not Chronically Homeless,745,all_households,2021-11-01,2021-11-30,Q26a,with_only_children,0
+Not Chronically Homeless,745,all_households,2021-11-01,2021-11-30,Q26a,unknown_household_type,1
+Client Doesn't Know/Client Refused,19,all_households,2021-11-01,2021-11-30,Q26a,without_children,16
+Client Doesn't Know/Client Refused,19,all_households,2021-11-01,2021-11-30,Q26a,with_children_and_adults,3
+Client Doesn't Know/Client Refused,19,all_households,2021-11-01,2021-11-30,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,19,all_households,2021-11-01,2021-11-30,Q26a,unknown_household_type,0
+Data Not Collected,48,all_households,2021-11-01,2021-11-30,Q26a,without_children,40
+Data Not Collected,48,all_households,2021-11-01,2021-11-30,Q26a,with_children_and_adults,7
+Data Not Collected,48,all_households,2021-11-01,2021-11-30,Q26a,with_only_children,0
+Data Not Collected,48,all_households,2021-11-01,2021-11-30,Q26a,unknown_household_type,1
+Chronically Homeless,186,all_households,2021-12-01,2021-12-31,Q26a,without_children,180
+Chronically Homeless,186,all_households,2021-12-01,2021-12-31,Q26a,with_children_and_adults,6
+Chronically Homeless,186,all_households,2021-12-01,2021-12-31,Q26a,with_only_children,0
+Chronically Homeless,186,all_households,2021-12-01,2021-12-31,Q26a,unknown_household_type,0
+Not Chronically Homeless,793,all_households,2021-12-01,2021-12-31,Q26a,without_children,657
+Not Chronically Homeless,793,all_households,2021-12-01,2021-12-31,Q26a,with_children_and_adults,135
+Not Chronically Homeless,793,all_households,2021-12-01,2021-12-31,Q26a,with_only_children,0
+Not Chronically Homeless,793,all_households,2021-12-01,2021-12-31,Q26a,unknown_household_type,1
+Client Doesn't Know/Client Refused,27,all_households,2021-12-01,2021-12-31,Q26a,without_children,24
+Client Doesn't Know/Client Refused,27,all_households,2021-12-01,2021-12-31,Q26a,with_children_and_adults,3
+Client Doesn't Know/Client Refused,27,all_households,2021-12-01,2021-12-31,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,27,all_households,2021-12-01,2021-12-31,Q26a,unknown_household_type,0
+Data Not Collected,52,all_households,2021-12-01,2021-12-31,Q26a,without_children,40
+Data Not Collected,52,all_households,2021-12-01,2021-12-31,Q26a,with_children_and_adults,8
+Data Not Collected,52,all_households,2021-12-01,2021-12-31,Q26a,with_only_children,0
+Data Not Collected,52,all_households,2021-12-01,2021-12-31,Q26a,unknown_household_type,4
+Chronically Homeless,194,all_households,2022-01-01,2022-01-31,Q26a,without_children,188
+Chronically Homeless,194,all_households,2022-01-01,2022-01-31,Q26a,with_children_and_adults,6
+Chronically Homeless,194,all_households,2022-01-01,2022-01-31,Q26a,with_only_children,0
+Chronically Homeless,194,all_households,2022-01-01,2022-01-31,Q26a,unknown_household_type,0
+Not Chronically Homeless,783,all_households,2022-01-01,2022-01-31,Q26a,without_children,661
+Not Chronically Homeless,783,all_households,2022-01-01,2022-01-31,Q26a,with_children_and_adults,121
+Not Chronically Homeless,783,all_households,2022-01-01,2022-01-31,Q26a,with_only_children,0
+Not Chronically Homeless,783,all_households,2022-01-01,2022-01-31,Q26a,unknown_household_type,1
+Client Doesn't Know/Client Refused,27,all_households,2022-01-01,2022-01-31,Q26a,without_children,24
+Client Doesn't Know/Client Refused,27,all_households,2022-01-01,2022-01-31,Q26a,with_children_and_adults,3
+Client Doesn't Know/Client Refused,27,all_households,2022-01-01,2022-01-31,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,27,all_households,2022-01-01,2022-01-31,Q26a,unknown_household_type,0
+Data Not Collected,58,all_households,2022-01-01,2022-01-31,Q26a,without_children,41
+Data Not Collected,58,all_households,2022-01-01,2022-01-31,Q26a,with_children_and_adults,13
+Data Not Collected,58,all_households,2022-01-01,2022-01-31,Q26a,with_only_children,0
+Data Not Collected,58,all_households,2022-01-01,2022-01-31,Q26a,unknown_household_type,4
+Chronically Homeless,199,all_households,2022-02-01,2022-02-28,Q26a,without_children,194
+Chronically Homeless,199,all_households,2022-02-01,2022-02-28,Q26a,with_children_and_adults,5
+Chronically Homeless,199,all_households,2022-02-01,2022-02-28,Q26a,with_only_children,0
+Chronically Homeless,199,all_households,2022-02-01,2022-02-28,Q26a,unknown_household_type,0
+Not Chronically Homeless,799,all_households,2022-02-01,2022-02-28,Q26a,without_children,664
+Not Chronically Homeless,799,all_households,2022-02-01,2022-02-28,Q26a,with_children_and_adults,133
+Not Chronically Homeless,799,all_households,2022-02-01,2022-02-28,Q26a,with_only_children,0
+Not Chronically Homeless,799,all_households,2022-02-01,2022-02-28,Q26a,unknown_household_type,2
+Client Doesn't Know/Client Refused,26,all_households,2022-02-01,2022-02-28,Q26a,without_children,25
+Client Doesn't Know/Client Refused,26,all_households,2022-02-01,2022-02-28,Q26a,with_children_and_adults,1
+Client Doesn't Know/Client Refused,26,all_households,2022-02-01,2022-02-28,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,26,all_households,2022-02-01,2022-02-28,Q26a,unknown_household_type,0
+Data Not Collected,57,all_households,2022-02-01,2022-02-28,Q26a,without_children,41
+Data Not Collected,57,all_households,2022-02-01,2022-02-28,Q26a,with_children_and_adults,13
+Data Not Collected,57,all_households,2022-02-01,2022-02-28,Q26a,with_only_children,0
+Data Not Collected,57,all_households,2022-02-01,2022-02-28,Q26a,unknown_household_type,3
+Chronically Homeless,200,all_households,2022-03-01,2022-03-31,Q26a,without_children,196
+Chronically Homeless,200,all_households,2022-03-01,2022-03-31,Q26a,with_children_and_adults,4
+Chronically Homeless,200,all_households,2022-03-01,2022-03-31,Q26a,with_only_children,0
+Chronically Homeless,200,all_households,2022-03-01,2022-03-31,Q26a,unknown_household_type,0
+Not Chronically Homeless,872,all_households,2022-03-01,2022-03-31,Q26a,without_children,706
+Not Chronically Homeless,872,all_households,2022-03-01,2022-03-31,Q26a,with_children_and_adults,163
+Not Chronically Homeless,872,all_households,2022-03-01,2022-03-31,Q26a,with_only_children,0
+Not Chronically Homeless,872,all_households,2022-03-01,2022-03-31,Q26a,unknown_household_type,3
+Client Doesn't Know/Client Refused,23,all_households,2022-03-01,2022-03-31,Q26a,without_children,23
+Client Doesn't Know/Client Refused,23,all_households,2022-03-01,2022-03-31,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,23,all_households,2022-03-01,2022-03-31,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,23,all_households,2022-03-01,2022-03-31,Q26a,unknown_household_type,0
+Data Not Collected,62,all_households,2022-03-01,2022-03-31,Q26a,without_children,43
+Data Not Collected,62,all_households,2022-03-01,2022-03-31,Q26a,with_children_and_adults,15
+Data Not Collected,62,all_households,2022-03-01,2022-03-31,Q26a,with_only_children,0
+Data Not Collected,62,all_households,2022-03-01,2022-03-31,Q26a,unknown_household_type,4
+Chronically Homeless,195,all_households,2022-04-01,2022-04-30,Q26a,without_children,191
+Chronically Homeless,195,all_households,2022-04-01,2022-04-30,Q26a,with_children_and_adults,4
+Chronically Homeless,195,all_households,2022-04-01,2022-04-30,Q26a,with_only_children,0
+Chronically Homeless,195,all_households,2022-04-01,2022-04-30,Q26a,unknown_household_type,0
+Not Chronically Homeless,875,all_households,2022-04-01,2022-04-30,Q26a,without_children,711
+Not Chronically Homeless,875,all_households,2022-04-01,2022-04-30,Q26a,with_children_and_adults,163
+Not Chronically Homeless,875,all_households,2022-04-01,2022-04-30,Q26a,with_only_children,0
+Not Chronically Homeless,875,all_households,2022-04-01,2022-04-30,Q26a,unknown_household_type,1
+Client Doesn't Know/Client Refused,28,all_households,2022-04-01,2022-04-30,Q26a,without_children,28
+Client Doesn't Know/Client Refused,28,all_households,2022-04-01,2022-04-30,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,28,all_households,2022-04-01,2022-04-30,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,28,all_households,2022-04-01,2022-04-30,Q26a,unknown_household_type,0
+Data Not Collected,64,all_households,2022-04-01,2022-04-30,Q26a,without_children,47
+Data Not Collected,64,all_households,2022-04-01,2022-04-30,Q26a,with_children_and_adults,14
+Data Not Collected,64,all_households,2022-04-01,2022-04-30,Q26a,with_only_children,0
+Data Not Collected,64,all_households,2022-04-01,2022-04-30,Q26a,unknown_household_type,3
+Chronically Homeless,183,all_households,2022-05-01,2022-05-31,Q26a,without_children,179
+Chronically Homeless,183,all_households,2022-05-01,2022-05-31,Q26a,with_children_and_adults,4
+Chronically Homeless,183,all_households,2022-05-01,2022-05-31,Q26a,with_only_children,0
+Chronically Homeless,183,all_households,2022-05-01,2022-05-31,Q26a,unknown_household_type,0
+Not Chronically Homeless,886,all_households,2022-05-01,2022-05-31,Q26a,without_children,715
+Not Chronically Homeless,886,all_households,2022-05-01,2022-05-31,Q26a,with_children_and_adults,170
+Not Chronically Homeless,886,all_households,2022-05-01,2022-05-31,Q26a,with_only_children,0
+Not Chronically Homeless,886,all_households,2022-05-01,2022-05-31,Q26a,unknown_household_type,1
+Client Doesn't Know/Client Refused,26,all_households,2022-05-01,2022-05-31,Q26a,without_children,26
+Client Doesn't Know/Client Refused,26,all_households,2022-05-01,2022-05-31,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,26,all_households,2022-05-01,2022-05-31,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,26,all_households,2022-05-01,2022-05-31,Q26a,unknown_household_type,0
+Data Not Collected,65,all_households,2022-05-01,2022-05-31,Q26a,without_children,48
+Data Not Collected,65,all_households,2022-05-01,2022-05-31,Q26a,with_children_and_adults,14
+Data Not Collected,65,all_households,2022-05-01,2022-05-31,Q26a,with_only_children,0
+Data Not Collected,65,all_households,2022-05-01,2022-05-31,Q26a,unknown_household_type,3
+Chronically Homeless,189,all_households,2022-06-01,2022-06-30,Q26a,without_children,184
+Chronically Homeless,189,all_households,2022-06-01,2022-06-30,Q26a,with_children_and_adults,4
+Chronically Homeless,189,all_households,2022-06-01,2022-06-30,Q26a,with_only_children,0
+Chronically Homeless,189,all_households,2022-06-01,2022-06-30,Q26a,unknown_household_type,1
+Not Chronically Homeless,926,all_households,2022-06-01,2022-06-30,Q26a,without_children,747
+Not Chronically Homeless,926,all_households,2022-06-01,2022-06-30,Q26a,with_children_and_adults,178
+Not Chronically Homeless,926,all_households,2022-06-01,2022-06-30,Q26a,with_only_children,0
+Not Chronically Homeless,926,all_households,2022-06-01,2022-06-30,Q26a,unknown_household_type,1
+Client Doesn't Know/Client Refused,28,all_households,2022-06-01,2022-06-30,Q26a,without_children,28
+Client Doesn't Know/Client Refused,28,all_households,2022-06-01,2022-06-30,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,28,all_households,2022-06-01,2022-06-30,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,28,all_households,2022-06-01,2022-06-30,Q26a,unknown_household_type,0
+Data Not Collected,66,all_households,2022-06-01,2022-06-30,Q26a,without_children,51
+Data Not Collected,66,all_households,2022-06-01,2022-06-30,Q26a,with_children_and_adults,12
+Data Not Collected,66,all_households,2022-06-01,2022-06-30,Q26a,with_only_children,0
+Data Not Collected,66,all_households,2022-06-01,2022-06-30,Q26a,unknown_household_type,3
+Chronically Homeless,192,all_households,2022-07-01,2022-07-31,Q26a,without_children,187
+Chronically Homeless,192,all_households,2022-07-01,2022-07-31,Q26a,with_children_and_adults,4
+Chronically Homeless,192,all_households,2022-07-01,2022-07-31,Q26a,with_only_children,0
+Chronically Homeless,192,all_households,2022-07-01,2022-07-31,Q26a,unknown_household_type,1
+Not Chronically Homeless,886,all_households,2022-07-01,2022-07-31,Q26a,without_children,717
+Not Chronically Homeless,886,all_households,2022-07-01,2022-07-31,Q26a,with_children_and_adults,168
+Not Chronically Homeless,886,all_households,2022-07-01,2022-07-31,Q26a,with_only_children,0
+Not Chronically Homeless,886,all_households,2022-07-01,2022-07-31,Q26a,unknown_household_type,1
+Client Doesn't Know/Client Refused,28,all_households,2022-07-01,2022-07-31,Q26a,without_children,28
+Client Doesn't Know/Client Refused,28,all_households,2022-07-01,2022-07-31,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,28,all_households,2022-07-01,2022-07-31,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,28,all_households,2022-07-01,2022-07-31,Q26a,unknown_household_type,0
+Data Not Collected,64,all_households,2022-07-01,2022-07-31,Q26a,without_children,46
+Data Not Collected,64,all_households,2022-07-01,2022-07-31,Q26a,with_children_and_adults,13
+Data Not Collected,64,all_households,2022-07-01,2022-07-31,Q26a,with_only_children,0
+Data Not Collected,64,all_households,2022-07-01,2022-07-31,Q26a,unknown_household_type,5
+Chronically Homeless,195,all_households,2022-08-01,2022-08-31,Q26a,without_children,190
+Chronically Homeless,195,all_households,2022-08-01,2022-08-31,Q26a,with_children_and_adults,4
+Chronically Homeless,195,all_households,2022-08-01,2022-08-31,Q26a,with_only_children,0
+Chronically Homeless,195,all_households,2022-08-01,2022-08-31,Q26a,unknown_household_type,1
+Not Chronically Homeless,925,all_households,2022-08-01,2022-08-31,Q26a,without_children,737
+Not Chronically Homeless,925,all_households,2022-08-01,2022-08-31,Q26a,with_children_and_adults,186
+Not Chronically Homeless,925,all_households,2022-08-01,2022-08-31,Q26a,with_only_children,0
+Not Chronically Homeless,925,all_households,2022-08-01,2022-08-31,Q26a,unknown_household_type,2
+Client Doesn't Know/Client Refused,27,all_households,2022-08-01,2022-08-31,Q26a,without_children,27
+Client Doesn't Know/Client Refused,27,all_households,2022-08-01,2022-08-31,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,27,all_households,2022-08-01,2022-08-31,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,27,all_households,2022-08-01,2022-08-31,Q26a,unknown_household_type,0
+Data Not Collected,63,all_households,2022-08-01,2022-08-31,Q26a,without_children,45
+Data Not Collected,63,all_households,2022-08-01,2022-08-31,Q26a,with_children_and_adults,13
+Data Not Collected,63,all_households,2022-08-01,2022-08-31,Q26a,with_only_children,0
+Data Not Collected,63,all_households,2022-08-01,2022-08-31,Q26a,unknown_household_type,5

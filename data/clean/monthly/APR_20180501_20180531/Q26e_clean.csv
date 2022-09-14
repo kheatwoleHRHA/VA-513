@@ -1,0 +1,25 @@
+conditions,population,start_date,end_date,question,status,count
+Mental Health Disorder,chronically_homeless,2018-05-01,2018-05-31,Q26e,conditions_at_start,44
+Mental Health Disorder,chronically_homeless,2018-05-01,2018-05-31,Q26e,conditions_at_latest_assessment_for_stayers,43
+Mental Health Disorder,chronically_homeless,2018-05-01,2018-05-31,Q26e,conditions_at_exit_for_leavers,1
+Alcohol Use Disorder,chronically_homeless,2018-05-01,2018-05-31,Q26e,conditions_at_start,10
+Alcohol Use Disorder,chronically_homeless,2018-05-01,2018-05-31,Q26e,conditions_at_latest_assessment_for_stayers,10
+Alcohol Use Disorder,chronically_homeless,2018-05-01,2018-05-31,Q26e,conditions_at_exit_for_leavers,0
+Drug Use Disorder,chronically_homeless,2018-05-01,2018-05-31,Q26e,conditions_at_start,6
+Drug Use Disorder,chronically_homeless,2018-05-01,2018-05-31,Q26e,conditions_at_latest_assessment_for_stayers,6
+Drug Use Disorder,chronically_homeless,2018-05-01,2018-05-31,Q26e,conditions_at_exit_for_leavers,0
+Both Alcohol and Drug Use Disorders,chronically_homeless,2018-05-01,2018-05-31,Q26e,conditions_at_start,7
+Both Alcohol and Drug Use Disorders,chronically_homeless,2018-05-01,2018-05-31,Q26e,conditions_at_latest_assessment_for_stayers,7
+Both Alcohol and Drug Use Disorders,chronically_homeless,2018-05-01,2018-05-31,Q26e,conditions_at_exit_for_leavers,0
+Chronic Health Condition,chronically_homeless,2018-05-01,2018-05-31,Q26e,conditions_at_start,24
+Chronic Health Condition,chronically_homeless,2018-05-01,2018-05-31,Q26e,conditions_at_latest_assessment_for_stayers,23
+Chronic Health Condition,chronically_homeless,2018-05-01,2018-05-31,Q26e,conditions_at_exit_for_leavers,1
+HIV/AIDS,chronically_homeless,2018-05-01,2018-05-31,Q26e,conditions_at_start,0
+HIV/AIDS,chronically_homeless,2018-05-01,2018-05-31,Q26e,conditions_at_latest_assessment_for_stayers,0
+HIV/AIDS,chronically_homeless,2018-05-01,2018-05-31,Q26e,conditions_at_exit_for_leavers,0
+Development Disability,chronically_homeless,2018-05-01,2018-05-31,Q26e,conditions_at_start,8
+Development Disability,chronically_homeless,2018-05-01,2018-05-31,Q26e,conditions_at_latest_assessment_for_stayers,8
+Development Disability,chronically_homeless,2018-05-01,2018-05-31,Q26e,conditions_at_exit_for_leavers,0
+Physical Disability,chronically_homeless,2018-05-01,2018-05-31,Q26e,conditions_at_start,23
+Physical Disability,chronically_homeless,2018-05-01,2018-05-31,Q26e,conditions_at_latest_assessment_for_stayers,20
+Physical Disability,chronically_homeless,2018-05-01,2018-05-31,Q26e,conditions_at_exit_for_leavers,3

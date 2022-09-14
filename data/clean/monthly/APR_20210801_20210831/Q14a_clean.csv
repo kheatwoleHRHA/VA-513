@@ -1,0 +1,17 @@
+dv_history,total,population,start_date,end_date,question,household_type,count
+Yes,238,all_persons,2021-08-01,2021-08-31,Q14a,without_children,175
+Yes,238,all_persons,2021-08-01,2021-08-31,Q14a,with_children_and_adults,63
+Yes,238,all_persons,2021-08-01,2021-08-31,Q14a,with_only_children,0
+Yes,238,all_persons,2021-08-01,2021-08-31,Q14a,unknown_household_type,0
+No,781,all_persons,2021-08-01,2021-08-31,Q14a,without_children,653
+No,781,all_persons,2021-08-01,2021-08-31,Q14a,with_children_and_adults,125
+No,781,all_persons,2021-08-01,2021-08-31,Q14a,with_only_children,0
+No,781,all_persons,2021-08-01,2021-08-31,Q14a,unknown_household_type,3
+Client Doesn't Know/Client Refused,6,all_persons,2021-08-01,2021-08-31,Q14a,without_children,6
+Client Doesn't Know/Client Refused,6,all_persons,2021-08-01,2021-08-31,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,6,all_persons,2021-08-01,2021-08-31,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,6,all_persons,2021-08-01,2021-08-31,Q14a,unknown_household_type,0
+Data Not Collected,20,all_persons,2021-08-01,2021-08-31,Q14a,without_children,15
+Data Not Collected,20,all_persons,2021-08-01,2021-08-31,Q14a,with_children_and_adults,5
+Data Not Collected,20,all_persons,2021-08-01,2021-08-31,Q14a,with_only_children,0
+Data Not Collected,20,all_persons,2021-08-01,2021-08-31,Q14a,unknown_household_type,0

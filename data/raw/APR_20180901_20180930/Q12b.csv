@@ -1,0 +1,6 @@
+, "Total" , "Without Children" , "With Children and Adults" , "With Only Children" , "Unknown Household Type"
+"""Non-Hispanic/Non-Latin(a)(o)(x)""",509,226,271,12,0
+"""Hispanic/Latin(a)(o)(x)""",47,12,33,2,0
+"""Client Doesn't Know/Client Refused""",1,0,0,1,0
+"""Data Not Collected""",1,0,0,0,1
+"""Total""",558,238,304,15,1

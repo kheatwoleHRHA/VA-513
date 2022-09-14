@@ -1,0 +1,49 @@
+income_sources,population,start_date,end_date,question,status,count
+Earned Income,youth,2017-11-01,2017-11-30,Q27g,income_at_start,6
+Earned Income,youth,2017-11-01,2017-11-30,Q27g,income_at_latest_annual_assessment_for_stayers,0
+Earned Income,youth,2017-11-01,2017-11-30,Q27g,income_at_exit_for_leavers,4
+Unemployment Insurance,youth,2017-11-01,2017-11-30,Q27g,income_at_start,0
+Unemployment Insurance,youth,2017-11-01,2017-11-30,Q27g,income_at_latest_annual_assessment_for_stayers,0
+Unemployment Insurance,youth,2017-11-01,2017-11-30,Q27g,income_at_exit_for_leavers,0
+Supplemental Security Income (SSI),youth,2017-11-01,2017-11-30,Q27g,income_at_start,0
+Supplemental Security Income (SSI),youth,2017-11-01,2017-11-30,Q27g,income_at_latest_annual_assessment_for_stayers,0
+Supplemental Security Income (SSI),youth,2017-11-01,2017-11-30,Q27g,income_at_exit_for_leavers,0
+Social Security Disability Insurance (SSDI),youth,2017-11-01,2017-11-30,Q27g,income_at_start,0
+Social Security Disability Insurance (SSDI),youth,2017-11-01,2017-11-30,Q27g,income_at_latest_annual_assessment_for_stayers,0
+Social Security Disability Insurance (SSDI),youth,2017-11-01,2017-11-30,Q27g,income_at_exit_for_leavers,0
+VA Service - Connected Disability Compensation,youth,2017-11-01,2017-11-30,Q27g,income_at_start,0
+VA Service - Connected Disability Compensation,youth,2017-11-01,2017-11-30,Q27g,income_at_latest_annual_assessment_for_stayers,0
+VA Service - Connected Disability Compensation,youth,2017-11-01,2017-11-30,Q27g,income_at_exit_for_leavers,0
+VA Non-Service Connected Disability Pension,youth,2017-11-01,2017-11-30,Q27g,income_at_start,0
+VA Non-Service Connected Disability Pension,youth,2017-11-01,2017-11-30,Q27g,income_at_latest_annual_assessment_for_stayers,0
+VA Non-Service Connected Disability Pension,youth,2017-11-01,2017-11-30,Q27g,income_at_exit_for_leavers,0
+Private Disability Insurance,youth,2017-11-01,2017-11-30,Q27g,income_at_start,0
+Private Disability Insurance,youth,2017-11-01,2017-11-30,Q27g,income_at_latest_annual_assessment_for_stayers,0
+Private Disability Insurance,youth,2017-11-01,2017-11-30,Q27g,income_at_exit_for_leavers,0
+Worker's Compensation,youth,2017-11-01,2017-11-30,Q27g,income_at_start,0
+Worker's Compensation,youth,2017-11-01,2017-11-30,Q27g,income_at_latest_annual_assessment_for_stayers,0
+Worker's Compensation,youth,2017-11-01,2017-11-30,Q27g,income_at_exit_for_leavers,0
+Temporary Assistance for Needy Families (TANF),youth,2017-11-01,2017-11-30,Q27g,income_at_start,1
+Temporary Assistance for Needy Families (TANF),youth,2017-11-01,2017-11-30,Q27g,income_at_latest_annual_assessment_for_stayers,0
+Temporary Assistance for Needy Families (TANF),youth,2017-11-01,2017-11-30,Q27g,income_at_exit_for_leavers,1
+General Assistance (GA),youth,2017-11-01,2017-11-30,Q27g,income_at_start,0
+General Assistance (GA),youth,2017-11-01,2017-11-30,Q27g,income_at_latest_annual_assessment_for_stayers,0
+General Assistance (GA),youth,2017-11-01,2017-11-30,Q27g,income_at_exit_for_leavers,0
+Retirement Income from Social Security,youth,2017-11-01,2017-11-30,Q27g,income_at_start,0
+Retirement Income from Social Security,youth,2017-11-01,2017-11-30,Q27g,income_at_latest_annual_assessment_for_stayers,0
+Retirement Income from Social Security,youth,2017-11-01,2017-11-30,Q27g,income_at_exit_for_leavers,0
+Pension or retirement income from a former job,youth,2017-11-01,2017-11-30,Q27g,income_at_start,0
+Pension or retirement income from a former job,youth,2017-11-01,2017-11-30,Q27g,income_at_latest_annual_assessment_for_stayers,0
+Pension or retirement income from a former job,youth,2017-11-01,2017-11-30,Q27g,income_at_exit_for_leavers,0
+Child Support,youth,2017-11-01,2017-11-30,Q27g,income_at_start,1
+Child Support,youth,2017-11-01,2017-11-30,Q27g,income_at_latest_annual_assessment_for_stayers,0
+Child Support,youth,2017-11-01,2017-11-30,Q27g,income_at_exit_for_leavers,1
+Alimony and other spousal support,youth,2017-11-01,2017-11-30,Q27g,income_at_start,0
+Alimony and other spousal support,youth,2017-11-01,2017-11-30,Q27g,income_at_latest_annual_assessment_for_stayers,0
+Alimony and other spousal support,youth,2017-11-01,2017-11-30,Q27g,income_at_exit_for_leavers,0
+Other Source,youth,2017-11-01,2017-11-30,Q27g,income_at_start,0
+Other Source,youth,2017-11-01,2017-11-30,Q27g,income_at_latest_annual_assessment_for_stayers,0
+Other Source,youth,2017-11-01,2017-11-30,Q27g,income_at_exit_for_leavers,0
+Adults with Income Information at Start and Annual Assessment/Exit,youth,2017-11-01,2017-11-30,Q27g,income_at_start,0
+Adults with Income Information at Start and Annual Assessment/Exit,youth,2017-11-01,2017-11-30,Q27g,income_at_latest_annual_assessment_for_stayers,0
+Adults with Income Information at Start and Annual Assessment/Exit,youth,2017-11-01,2017-11-30,Q27g,income_at_exit_for_leavers,0

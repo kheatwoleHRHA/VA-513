@@ -1,0 +1,109 @@
+living_situation,total,population,start_date,end_date,question,category,household_type,count
+"Emergency shelter, including hotel or motel paid for with emergency shelter voucher",3,youth,2019-02-01,2019-02-28,Q27d,Homeless Situations,without_children,3
+"Emergency shelter, including hotel or motel paid for with emergency shelter voucher",3,youth,2019-02-01,2019-02-28,Q27d,Homeless Situations,with_children_and_adults,0
+"Emergency shelter, including hotel or motel paid for with emergency shelter voucher",3,youth,2019-02-01,2019-02-28,Q27d,Homeless Situations,with_only_children,0
+"Emergency shelter, including hotel or motel paid for with emergency shelter voucher",3,youth,2019-02-01,2019-02-28,Q27d,Homeless Situations,unknown_household_type,0
+Transitional housing for homeless persons (including homeless youth),0,youth,2019-02-01,2019-02-28,Q27d,NA,without_children,0
+Transitional housing for homeless persons (including homeless youth),0,youth,2019-02-01,2019-02-28,Q27d,NA,with_children_and_adults,0
+Transitional housing for homeless persons (including homeless youth),0,youth,2019-02-01,2019-02-28,Q27d,NA,with_only_children,0
+Transitional housing for homeless persons (including homeless youth),0,youth,2019-02-01,2019-02-28,Q27d,NA,unknown_household_type,0
+Place not meant for human habitation,14,youth,2019-02-01,2019-02-28,Q27d,NA,without_children,8
+Place not meant for human habitation,14,youth,2019-02-01,2019-02-28,Q27d,NA,with_children_and_adults,6
+Place not meant for human habitation,14,youth,2019-02-01,2019-02-28,Q27d,NA,with_only_children,0
+Place not meant for human habitation,14,youth,2019-02-01,2019-02-28,Q27d,NA,unknown_household_type,0
+Safe Haven,0,youth,2019-02-01,2019-02-28,Q27d,NA,without_children,0
+Safe Haven,0,youth,2019-02-01,2019-02-28,Q27d,NA,with_children_and_adults,0
+Safe Haven,0,youth,2019-02-01,2019-02-28,Q27d,NA,with_only_children,0
+Safe Haven,0,youth,2019-02-01,2019-02-28,Q27d,NA,unknown_household_type,0
+Host Home,0,youth,2019-02-01,2019-02-28,Q27d,NA,without_children,0
+Host Home,0,youth,2019-02-01,2019-02-28,Q27d,NA,with_children_and_adults,0
+Host Home,0,youth,2019-02-01,2019-02-28,Q27d,NA,with_only_children,0
+Host Home,0,youth,2019-02-01,2019-02-28,Q27d,NA,unknown_household_type,0
+Psychiatric hospital or other psychiatric facility,0,youth,2019-02-01,2019-02-28,Q27d,Institutional Settings,without_children,0
+Psychiatric hospital or other psychiatric facility,0,youth,2019-02-01,2019-02-28,Q27d,Institutional Settings,with_children_and_adults,0
+Psychiatric hospital or other psychiatric facility,0,youth,2019-02-01,2019-02-28,Q27d,Institutional Settings,with_only_children,0
+Psychiatric hospital or other psychiatric facility,0,youth,2019-02-01,2019-02-28,Q27d,Institutional Settings,unknown_household_type,0
+Substance abuse treatment facility or detox center,0,youth,2019-02-01,2019-02-28,Q27d,NA,without_children,0
+Substance abuse treatment facility or detox center,0,youth,2019-02-01,2019-02-28,Q27d,NA,with_children_and_adults,0
+Substance abuse treatment facility or detox center,0,youth,2019-02-01,2019-02-28,Q27d,NA,with_only_children,0
+Substance abuse treatment facility or detox center,0,youth,2019-02-01,2019-02-28,Q27d,NA,unknown_household_type,0
+Hospital or other residential non-psychiatric medical facility,0,youth,2019-02-01,2019-02-28,Q27d,NA,without_children,0
+Hospital or other residential non-psychiatric medical facility,0,youth,2019-02-01,2019-02-28,Q27d,NA,with_children_and_adults,0
+Hospital or other residential non-psychiatric medical facility,0,youth,2019-02-01,2019-02-28,Q27d,NA,with_only_children,0
+Hospital or other residential non-psychiatric medical facility,0,youth,2019-02-01,2019-02-28,Q27d,NA,unknown_household_type,0
+"Jail, prison or juvenile detention facility",0,youth,2019-02-01,2019-02-28,Q27d,NA,without_children,0
+"Jail, prison or juvenile detention facility",0,youth,2019-02-01,2019-02-28,Q27d,NA,with_children_and_adults,0
+"Jail, prison or juvenile detention facility",0,youth,2019-02-01,2019-02-28,Q27d,NA,with_only_children,0
+"Jail, prison or juvenile detention facility",0,youth,2019-02-01,2019-02-28,Q27d,NA,unknown_household_type,0
+Foster care home or foster care group home,0,youth,2019-02-01,2019-02-28,Q27d,NA,without_children,0
+Foster care home or foster care group home,0,youth,2019-02-01,2019-02-28,Q27d,NA,with_children_and_adults,0
+Foster care home or foster care group home,0,youth,2019-02-01,2019-02-28,Q27d,NA,with_only_children,0
+Foster care home or foster care group home,0,youth,2019-02-01,2019-02-28,Q27d,NA,unknown_household_type,0
+Long-term care facility or nursing home,0,youth,2019-02-01,2019-02-28,Q27d,NA,without_children,0
+Long-term care facility or nursing home,0,youth,2019-02-01,2019-02-28,Q27d,NA,with_children_and_adults,0
+Long-term care facility or nursing home,0,youth,2019-02-01,2019-02-28,Q27d,NA,with_only_children,0
+Long-term care facility or nursing home,0,youth,2019-02-01,2019-02-28,Q27d,NA,unknown_household_type,0
+Residential project or halfway house with no homeless criteria,0,youth,2019-02-01,2019-02-28,Q27d,NA,without_children,0
+Residential project or halfway house with no homeless criteria,0,youth,2019-02-01,2019-02-28,Q27d,NA,with_children_and_adults,0
+Residential project or halfway house with no homeless criteria,0,youth,2019-02-01,2019-02-28,Q27d,NA,with_only_children,0
+Residential project or halfway house with no homeless criteria,0,youth,2019-02-01,2019-02-28,Q27d,NA,unknown_household_type,0
+Permanent housing (other than RRH) for formerly homeless persons,0,youth,2019-02-01,2019-02-28,Q27d,Other Locations,without_children,0
+Permanent housing (other than RRH) for formerly homeless persons,0,youth,2019-02-01,2019-02-28,Q27d,Other Locations,with_children_and_adults,0
+Permanent housing (other than RRH) for formerly homeless persons,0,youth,2019-02-01,2019-02-28,Q27d,Other Locations,with_only_children,0
+Permanent housing (other than RRH) for formerly homeless persons,0,youth,2019-02-01,2019-02-28,Q27d,Other Locations,unknown_household_type,0
+"Owned by client, no ongoing housing subsidy",0,youth,2019-02-01,2019-02-28,Q27d,NA,without_children,0
+"Owned by client, no ongoing housing subsidy",0,youth,2019-02-01,2019-02-28,Q27d,NA,with_children_and_adults,0
+"Owned by client, no ongoing housing subsidy",0,youth,2019-02-01,2019-02-28,Q27d,NA,with_only_children,0
+"Owned by client, no ongoing housing subsidy",0,youth,2019-02-01,2019-02-28,Q27d,NA,unknown_household_type,0
+"Owned by client, with ongoing housing subsidy",0,youth,2019-02-01,2019-02-28,Q27d,NA,without_children,0
+"Owned by client, with ongoing housing subsidy",0,youth,2019-02-01,2019-02-28,Q27d,NA,with_children_and_adults,0
+"Owned by client, with ongoing housing subsidy",0,youth,2019-02-01,2019-02-28,Q27d,NA,with_only_children,0
+"Owned by client, with ongoing housing subsidy",0,youth,2019-02-01,2019-02-28,Q27d,NA,unknown_household_type,0
+"Rental by client, with RRH or equivalent subsidy",0,youth,2019-02-01,2019-02-28,Q27d,NA,without_children,0
+"Rental by client, with RRH or equivalent subsidy",0,youth,2019-02-01,2019-02-28,Q27d,NA,with_children_and_adults,0
+"Rental by client, with RRH or equivalent subsidy",0,youth,2019-02-01,2019-02-28,Q27d,NA,with_only_children,0
+"Rental by client, with RRH or equivalent subsidy",0,youth,2019-02-01,2019-02-28,Q27d,NA,unknown_household_type,0
+"Rental by client, with HCV voucher (tenant or project based)",0,youth,2019-02-01,2019-02-28,Q27d,NA,without_children,0
+"Rental by client, with HCV voucher (tenant or project based)",0,youth,2019-02-01,2019-02-28,Q27d,NA,with_children_and_adults,0
+"Rental by client, with HCV voucher (tenant or project based)",0,youth,2019-02-01,2019-02-28,Q27d,NA,with_only_children,0
+"Rental by client, with HCV voucher (tenant or project based)",0,youth,2019-02-01,2019-02-28,Q27d,NA,unknown_household_type,0
+Rental by client in a public housing unit,0,youth,2019-02-01,2019-02-28,Q27d,NA,without_children,0
+Rental by client in a public housing unit,0,youth,2019-02-01,2019-02-28,Q27d,NA,with_children_and_adults,0
+Rental by client in a public housing unit,0,youth,2019-02-01,2019-02-28,Q27d,NA,with_only_children,0
+Rental by client in a public housing unit,0,youth,2019-02-01,2019-02-28,Q27d,NA,unknown_household_type,0
+"Rental by client, no ongoing housing subsidy",19,youth,2019-02-01,2019-02-28,Q27d,NA,without_children,10
+"Rental by client, no ongoing housing subsidy",19,youth,2019-02-01,2019-02-28,Q27d,NA,with_children_and_adults,5
+"Rental by client, no ongoing housing subsidy",19,youth,2019-02-01,2019-02-28,Q27d,NA,with_only_children,4
+"Rental by client, no ongoing housing subsidy",19,youth,2019-02-01,2019-02-28,Q27d,NA,unknown_household_type,0
+"Rental by client, with VASH housing subsidy",0,youth,2019-02-01,2019-02-28,Q27d,NA,without_children,0
+"Rental by client, with VASH housing subsidy",0,youth,2019-02-01,2019-02-28,Q27d,NA,with_children_and_adults,0
+"Rental by client, with VASH housing subsidy",0,youth,2019-02-01,2019-02-28,Q27d,NA,with_only_children,0
+"Rental by client, with VASH housing subsidy",0,youth,2019-02-01,2019-02-28,Q27d,NA,unknown_household_type,0
+"Rental by client, with GPD TIP housing subsidy",0,youth,2019-02-01,2019-02-28,Q27d,NA,without_children,0
+"Rental by client, with GPD TIP housing subsidy",0,youth,2019-02-01,2019-02-28,Q27d,NA,with_children_and_adults,0
+"Rental by client, with GPD TIP housing subsidy",0,youth,2019-02-01,2019-02-28,Q27d,NA,with_only_children,0
+"Rental by client, with GPD TIP housing subsidy",0,youth,2019-02-01,2019-02-28,Q27d,NA,unknown_household_type,0
+"Rental by client, with other housing subsidy (including RRH)",0,youth,2019-02-01,2019-02-28,Q27d,NA,without_children,0
+"Rental by client, with other housing subsidy (including RRH)",0,youth,2019-02-01,2019-02-28,Q27d,NA,with_children_and_adults,0
+"Rental by client, with other housing subsidy (including RRH)",0,youth,2019-02-01,2019-02-28,Q27d,NA,with_only_children,0
+"Rental by client, with other housing subsidy (including RRH)",0,youth,2019-02-01,2019-02-28,Q27d,NA,unknown_household_type,0
+Hotel or motel paid for without emergency shelter voucher,7,youth,2019-02-01,2019-02-28,Q27d,NA,without_children,7
+Hotel or motel paid for without emergency shelter voucher,7,youth,2019-02-01,2019-02-28,Q27d,NA,with_children_and_adults,0
+Hotel or motel paid for without emergency shelter voucher,7,youth,2019-02-01,2019-02-28,Q27d,NA,with_only_children,0
+Hotel or motel paid for without emergency shelter voucher,7,youth,2019-02-01,2019-02-28,Q27d,NA,unknown_household_type,0
+"Staying or living in a friend''s room, apartment or house",9,youth,2019-02-01,2019-02-28,Q27d,NA,without_children,6
+"Staying or living in a friend''s room, apartment or house",9,youth,2019-02-01,2019-02-28,Q27d,NA,with_children_and_adults,1
+"Staying or living in a friend''s room, apartment or house",9,youth,2019-02-01,2019-02-28,Q27d,NA,with_only_children,2
+"Staying or living in a friend''s room, apartment or house",9,youth,2019-02-01,2019-02-28,Q27d,NA,unknown_household_type,0
+"Staying or living in a family member''s room, apartment or house",14,youth,2019-02-01,2019-02-28,Q27d,NA,without_children,8
+"Staying or living in a family member''s room, apartment or house",14,youth,2019-02-01,2019-02-28,Q27d,NA,with_children_and_adults,4
+"Staying or living in a family member''s room, apartment or house",14,youth,2019-02-01,2019-02-28,Q27d,NA,with_only_children,2
+"Staying or living in a family member''s room, apartment or house",14,youth,2019-02-01,2019-02-28,Q27d,NA,unknown_household_type,0
+Client Doesn''t Know/Client Refused,0,youth,2019-02-01,2019-02-28,Q27d,NA,without_children,0
+Client Doesn''t Know/Client Refused,0,youth,2019-02-01,2019-02-28,Q27d,NA,with_children_and_adults,0
+Client Doesn''t Know/Client Refused,0,youth,2019-02-01,2019-02-28,Q27d,NA,with_only_children,0
+Client Doesn''t Know/Client Refused,0,youth,2019-02-01,2019-02-28,Q27d,NA,unknown_household_type,0
+Data not collected,1,youth,2019-02-01,2019-02-28,Q27d,NA,without_children,1
+Data not collected,1,youth,2019-02-01,2019-02-28,Q27d,NA,with_children_and_adults,0
+Data not collected,1,youth,2019-02-01,2019-02-28,Q27d,NA,with_only_children,0
+Data not collected,1,youth,2019-02-01,2019-02-28,Q27d,NA,unknown_household_type,0

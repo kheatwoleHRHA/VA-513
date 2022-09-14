@@ -1,0 +1,29 @@
+gender_identity,total,population,start_date,end_date,question,household_type,count
+Male,107,chronically_homeless,2020-10-01,2020-10-31,Q26c,without_children,97
+Male,107,chronically_homeless,2020-10-01,2020-10-31,Q26c,with_children_and_adults,10
+Male,107,chronically_homeless,2020-10-01,2020-10-31,Q26c,with_only_children,0
+Male,107,chronically_homeless,2020-10-01,2020-10-31,Q26c,unknown_household_type,0
+Female,61,chronically_homeless,2020-10-01,2020-10-31,Q26c,without_children,52
+Female,61,chronically_homeless,2020-10-01,2020-10-31,Q26c,with_children_and_adults,9
+Female,61,chronically_homeless,2020-10-01,2020-10-31,Q26c,with_only_children,0
+Female,61,chronically_homeless,2020-10-01,2020-10-31,Q26c,unknown_household_type,0
+No Single Gender,0,chronically_homeless,2020-10-01,2020-10-31,Q26c,without_children,0
+No Single Gender,0,chronically_homeless,2020-10-01,2020-10-31,Q26c,with_children_and_adults,0
+No Single Gender,0,chronically_homeless,2020-10-01,2020-10-31,Q26c,with_only_children,0
+No Single Gender,0,chronically_homeless,2020-10-01,2020-10-31,Q26c,unknown_household_type,0
+Questioning,1,chronically_homeless,2020-10-01,2020-10-31,Q26c,without_children,1
+Questioning,1,chronically_homeless,2020-10-01,2020-10-31,Q26c,with_children_and_adults,0
+Questioning,1,chronically_homeless,2020-10-01,2020-10-31,Q26c,with_only_children,0
+Questioning,1,chronically_homeless,2020-10-01,2020-10-31,Q26c,unknown_household_type,0
+Transgender,1,chronically_homeless,2020-10-01,2020-10-31,Q26c,without_children,1
+Transgender,1,chronically_homeless,2020-10-01,2020-10-31,Q26c,with_children_and_adults,0
+Transgender,1,chronically_homeless,2020-10-01,2020-10-31,Q26c,with_only_children,0
+Transgender,1,chronically_homeless,2020-10-01,2020-10-31,Q26c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,chronically_homeless,2020-10-01,2020-10-31,Q26c,without_children,0
+Client Doesn't Know/Client Refused,0,chronically_homeless,2020-10-01,2020-10-31,Q26c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,chronically_homeless,2020-10-01,2020-10-31,Q26c,with_only_children,0
+Client Doesn't Know/Client Refused,0,chronically_homeless,2020-10-01,2020-10-31,Q26c,unknown_household_type,0
+Data Not Collected,0,chronically_homeless,2020-10-01,2020-10-31,Q26c,without_children,0
+Data Not Collected,0,chronically_homeless,2020-10-01,2020-10-31,Q26c,with_children_and_adults,0
+Data Not Collected,0,chronically_homeless,2020-10-01,2020-10-31,Q26c,with_only_children,0
+Data Not Collected,0,chronically_homeless,2020-10-01,2020-10-31,Q26c,unknown_household_type,0

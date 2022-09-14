@@ -1,0 +1,53 @@
+time_prior_to_housing,total,population,start_date,end_date,question,household_type,count
+7 days or less,48,all_persons,2017-09-01,2017-09-30,Q22e,without_children,40
+7 days or less,48,all_persons,2017-09-01,2017-09-30,Q22e,with_children_and_adults,8
+7 days or less,48,all_persons,2017-09-01,2017-09-30,Q22e,with_only_children,0
+7 days or less,48,all_persons,2017-09-01,2017-09-30,Q22e,unknown_household_type,0
+8 to 14 days,11,all_persons,2017-09-01,2017-09-30,Q22e,without_children,1
+8 to 14 days,11,all_persons,2017-09-01,2017-09-30,Q22e,with_children_and_adults,10
+8 to 14 days,11,all_persons,2017-09-01,2017-09-30,Q22e,with_only_children,0
+8 to 14 days,11,all_persons,2017-09-01,2017-09-30,Q22e,unknown_household_type,0
+15 to 21 days,3,all_persons,2017-09-01,2017-09-30,Q22e,without_children,3
+15 to 21 days,3,all_persons,2017-09-01,2017-09-30,Q22e,with_children_and_adults,0
+15 to 21 days,3,all_persons,2017-09-01,2017-09-30,Q22e,with_only_children,0
+15 to 21 days,3,all_persons,2017-09-01,2017-09-30,Q22e,unknown_household_type,0
+22 to 30 days,16,all_persons,2017-09-01,2017-09-30,Q22e,without_children,3
+22 to 30 days,16,all_persons,2017-09-01,2017-09-30,Q22e,with_children_and_adults,13
+22 to 30 days,16,all_persons,2017-09-01,2017-09-30,Q22e,with_only_children,0
+22 to 30 days,16,all_persons,2017-09-01,2017-09-30,Q22e,unknown_household_type,0
+31 to 60 days,42,all_persons,2017-09-01,2017-09-30,Q22e,without_children,10
+31 to 60 days,42,all_persons,2017-09-01,2017-09-30,Q22e,with_children_and_adults,32
+31 to 60 days,42,all_persons,2017-09-01,2017-09-30,Q22e,with_only_children,0
+31 to 60 days,42,all_persons,2017-09-01,2017-09-30,Q22e,unknown_household_type,0
+61 to 180 days,39,all_persons,2017-09-01,2017-09-30,Q22e,without_children,20
+61 to 180 days,39,all_persons,2017-09-01,2017-09-30,Q22e,with_children_and_adults,18
+61 to 180 days,39,all_persons,2017-09-01,2017-09-30,Q22e,with_only_children,1
+61 to 180 days,39,all_persons,2017-09-01,2017-09-30,Q22e,unknown_household_type,0
+181 to 365 days,21,all_persons,2017-09-01,2017-09-30,Q22e,without_children,11
+181 to 365 days,21,all_persons,2017-09-01,2017-09-30,Q22e,with_children_and_adults,10
+181 to 365 days,21,all_persons,2017-09-01,2017-09-30,Q22e,with_only_children,0
+181 to 365 days,21,all_persons,2017-09-01,2017-09-30,Q22e,unknown_household_type,0
+366-730 days (1-2 years),22,all_persons,2017-09-01,2017-09-30,Q22e,without_children,22
+366-730 days (1-2 years),22,all_persons,2017-09-01,2017-09-30,Q22e,with_children_and_adults,0
+366-730 days (1-2 years),22,all_persons,2017-09-01,2017-09-30,Q22e,with_only_children,0
+366-730 days (1-2 years),22,all_persons,2017-09-01,2017-09-30,Q22e,unknown_household_type,0
+731 days or more,26,all_persons,2017-09-01,2017-09-30,Q22e,without_children,26
+731 days or more,26,all_persons,2017-09-01,2017-09-30,Q22e,with_children_and_adults,0
+731 days or more,26,all_persons,2017-09-01,2017-09-30,Q22e,with_only_children,0
+731 days or more,26,all_persons,2017-09-01,2017-09-30,Q22e,unknown_household_type,0
+Total (persons moved into housing),228,all_persons,2017-09-01,2017-09-30,Q22e,without_children,136
+Total (persons moved into housing),228,all_persons,2017-09-01,2017-09-30,Q22e,with_children_and_adults,91
+Total (persons moved into housing),228,all_persons,2017-09-01,2017-09-30,Q22e,with_only_children,1
+Total (persons moved into housing),228,all_persons,2017-09-01,2017-09-30,Q22e,unknown_household_type,0
+Not yet moved into housing,22,all_persons,2017-09-01,2017-09-30,Q22e,without_children,7
+Not yet moved into housing,22,all_persons,2017-09-01,2017-09-30,Q22e,with_children_and_adults,15
+Not yet moved into housing,22,all_persons,2017-09-01,2017-09-30,Q22e,with_only_children,0
+Not yet moved into housing,22,all_persons,2017-09-01,2017-09-30,Q22e,unknown_household_type,0
+Data not collected,17,all_persons,2017-09-01,2017-09-30,Q22e,without_children,12
+Data not collected,17,all_persons,2017-09-01,2017-09-30,Q22e,with_children_and_adults,5
+Data not collected,17,all_persons,2017-09-01,2017-09-30,Q22e,with_only_children,0
+Data not collected,17,all_persons,2017-09-01,2017-09-30,Q22e,unknown_household_type,0
+Total persons,267,all_persons,2017-09-01,2017-09-30,Q22e,without_children,155
+Total persons,267,all_persons,2017-09-01,2017-09-30,Q22e,with_children_and_adults,111
+Total persons,267,all_persons,2017-09-01,2017-09-30,Q22e,with_only_children,1
+Total persons,267,all_persons,2017-09-01,2017-09-30,Q22e,unknown_household_type,0

@@ -1,0 +1,6 @@
+time_for_record_entry,number_of_project_entry_records,number_of_project_exit_records,population,start_date,end_date,question
+0 days,178,187,data_quality,2019-12-01,2019-12-31,Q6e
+1-3 days,18,20,data_quality,2019-12-01,2019-12-31,Q6e
+4-6 days,8,12,data_quality,2019-12-01,2019-12-31,Q6e
+7-10 days,21,9,data_quality,2019-12-01,2019-12-31,Q6e
+11+ days,143,108,data_quality,2019-12-01,2019-12-31,Q6e

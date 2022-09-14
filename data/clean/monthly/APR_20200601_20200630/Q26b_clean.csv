@@ -1,0 +1,17 @@
+ch_status_persons,total,population,start_date,end_date,question,household_type,count
+Chronically Homeless ,160,all_persons,2020-06-01,2020-06-30,Q26b,without_children,141
+Chronically Homeless ,160,all_persons,2020-06-01,2020-06-30,Q26b,with_children_and_adults,19
+Chronically Homeless ,160,all_persons,2020-06-01,2020-06-30,Q26b,with_only_children,0
+Chronically Homeless ,160,all_persons,2020-06-01,2020-06-30,Q26b,unknown_household_type,0
+Not Chronically Homeless,900,all_persons,2020-06-01,2020-06-30,Q26b,without_children,519
+Not Chronically Homeless,900,all_persons,2020-06-01,2020-06-30,Q26b,with_children_and_adults,356
+Not Chronically Homeless,900,all_persons,2020-06-01,2020-06-30,Q26b,with_only_children,14
+Not Chronically Homeless,900,all_persons,2020-06-01,2020-06-30,Q26b,unknown_household_type,11
+Client Doesn't Know/Client Refused,6,all_persons,2020-06-01,2020-06-30,Q26b,without_children,6
+Client Doesn't Know/Client Refused,6,all_persons,2020-06-01,2020-06-30,Q26b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,6,all_persons,2020-06-01,2020-06-30,Q26b,with_only_children,0
+Client Doesn't Know/Client Refused,6,all_persons,2020-06-01,2020-06-30,Q26b,unknown_household_type,0
+Data Not Collected,28,all_persons,2020-06-01,2020-06-30,Q26b,without_children,20
+Data Not Collected,28,all_persons,2020-06-01,2020-06-30,Q26b,with_children_and_adults,6
+Data Not Collected,28,all_persons,2020-06-01,2020-06-30,Q26b,with_only_children,1
+Data Not Collected,28,all_persons,2020-06-01,2020-06-30,Q26b,unknown_household_type,1

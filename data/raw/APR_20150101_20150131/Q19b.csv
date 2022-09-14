@@ -1,0 +1,14 @@
+, "AO: Adult with Disabling Condition" , "AO: Adult without Disabling Condition" , "AO: Total Adults" , "AO: % with Disabling Condition by Source" , "AC: Adult with Disabling Condition" , "AC: Adult without Disabling Condition" , "AC: Total Adults" , "AC: % with Disabling Condition by Source" , "UK: Adult with Disabling Condition" , "UK: Adult without Disabling Condition" , "UK: Total Adults" , "UK: % with Disabling Condition by Source"
+"""Earned Income""",5,17,22,0.23,1,13,14,0.07,0,0,0,0.0
+"""Supplemental Security Income (SSI)""",6,4,10,0.6,0,1,1,0.0,0,0,0,0.0
+"""Social Security Disability Insurance (SSDI)""",11,1,12,0.92,1,0,1,1.0,0,0,0,0.0
+"""VA Service-Connected Disability Compensation""",1,0,1,1.0,1,0,1,1.0,0,0,0,0.0
+"""Private Disability Insurance""",0,0,0,0.0,0,0,0,0.0,0,0,0,0.0
+"""Worker's Compensation""",0,0,0,0.0,0,0,0,0.0,0,0,0,0.0
+"""Temporary Assistance for Needy Families (TANF)""",0,1,1,0.0,0,0,0,0.0,0,0,0,0.0
+"""Retirement Income from Social Security""",2,2,6,0.33,0,0,0,0.0,0,0,0,0.0
+"""Pension or retirement income from a former job""",0,0,0,0.0,0,0,0,0.0,0,0,0,0.0
+"""Child Support""",0,1,1,0.0,0,1,1,0.0,0,0,0,0.0
+"""Other source""",1,2,3,0.33,0,2,2,0.0,0,0,0,0.0
+"""No Sources""",14,38,52,0.27,1,11,12,0.08,0,0,0,0.0
+"""Unduplicated Total Adults""",35,62,97,,4,27,31,,0,0,0,

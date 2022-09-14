@@ -1,0 +1,13 @@
+count_non_cash_benefits,population,start_date,end_date,question,status,count
+No Sources,all_persons,2017-02-01,2017-02-28,Q20b,benefit_at_entry,279
+No Sources,all_persons,2017-02-01,2017-02-28,Q20b,benefit_at_latest_annual_assessment_for_stayers,13
+No Sources,all_persons,2017-02-01,2017-02-28,Q20b,benefit_at_exit_for_leavers,70
+1 + Source(s),all_persons,2017-02-01,2017-02-28,Q20b,benefit_at_entry,139
+1 + Source(s),all_persons,2017-02-01,2017-02-28,Q20b,benefit_at_latest_annual_assessment_for_stayers,20
+1 + Source(s),all_persons,2017-02-01,2017-02-28,Q20b,benefit_at_exit_for_leavers,38
+Client Doesn't Know/Client Refused,all_persons,2017-02-01,2017-02-28,Q20b,benefit_at_entry,3
+Client Doesn't Know/Client Refused,all_persons,2017-02-01,2017-02-28,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2017-02-01,2017-02-28,Q20b,benefit_at_exit_for_leavers,2
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2017-02-01,2017-02-28,Q20b,benefit_at_entry,27
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2017-02-01,2017-02-28,Q20b,benefit_at_latest_annual_assessment_for_stayers,299
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2017-02-01,2017-02-28,Q20b,benefit_at_exit_for_leavers,6

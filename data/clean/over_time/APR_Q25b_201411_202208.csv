@@ -1,0 +1,1411 @@
+veteran_status_households,total,population,start_date,end_date,question,household_type,count
+Chronically Homeless Veteran,3,all_households,2014-11-01,2014-11-30,Q25b,without_children,3
+Chronically Homeless Veteran,3,all_households,2014-11-01,2014-11-30,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,3,all_households,2014-11-01,2014-11-30,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,13,all_households,2014-11-01,2014-11-30,Q25b,without_children,13
+Non-Chronically Homeless Veteran,13,all_households,2014-11-01,2014-11-30,Q25b,with_children_and_adults,0
+Non-Chronically Homeless Veteran,13,all_households,2014-11-01,2014-11-30,Q25b,unknown_household_type,0
+Not a Veteran,281,all_households,2014-11-01,2014-11-30,Q25b,without_children,225
+Not a Veteran,281,all_households,2014-11-01,2014-11-30,Q25b,with_children_and_adults,56
+Not a Veteran,281,all_households,2014-11-01,2014-11-30,Q25b,unknown_household_type,0
+Client Doesn't Know/Client Refused,2,all_households,2014-11-01,2014-11-30,Q25b,without_children,2
+Client Doesn't Know/Client Refused,2,all_households,2014-11-01,2014-11-30,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,2,all_households,2014-11-01,2014-11-30,Q25b,unknown_household_type,0
+Data Not Collected,6,all_households,2014-11-01,2014-11-30,Q25b,without_children,5
+Data Not Collected,6,all_households,2014-11-01,2014-11-30,Q25b,with_children_and_adults,1
+Data Not Collected,6,all_households,2014-11-01,2014-11-30,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,3,all_households,2014-12-01,2014-12-31,Q25b,without_children,3
+Chronically Homeless Veteran,3,all_households,2014-12-01,2014-12-31,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,3,all_households,2014-12-01,2014-12-31,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,14,all_households,2014-12-01,2014-12-31,Q25b,without_children,14
+Non-Chronically Homeless Veteran,14,all_households,2014-12-01,2014-12-31,Q25b,with_children_and_adults,0
+Non-Chronically Homeless Veteran,14,all_households,2014-12-01,2014-12-31,Q25b,unknown_household_type,0
+Not a Veteran,298,all_households,2014-12-01,2014-12-31,Q25b,without_children,235
+Not a Veteran,298,all_households,2014-12-01,2014-12-31,Q25b,with_children_and_adults,63
+Not a Veteran,298,all_households,2014-12-01,2014-12-31,Q25b,unknown_household_type,0
+Client Doesn't Know/Client Refused,2,all_households,2014-12-01,2014-12-31,Q25b,without_children,2
+Client Doesn't Know/Client Refused,2,all_households,2014-12-01,2014-12-31,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,2,all_households,2014-12-01,2014-12-31,Q25b,unknown_household_type,0
+Data Not Collected,5,all_households,2014-12-01,2014-12-31,Q25b,without_children,5
+Data Not Collected,5,all_households,2014-12-01,2014-12-31,Q25b,with_children_and_adults,0
+Data Not Collected,5,all_households,2014-12-01,2014-12-31,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,4,all_households,2015-01-01,2015-01-31,Q25b,without_children,4
+Chronically Homeless Veteran,4,all_households,2015-01-01,2015-01-31,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,4,all_households,2015-01-01,2015-01-31,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,13,all_households,2015-01-01,2015-01-31,Q25b,without_children,13
+Non-Chronically Homeless Veteran,13,all_households,2015-01-01,2015-01-31,Q25b,with_children_and_adults,0
+Non-Chronically Homeless Veteran,13,all_households,2015-01-01,2015-01-31,Q25b,unknown_household_type,0
+Not a Veteran,326,all_households,2015-01-01,2015-01-31,Q25b,without_children,254
+Not a Veteran,326,all_households,2015-01-01,2015-01-31,Q25b,with_children_and_adults,72
+Not a Veteran,326,all_households,2015-01-01,2015-01-31,Q25b,unknown_household_type,0
+Client Doesn't Know/Client Refused,2,all_households,2015-01-01,2015-01-31,Q25b,without_children,2
+Client Doesn't Know/Client Refused,2,all_households,2015-01-01,2015-01-31,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,2,all_households,2015-01-01,2015-01-31,Q25b,unknown_household_type,0
+Data Not Collected,5,all_households,2015-01-01,2015-01-31,Q25b,without_children,5
+Data Not Collected,5,all_households,2015-01-01,2015-01-31,Q25b,with_children_and_adults,0
+Data Not Collected,5,all_households,2015-01-01,2015-01-31,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,4,all_households,2015-02-01,2015-02-28,Q25b,without_children,4
+Chronically Homeless Veteran,4,all_households,2015-02-01,2015-02-28,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,4,all_households,2015-02-01,2015-02-28,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,11,all_households,2015-02-01,2015-02-28,Q25b,without_children,11
+Non-Chronically Homeless Veteran,11,all_households,2015-02-01,2015-02-28,Q25b,with_children_and_adults,0
+Non-Chronically Homeless Veteran,11,all_households,2015-02-01,2015-02-28,Q25b,unknown_household_type,0
+Not a Veteran,337,all_households,2015-02-01,2015-02-28,Q25b,without_children,271
+Not a Veteran,337,all_households,2015-02-01,2015-02-28,Q25b,with_children_and_adults,66
+Not a Veteran,337,all_households,2015-02-01,2015-02-28,Q25b,unknown_household_type,0
+Client Doesn't Know/Client Refused,2,all_households,2015-02-01,2015-02-28,Q25b,without_children,2
+Client Doesn't Know/Client Refused,2,all_households,2015-02-01,2015-02-28,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,2,all_households,2015-02-01,2015-02-28,Q25b,unknown_household_type,0
+Data Not Collected,5,all_households,2015-02-01,2015-02-28,Q25b,without_children,5
+Data Not Collected,5,all_households,2015-02-01,2015-02-28,Q25b,with_children_and_adults,0
+Data Not Collected,5,all_households,2015-02-01,2015-02-28,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,4,all_households,2015-03-01,2015-03-31,Q25b,without_children,4
+Chronically Homeless Veteran,4,all_households,2015-03-01,2015-03-31,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,4,all_households,2015-03-01,2015-03-31,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,18,all_households,2015-03-01,2015-03-31,Q25b,without_children,18
+Non-Chronically Homeless Veteran,18,all_households,2015-03-01,2015-03-31,Q25b,with_children_and_adults,0
+Non-Chronically Homeless Veteran,18,all_households,2015-03-01,2015-03-31,Q25b,unknown_household_type,0
+Not a Veteran,321,all_households,2015-03-01,2015-03-31,Q25b,without_children,266
+Not a Veteran,321,all_households,2015-03-01,2015-03-31,Q25b,with_children_and_adults,55
+Not a Veteran,321,all_households,2015-03-01,2015-03-31,Q25b,unknown_household_type,0
+Client Doesn't Know/Client Refused,2,all_households,2015-03-01,2015-03-31,Q25b,without_children,2
+Client Doesn't Know/Client Refused,2,all_households,2015-03-01,2015-03-31,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,2,all_households,2015-03-01,2015-03-31,Q25b,unknown_household_type,0
+Data Not Collected,5,all_households,2015-03-01,2015-03-31,Q25b,without_children,5
+Data Not Collected,5,all_households,2015-03-01,2015-03-31,Q25b,with_children_and_adults,0
+Data Not Collected,5,all_households,2015-03-01,2015-03-31,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,4,all_households,2015-04-01,2015-04-30,Q25b,without_children,4
+Chronically Homeless Veteran,4,all_households,2015-04-01,2015-04-30,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,4,all_households,2015-04-01,2015-04-30,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,13,all_households,2015-04-01,2015-04-30,Q25b,without_children,12
+Non-Chronically Homeless Veteran,13,all_households,2015-04-01,2015-04-30,Q25b,with_children_and_adults,1
+Non-Chronically Homeless Veteran,13,all_households,2015-04-01,2015-04-30,Q25b,unknown_household_type,0
+Not a Veteran,298,all_households,2015-04-01,2015-04-30,Q25b,without_children,251
+Not a Veteran,298,all_households,2015-04-01,2015-04-30,Q25b,with_children_and_adults,47
+Not a Veteran,298,all_households,2015-04-01,2015-04-30,Q25b,unknown_household_type,0
+Client Doesn't Know/Client Refused,2,all_households,2015-04-01,2015-04-30,Q25b,without_children,2
+Client Doesn't Know/Client Refused,2,all_households,2015-04-01,2015-04-30,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,2,all_households,2015-04-01,2015-04-30,Q25b,unknown_household_type,0
+Data Not Collected,5,all_households,2015-04-01,2015-04-30,Q25b,without_children,5
+Data Not Collected,5,all_households,2015-04-01,2015-04-30,Q25b,with_children_and_adults,0
+Data Not Collected,5,all_households,2015-04-01,2015-04-30,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,0,all_households,2015-05-01,2015-05-31,Q25b,without_children,0
+Chronically Homeless Veteran,0,all_households,2015-05-01,2015-05-31,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,0,all_households,2015-05-01,2015-05-31,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,6,all_households,2015-05-01,2015-05-31,Q25b,without_children,6
+Non-Chronically Homeless Veteran,6,all_households,2015-05-01,2015-05-31,Q25b,with_children_and_adults,0
+Non-Chronically Homeless Veteran,6,all_households,2015-05-01,2015-05-31,Q25b,unknown_household_type,0
+Not a Veteran,267,all_households,2015-05-01,2015-05-31,Q25b,without_children,213
+Not a Veteran,267,all_households,2015-05-01,2015-05-31,Q25b,with_children_and_adults,54
+Not a Veteran,267,all_households,2015-05-01,2015-05-31,Q25b,unknown_household_type,0
+Client Doesn't Know/Client Refused,2,all_households,2015-05-01,2015-05-31,Q25b,without_children,2
+Client Doesn't Know/Client Refused,2,all_households,2015-05-01,2015-05-31,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,2,all_households,2015-05-01,2015-05-31,Q25b,unknown_household_type,0
+Data Not Collected,6,all_households,2015-05-01,2015-05-31,Q25b,without_children,5
+Data Not Collected,6,all_households,2015-05-01,2015-05-31,Q25b,with_children_and_adults,1
+Data Not Collected,6,all_households,2015-05-01,2015-05-31,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,0,all_households,2015-06-01,2015-06-30,Q25b,without_children,0
+Chronically Homeless Veteran,0,all_households,2015-06-01,2015-06-30,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,0,all_households,2015-06-01,2015-06-30,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,9,all_households,2015-06-01,2015-06-30,Q25b,without_children,7
+Non-Chronically Homeless Veteran,9,all_households,2015-06-01,2015-06-30,Q25b,with_children_and_adults,2
+Non-Chronically Homeless Veteran,9,all_households,2015-06-01,2015-06-30,Q25b,unknown_household_type,0
+Not a Veteran,281,all_households,2015-06-01,2015-06-30,Q25b,without_children,216
+Not a Veteran,281,all_households,2015-06-01,2015-06-30,Q25b,with_children_and_adults,65
+Not a Veteran,281,all_households,2015-06-01,2015-06-30,Q25b,unknown_household_type,0
+Client Doesn't Know/Client Refused,2,all_households,2015-06-01,2015-06-30,Q25b,without_children,2
+Client Doesn't Know/Client Refused,2,all_households,2015-06-01,2015-06-30,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,2,all_households,2015-06-01,2015-06-30,Q25b,unknown_household_type,0
+Data Not Collected,5,all_households,2015-06-01,2015-06-30,Q25b,without_children,5
+Data Not Collected,5,all_households,2015-06-01,2015-06-30,Q25b,with_children_and_adults,0
+Data Not Collected,5,all_households,2015-06-01,2015-06-30,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,1,all_households,2015-07-01,2015-07-31,Q25b,without_children,1
+Chronically Homeless Veteran,1,all_households,2015-07-01,2015-07-31,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,1,all_households,2015-07-01,2015-07-31,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,10,all_households,2015-07-01,2015-07-31,Q25b,without_children,8
+Non-Chronically Homeless Veteran,10,all_households,2015-07-01,2015-07-31,Q25b,with_children_and_adults,2
+Non-Chronically Homeless Veteran,10,all_households,2015-07-01,2015-07-31,Q25b,unknown_household_type,0
+Not a Veteran,281,all_households,2015-07-01,2015-07-31,Q25b,without_children,211
+Not a Veteran,281,all_households,2015-07-01,2015-07-31,Q25b,with_children_and_adults,70
+Not a Veteran,281,all_households,2015-07-01,2015-07-31,Q25b,unknown_household_type,0
+Client Doesn't Know/Client Refused,2,all_households,2015-07-01,2015-07-31,Q25b,without_children,2
+Client Doesn't Know/Client Refused,2,all_households,2015-07-01,2015-07-31,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,2,all_households,2015-07-01,2015-07-31,Q25b,unknown_household_type,0
+Data Not Collected,6,all_households,2015-07-01,2015-07-31,Q25b,without_children,6
+Data Not Collected,6,all_households,2015-07-01,2015-07-31,Q25b,with_children_and_adults,0
+Data Not Collected,6,all_households,2015-07-01,2015-07-31,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,1,all_households,2015-08-01,2015-08-31,Q25b,without_children,1
+Chronically Homeless Veteran,1,all_households,2015-08-01,2015-08-31,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,1,all_households,2015-08-01,2015-08-31,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,11,all_households,2015-08-01,2015-08-31,Q25b,without_children,8
+Non-Chronically Homeless Veteran,11,all_households,2015-08-01,2015-08-31,Q25b,with_children_and_adults,3
+Non-Chronically Homeless Veteran,11,all_households,2015-08-01,2015-08-31,Q25b,unknown_household_type,0
+Not a Veteran,265,all_households,2015-08-01,2015-08-31,Q25b,without_children,197
+Not a Veteran,265,all_households,2015-08-01,2015-08-31,Q25b,with_children_and_adults,68
+Not a Veteran,265,all_households,2015-08-01,2015-08-31,Q25b,unknown_household_type,0
+Client Doesn't Know/Client Refused,2,all_households,2015-08-01,2015-08-31,Q25b,without_children,2
+Client Doesn't Know/Client Refused,2,all_households,2015-08-01,2015-08-31,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,2,all_households,2015-08-01,2015-08-31,Q25b,unknown_household_type,0
+Data Not Collected,5,all_households,2015-08-01,2015-08-31,Q25b,without_children,5
+Data Not Collected,5,all_households,2015-08-01,2015-08-31,Q25b,with_children_and_adults,0
+Data Not Collected,5,all_households,2015-08-01,2015-08-31,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,1,all_households,2015-09-01,2015-09-30,Q25b,without_children,1
+Chronically Homeless Veteran,1,all_households,2015-09-01,2015-09-30,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,1,all_households,2015-09-01,2015-09-30,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,13,all_households,2015-09-01,2015-09-30,Q25b,without_children,8
+Non-Chronically Homeless Veteran,13,all_households,2015-09-01,2015-09-30,Q25b,with_children_and_adults,5
+Non-Chronically Homeless Veteran,13,all_households,2015-09-01,2015-09-30,Q25b,unknown_household_type,0
+Not a Veteran,291,all_households,2015-09-01,2015-09-30,Q25b,without_children,201
+Not a Veteran,291,all_households,2015-09-01,2015-09-30,Q25b,with_children_and_adults,90
+Not a Veteran,291,all_households,2015-09-01,2015-09-30,Q25b,unknown_household_type,0
+Client Doesn't Know/Client Refused,2,all_households,2015-09-01,2015-09-30,Q25b,without_children,2
+Client Doesn't Know/Client Refused,2,all_households,2015-09-01,2015-09-30,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,2,all_households,2015-09-01,2015-09-30,Q25b,unknown_household_type,0
+Data Not Collected,6,all_households,2015-09-01,2015-09-30,Q25b,without_children,6
+Data Not Collected,6,all_households,2015-09-01,2015-09-30,Q25b,with_children_and_adults,0
+Data Not Collected,6,all_households,2015-09-01,2015-09-30,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,1,all_households,2015-10-01,2015-10-31,Q25b,without_children,1
+Chronically Homeless Veteran,1,all_households,2015-10-01,2015-10-31,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,1,all_households,2015-10-01,2015-10-31,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,12,all_households,2015-10-01,2015-10-31,Q25b,without_children,8
+Non-Chronically Homeless Veteran,12,all_households,2015-10-01,2015-10-31,Q25b,with_children_and_adults,4
+Non-Chronically Homeless Veteran,12,all_households,2015-10-01,2015-10-31,Q25b,unknown_household_type,0
+Not a Veteran,312,all_households,2015-10-01,2015-10-31,Q25b,without_children,216
+Not a Veteran,312,all_households,2015-10-01,2015-10-31,Q25b,with_children_and_adults,96
+Not a Veteran,312,all_households,2015-10-01,2015-10-31,Q25b,unknown_household_type,0
+Client Doesn't Know/Client Refused,2,all_households,2015-10-01,2015-10-31,Q25b,without_children,2
+Client Doesn't Know/Client Refused,2,all_households,2015-10-01,2015-10-31,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,2,all_households,2015-10-01,2015-10-31,Q25b,unknown_household_type,0
+Data Not Collected,6,all_households,2015-10-01,2015-10-31,Q25b,without_children,6
+Data Not Collected,6,all_households,2015-10-01,2015-10-31,Q25b,with_children_and_adults,0
+Data Not Collected,6,all_households,2015-10-01,2015-10-31,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,4,all_households,2015-11-01,2015-11-30,Q25b,without_children,4
+Chronically Homeless Veteran,4,all_households,2015-11-01,2015-11-30,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,4,all_households,2015-11-01,2015-11-30,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,11,all_households,2015-11-01,2015-11-30,Q25b,without_children,8
+Non-Chronically Homeless Veteran,11,all_households,2015-11-01,2015-11-30,Q25b,with_children_and_adults,3
+Non-Chronically Homeless Veteran,11,all_households,2015-11-01,2015-11-30,Q25b,unknown_household_type,0
+Not a Veteran,341,all_households,2015-11-01,2015-11-30,Q25b,without_children,262
+Not a Veteran,341,all_households,2015-11-01,2015-11-30,Q25b,with_children_and_adults,79
+Not a Veteran,341,all_households,2015-11-01,2015-11-30,Q25b,unknown_household_type,0
+Client Doesn't Know/Client Refused,2,all_households,2015-11-01,2015-11-30,Q25b,without_children,2
+Client Doesn't Know/Client Refused,2,all_households,2015-11-01,2015-11-30,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,2,all_households,2015-11-01,2015-11-30,Q25b,unknown_household_type,0
+Data Not Collected,6,all_households,2015-11-01,2015-11-30,Q25b,without_children,6
+Data Not Collected,6,all_households,2015-11-01,2015-11-30,Q25b,with_children_and_adults,0
+Data Not Collected,6,all_households,2015-11-01,2015-11-30,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,5,all_households,2015-12-01,2015-12-31,Q25b,without_children,5
+Chronically Homeless Veteran,5,all_households,2015-12-01,2015-12-31,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,5,all_households,2015-12-01,2015-12-31,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,11,all_households,2015-12-01,2015-12-31,Q25b,without_children,8
+Non-Chronically Homeless Veteran,11,all_households,2015-12-01,2015-12-31,Q25b,with_children_and_adults,3
+Non-Chronically Homeless Veteran,11,all_households,2015-12-01,2015-12-31,Q25b,unknown_household_type,0
+Not a Veteran,331,all_households,2015-12-01,2015-12-31,Q25b,without_children,253
+Not a Veteran,331,all_households,2015-12-01,2015-12-31,Q25b,with_children_and_adults,78
+Not a Veteran,331,all_households,2015-12-01,2015-12-31,Q25b,unknown_household_type,0
+Client Doesn't Know/Client Refused,2,all_households,2015-12-01,2015-12-31,Q25b,without_children,2
+Client Doesn't Know/Client Refused,2,all_households,2015-12-01,2015-12-31,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,2,all_households,2015-12-01,2015-12-31,Q25b,unknown_household_type,0
+Data Not Collected,6,all_households,2015-12-01,2015-12-31,Q25b,without_children,6
+Data Not Collected,6,all_households,2015-12-01,2015-12-31,Q25b,with_children_and_adults,0
+Data Not Collected,6,all_households,2015-12-01,2015-12-31,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,6,all_households,2016-01-01,2016-01-31,Q25b,without_children,6
+Chronically Homeless Veteran,6,all_households,2016-01-01,2016-01-31,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,6,all_households,2016-01-01,2016-01-31,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,11,all_households,2016-01-01,2016-01-31,Q25b,without_children,10
+Non-Chronically Homeless Veteran,11,all_households,2016-01-01,2016-01-31,Q25b,with_children_and_adults,1
+Non-Chronically Homeless Veteran,11,all_households,2016-01-01,2016-01-31,Q25b,unknown_household_type,0
+Not a Veteran,342,all_households,2016-01-01,2016-01-31,Q25b,without_children,268
+Not a Veteran,342,all_households,2016-01-01,2016-01-31,Q25b,with_children_and_adults,74
+Not a Veteran,342,all_households,2016-01-01,2016-01-31,Q25b,unknown_household_type,0
+Client Doesn't Know/Client Refused,2,all_households,2016-01-01,2016-01-31,Q25b,without_children,2
+Client Doesn't Know/Client Refused,2,all_households,2016-01-01,2016-01-31,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,2,all_households,2016-01-01,2016-01-31,Q25b,unknown_household_type,0
+Data Not Collected,6,all_households,2016-01-01,2016-01-31,Q25b,without_children,6
+Data Not Collected,6,all_households,2016-01-01,2016-01-31,Q25b,with_children_and_adults,0
+Data Not Collected,6,all_households,2016-01-01,2016-01-31,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,7,all_households,2016-02-01,2016-02-29,Q25b,without_children,7
+Chronically Homeless Veteran,7,all_households,2016-02-01,2016-02-29,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,7,all_households,2016-02-01,2016-02-29,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,12,all_households,2016-02-01,2016-02-29,Q25b,without_children,9
+Non-Chronically Homeless Veteran,12,all_households,2016-02-01,2016-02-29,Q25b,with_children_and_adults,3
+Non-Chronically Homeless Veteran,12,all_households,2016-02-01,2016-02-29,Q25b,unknown_household_type,0
+Not a Veteran,335,all_households,2016-02-01,2016-02-29,Q25b,without_children,275
+Not a Veteran,335,all_households,2016-02-01,2016-02-29,Q25b,with_children_and_adults,60
+Not a Veteran,335,all_households,2016-02-01,2016-02-29,Q25b,unknown_household_type,0
+Client Doesn't Know/Client Refused,2,all_households,2016-02-01,2016-02-29,Q25b,without_children,2
+Client Doesn't Know/Client Refused,2,all_households,2016-02-01,2016-02-29,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,2,all_households,2016-02-01,2016-02-29,Q25b,unknown_household_type,0
+Data Not Collected,6,all_households,2016-02-01,2016-02-29,Q25b,without_children,6
+Data Not Collected,6,all_households,2016-02-01,2016-02-29,Q25b,with_children_and_adults,0
+Data Not Collected,6,all_households,2016-02-01,2016-02-29,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,8,all_households,2016-03-01,2016-03-31,Q25b,without_children,8
+Chronically Homeless Veteran,8,all_households,2016-03-01,2016-03-31,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,8,all_households,2016-03-01,2016-03-31,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,17,all_households,2016-03-01,2016-03-31,Q25b,without_children,14
+Non-Chronically Homeless Veteran,17,all_households,2016-03-01,2016-03-31,Q25b,with_children_and_adults,3
+Non-Chronically Homeless Veteran,17,all_households,2016-03-01,2016-03-31,Q25b,unknown_household_type,0
+Not a Veteran,337,all_households,2016-03-01,2016-03-31,Q25b,without_children,276
+Not a Veteran,337,all_households,2016-03-01,2016-03-31,Q25b,with_children_and_adults,61
+Not a Veteran,337,all_households,2016-03-01,2016-03-31,Q25b,unknown_household_type,0
+Client Doesn't Know/Client Refused,2,all_households,2016-03-01,2016-03-31,Q25b,without_children,2
+Client Doesn't Know/Client Refused,2,all_households,2016-03-01,2016-03-31,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,2,all_households,2016-03-01,2016-03-31,Q25b,unknown_household_type,0
+Data Not Collected,6,all_households,2016-03-01,2016-03-31,Q25b,without_children,6
+Data Not Collected,6,all_households,2016-03-01,2016-03-31,Q25b,with_children_and_adults,0
+Data Not Collected,6,all_households,2016-03-01,2016-03-31,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,11,all_households,2016-04-01,2016-04-30,Q25b,without_children,11
+Chronically Homeless Veteran,11,all_households,2016-04-01,2016-04-30,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,11,all_households,2016-04-01,2016-04-30,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,11,all_households,2016-04-01,2016-04-30,Q25b,without_children,8
+Non-Chronically Homeless Veteran,11,all_households,2016-04-01,2016-04-30,Q25b,with_children_and_adults,3
+Non-Chronically Homeless Veteran,11,all_households,2016-04-01,2016-04-30,Q25b,unknown_household_type,0
+Not a Veteran,296,all_households,2016-04-01,2016-04-30,Q25b,without_children,232
+Not a Veteran,296,all_households,2016-04-01,2016-04-30,Q25b,with_children_and_adults,64
+Not a Veteran,296,all_households,2016-04-01,2016-04-30,Q25b,unknown_household_type,0
+Client Doesn't Know/Client Refused,2,all_households,2016-04-01,2016-04-30,Q25b,without_children,2
+Client Doesn't Know/Client Refused,2,all_households,2016-04-01,2016-04-30,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,2,all_households,2016-04-01,2016-04-30,Q25b,unknown_household_type,0
+Data Not Collected,8,all_households,2016-04-01,2016-04-30,Q25b,without_children,8
+Data Not Collected,8,all_households,2016-04-01,2016-04-30,Q25b,with_children_and_adults,0
+Data Not Collected,8,all_households,2016-04-01,2016-04-30,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,13,all_households,2016-05-01,2016-05-31,Q25b,without_children,13
+Chronically Homeless Veteran,13,all_households,2016-05-01,2016-05-31,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,13,all_households,2016-05-01,2016-05-31,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,7,all_households,2016-05-01,2016-05-31,Q25b,without_children,5
+Non-Chronically Homeless Veteran,7,all_households,2016-05-01,2016-05-31,Q25b,with_children_and_adults,2
+Non-Chronically Homeless Veteran,7,all_households,2016-05-01,2016-05-31,Q25b,unknown_household_type,0
+Not a Veteran,281,all_households,2016-05-01,2016-05-31,Q25b,without_children,208
+Not a Veteran,281,all_households,2016-05-01,2016-05-31,Q25b,with_children_and_adults,72
+Not a Veteran,281,all_households,2016-05-01,2016-05-31,Q25b,unknown_household_type,1
+Client Doesn't Know/Client Refused,2,all_households,2016-05-01,2016-05-31,Q25b,without_children,2
+Client Doesn't Know/Client Refused,2,all_households,2016-05-01,2016-05-31,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,2,all_households,2016-05-01,2016-05-31,Q25b,unknown_household_type,0
+Data Not Collected,7,all_households,2016-05-01,2016-05-31,Q25b,without_children,7
+Data Not Collected,7,all_households,2016-05-01,2016-05-31,Q25b,with_children_and_adults,0
+Data Not Collected,7,all_households,2016-05-01,2016-05-31,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,15,all_households,2016-06-01,2016-06-30,Q25b,without_children,15
+Chronically Homeless Veteran,15,all_households,2016-06-01,2016-06-30,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,15,all_households,2016-06-01,2016-06-30,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,7,all_households,2016-06-01,2016-06-30,Q25b,without_children,5
+Non-Chronically Homeless Veteran,7,all_households,2016-06-01,2016-06-30,Q25b,with_children_and_adults,2
+Non-Chronically Homeless Veteran,7,all_households,2016-06-01,2016-06-30,Q25b,unknown_household_type,0
+Not a Veteran,278,all_households,2016-06-01,2016-06-30,Q25b,without_children,206
+Not a Veteran,278,all_households,2016-06-01,2016-06-30,Q25b,with_children_and_adults,71
+Not a Veteran,278,all_households,2016-06-01,2016-06-30,Q25b,unknown_household_type,1
+Client Doesn't Know/Client Refused,2,all_households,2016-06-01,2016-06-30,Q25b,without_children,2
+Client Doesn't Know/Client Refused,2,all_households,2016-06-01,2016-06-30,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,2,all_households,2016-06-01,2016-06-30,Q25b,unknown_household_type,0
+Data Not Collected,7,all_households,2016-06-01,2016-06-30,Q25b,without_children,7
+Data Not Collected,7,all_households,2016-06-01,2016-06-30,Q25b,with_children_and_adults,0
+Data Not Collected,7,all_households,2016-06-01,2016-06-30,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,15,all_households,2016-07-01,2016-07-31,Q25b,without_children,15
+Chronically Homeless Veteran,15,all_households,2016-07-01,2016-07-31,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,15,all_households,2016-07-01,2016-07-31,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,7,all_households,2016-07-01,2016-07-31,Q25b,without_children,5
+Non-Chronically Homeless Veteran,7,all_households,2016-07-01,2016-07-31,Q25b,with_children_and_adults,2
+Non-Chronically Homeless Veteran,7,all_households,2016-07-01,2016-07-31,Q25b,unknown_household_type,0
+Not a Veteran,295,all_households,2016-07-01,2016-07-31,Q25b,without_children,218
+Not a Veteran,295,all_households,2016-07-01,2016-07-31,Q25b,with_children_and_adults,77
+Not a Veteran,295,all_households,2016-07-01,2016-07-31,Q25b,unknown_household_type,0
+Client Doesn't Know/Client Refused,2,all_households,2016-07-01,2016-07-31,Q25b,without_children,2
+Client Doesn't Know/Client Refused,2,all_households,2016-07-01,2016-07-31,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,2,all_households,2016-07-01,2016-07-31,Q25b,unknown_household_type,0
+Data Not Collected,6,all_households,2016-07-01,2016-07-31,Q25b,without_children,6
+Data Not Collected,6,all_households,2016-07-01,2016-07-31,Q25b,with_children_and_adults,0
+Data Not Collected,6,all_households,2016-07-01,2016-07-31,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,15,all_households,2016-08-01,2016-08-31,Q25b,without_children,15
+Chronically Homeless Veteran,15,all_households,2016-08-01,2016-08-31,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,15,all_households,2016-08-01,2016-08-31,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,14,all_households,2016-08-01,2016-08-31,Q25b,without_children,12
+Non-Chronically Homeless Veteran,14,all_households,2016-08-01,2016-08-31,Q25b,with_children_and_adults,2
+Non-Chronically Homeless Veteran,14,all_households,2016-08-01,2016-08-31,Q25b,unknown_household_type,0
+Not a Veteran,327,all_households,2016-08-01,2016-08-31,Q25b,without_children,224
+Not a Veteran,327,all_households,2016-08-01,2016-08-31,Q25b,with_children_and_adults,103
+Not a Veteran,327,all_households,2016-08-01,2016-08-31,Q25b,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_households,2016-08-01,2016-08-31,Q25b,without_children,1
+Client Doesn't Know/Client Refused,1,all_households,2016-08-01,2016-08-31,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_households,2016-08-01,2016-08-31,Q25b,unknown_household_type,0
+Data Not Collected,7,all_households,2016-08-01,2016-08-31,Q25b,without_children,7
+Data Not Collected,7,all_households,2016-08-01,2016-08-31,Q25b,with_children_and_adults,0
+Data Not Collected,7,all_households,2016-08-01,2016-08-31,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,14,all_households,2016-09-01,2016-09-30,Q25b,without_children,14
+Chronically Homeless Veteran,14,all_households,2016-09-01,2016-09-30,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,14,all_households,2016-09-01,2016-09-30,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,12,all_households,2016-09-01,2016-09-30,Q25b,without_children,9
+Non-Chronically Homeless Veteran,12,all_households,2016-09-01,2016-09-30,Q25b,with_children_and_adults,3
+Non-Chronically Homeless Veteran,12,all_households,2016-09-01,2016-09-30,Q25b,unknown_household_type,0
+Not a Veteran,334,all_households,2016-09-01,2016-09-30,Q25b,without_children,226
+Not a Veteran,334,all_households,2016-09-01,2016-09-30,Q25b,with_children_and_adults,108
+Not a Veteran,334,all_households,2016-09-01,2016-09-30,Q25b,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_households,2016-09-01,2016-09-30,Q25b,without_children,1
+Client Doesn't Know/Client Refused,1,all_households,2016-09-01,2016-09-30,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_households,2016-09-01,2016-09-30,Q25b,unknown_household_type,0
+Data Not Collected,8,all_households,2016-09-01,2016-09-30,Q25b,without_children,8
+Data Not Collected,8,all_households,2016-09-01,2016-09-30,Q25b,with_children_and_adults,0
+Data Not Collected,8,all_households,2016-09-01,2016-09-30,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,15,all_households,2016-10-01,2016-10-31,Q25b,without_children,15
+Chronically Homeless Veteran,15,all_households,2016-10-01,2016-10-31,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,15,all_households,2016-10-01,2016-10-31,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,7,all_households,2016-10-01,2016-10-31,Q25b,without_children,5
+Non-Chronically Homeless Veteran,7,all_households,2016-10-01,2016-10-31,Q25b,with_children_and_adults,2
+Non-Chronically Homeless Veteran,7,all_households,2016-10-01,2016-10-31,Q25b,unknown_household_type,0
+Not a Veteran,322,all_households,2016-10-01,2016-10-31,Q25b,without_children,227
+Not a Veteran,322,all_households,2016-10-01,2016-10-31,Q25b,with_children_and_adults,95
+Not a Veteran,322,all_households,2016-10-01,2016-10-31,Q25b,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_households,2016-10-01,2016-10-31,Q25b,without_children,1
+Client Doesn't Know/Client Refused,1,all_households,2016-10-01,2016-10-31,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_households,2016-10-01,2016-10-31,Q25b,unknown_household_type,0
+Data Not Collected,9,all_households,2016-10-01,2016-10-31,Q25b,without_children,9
+Data Not Collected,9,all_households,2016-10-01,2016-10-31,Q25b,with_children_and_adults,0
+Data Not Collected,9,all_households,2016-10-01,2016-10-31,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,16,all_households,2016-11-01,2016-11-30,Q25b,without_children,16
+Chronically Homeless Veteran,16,all_households,2016-11-01,2016-11-30,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,16,all_households,2016-11-01,2016-11-30,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,9,all_households,2016-11-01,2016-11-30,Q25b,without_children,7
+Non-Chronically Homeless Veteran,9,all_households,2016-11-01,2016-11-30,Q25b,with_children_and_adults,2
+Non-Chronically Homeless Veteran,9,all_households,2016-11-01,2016-11-30,Q25b,unknown_household_type,0
+Not a Veteran,359,all_households,2016-11-01,2016-11-30,Q25b,without_children,266
+Not a Veteran,359,all_households,2016-11-01,2016-11-30,Q25b,with_children_and_adults,93
+Not a Veteran,359,all_households,2016-11-01,2016-11-30,Q25b,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_households,2016-11-01,2016-11-30,Q25b,without_children,1
+Client Doesn't Know/Client Refused,1,all_households,2016-11-01,2016-11-30,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_households,2016-11-01,2016-11-30,Q25b,unknown_household_type,0
+Data Not Collected,10,all_households,2016-11-01,2016-11-30,Q25b,without_children,10
+Data Not Collected,10,all_households,2016-11-01,2016-11-30,Q25b,with_children_and_adults,0
+Data Not Collected,10,all_households,2016-11-01,2016-11-30,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,16,all_households,2016-12-01,2016-12-31,Q25b,without_children,16
+Chronically Homeless Veteran,16,all_households,2016-12-01,2016-12-31,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,16,all_households,2016-12-01,2016-12-31,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,7,all_households,2016-12-01,2016-12-31,Q25b,without_children,6
+Non-Chronically Homeless Veteran,7,all_households,2016-12-01,2016-12-31,Q25b,with_children_and_adults,1
+Non-Chronically Homeless Veteran,7,all_households,2016-12-01,2016-12-31,Q25b,unknown_household_type,0
+Not a Veteran,368,all_households,2016-12-01,2016-12-31,Q25b,without_children,272
+Not a Veteran,368,all_households,2016-12-01,2016-12-31,Q25b,with_children_and_adults,96
+Not a Veteran,368,all_households,2016-12-01,2016-12-31,Q25b,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_households,2016-12-01,2016-12-31,Q25b,without_children,1
+Client Doesn't Know/Client Refused,1,all_households,2016-12-01,2016-12-31,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_households,2016-12-01,2016-12-31,Q25b,unknown_household_type,0
+Data Not Collected,12,all_households,2016-12-01,2016-12-31,Q25b,without_children,12
+Data Not Collected,12,all_households,2016-12-01,2016-12-31,Q25b,with_children_and_adults,0
+Data Not Collected,12,all_households,2016-12-01,2016-12-31,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,19,all_households,2017-01-01,2017-01-31,Q25b,without_children,19
+Chronically Homeless Veteran,19,all_households,2017-01-01,2017-01-31,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,19,all_households,2017-01-01,2017-01-31,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,5,all_households,2017-01-01,2017-01-31,Q25b,without_children,5
+Non-Chronically Homeless Veteran,5,all_households,2017-01-01,2017-01-31,Q25b,with_children_and_adults,0
+Non-Chronically Homeless Veteran,5,all_households,2017-01-01,2017-01-31,Q25b,unknown_household_type,0
+Not a Veteran,370,all_households,2017-01-01,2017-01-31,Q25b,without_children,282
+Not a Veteran,370,all_households,2017-01-01,2017-01-31,Q25b,with_children_and_adults,88
+Not a Veteran,370,all_households,2017-01-01,2017-01-31,Q25b,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_households,2017-01-01,2017-01-31,Q25b,without_children,1
+Client Doesn't Know/Client Refused,1,all_households,2017-01-01,2017-01-31,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_households,2017-01-01,2017-01-31,Q25b,unknown_household_type,0
+Data Not Collected,12,all_households,2017-01-01,2017-01-31,Q25b,without_children,12
+Data Not Collected,12,all_households,2017-01-01,2017-01-31,Q25b,with_children_and_adults,0
+Data Not Collected,12,all_households,2017-01-01,2017-01-31,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,18,all_households,2017-02-01,2017-02-28,Q25b,without_children,18
+Chronically Homeless Veteran,18,all_households,2017-02-01,2017-02-28,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,18,all_households,2017-02-01,2017-02-28,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,10,all_households,2017-02-01,2017-02-28,Q25b,without_children,10
+Non-Chronically Homeless Veteran,10,all_households,2017-02-01,2017-02-28,Q25b,with_children_and_adults,0
+Non-Chronically Homeless Veteran,10,all_households,2017-02-01,2017-02-28,Q25b,unknown_household_type,0
+Not a Veteran,335,all_households,2017-02-01,2017-02-28,Q25b,without_children,269
+Not a Veteran,335,all_households,2017-02-01,2017-02-28,Q25b,with_children_and_adults,66
+Not a Veteran,335,all_households,2017-02-01,2017-02-28,Q25b,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_households,2017-02-01,2017-02-28,Q25b,without_children,1
+Client Doesn't Know/Client Refused,1,all_households,2017-02-01,2017-02-28,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_households,2017-02-01,2017-02-28,Q25b,unknown_household_type,0
+Data Not Collected,14,all_households,2017-02-01,2017-02-28,Q25b,without_children,14
+Data Not Collected,14,all_households,2017-02-01,2017-02-28,Q25b,with_children_and_adults,0
+Data Not Collected,14,all_households,2017-02-01,2017-02-28,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,18,all_households,2017-03-01,2017-03-31,Q25b,without_children,18
+Chronically Homeless Veteran,18,all_households,2017-03-01,2017-03-31,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,18,all_households,2017-03-01,2017-03-31,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,7,all_households,2017-03-01,2017-03-31,Q25b,without_children,6
+Non-Chronically Homeless Veteran,7,all_households,2017-03-01,2017-03-31,Q25b,with_children_and_adults,1
+Non-Chronically Homeless Veteran,7,all_households,2017-03-01,2017-03-31,Q25b,unknown_household_type,0
+Not a Veteran,341,all_households,2017-03-01,2017-03-31,Q25b,without_children,283
+Not a Veteran,341,all_households,2017-03-01,2017-03-31,Q25b,with_children_and_adults,58
+Not a Veteran,341,all_households,2017-03-01,2017-03-31,Q25b,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_households,2017-03-01,2017-03-31,Q25b,without_children,1
+Client Doesn't Know/Client Refused,1,all_households,2017-03-01,2017-03-31,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_households,2017-03-01,2017-03-31,Q25b,unknown_household_type,0
+Data Not Collected,15,all_households,2017-03-01,2017-03-31,Q25b,without_children,15
+Data Not Collected,15,all_households,2017-03-01,2017-03-31,Q25b,with_children_and_adults,0
+Data Not Collected,15,all_households,2017-03-01,2017-03-31,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,16,all_households,2017-04-01,2017-04-30,Q25b,without_children,16
+Chronically Homeless Veteran,16,all_households,2017-04-01,2017-04-30,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,16,all_households,2017-04-01,2017-04-30,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,5,all_households,2017-04-01,2017-04-30,Q25b,without_children,4
+Non-Chronically Homeless Veteran,5,all_households,2017-04-01,2017-04-30,Q25b,with_children_and_adults,1
+Non-Chronically Homeless Veteran,5,all_households,2017-04-01,2017-04-30,Q25b,unknown_household_type,0
+Not a Veteran,313,all_households,2017-04-01,2017-04-30,Q25b,without_children,255
+Not a Veteran,313,all_households,2017-04-01,2017-04-30,Q25b,with_children_and_adults,58
+Not a Veteran,313,all_households,2017-04-01,2017-04-30,Q25b,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_households,2017-04-01,2017-04-30,Q25b,without_children,1
+Client Doesn't Know/Client Refused,1,all_households,2017-04-01,2017-04-30,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_households,2017-04-01,2017-04-30,Q25b,unknown_household_type,0
+Data Not Collected,13,all_households,2017-04-01,2017-04-30,Q25b,without_children,13
+Data Not Collected,13,all_households,2017-04-01,2017-04-30,Q25b,with_children_and_adults,0
+Data Not Collected,13,all_households,2017-04-01,2017-04-30,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,16,all_households,2017-05-01,2017-05-31,Q25b,without_children,16
+Chronically Homeless Veteran,16,all_households,2017-05-01,2017-05-31,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,16,all_households,2017-05-01,2017-05-31,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,4,all_households,2017-05-01,2017-05-31,Q25b,without_children,4
+Non-Chronically Homeless Veteran,4,all_households,2017-05-01,2017-05-31,Q25b,with_children_and_adults,0
+Non-Chronically Homeless Veteran,4,all_households,2017-05-01,2017-05-31,Q25b,unknown_household_type,0
+Not a Veteran,273,all_households,2017-05-01,2017-05-31,Q25b,without_children,212
+Not a Veteran,273,all_households,2017-05-01,2017-05-31,Q25b,with_children_and_adults,61
+Not a Veteran,273,all_households,2017-05-01,2017-05-31,Q25b,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_households,2017-05-01,2017-05-31,Q25b,without_children,1
+Client Doesn't Know/Client Refused,1,all_households,2017-05-01,2017-05-31,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_households,2017-05-01,2017-05-31,Q25b,unknown_household_type,0
+Data Not Collected,12,all_households,2017-05-01,2017-05-31,Q25b,without_children,12
+Data Not Collected,12,all_households,2017-05-01,2017-05-31,Q25b,with_children_and_adults,0
+Data Not Collected,12,all_households,2017-05-01,2017-05-31,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,15,all_households,2017-06-01,2017-06-30,Q25b,without_children,15
+Chronically Homeless Veteran,15,all_households,2017-06-01,2017-06-30,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,15,all_households,2017-06-01,2017-06-30,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,4,all_households,2017-06-01,2017-06-30,Q25b,without_children,4
+Non-Chronically Homeless Veteran,4,all_households,2017-06-01,2017-06-30,Q25b,with_children_and_adults,0
+Non-Chronically Homeless Veteran,4,all_households,2017-06-01,2017-06-30,Q25b,unknown_household_type,0
+Not a Veteran,281,all_households,2017-06-01,2017-06-30,Q25b,without_children,209
+Not a Veteran,281,all_households,2017-06-01,2017-06-30,Q25b,with_children_and_adults,72
+Not a Veteran,281,all_households,2017-06-01,2017-06-30,Q25b,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_households,2017-06-01,2017-06-30,Q25b,without_children,1
+Client Doesn't Know/Client Refused,1,all_households,2017-06-01,2017-06-30,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_households,2017-06-01,2017-06-30,Q25b,unknown_household_type,0
+Data Not Collected,11,all_households,2017-06-01,2017-06-30,Q25b,without_children,11
+Data Not Collected,11,all_households,2017-06-01,2017-06-30,Q25b,with_children_and_adults,0
+Data Not Collected,11,all_households,2017-06-01,2017-06-30,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,15,all_households,2017-07-01,2017-07-31,Q25b,without_children,15
+Chronically Homeless Veteran,15,all_households,2017-07-01,2017-07-31,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,15,all_households,2017-07-01,2017-07-31,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,4,all_households,2017-07-01,2017-07-31,Q25b,without_children,4
+Non-Chronically Homeless Veteran,4,all_households,2017-07-01,2017-07-31,Q25b,with_children_and_adults,0
+Non-Chronically Homeless Veteran,4,all_households,2017-07-01,2017-07-31,Q25b,unknown_household_type,0
+Not a Veteran,303,all_households,2017-07-01,2017-07-31,Q25b,without_children,214
+Not a Veteran,303,all_households,2017-07-01,2017-07-31,Q25b,with_children_and_adults,89
+Not a Veteran,303,all_households,2017-07-01,2017-07-31,Q25b,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_households,2017-07-01,2017-07-31,Q25b,without_children,1
+Client Doesn't Know/Client Refused,1,all_households,2017-07-01,2017-07-31,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_households,2017-07-01,2017-07-31,Q25b,unknown_household_type,0
+Data Not Collected,11,all_households,2017-07-01,2017-07-31,Q25b,without_children,11
+Data Not Collected,11,all_households,2017-07-01,2017-07-31,Q25b,with_children_and_adults,0
+Data Not Collected,11,all_households,2017-07-01,2017-07-31,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,16,all_households,2017-08-01,2017-08-31,Q25b,without_children,16
+Chronically Homeless Veteran,16,all_households,2017-08-01,2017-08-31,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,16,all_households,2017-08-01,2017-08-31,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,7,all_households,2017-08-01,2017-08-31,Q25b,without_children,5
+Non-Chronically Homeless Veteran,7,all_households,2017-08-01,2017-08-31,Q25b,with_children_and_adults,2
+Non-Chronically Homeless Veteran,7,all_households,2017-08-01,2017-08-31,Q25b,unknown_household_type,0
+Not a Veteran,320,all_households,2017-08-01,2017-08-31,Q25b,without_children,231
+Not a Veteran,320,all_households,2017-08-01,2017-08-31,Q25b,with_children_and_adults,89
+Not a Veteran,320,all_households,2017-08-01,2017-08-31,Q25b,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_households,2017-08-01,2017-08-31,Q25b,without_children,1
+Client Doesn't Know/Client Refused,1,all_households,2017-08-01,2017-08-31,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_households,2017-08-01,2017-08-31,Q25b,unknown_household_type,0
+Data Not Collected,11,all_households,2017-08-01,2017-08-31,Q25b,without_children,11
+Data Not Collected,11,all_households,2017-08-01,2017-08-31,Q25b,with_children_and_adults,0
+Data Not Collected,11,all_households,2017-08-01,2017-08-31,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,16,all_households,2017-09-01,2017-09-30,Q25b,without_children,16
+Chronically Homeless Veteran,16,all_households,2017-09-01,2017-09-30,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,16,all_households,2017-09-01,2017-09-30,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,8,all_households,2017-09-01,2017-09-30,Q25b,without_children,4
+Non-Chronically Homeless Veteran,8,all_households,2017-09-01,2017-09-30,Q25b,with_children_and_adults,4
+Non-Chronically Homeless Veteran,8,all_households,2017-09-01,2017-09-30,Q25b,unknown_household_type,0
+Not a Veteran,298,all_households,2017-09-01,2017-09-30,Q25b,without_children,227
+Not a Veteran,298,all_households,2017-09-01,2017-09-30,Q25b,with_children_and_adults,71
+Not a Veteran,298,all_households,2017-09-01,2017-09-30,Q25b,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_households,2017-09-01,2017-09-30,Q25b,without_children,1
+Client Doesn't Know/Client Refused,1,all_households,2017-09-01,2017-09-30,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_households,2017-09-01,2017-09-30,Q25b,unknown_household_type,0
+Data Not Collected,10,all_households,2017-09-01,2017-09-30,Q25b,without_children,10
+Data Not Collected,10,all_households,2017-09-01,2017-09-30,Q25b,with_children_and_adults,0
+Data Not Collected,10,all_households,2017-09-01,2017-09-30,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,16,all_households,2017-10-01,2017-10-31,Q25b,without_children,16
+Chronically Homeless Veteran,16,all_households,2017-10-01,2017-10-31,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,16,all_households,2017-10-01,2017-10-31,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,9,all_households,2017-10-01,2017-10-31,Q25b,without_children,5
+Non-Chronically Homeless Veteran,9,all_households,2017-10-01,2017-10-31,Q25b,with_children_and_adults,4
+Non-Chronically Homeless Veteran,9,all_households,2017-10-01,2017-10-31,Q25b,unknown_household_type,0
+Not a Veteran,253,all_households,2017-10-01,2017-10-31,Q25b,without_children,194
+Not a Veteran,253,all_households,2017-10-01,2017-10-31,Q25b,with_children_and_adults,59
+Not a Veteran,253,all_households,2017-10-01,2017-10-31,Q25b,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_households,2017-10-01,2017-10-31,Q25b,without_children,1
+Client Doesn't Know/Client Refused,1,all_households,2017-10-01,2017-10-31,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_households,2017-10-01,2017-10-31,Q25b,unknown_household_type,0
+Data Not Collected,10,all_households,2017-10-01,2017-10-31,Q25b,without_children,9
+Data Not Collected,10,all_households,2017-10-01,2017-10-31,Q25b,with_children_and_adults,1
+Data Not Collected,10,all_households,2017-10-01,2017-10-31,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,20,all_households,2017-11-01,2017-11-30,Q25b,without_children,20
+Chronically Homeless Veteran,20,all_households,2017-11-01,2017-11-30,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,20,all_households,2017-11-01,2017-11-30,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,11,all_households,2017-11-01,2017-11-30,Q25b,without_children,8
+Non-Chronically Homeless Veteran,11,all_households,2017-11-01,2017-11-30,Q25b,with_children_and_adults,3
+Non-Chronically Homeless Veteran,11,all_households,2017-11-01,2017-11-30,Q25b,unknown_household_type,0
+Not a Veteran,316,all_households,2017-11-01,2017-11-30,Q25b,without_children,254
+Not a Veteran,316,all_households,2017-11-01,2017-11-30,Q25b,with_children_and_adults,62
+Not a Veteran,316,all_households,2017-11-01,2017-11-30,Q25b,unknown_household_type,0
+Client Doesn't Know/Client Refused,2,all_households,2017-11-01,2017-11-30,Q25b,without_children,2
+Client Doesn't Know/Client Refused,2,all_households,2017-11-01,2017-11-30,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,2,all_households,2017-11-01,2017-11-30,Q25b,unknown_household_type,0
+Data Not Collected,8,all_households,2017-11-01,2017-11-30,Q25b,without_children,7
+Data Not Collected,8,all_households,2017-11-01,2017-11-30,Q25b,with_children_and_adults,1
+Data Not Collected,8,all_households,2017-11-01,2017-11-30,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,18,all_households,2017-12-01,2017-12-31,Q25b,without_children,18
+Chronically Homeless Veteran,18,all_households,2017-12-01,2017-12-31,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,18,all_households,2017-12-01,2017-12-31,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,7,all_households,2017-12-01,2017-12-31,Q25b,without_children,4
+Non-Chronically Homeless Veteran,7,all_households,2017-12-01,2017-12-31,Q25b,with_children_and_adults,3
+Non-Chronically Homeless Veteran,7,all_households,2017-12-01,2017-12-31,Q25b,unknown_household_type,0
+Not a Veteran,320,all_households,2017-12-01,2017-12-31,Q25b,without_children,263
+Not a Veteran,320,all_households,2017-12-01,2017-12-31,Q25b,with_children_and_adults,57
+Not a Veteran,320,all_households,2017-12-01,2017-12-31,Q25b,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_households,2017-12-01,2017-12-31,Q25b,without_children,1
+Client Doesn't Know/Client Refused,1,all_households,2017-12-01,2017-12-31,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_households,2017-12-01,2017-12-31,Q25b,unknown_household_type,0
+Data Not Collected,8,all_households,2017-12-01,2017-12-31,Q25b,without_children,7
+Data Not Collected,8,all_households,2017-12-01,2017-12-31,Q25b,with_children_and_adults,1
+Data Not Collected,8,all_households,2017-12-01,2017-12-31,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,20,all_households,2018-01-01,2018-01-31,Q25b,without_children,20
+Chronically Homeless Veteran,20,all_households,2018-01-01,2018-01-31,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,20,all_households,2018-01-01,2018-01-31,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,13,all_households,2018-01-01,2018-01-31,Q25b,without_children,11
+Non-Chronically Homeless Veteran,13,all_households,2018-01-01,2018-01-31,Q25b,with_children_and_adults,2
+Non-Chronically Homeless Veteran,13,all_households,2018-01-01,2018-01-31,Q25b,unknown_household_type,0
+Not a Veteran,313,all_households,2018-01-01,2018-01-31,Q25b,without_children,254
+Not a Veteran,313,all_households,2018-01-01,2018-01-31,Q25b,with_children_and_adults,59
+Not a Veteran,313,all_households,2018-01-01,2018-01-31,Q25b,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_households,2018-01-01,2018-01-31,Q25b,without_children,1
+Client Doesn't Know/Client Refused,1,all_households,2018-01-01,2018-01-31,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_households,2018-01-01,2018-01-31,Q25b,unknown_household_type,0
+Data Not Collected,7,all_households,2018-01-01,2018-01-31,Q25b,without_children,6
+Data Not Collected,7,all_households,2018-01-01,2018-01-31,Q25b,with_children_and_adults,1
+Data Not Collected,7,all_households,2018-01-01,2018-01-31,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,19,all_households,2018-02-01,2018-02-28,Q25b,without_children,19
+Chronically Homeless Veteran,19,all_households,2018-02-01,2018-02-28,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,19,all_households,2018-02-01,2018-02-28,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,12,all_households,2018-02-01,2018-02-28,Q25b,without_children,12
+Non-Chronically Homeless Veteran,12,all_households,2018-02-01,2018-02-28,Q25b,with_children_and_adults,0
+Non-Chronically Homeless Veteran,12,all_households,2018-02-01,2018-02-28,Q25b,unknown_household_type,0
+Not a Veteran,327,all_households,2018-02-01,2018-02-28,Q25b,without_children,264
+Not a Veteran,327,all_households,2018-02-01,2018-02-28,Q25b,with_children_and_adults,63
+Not a Veteran,327,all_households,2018-02-01,2018-02-28,Q25b,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_households,2018-02-01,2018-02-28,Q25b,without_children,1
+Client Doesn't Know/Client Refused,1,all_households,2018-02-01,2018-02-28,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_households,2018-02-01,2018-02-28,Q25b,unknown_household_type,0
+Data Not Collected,6,all_households,2018-02-01,2018-02-28,Q25b,without_children,5
+Data Not Collected,6,all_households,2018-02-01,2018-02-28,Q25b,with_children_and_adults,1
+Data Not Collected,6,all_households,2018-02-01,2018-02-28,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,20,all_households,2018-03-01,2018-03-31,Q25b,without_children,20
+Chronically Homeless Veteran,20,all_households,2018-03-01,2018-03-31,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,20,all_households,2018-03-01,2018-03-31,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,12,all_households,2018-03-01,2018-03-31,Q25b,without_children,12
+Non-Chronically Homeless Veteran,12,all_households,2018-03-01,2018-03-31,Q25b,with_children_and_adults,0
+Non-Chronically Homeless Veteran,12,all_households,2018-03-01,2018-03-31,Q25b,unknown_household_type,0
+Not a Veteran,330,all_households,2018-03-01,2018-03-31,Q25b,without_children,271
+Not a Veteran,330,all_households,2018-03-01,2018-03-31,Q25b,with_children_and_adults,59
+Not a Veteran,330,all_households,2018-03-01,2018-03-31,Q25b,unknown_household_type,0
+Client Doesn't Know/Client Refused,2,all_households,2018-03-01,2018-03-31,Q25b,without_children,2
+Client Doesn't Know/Client Refused,2,all_households,2018-03-01,2018-03-31,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,2,all_households,2018-03-01,2018-03-31,Q25b,unknown_household_type,0
+Data Not Collected,6,all_households,2018-03-01,2018-03-31,Q25b,without_children,5
+Data Not Collected,6,all_households,2018-03-01,2018-03-31,Q25b,with_children_and_adults,1
+Data Not Collected,6,all_households,2018-03-01,2018-03-31,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,19,all_households,2018-04-01,2018-04-30,Q25b,without_children,19
+Chronically Homeless Veteran,19,all_households,2018-04-01,2018-04-30,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,19,all_households,2018-04-01,2018-04-30,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,10,all_households,2018-04-01,2018-04-30,Q25b,without_children,10
+Non-Chronically Homeless Veteran,10,all_households,2018-04-01,2018-04-30,Q25b,with_children_and_adults,0
+Non-Chronically Homeless Veteran,10,all_households,2018-04-01,2018-04-30,Q25b,unknown_household_type,0
+Not a Veteran,305,all_households,2018-04-01,2018-04-30,Q25b,without_children,250
+Not a Veteran,305,all_households,2018-04-01,2018-04-30,Q25b,with_children_and_adults,55
+Not a Veteran,305,all_households,2018-04-01,2018-04-30,Q25b,unknown_household_type,0
+Client Doesn't Know/Client Refused,2,all_households,2018-04-01,2018-04-30,Q25b,without_children,2
+Client Doesn't Know/Client Refused,2,all_households,2018-04-01,2018-04-30,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,2,all_households,2018-04-01,2018-04-30,Q25b,unknown_household_type,0
+Data Not Collected,5,all_households,2018-04-01,2018-04-30,Q25b,without_children,4
+Data Not Collected,5,all_households,2018-04-01,2018-04-30,Q25b,with_children_and_adults,1
+Data Not Collected,5,all_households,2018-04-01,2018-04-30,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,15,all_households,2018-05-01,2018-05-31,Q25b,without_children,15
+Chronically Homeless Veteran,15,all_households,2018-05-01,2018-05-31,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,15,all_households,2018-05-01,2018-05-31,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,6,all_households,2018-05-01,2018-05-31,Q25b,without_children,6
+Non-Chronically Homeless Veteran,6,all_households,2018-05-01,2018-05-31,Q25b,with_children_and_adults,0
+Non-Chronically Homeless Veteran,6,all_households,2018-05-01,2018-05-31,Q25b,unknown_household_type,0
+Not a Veteran,290,all_households,2018-05-01,2018-05-31,Q25b,without_children,211
+Not a Veteran,290,all_households,2018-05-01,2018-05-31,Q25b,with_children_and_adults,79
+Not a Veteran,290,all_households,2018-05-01,2018-05-31,Q25b,unknown_household_type,0
+Client Doesn't Know/Client Refused,2,all_households,2018-05-01,2018-05-31,Q25b,without_children,2
+Client Doesn't Know/Client Refused,2,all_households,2018-05-01,2018-05-31,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,2,all_households,2018-05-01,2018-05-31,Q25b,unknown_household_type,0
+Data Not Collected,5,all_households,2018-05-01,2018-05-31,Q25b,without_children,4
+Data Not Collected,5,all_households,2018-05-01,2018-05-31,Q25b,with_children_and_adults,1
+Data Not Collected,5,all_households,2018-05-01,2018-05-31,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,16,all_households,2018-06-01,2018-06-30,Q25b,without_children,16
+Chronically Homeless Veteran,16,all_households,2018-06-01,2018-06-30,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,16,all_households,2018-06-01,2018-06-30,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,6,all_households,2018-06-01,2018-06-30,Q25b,without_children,6
+Non-Chronically Homeless Veteran,6,all_households,2018-06-01,2018-06-30,Q25b,with_children_and_adults,0
+Non-Chronically Homeless Veteran,6,all_households,2018-06-01,2018-06-30,Q25b,unknown_household_type,0
+Not a Veteran,277,all_households,2018-06-01,2018-06-30,Q25b,without_children,203
+Not a Veteran,277,all_households,2018-06-01,2018-06-30,Q25b,with_children_and_adults,74
+Not a Veteran,277,all_households,2018-06-01,2018-06-30,Q25b,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_households,2018-06-01,2018-06-30,Q25b,without_children,1
+Client Doesn't Know/Client Refused,1,all_households,2018-06-01,2018-06-30,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_households,2018-06-01,2018-06-30,Q25b,unknown_household_type,0
+Data Not Collected,4,all_households,2018-06-01,2018-06-30,Q25b,without_children,4
+Data Not Collected,4,all_households,2018-06-01,2018-06-30,Q25b,with_children_and_adults,0
+Data Not Collected,4,all_households,2018-06-01,2018-06-30,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,15,all_households,2018-07-01,2018-07-31,Q25b,without_children,15
+Chronically Homeless Veteran,15,all_households,2018-07-01,2018-07-31,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,15,all_households,2018-07-01,2018-07-31,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,8,all_households,2018-07-01,2018-07-31,Q25b,without_children,8
+Non-Chronically Homeless Veteran,8,all_households,2018-07-01,2018-07-31,Q25b,with_children_and_adults,0
+Non-Chronically Homeless Veteran,8,all_households,2018-07-01,2018-07-31,Q25b,unknown_household_type,0
+Not a Veteran,251,all_households,2018-07-01,2018-07-31,Q25b,without_children,181
+Not a Veteran,251,all_households,2018-07-01,2018-07-31,Q25b,with_children_and_adults,70
+Not a Veteran,251,all_households,2018-07-01,2018-07-31,Q25b,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,all_households,2018-07-01,2018-07-31,Q25b,without_children,0
+Client Doesn't Know/Client Refused,0,all_households,2018-07-01,2018-07-31,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,all_households,2018-07-01,2018-07-31,Q25b,unknown_household_type,0
+Data Not Collected,3,all_households,2018-07-01,2018-07-31,Q25b,without_children,3
+Data Not Collected,3,all_households,2018-07-01,2018-07-31,Q25b,with_children_and_adults,0
+Data Not Collected,3,all_households,2018-07-01,2018-07-31,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,15,all_households,2018-08-01,2018-08-31,Q25b,without_children,15
+Chronically Homeless Veteran,15,all_households,2018-08-01,2018-08-31,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,15,all_households,2018-08-01,2018-08-31,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,7,all_households,2018-08-01,2018-08-31,Q25b,without_children,7
+Non-Chronically Homeless Veteran,7,all_households,2018-08-01,2018-08-31,Q25b,with_children_and_adults,0
+Non-Chronically Homeless Veteran,7,all_households,2018-08-01,2018-08-31,Q25b,unknown_household_type,0
+Not a Veteran,269,all_households,2018-08-01,2018-08-31,Q25b,without_children,193
+Not a Veteran,269,all_households,2018-08-01,2018-08-31,Q25b,with_children_and_adults,76
+Not a Veteran,269,all_households,2018-08-01,2018-08-31,Q25b,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,all_households,2018-08-01,2018-08-31,Q25b,without_children,0
+Client Doesn't Know/Client Refused,0,all_households,2018-08-01,2018-08-31,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,all_households,2018-08-01,2018-08-31,Q25b,unknown_household_type,0
+Data Not Collected,3,all_households,2018-08-01,2018-08-31,Q25b,without_children,3
+Data Not Collected,3,all_households,2018-08-01,2018-08-31,Q25b,with_children_and_adults,0
+Data Not Collected,3,all_households,2018-08-01,2018-08-31,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,15,all_households,2018-09-01,2018-09-30,Q25b,without_children,15
+Chronically Homeless Veteran,15,all_households,2018-09-01,2018-09-30,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,15,all_households,2018-09-01,2018-09-30,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,8,all_households,2018-09-01,2018-09-30,Q25b,without_children,7
+Non-Chronically Homeless Veteran,8,all_households,2018-09-01,2018-09-30,Q25b,with_children_and_adults,1
+Non-Chronically Homeless Veteran,8,all_households,2018-09-01,2018-09-30,Q25b,unknown_household_type,0
+Not a Veteran,268,all_households,2018-09-01,2018-09-30,Q25b,without_children,187
+Not a Veteran,268,all_households,2018-09-01,2018-09-30,Q25b,with_children_and_adults,81
+Not a Veteran,268,all_households,2018-09-01,2018-09-30,Q25b,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,all_households,2018-09-01,2018-09-30,Q25b,without_children,0
+Client Doesn't Know/Client Refused,0,all_households,2018-09-01,2018-09-30,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,all_households,2018-09-01,2018-09-30,Q25b,unknown_household_type,0
+Data Not Collected,2,all_households,2018-09-01,2018-09-30,Q25b,without_children,2
+Data Not Collected,2,all_households,2018-09-01,2018-09-30,Q25b,with_children_and_adults,0
+Data Not Collected,2,all_households,2018-09-01,2018-09-30,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,15,all_households,2018-10-01,2018-10-31,Q25b,without_children,15
+Chronically Homeless Veteran,15,all_households,2018-10-01,2018-10-31,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,15,all_households,2018-10-01,2018-10-31,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,10,all_households,2018-10-01,2018-10-31,Q25b,without_children,8
+Non-Chronically Homeless Veteran,10,all_households,2018-10-01,2018-10-31,Q25b,with_children_and_adults,2
+Non-Chronically Homeless Veteran,10,all_households,2018-10-01,2018-10-31,Q25b,unknown_household_type,0
+Not a Veteran,285,all_households,2018-10-01,2018-10-31,Q25b,without_children,200
+Not a Veteran,285,all_households,2018-10-01,2018-10-31,Q25b,with_children_and_adults,85
+Not a Veteran,285,all_households,2018-10-01,2018-10-31,Q25b,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,all_households,2018-10-01,2018-10-31,Q25b,without_children,0
+Client Doesn't Know/Client Refused,0,all_households,2018-10-01,2018-10-31,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,all_households,2018-10-01,2018-10-31,Q25b,unknown_household_type,0
+Data Not Collected,2,all_households,2018-10-01,2018-10-31,Q25b,without_children,2
+Data Not Collected,2,all_households,2018-10-01,2018-10-31,Q25b,with_children_and_adults,0
+Data Not Collected,2,all_households,2018-10-01,2018-10-31,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,18,all_households,2018-11-01,2018-11-30,Q25b,without_children,18
+Chronically Homeless Veteran,18,all_households,2018-11-01,2018-11-30,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,18,all_households,2018-11-01,2018-11-30,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,11,all_households,2018-11-01,2018-11-30,Q25b,without_children,9
+Non-Chronically Homeless Veteran,11,all_households,2018-11-01,2018-11-30,Q25b,with_children_and_adults,2
+Non-Chronically Homeless Veteran,11,all_households,2018-11-01,2018-11-30,Q25b,unknown_household_type,0
+Not a Veteran,343,all_households,2018-11-01,2018-11-30,Q25b,without_children,261
+Not a Veteran,343,all_households,2018-11-01,2018-11-30,Q25b,with_children_and_adults,82
+Not a Veteran,343,all_households,2018-11-01,2018-11-30,Q25b,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,all_households,2018-11-01,2018-11-30,Q25b,without_children,0
+Client Doesn't Know/Client Refused,0,all_households,2018-11-01,2018-11-30,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,all_households,2018-11-01,2018-11-30,Q25b,unknown_household_type,0
+Data Not Collected,1,all_households,2018-11-01,2018-11-30,Q25b,without_children,1
+Data Not Collected,1,all_households,2018-11-01,2018-11-30,Q25b,with_children_and_adults,0
+Data Not Collected,1,all_households,2018-11-01,2018-11-30,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,16,all_households,2018-12-01,2018-12-31,Q25b,without_children,16
+Chronically Homeless Veteran,16,all_households,2018-12-01,2018-12-31,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,16,all_households,2018-12-01,2018-12-31,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,23,all_households,2018-12-01,2018-12-31,Q25b,without_children,20
+Non-Chronically Homeless Veteran,23,all_households,2018-12-01,2018-12-31,Q25b,with_children_and_adults,3
+Non-Chronically Homeless Veteran,23,all_households,2018-12-01,2018-12-31,Q25b,unknown_household_type,0
+Not a Veteran,420,all_households,2018-12-01,2018-12-31,Q25b,without_children,332
+Not a Veteran,420,all_households,2018-12-01,2018-12-31,Q25b,with_children_and_adults,88
+Not a Veteran,420,all_households,2018-12-01,2018-12-31,Q25b,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,all_households,2018-12-01,2018-12-31,Q25b,without_children,0
+Client Doesn't Know/Client Refused,0,all_households,2018-12-01,2018-12-31,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,all_households,2018-12-01,2018-12-31,Q25b,unknown_household_type,0
+Data Not Collected,1,all_households,2018-12-01,2018-12-31,Q25b,without_children,1
+Data Not Collected,1,all_households,2018-12-01,2018-12-31,Q25b,with_children_and_adults,0
+Data Not Collected,1,all_households,2018-12-01,2018-12-31,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,15,all_households,2019-01-01,2019-01-31,Q25b,without_children,15
+Chronically Homeless Veteran,15,all_households,2019-01-01,2019-01-31,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,15,all_households,2019-01-01,2019-01-31,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,28,all_households,2019-01-01,2019-01-31,Q25b,without_children,25
+Non-Chronically Homeless Veteran,28,all_households,2019-01-01,2019-01-31,Q25b,with_children_and_adults,3
+Non-Chronically Homeless Veteran,28,all_households,2019-01-01,2019-01-31,Q25b,unknown_household_type,0
+Not a Veteran,516,all_households,2019-01-01,2019-01-31,Q25b,without_children,428
+Not a Veteran,516,all_households,2019-01-01,2019-01-31,Q25b,with_children_and_adults,88
+Not a Veteran,516,all_households,2019-01-01,2019-01-31,Q25b,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,all_households,2019-01-01,2019-01-31,Q25b,without_children,0
+Client Doesn't Know/Client Refused,0,all_households,2019-01-01,2019-01-31,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,all_households,2019-01-01,2019-01-31,Q25b,unknown_household_type,0
+Data Not Collected,2,all_households,2019-01-01,2019-01-31,Q25b,without_children,2
+Data Not Collected,2,all_households,2019-01-01,2019-01-31,Q25b,with_children_and_adults,0
+Data Not Collected,2,all_households,2019-01-01,2019-01-31,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,17,all_households,2019-02-01,2019-02-28,Q25b,without_children,17
+Chronically Homeless Veteran,17,all_households,2019-02-01,2019-02-28,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,17,all_households,2019-02-01,2019-02-28,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,24,all_households,2019-02-01,2019-02-28,Q25b,without_children,21
+Non-Chronically Homeless Veteran,24,all_households,2019-02-01,2019-02-28,Q25b,with_children_and_adults,3
+Non-Chronically Homeless Veteran,24,all_households,2019-02-01,2019-02-28,Q25b,unknown_household_type,0
+Not a Veteran,577,all_households,2019-02-01,2019-02-28,Q25b,without_children,480
+Not a Veteran,577,all_households,2019-02-01,2019-02-28,Q25b,with_children_and_adults,96
+Not a Veteran,577,all_households,2019-02-01,2019-02-28,Q25b,unknown_household_type,1
+Client Doesn't Know/Client Refused,1,all_households,2019-02-01,2019-02-28,Q25b,without_children,1
+Client Doesn't Know/Client Refused,1,all_households,2019-02-01,2019-02-28,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_households,2019-02-01,2019-02-28,Q25b,unknown_household_type,0
+Data Not Collected,2,all_households,2019-02-01,2019-02-28,Q25b,without_children,2
+Data Not Collected,2,all_households,2019-02-01,2019-02-28,Q25b,with_children_and_adults,0
+Data Not Collected,2,all_households,2019-02-01,2019-02-28,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,16,all_households,2019-03-01,2019-03-31,Q25b,without_children,16
+Chronically Homeless Veteran,16,all_households,2019-03-01,2019-03-31,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,16,all_households,2019-03-01,2019-03-31,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,25,all_households,2019-03-01,2019-03-31,Q25b,without_children,23
+Non-Chronically Homeless Veteran,25,all_households,2019-03-01,2019-03-31,Q25b,with_children_and_adults,2
+Non-Chronically Homeless Veteran,25,all_households,2019-03-01,2019-03-31,Q25b,unknown_household_type,0
+Not a Veteran,558,all_households,2019-03-01,2019-03-31,Q25b,without_children,467
+Not a Veteran,558,all_households,2019-03-01,2019-03-31,Q25b,with_children_and_adults,90
+Not a Veteran,558,all_households,2019-03-01,2019-03-31,Q25b,unknown_household_type,1
+Client Doesn't Know/Client Refused,0,all_households,2019-03-01,2019-03-31,Q25b,without_children,0
+Client Doesn't Know/Client Refused,0,all_households,2019-03-01,2019-03-31,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,all_households,2019-03-01,2019-03-31,Q25b,unknown_household_type,0
+Data Not Collected,2,all_households,2019-03-01,2019-03-31,Q25b,without_children,2
+Data Not Collected,2,all_households,2019-03-01,2019-03-31,Q25b,with_children_and_adults,0
+Data Not Collected,2,all_households,2019-03-01,2019-03-31,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,13,all_households,2019-04-01,2019-04-30,Q25b,without_children,13
+Chronically Homeless Veteran,13,all_households,2019-04-01,2019-04-30,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,13,all_households,2019-04-01,2019-04-30,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,35,all_households,2019-04-01,2019-04-30,Q25b,without_children,33
+Non-Chronically Homeless Veteran,35,all_households,2019-04-01,2019-04-30,Q25b,with_children_and_adults,2
+Non-Chronically Homeless Veteran,35,all_households,2019-04-01,2019-04-30,Q25b,unknown_household_type,0
+Not a Veteran,569,all_households,2019-04-01,2019-04-30,Q25b,without_children,483
+Not a Veteran,569,all_households,2019-04-01,2019-04-30,Q25b,with_children_and_adults,85
+Not a Veteran,569,all_households,2019-04-01,2019-04-30,Q25b,unknown_household_type,1
+Client Doesn't Know/Client Refused,0,all_households,2019-04-01,2019-04-30,Q25b,without_children,0
+Client Doesn't Know/Client Refused,0,all_households,2019-04-01,2019-04-30,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,all_households,2019-04-01,2019-04-30,Q25b,unknown_household_type,0
+Data Not Collected,3,all_households,2019-04-01,2019-04-30,Q25b,without_children,3
+Data Not Collected,3,all_households,2019-04-01,2019-04-30,Q25b,with_children_and_adults,0
+Data Not Collected,3,all_households,2019-04-01,2019-04-30,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,14,all_households,2019-05-01,2019-05-31,Q25b,without_children,14
+Chronically Homeless Veteran,14,all_households,2019-05-01,2019-05-31,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,14,all_households,2019-05-01,2019-05-31,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,27,all_households,2019-05-01,2019-05-31,Q25b,without_children,24
+Non-Chronically Homeless Veteran,27,all_households,2019-05-01,2019-05-31,Q25b,with_children_and_adults,3
+Non-Chronically Homeless Veteran,27,all_households,2019-05-01,2019-05-31,Q25b,unknown_household_type,0
+Not a Veteran,559,all_households,2019-05-01,2019-05-31,Q25b,without_children,469
+Not a Veteran,559,all_households,2019-05-01,2019-05-31,Q25b,with_children_and_adults,89
+Not a Veteran,559,all_households,2019-05-01,2019-05-31,Q25b,unknown_household_type,1
+Client Doesn't Know/Client Refused,0,all_households,2019-05-01,2019-05-31,Q25b,without_children,0
+Client Doesn't Know/Client Refused,0,all_households,2019-05-01,2019-05-31,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,all_households,2019-05-01,2019-05-31,Q25b,unknown_household_type,0
+Data Not Collected,5,all_households,2019-05-01,2019-05-31,Q25b,without_children,5
+Data Not Collected,5,all_households,2019-05-01,2019-05-31,Q25b,with_children_and_adults,0
+Data Not Collected,5,all_households,2019-05-01,2019-05-31,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,14,all_households,2019-06-01,2019-06-30,Q25b,without_children,14
+Chronically Homeless Veteran,14,all_households,2019-06-01,2019-06-30,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,14,all_households,2019-06-01,2019-06-30,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,24,all_households,2019-06-01,2019-06-30,Q25b,without_children,21
+Non-Chronically Homeless Veteran,24,all_households,2019-06-01,2019-06-30,Q25b,with_children_and_adults,3
+Non-Chronically Homeless Veteran,24,all_households,2019-06-01,2019-06-30,Q25b,unknown_household_type,0
+Not a Veteran,566,all_households,2019-06-01,2019-06-30,Q25b,without_children,473
+Not a Veteran,566,all_households,2019-06-01,2019-06-30,Q25b,with_children_and_adults,93
+Not a Veteran,566,all_households,2019-06-01,2019-06-30,Q25b,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,all_households,2019-06-01,2019-06-30,Q25b,without_children,0
+Client Doesn't Know/Client Refused,0,all_households,2019-06-01,2019-06-30,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,all_households,2019-06-01,2019-06-30,Q25b,unknown_household_type,0
+Data Not Collected,3,all_households,2019-06-01,2019-06-30,Q25b,without_children,3
+Data Not Collected,3,all_households,2019-06-01,2019-06-30,Q25b,with_children_and_adults,0
+Data Not Collected,3,all_households,2019-06-01,2019-06-30,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,14,all_households,2019-07-01,2019-07-31,Q25b,without_children,14
+Chronically Homeless Veteran,14,all_households,2019-07-01,2019-07-31,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,14,all_households,2019-07-01,2019-07-31,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,26,all_households,2019-07-01,2019-07-31,Q25b,without_children,22
+Non-Chronically Homeless Veteran,26,all_households,2019-07-01,2019-07-31,Q25b,with_children_and_adults,3
+Non-Chronically Homeless Veteran,26,all_households,2019-07-01,2019-07-31,Q25b,unknown_household_type,1
+Not a Veteran,605,all_households,2019-07-01,2019-07-31,Q25b,without_children,479
+Not a Veteran,605,all_households,2019-07-01,2019-07-31,Q25b,with_children_and_adults,126
+Not a Veteran,605,all_households,2019-07-01,2019-07-31,Q25b,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_households,2019-07-01,2019-07-31,Q25b,without_children,1
+Client Doesn't Know/Client Refused,1,all_households,2019-07-01,2019-07-31,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_households,2019-07-01,2019-07-31,Q25b,unknown_household_type,0
+Data Not Collected,4,all_households,2019-07-01,2019-07-31,Q25b,without_children,2
+Data Not Collected,4,all_households,2019-07-01,2019-07-31,Q25b,with_children_and_adults,2
+Data Not Collected,4,all_households,2019-07-01,2019-07-31,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,16,all_households,2019-08-01,2019-08-31,Q25b,without_children,16
+Chronically Homeless Veteran,16,all_households,2019-08-01,2019-08-31,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,16,all_households,2019-08-01,2019-08-31,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,27,all_households,2019-08-01,2019-08-31,Q25b,without_children,22
+Non-Chronically Homeless Veteran,27,all_households,2019-08-01,2019-08-31,Q25b,with_children_and_adults,4
+Non-Chronically Homeless Veteran,27,all_households,2019-08-01,2019-08-31,Q25b,unknown_household_type,1
+Not a Veteran,622,all_households,2019-08-01,2019-08-31,Q25b,without_children,466
+Not a Veteran,622,all_households,2019-08-01,2019-08-31,Q25b,with_children_and_adults,156
+Not a Veteran,622,all_households,2019-08-01,2019-08-31,Q25b,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,all_households,2019-08-01,2019-08-31,Q25b,without_children,0
+Client Doesn't Know/Client Refused,0,all_households,2019-08-01,2019-08-31,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,all_households,2019-08-01,2019-08-31,Q25b,unknown_household_type,0
+Data Not Collected,2,all_households,2019-08-01,2019-08-31,Q25b,without_children,1
+Data Not Collected,2,all_households,2019-08-01,2019-08-31,Q25b,with_children_and_adults,1
+Data Not Collected,2,all_households,2019-08-01,2019-08-31,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,16,all_households,2019-09-01,2019-09-30,Q25b,without_children,16
+Chronically Homeless Veteran,16,all_households,2019-09-01,2019-09-30,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,16,all_households,2019-09-01,2019-09-30,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,22,all_households,2019-09-01,2019-09-30,Q25b,without_children,18
+Non-Chronically Homeless Veteran,22,all_households,2019-09-01,2019-09-30,Q25b,with_children_and_adults,3
+Non-Chronically Homeless Veteran,22,all_households,2019-09-01,2019-09-30,Q25b,unknown_household_type,1
+Not a Veteran,624,all_households,2019-09-01,2019-09-30,Q25b,without_children,487
+Not a Veteran,624,all_households,2019-09-01,2019-09-30,Q25b,with_children_and_adults,137
+Not a Veteran,624,all_households,2019-09-01,2019-09-30,Q25b,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,all_households,2019-09-01,2019-09-30,Q25b,without_children,0
+Client Doesn't Know/Client Refused,0,all_households,2019-09-01,2019-09-30,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,all_households,2019-09-01,2019-09-30,Q25b,unknown_household_type,0
+Data Not Collected,3,all_households,2019-09-01,2019-09-30,Q25b,without_children,1
+Data Not Collected,3,all_households,2019-09-01,2019-09-30,Q25b,with_children_and_adults,2
+Data Not Collected,3,all_households,2019-09-01,2019-09-30,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,16,all_households,2019-10-01,2019-10-31,Q25b,without_children,16
+Chronically Homeless Veteran,16,all_households,2019-10-01,2019-10-31,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,16,all_households,2019-10-01,2019-10-31,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,28,all_households,2019-10-01,2019-10-31,Q25b,without_children,23
+Non-Chronically Homeless Veteran,28,all_households,2019-10-01,2019-10-31,Q25b,with_children_and_adults,4
+Non-Chronically Homeless Veteran,28,all_households,2019-10-01,2019-10-31,Q25b,unknown_household_type,1
+Not a Veteran,645,all_households,2019-10-01,2019-10-31,Q25b,without_children,516
+Not a Veteran,645,all_households,2019-10-01,2019-10-31,Q25b,with_children_and_adults,126
+Not a Veteran,645,all_households,2019-10-01,2019-10-31,Q25b,unknown_household_type,3
+Client Doesn't Know/Client Refused,0,all_households,2019-10-01,2019-10-31,Q25b,without_children,0
+Client Doesn't Know/Client Refused,0,all_households,2019-10-01,2019-10-31,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,all_households,2019-10-01,2019-10-31,Q25b,unknown_household_type,0
+Data Not Collected,1,all_households,2019-10-01,2019-10-31,Q25b,without_children,1
+Data Not Collected,1,all_households,2019-10-01,2019-10-31,Q25b,with_children_and_adults,0
+Data Not Collected,1,all_households,2019-10-01,2019-10-31,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,16,all_households,2019-11-01,2019-11-30,Q25b,without_children,16
+Chronically Homeless Veteran,16,all_households,2019-11-01,2019-11-30,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,16,all_households,2019-11-01,2019-11-30,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,27,all_households,2019-11-01,2019-11-30,Q25b,without_children,21
+Non-Chronically Homeless Veteran,27,all_households,2019-11-01,2019-11-30,Q25b,with_children_and_adults,5
+Non-Chronically Homeless Veteran,27,all_households,2019-11-01,2019-11-30,Q25b,unknown_household_type,1
+Not a Veteran,645,all_households,2019-11-01,2019-11-30,Q25b,without_children,526
+Not a Veteran,645,all_households,2019-11-01,2019-11-30,Q25b,with_children_and_adults,117
+Not a Veteran,645,all_households,2019-11-01,2019-11-30,Q25b,unknown_household_type,2
+Client Doesn't Know/Client Refused,0,all_households,2019-11-01,2019-11-30,Q25b,without_children,0
+Client Doesn't Know/Client Refused,0,all_households,2019-11-01,2019-11-30,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,all_households,2019-11-01,2019-11-30,Q25b,unknown_household_type,0
+Data Not Collected,7,all_households,2019-11-01,2019-11-30,Q25b,without_children,7
+Data Not Collected,7,all_households,2019-11-01,2019-11-30,Q25b,with_children_and_adults,0
+Data Not Collected,7,all_households,2019-11-01,2019-11-30,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,17,all_households,2019-12-01,2019-12-31,Q25b,without_children,17
+Chronically Homeless Veteran,17,all_households,2019-12-01,2019-12-31,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,17,all_households,2019-12-01,2019-12-31,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,29,all_households,2019-12-01,2019-12-31,Q25b,without_children,24
+Non-Chronically Homeless Veteran,29,all_households,2019-12-01,2019-12-31,Q25b,with_children_and_adults,4
+Non-Chronically Homeless Veteran,29,all_households,2019-12-01,2019-12-31,Q25b,unknown_household_type,1
+Not a Veteran,664,all_households,2019-12-01,2019-12-31,Q25b,without_children,530
+Not a Veteran,664,all_households,2019-12-01,2019-12-31,Q25b,with_children_and_adults,132
+Not a Veteran,664,all_households,2019-12-01,2019-12-31,Q25b,unknown_household_type,2
+Client Doesn't Know/Client Refused,0,all_households,2019-12-01,2019-12-31,Q25b,without_children,0
+Client Doesn't Know/Client Refused,0,all_households,2019-12-01,2019-12-31,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,all_households,2019-12-01,2019-12-31,Q25b,unknown_household_type,0
+Data Not Collected,6,all_households,2019-12-01,2019-12-31,Q25b,without_children,6
+Data Not Collected,6,all_households,2019-12-01,2019-12-31,Q25b,with_children_and_adults,0
+Data Not Collected,6,all_households,2019-12-01,2019-12-31,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,16,all_households,2020-01-01,2020-01-31,Q25b,without_children,16
+Chronically Homeless Veteran,16,all_households,2020-01-01,2020-01-31,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,16,all_households,2020-01-01,2020-01-31,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,31,all_households,2020-01-01,2020-01-31,Q25b,without_children,26
+Non-Chronically Homeless Veteran,31,all_households,2020-01-01,2020-01-31,Q25b,with_children_and_adults,4
+Non-Chronically Homeless Veteran,31,all_households,2020-01-01,2020-01-31,Q25b,unknown_household_type,1
+Not a Veteran,702,all_households,2020-01-01,2020-01-31,Q25b,without_children,579
+Not a Veteran,702,all_households,2020-01-01,2020-01-31,Q25b,with_children_and_adults,121
+Not a Veteran,702,all_households,2020-01-01,2020-01-31,Q25b,unknown_household_type,2
+Client Doesn't Know/Client Refused,0,all_households,2020-01-01,2020-01-31,Q25b,without_children,0
+Client Doesn't Know/Client Refused,0,all_households,2020-01-01,2020-01-31,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,all_households,2020-01-01,2020-01-31,Q25b,unknown_household_type,0
+Data Not Collected,10,all_households,2020-01-01,2020-01-31,Q25b,without_children,10
+Data Not Collected,10,all_households,2020-01-01,2020-01-31,Q25b,with_children_and_adults,0
+Data Not Collected,10,all_households,2020-01-01,2020-01-31,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,16,all_households,2020-02-01,2020-02-29,Q25b,without_children,16
+Chronically Homeless Veteran,16,all_households,2020-02-01,2020-02-29,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,16,all_households,2020-02-01,2020-02-29,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,35,all_households,2020-02-01,2020-02-29,Q25b,without_children,31
+Non-Chronically Homeless Veteran,35,all_households,2020-02-01,2020-02-29,Q25b,with_children_and_adults,3
+Non-Chronically Homeless Veteran,35,all_households,2020-02-01,2020-02-29,Q25b,unknown_household_type,1
+Not a Veteran,677,all_households,2020-02-01,2020-02-29,Q25b,without_children,559
+Not a Veteran,677,all_households,2020-02-01,2020-02-29,Q25b,with_children_and_adults,116
+Not a Veteran,677,all_households,2020-02-01,2020-02-29,Q25b,unknown_household_type,2
+Client Doesn't Know/Client Refused,0,all_households,2020-02-01,2020-02-29,Q25b,without_children,0
+Client Doesn't Know/Client Refused,0,all_households,2020-02-01,2020-02-29,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,all_households,2020-02-01,2020-02-29,Q25b,unknown_household_type,0
+Data Not Collected,7,all_households,2020-02-01,2020-02-29,Q25b,without_children,7
+Data Not Collected,7,all_households,2020-02-01,2020-02-29,Q25b,with_children_and_adults,0
+Data Not Collected,7,all_households,2020-02-01,2020-02-29,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,15,all_households,2020-03-01,2020-03-31,Q25b,without_children,15
+Chronically Homeless Veteran,15,all_households,2020-03-01,2020-03-31,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,15,all_households,2020-03-01,2020-03-31,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,31,all_households,2020-03-01,2020-03-31,Q25b,without_children,27
+Non-Chronically Homeless Veteran,31,all_households,2020-03-01,2020-03-31,Q25b,with_children_and_adults,3
+Non-Chronically Homeless Veteran,31,all_households,2020-03-01,2020-03-31,Q25b,unknown_household_type,1
+Not a Veteran,640,all_households,2020-03-01,2020-03-31,Q25b,without_children,542
+Not a Veteran,640,all_households,2020-03-01,2020-03-31,Q25b,with_children_and_adults,96
+Not a Veteran,640,all_households,2020-03-01,2020-03-31,Q25b,unknown_household_type,2
+Client Doesn't Know/Client Refused,1,all_households,2020-03-01,2020-03-31,Q25b,without_children,1
+Client Doesn't Know/Client Refused,1,all_households,2020-03-01,2020-03-31,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_households,2020-03-01,2020-03-31,Q25b,unknown_household_type,0
+Data Not Collected,3,all_households,2020-03-01,2020-03-31,Q25b,without_children,3
+Data Not Collected,3,all_households,2020-03-01,2020-03-31,Q25b,with_children_and_adults,0
+Data Not Collected,3,all_households,2020-03-01,2020-03-31,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,17,all_households,2020-04-01,2020-04-30,Q25b,without_children,17
+Chronically Homeless Veteran,17,all_households,2020-04-01,2020-04-30,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,17,all_households,2020-04-01,2020-04-30,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,30,all_households,2020-04-01,2020-04-30,Q25b,without_children,27
+Non-Chronically Homeless Veteran,30,all_households,2020-04-01,2020-04-30,Q25b,with_children_and_adults,2
+Non-Chronically Homeless Veteran,30,all_households,2020-04-01,2020-04-30,Q25b,unknown_household_type,1
+Not a Veteran,629,all_households,2020-04-01,2020-04-30,Q25b,without_children,539
+Not a Veteran,629,all_households,2020-04-01,2020-04-30,Q25b,with_children_and_adults,88
+Not a Veteran,629,all_households,2020-04-01,2020-04-30,Q25b,unknown_household_type,2
+Client Doesn't Know/Client Refused,3,all_households,2020-04-01,2020-04-30,Q25b,without_children,3
+Client Doesn't Know/Client Refused,3,all_households,2020-04-01,2020-04-30,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,3,all_households,2020-04-01,2020-04-30,Q25b,unknown_household_type,0
+Data Not Collected,3,all_households,2020-04-01,2020-04-30,Q25b,without_children,3
+Data Not Collected,3,all_households,2020-04-01,2020-04-30,Q25b,with_children_and_adults,0
+Data Not Collected,3,all_households,2020-04-01,2020-04-30,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,18,all_households,2020-05-01,2020-05-31,Q25b,without_children,18
+Chronically Homeless Veteran,18,all_households,2020-05-01,2020-05-31,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,18,all_households,2020-05-01,2020-05-31,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,32,all_households,2020-05-01,2020-05-31,Q25b,without_children,30
+Non-Chronically Homeless Veteran,32,all_households,2020-05-01,2020-05-31,Q25b,with_children_and_adults,2
+Non-Chronically Homeless Veteran,32,all_households,2020-05-01,2020-05-31,Q25b,unknown_household_type,0
+Not a Veteran,624,all_households,2020-05-01,2020-05-31,Q25b,without_children,535
+Not a Veteran,624,all_households,2020-05-01,2020-05-31,Q25b,with_children_and_adults,87
+Not a Veteran,624,all_households,2020-05-01,2020-05-31,Q25b,unknown_household_type,2
+Client Doesn't Know/Client Refused,1,all_households,2020-05-01,2020-05-31,Q25b,without_children,1
+Client Doesn't Know/Client Refused,1,all_households,2020-05-01,2020-05-31,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_households,2020-05-01,2020-05-31,Q25b,unknown_household_type,0
+Data Not Collected,4,all_households,2020-05-01,2020-05-31,Q25b,without_children,4
+Data Not Collected,4,all_households,2020-05-01,2020-05-31,Q25b,with_children_and_adults,0
+Data Not Collected,4,all_households,2020-05-01,2020-05-31,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,16,all_households,2020-06-01,2020-06-30,Q25b,without_children,16
+Chronically Homeless Veteran,16,all_households,2020-06-01,2020-06-30,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,16,all_households,2020-06-01,2020-06-30,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,35,all_households,2020-06-01,2020-06-30,Q25b,without_children,33
+Non-Chronically Homeless Veteran,35,all_households,2020-06-01,2020-06-30,Q25b,with_children_and_adults,2
+Non-Chronically Homeless Veteran,35,all_households,2020-06-01,2020-06-30,Q25b,unknown_household_type,0
+Not a Veteran,636,all_households,2020-06-01,2020-06-30,Q25b,without_children,547
+Not a Veteran,636,all_households,2020-06-01,2020-06-30,Q25b,with_children_and_adults,87
+Not a Veteran,636,all_households,2020-06-01,2020-06-30,Q25b,unknown_household_type,2
+Client Doesn't Know/Client Refused,1,all_households,2020-06-01,2020-06-30,Q25b,without_children,1
+Client Doesn't Know/Client Refused,1,all_households,2020-06-01,2020-06-30,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_households,2020-06-01,2020-06-30,Q25b,unknown_household_type,0
+Data Not Collected,4,all_households,2020-06-01,2020-06-30,Q25b,without_children,4
+Data Not Collected,4,all_households,2020-06-01,2020-06-30,Q25b,with_children_and_adults,0
+Data Not Collected,4,all_households,2020-06-01,2020-06-30,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,14,all_households,2020-07-01,2020-07-31,Q25b,without_children,14
+Chronically Homeless Veteran,14,all_households,2020-07-01,2020-07-31,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,14,all_households,2020-07-01,2020-07-31,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,33,all_households,2020-07-01,2020-07-31,Q25b,without_children,31
+Non-Chronically Homeless Veteran,33,all_households,2020-07-01,2020-07-31,Q25b,with_children_and_adults,2
+Non-Chronically Homeless Veteran,33,all_households,2020-07-01,2020-07-31,Q25b,unknown_household_type,0
+Not a Veteran,606,all_households,2020-07-01,2020-07-31,Q25b,without_children,514
+Not a Veteran,606,all_households,2020-07-01,2020-07-31,Q25b,with_children_and_adults,90
+Not a Veteran,606,all_households,2020-07-01,2020-07-31,Q25b,unknown_household_type,2
+Client Doesn't Know/Client Refused,1,all_households,2020-07-01,2020-07-31,Q25b,without_children,1
+Client Doesn't Know/Client Refused,1,all_households,2020-07-01,2020-07-31,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_households,2020-07-01,2020-07-31,Q25b,unknown_household_type,0
+Data Not Collected,3,all_households,2020-07-01,2020-07-31,Q25b,without_children,3
+Data Not Collected,3,all_households,2020-07-01,2020-07-31,Q25b,with_children_and_adults,0
+Data Not Collected,3,all_households,2020-07-01,2020-07-31,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,15,all_households,2020-08-01,2020-08-31,Q25b,without_children,15
+Chronically Homeless Veteran,15,all_households,2020-08-01,2020-08-31,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,15,all_households,2020-08-01,2020-08-31,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,28,all_households,2020-08-01,2020-08-31,Q25b,without_children,25
+Non-Chronically Homeless Veteran,28,all_households,2020-08-01,2020-08-31,Q25b,with_children_and_adults,3
+Non-Chronically Homeless Veteran,28,all_households,2020-08-01,2020-08-31,Q25b,unknown_household_type,0
+Not a Veteran,610,all_households,2020-08-01,2020-08-31,Q25b,without_children,522
+Not a Veteran,610,all_households,2020-08-01,2020-08-31,Q25b,with_children_and_adults,86
+Not a Veteran,610,all_households,2020-08-01,2020-08-31,Q25b,unknown_household_type,2
+Client Doesn't Know/Client Refused,1,all_households,2020-08-01,2020-08-31,Q25b,without_children,1
+Client Doesn't Know/Client Refused,1,all_households,2020-08-01,2020-08-31,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_households,2020-08-01,2020-08-31,Q25b,unknown_household_type,0
+Data Not Collected,4,all_households,2020-08-01,2020-08-31,Q25b,without_children,4
+Data Not Collected,4,all_households,2020-08-01,2020-08-31,Q25b,with_children_and_adults,0
+Data Not Collected,4,all_households,2020-08-01,2020-08-31,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,16,all_households,2020-09-01,2020-09-30,Q25b,without_children,16
+Chronically Homeless Veteran,16,all_households,2020-09-01,2020-09-30,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,16,all_households,2020-09-01,2020-09-30,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,31,all_households,2020-09-01,2020-09-30,Q25b,without_children,29
+Non-Chronically Homeless Veteran,31,all_households,2020-09-01,2020-09-30,Q25b,with_children_and_adults,2
+Non-Chronically Homeless Veteran,31,all_households,2020-09-01,2020-09-30,Q25b,unknown_household_type,0
+Not a Veteran,631,all_households,2020-09-01,2020-09-30,Q25b,without_children,535
+Not a Veteran,631,all_households,2020-09-01,2020-09-30,Q25b,with_children_and_adults,94
+Not a Veteran,631,all_households,2020-09-01,2020-09-30,Q25b,unknown_household_type,2
+Client Doesn't Know/Client Refused,1,all_households,2020-09-01,2020-09-30,Q25b,without_children,1
+Client Doesn't Know/Client Refused,1,all_households,2020-09-01,2020-09-30,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_households,2020-09-01,2020-09-30,Q25b,unknown_household_type,0
+Data Not Collected,4,all_households,2020-09-01,2020-09-30,Q25b,without_children,4
+Data Not Collected,4,all_households,2020-09-01,2020-09-30,Q25b,with_children_and_adults,0
+Data Not Collected,4,all_households,2020-09-01,2020-09-30,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,16,all_households,2020-10-01,2020-10-31,Q25b,without_children,16
+Chronically Homeless Veteran,16,all_households,2020-10-01,2020-10-31,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,16,all_households,2020-10-01,2020-10-31,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,37,all_households,2020-10-01,2020-10-31,Q25b,without_children,33
+Non-Chronically Homeless Veteran,37,all_households,2020-10-01,2020-10-31,Q25b,with_children_and_adults,4
+Non-Chronically Homeless Veteran,37,all_households,2020-10-01,2020-10-31,Q25b,unknown_household_type,0
+Not a Veteran,656,all_households,2020-10-01,2020-10-31,Q25b,without_children,560
+Not a Veteran,656,all_households,2020-10-01,2020-10-31,Q25b,with_children_and_adults,93
+Not a Veteran,656,all_households,2020-10-01,2020-10-31,Q25b,unknown_household_type,3
+Client Doesn't Know/Client Refused,1,all_households,2020-10-01,2020-10-31,Q25b,without_children,1
+Client Doesn't Know/Client Refused,1,all_households,2020-10-01,2020-10-31,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_households,2020-10-01,2020-10-31,Q25b,unknown_household_type,0
+Data Not Collected,4,all_households,2020-10-01,2020-10-31,Q25b,without_children,4
+Data Not Collected,4,all_households,2020-10-01,2020-10-31,Q25b,with_children_and_adults,0
+Data Not Collected,4,all_households,2020-10-01,2020-10-31,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,17,all_households,2020-11-01,2020-11-30,Q25b,without_children,17
+Chronically Homeless Veteran,17,all_households,2020-11-01,2020-11-30,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,17,all_households,2020-11-01,2020-11-30,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,34,all_households,2020-11-01,2020-11-30,Q25b,without_children,31
+Non-Chronically Homeless Veteran,34,all_households,2020-11-01,2020-11-30,Q25b,with_children_and_adults,3
+Non-Chronically Homeless Veteran,34,all_households,2020-11-01,2020-11-30,Q25b,unknown_household_type,0
+Not a Veteran,713,all_households,2020-11-01,2020-11-30,Q25b,without_children,616
+Not a Veteran,713,all_households,2020-11-01,2020-11-30,Q25b,with_children_and_adults,94
+Not a Veteran,713,all_households,2020-11-01,2020-11-30,Q25b,unknown_household_type,3
+Client Doesn't Know/Client Refused,0,all_households,2020-11-01,2020-11-30,Q25b,without_children,0
+Client Doesn't Know/Client Refused,0,all_households,2020-11-01,2020-11-30,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,all_households,2020-11-01,2020-11-30,Q25b,unknown_household_type,0
+Data Not Collected,7,all_households,2020-11-01,2020-11-30,Q25b,without_children,7
+Data Not Collected,7,all_households,2020-11-01,2020-11-30,Q25b,with_children_and_adults,0
+Data Not Collected,7,all_households,2020-11-01,2020-11-30,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,16,all_households,2020-12-01,2020-12-31,Q25b,without_children,16
+Chronically Homeless Veteran,16,all_households,2020-12-01,2020-12-31,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,16,all_households,2020-12-01,2020-12-31,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,36,all_households,2020-12-01,2020-12-31,Q25b,without_children,33
+Non-Chronically Homeless Veteran,36,all_households,2020-12-01,2020-12-31,Q25b,with_children_and_adults,3
+Non-Chronically Homeless Veteran,36,all_households,2020-12-01,2020-12-31,Q25b,unknown_household_type,0
+Not a Veteran,721,all_households,2020-12-01,2020-12-31,Q25b,without_children,620
+Not a Veteran,721,all_households,2020-12-01,2020-12-31,Q25b,with_children_and_adults,98
+Not a Veteran,721,all_households,2020-12-01,2020-12-31,Q25b,unknown_household_type,3
+Client Doesn't Know/Client Refused,1,all_households,2020-12-01,2020-12-31,Q25b,without_children,1
+Client Doesn't Know/Client Refused,1,all_households,2020-12-01,2020-12-31,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_households,2020-12-01,2020-12-31,Q25b,unknown_household_type,0
+Data Not Collected,11,all_households,2020-12-01,2020-12-31,Q25b,without_children,11
+Data Not Collected,11,all_households,2020-12-01,2020-12-31,Q25b,with_children_and_adults,0
+Data Not Collected,11,all_households,2020-12-01,2020-12-31,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,16,all_households,2021-01-01,2021-01-31,Q25b,without_children,16
+Chronically Homeless Veteran,16,all_households,2021-01-01,2021-01-31,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,16,all_households,2021-01-01,2021-01-31,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,37,all_households,2021-01-01,2021-01-31,Q25b,without_children,36
+Non-Chronically Homeless Veteran,37,all_households,2021-01-01,2021-01-31,Q25b,with_children_and_adults,1
+Non-Chronically Homeless Veteran,37,all_households,2021-01-01,2021-01-31,Q25b,unknown_household_type,0
+Not a Veteran,750,all_households,2021-01-01,2021-01-31,Q25b,without_children,648
+Not a Veteran,750,all_households,2021-01-01,2021-01-31,Q25b,with_children_and_adults,99
+Not a Veteran,750,all_households,2021-01-01,2021-01-31,Q25b,unknown_household_type,3
+Client Doesn't Know/Client Refused,2,all_households,2021-01-01,2021-01-31,Q25b,without_children,2
+Client Doesn't Know/Client Refused,2,all_households,2021-01-01,2021-01-31,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,2,all_households,2021-01-01,2021-01-31,Q25b,unknown_household_type,0
+Data Not Collected,8,all_households,2021-01-01,2021-01-31,Q25b,without_children,8
+Data Not Collected,8,all_households,2021-01-01,2021-01-31,Q25b,with_children_and_adults,0
+Data Not Collected,8,all_households,2021-01-01,2021-01-31,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,17,all_households,2021-02-01,2021-02-28,Q25b,without_children,17
+Chronically Homeless Veteran,17,all_households,2021-02-01,2021-02-28,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,17,all_households,2021-02-01,2021-02-28,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,31,all_households,2021-02-01,2021-02-28,Q25b,without_children,29
+Non-Chronically Homeless Veteran,31,all_households,2021-02-01,2021-02-28,Q25b,with_children_and_adults,2
+Non-Chronically Homeless Veteran,31,all_households,2021-02-01,2021-02-28,Q25b,unknown_household_type,0
+Not a Veteran,708,all_households,2021-02-01,2021-02-28,Q25b,without_children,614
+Not a Veteran,708,all_households,2021-02-01,2021-02-28,Q25b,with_children_and_adults,91
+Not a Veteran,708,all_households,2021-02-01,2021-02-28,Q25b,unknown_household_type,3
+Client Doesn't Know/Client Refused,4,all_households,2021-02-01,2021-02-28,Q25b,without_children,4
+Client Doesn't Know/Client Refused,4,all_households,2021-02-01,2021-02-28,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,4,all_households,2021-02-01,2021-02-28,Q25b,unknown_household_type,0
+Data Not Collected,10,all_households,2021-02-01,2021-02-28,Q25b,without_children,10
+Data Not Collected,10,all_households,2021-02-01,2021-02-28,Q25b,with_children_and_adults,0
+Data Not Collected,10,all_households,2021-02-01,2021-02-28,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,18,all_households,2021-03-01,2021-03-31,Q25b,without_children,18
+Chronically Homeless Veteran,18,all_households,2021-03-01,2021-03-31,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,18,all_households,2021-03-01,2021-03-31,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,33,all_households,2021-03-01,2021-03-31,Q25b,without_children,31
+Non-Chronically Homeless Veteran,33,all_households,2021-03-01,2021-03-31,Q25b,with_children_and_adults,2
+Non-Chronically Homeless Veteran,33,all_households,2021-03-01,2021-03-31,Q25b,unknown_household_type,0
+Not a Veteran,713,all_households,2021-03-01,2021-03-31,Q25b,without_children,618
+Not a Veteran,713,all_households,2021-03-01,2021-03-31,Q25b,with_children_and_adults,92
+Not a Veteran,713,all_households,2021-03-01,2021-03-31,Q25b,unknown_household_type,3
+Client Doesn't Know/Client Refused,1,all_households,2021-03-01,2021-03-31,Q25b,without_children,1
+Client Doesn't Know/Client Refused,1,all_households,2021-03-01,2021-03-31,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_households,2021-03-01,2021-03-31,Q25b,unknown_household_type,0
+Data Not Collected,11,all_households,2021-03-01,2021-03-31,Q25b,without_children,11
+Data Not Collected,11,all_households,2021-03-01,2021-03-31,Q25b,with_children_and_adults,0
+Data Not Collected,11,all_households,2021-03-01,2021-03-31,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,17,all_households,2021-04-01,2021-04-30,Q25b,without_children,17
+Chronically Homeless Veteran,17,all_households,2021-04-01,2021-04-30,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,17,all_households,2021-04-01,2021-04-30,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,33,all_households,2021-04-01,2021-04-30,Q25b,without_children,31
+Non-Chronically Homeless Veteran,33,all_households,2021-04-01,2021-04-30,Q25b,with_children_and_adults,2
+Non-Chronically Homeless Veteran,33,all_households,2021-04-01,2021-04-30,Q25b,unknown_household_type,0
+Not a Veteran,683,all_households,2021-04-01,2021-04-30,Q25b,without_children,593
+Not a Veteran,683,all_households,2021-04-01,2021-04-30,Q25b,with_children_and_adults,87
+Not a Veteran,683,all_households,2021-04-01,2021-04-30,Q25b,unknown_household_type,3
+Client Doesn't Know/Client Refused,1,all_households,2021-04-01,2021-04-30,Q25b,without_children,1
+Client Doesn't Know/Client Refused,1,all_households,2021-04-01,2021-04-30,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_households,2021-04-01,2021-04-30,Q25b,unknown_household_type,0
+Data Not Collected,9,all_households,2021-04-01,2021-04-30,Q25b,without_children,9
+Data Not Collected,9,all_households,2021-04-01,2021-04-30,Q25b,with_children_and_adults,0
+Data Not Collected,9,all_households,2021-04-01,2021-04-30,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,18,all_households,2021-05-01,2021-05-31,Q25b,without_children,18
+Chronically Homeless Veteran,18,all_households,2021-05-01,2021-05-31,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,18,all_households,2021-05-01,2021-05-31,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,35,all_households,2021-05-01,2021-05-31,Q25b,without_children,34
+Non-Chronically Homeless Veteran,35,all_households,2021-05-01,2021-05-31,Q25b,with_children_and_adults,1
+Non-Chronically Homeless Veteran,35,all_households,2021-05-01,2021-05-31,Q25b,unknown_household_type,0
+Not a Veteran,646,all_households,2021-05-01,2021-05-31,Q25b,without_children,558
+Not a Veteran,646,all_households,2021-05-01,2021-05-31,Q25b,with_children_and_adults,85
+Not a Veteran,646,all_households,2021-05-01,2021-05-31,Q25b,unknown_household_type,3
+Client Doesn't Know/Client Refused,1,all_households,2021-05-01,2021-05-31,Q25b,without_children,1
+Client Doesn't Know/Client Refused,1,all_households,2021-05-01,2021-05-31,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_households,2021-05-01,2021-05-31,Q25b,unknown_household_type,0
+Data Not Collected,12,all_households,2021-05-01,2021-05-31,Q25b,without_children,12
+Data Not Collected,12,all_households,2021-05-01,2021-05-31,Q25b,with_children_and_adults,0
+Data Not Collected,12,all_households,2021-05-01,2021-05-31,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,17,all_households,2021-06-01,2021-06-30,Q25b,without_children,17
+Chronically Homeless Veteran,17,all_households,2021-06-01,2021-06-30,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,17,all_households,2021-06-01,2021-06-30,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,35,all_households,2021-06-01,2021-06-30,Q25b,without_children,34
+Non-Chronically Homeless Veteran,35,all_households,2021-06-01,2021-06-30,Q25b,with_children_and_adults,1
+Non-Chronically Homeless Veteran,35,all_households,2021-06-01,2021-06-30,Q25b,unknown_household_type,0
+Not a Veteran,681,all_households,2021-06-01,2021-06-30,Q25b,without_children,594
+Not a Veteran,681,all_households,2021-06-01,2021-06-30,Q25b,with_children_and_adults,85
+Not a Veteran,681,all_households,2021-06-01,2021-06-30,Q25b,unknown_household_type,2
+Client Doesn't Know/Client Refused,1,all_households,2021-06-01,2021-06-30,Q25b,without_children,1
+Client Doesn't Know/Client Refused,1,all_households,2021-06-01,2021-06-30,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_households,2021-06-01,2021-06-30,Q25b,unknown_household_type,0
+Data Not Collected,10,all_households,2021-06-01,2021-06-30,Q25b,without_children,10
+Data Not Collected,10,all_households,2021-06-01,2021-06-30,Q25b,with_children_and_adults,0
+Data Not Collected,10,all_households,2021-06-01,2021-06-30,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,18,all_households,2021-07-01,2021-07-31,Q25b,without_children,18
+Chronically Homeless Veteran,18,all_households,2021-07-01,2021-07-31,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,18,all_households,2021-07-01,2021-07-31,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,35,all_households,2021-07-01,2021-07-31,Q25b,without_children,35
+Non-Chronically Homeless Veteran,35,all_households,2021-07-01,2021-07-31,Q25b,with_children_and_adults,0
+Non-Chronically Homeless Veteran,35,all_households,2021-07-01,2021-07-31,Q25b,unknown_household_type,0
+Not a Veteran,687,all_households,2021-07-01,2021-07-31,Q25b,without_children,584
+Not a Veteran,687,all_households,2021-07-01,2021-07-31,Q25b,with_children_and_adults,101
+Not a Veteran,687,all_households,2021-07-01,2021-07-31,Q25b,unknown_household_type,2
+Client Doesn't Know/Client Refused,1,all_households,2021-07-01,2021-07-31,Q25b,without_children,1
+Client Doesn't Know/Client Refused,1,all_households,2021-07-01,2021-07-31,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_households,2021-07-01,2021-07-31,Q25b,unknown_household_type,0
+Data Not Collected,10,all_households,2021-07-01,2021-07-31,Q25b,without_children,10
+Data Not Collected,10,all_households,2021-07-01,2021-07-31,Q25b,with_children_and_adults,0
+Data Not Collected,10,all_households,2021-07-01,2021-07-31,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,17,all_households,2021-08-01,2021-08-31,Q25b,without_children,17
+Chronically Homeless Veteran,17,all_households,2021-08-01,2021-08-31,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,17,all_households,2021-08-01,2021-08-31,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,47,all_households,2021-08-01,2021-08-31,Q25b,without_children,46
+Non-Chronically Homeless Veteran,47,all_households,2021-08-01,2021-08-31,Q25b,with_children_and_adults,1
+Non-Chronically Homeless Veteran,47,all_households,2021-08-01,2021-08-31,Q25b,unknown_household_type,0
+Not a Veteran,773,all_households,2021-08-01,2021-08-31,Q25b,without_children,651
+Not a Veteran,773,all_households,2021-08-01,2021-08-31,Q25b,with_children_and_adults,120
+Not a Veteran,773,all_households,2021-08-01,2021-08-31,Q25b,unknown_household_type,2
+Client Doesn't Know/Client Refused,1,all_households,2021-08-01,2021-08-31,Q25b,without_children,1
+Client Doesn't Know/Client Refused,1,all_households,2021-08-01,2021-08-31,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_households,2021-08-01,2021-08-31,Q25b,unknown_household_type,0
+Data Not Collected,10,all_households,2021-08-01,2021-08-31,Q25b,without_children,10
+Data Not Collected,10,all_households,2021-08-01,2021-08-31,Q25b,with_children_and_adults,0
+Data Not Collected,10,all_households,2021-08-01,2021-08-31,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,18,all_households,2021-09-01,2021-09-30,Q25b,without_children,18
+Chronically Homeless Veteran,18,all_households,2021-09-01,2021-09-30,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,18,all_households,2021-09-01,2021-09-30,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,55,all_households,2021-09-01,2021-09-30,Q25b,without_children,51
+Non-Chronically Homeless Veteran,55,all_households,2021-09-01,2021-09-30,Q25b,with_children_and_adults,4
+Non-Chronically Homeless Veteran,55,all_households,2021-09-01,2021-09-30,Q25b,unknown_household_type,0
+Not a Veteran,794,all_households,2021-09-01,2021-09-30,Q25b,without_children,674
+Not a Veteran,794,all_households,2021-09-01,2021-09-30,Q25b,with_children_and_adults,118
+Not a Veteran,794,all_households,2021-09-01,2021-09-30,Q25b,unknown_household_type,2
+Client Doesn't Know/Client Refused,1,all_households,2021-09-01,2021-09-30,Q25b,without_children,1
+Client Doesn't Know/Client Refused,1,all_households,2021-09-01,2021-09-30,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_households,2021-09-01,2021-09-30,Q25b,unknown_household_type,0
+Data Not Collected,9,all_households,2021-09-01,2021-09-30,Q25b,without_children,9
+Data Not Collected,9,all_households,2021-09-01,2021-09-30,Q25b,with_children_and_adults,0
+Data Not Collected,9,all_households,2021-09-01,2021-09-30,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,18,all_households,2021-10-01,2021-10-31,Q25b,without_children,18
+Chronically Homeless Veteran,18,all_households,2021-10-01,2021-10-31,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,18,all_households,2021-10-01,2021-10-31,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,50,all_households,2021-10-01,2021-10-31,Q25b,without_children,49
+Non-Chronically Homeless Veteran,50,all_households,2021-10-01,2021-10-31,Q25b,with_children_and_adults,1
+Non-Chronically Homeless Veteran,50,all_households,2021-10-01,2021-10-31,Q25b,unknown_household_type,0
+Not a Veteran,835,all_households,2021-10-01,2021-10-31,Q25b,without_children,708
+Not a Veteran,835,all_households,2021-10-01,2021-10-31,Q25b,with_children_and_adults,125
+Not a Veteran,835,all_households,2021-10-01,2021-10-31,Q25b,unknown_household_type,2
+Client Doesn't Know/Client Refused,0,all_households,2021-10-01,2021-10-31,Q25b,without_children,0
+Client Doesn't Know/Client Refused,0,all_households,2021-10-01,2021-10-31,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,all_households,2021-10-01,2021-10-31,Q25b,unknown_household_type,0
+Data Not Collected,12,all_households,2021-10-01,2021-10-31,Q25b,without_children,11
+Data Not Collected,12,all_households,2021-10-01,2021-10-31,Q25b,with_children_and_adults,1
+Data Not Collected,12,all_households,2021-10-01,2021-10-31,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,20,all_households,2021-11-01,2021-11-30,Q25b,without_children,20
+Chronically Homeless Veteran,20,all_households,2021-11-01,2021-11-30,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,20,all_households,2021-11-01,2021-11-30,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,50,all_households,2021-11-01,2021-11-30,Q25b,without_children,48
+Non-Chronically Homeless Veteran,50,all_households,2021-11-01,2021-11-30,Q25b,with_children_and_adults,2
+Non-Chronically Homeless Veteran,50,all_households,2021-11-01,2021-11-30,Q25b,unknown_household_type,0
+Not a Veteran,892,all_households,2021-11-01,2021-11-30,Q25b,without_children,762
+Not a Veteran,892,all_households,2021-11-01,2021-11-30,Q25b,with_children_and_adults,128
+Not a Veteran,892,all_households,2021-11-01,2021-11-30,Q25b,unknown_household_type,2
+Client Doesn't Know/Client Refused,1,all_households,2021-11-01,2021-11-30,Q25b,without_children,1
+Client Doesn't Know/Client Refused,1,all_households,2021-11-01,2021-11-30,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_households,2021-11-01,2021-11-30,Q25b,unknown_household_type,0
+Data Not Collected,16,all_households,2021-11-01,2021-11-30,Q25b,without_children,15
+Data Not Collected,16,all_households,2021-11-01,2021-11-30,Q25b,with_children_and_adults,1
+Data Not Collected,16,all_households,2021-11-01,2021-11-30,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,20,all_households,2021-12-01,2021-12-31,Q25b,without_children,20
+Chronically Homeless Veteran,20,all_households,2021-12-01,2021-12-31,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,20,all_households,2021-12-01,2021-12-31,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,52,all_households,2021-12-01,2021-12-31,Q25b,without_children,48
+Non-Chronically Homeless Veteran,52,all_households,2021-12-01,2021-12-31,Q25b,with_children_and_adults,4
+Non-Chronically Homeless Veteran,52,all_households,2021-12-01,2021-12-31,Q25b,unknown_household_type,0
+Not a Veteran,953,all_households,2021-12-01,2021-12-31,Q25b,without_children,811
+Not a Veteran,953,all_households,2021-12-01,2021-12-31,Q25b,with_children_and_adults,140
+Not a Veteran,953,all_households,2021-12-01,2021-12-31,Q25b,unknown_household_type,2
+Client Doesn't Know/Client Refused,2,all_households,2021-12-01,2021-12-31,Q25b,without_children,2
+Client Doesn't Know/Client Refused,2,all_households,2021-12-01,2021-12-31,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,2,all_households,2021-12-01,2021-12-31,Q25b,unknown_household_type,0
+Data Not Collected,15,all_households,2021-12-01,2021-12-31,Q25b,without_children,13
+Data Not Collected,15,all_households,2021-12-01,2021-12-31,Q25b,with_children_and_adults,2
+Data Not Collected,15,all_households,2021-12-01,2021-12-31,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,22,all_households,2022-01-01,2022-01-31,Q25b,without_children,22
+Chronically Homeless Veteran,22,all_households,2022-01-01,2022-01-31,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,22,all_households,2022-01-01,2022-01-31,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,55,all_households,2022-01-01,2022-01-31,Q25b,without_children,52
+Non-Chronically Homeless Veteran,55,all_households,2022-01-01,2022-01-31,Q25b,with_children_and_adults,3
+Non-Chronically Homeless Veteran,55,all_households,2022-01-01,2022-01-31,Q25b,unknown_household_type,0
+Not a Veteran,953,all_households,2022-01-01,2022-01-31,Q25b,without_children,818
+Not a Veteran,953,all_households,2022-01-01,2022-01-31,Q25b,with_children_and_adults,133
+Not a Veteran,953,all_households,2022-01-01,2022-01-31,Q25b,unknown_household_type,2
+Client Doesn't Know/Client Refused,2,all_households,2022-01-01,2022-01-31,Q25b,without_children,2
+Client Doesn't Know/Client Refused,2,all_households,2022-01-01,2022-01-31,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,2,all_households,2022-01-01,2022-01-31,Q25b,unknown_household_type,0
+Data Not Collected,15,all_households,2022-01-01,2022-01-31,Q25b,without_children,14
+Data Not Collected,15,all_households,2022-01-01,2022-01-31,Q25b,with_children_and_adults,1
+Data Not Collected,15,all_households,2022-01-01,2022-01-31,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,24,all_households,2022-02-01,2022-02-28,Q25b,without_children,24
+Chronically Homeless Veteran,24,all_households,2022-02-01,2022-02-28,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,24,all_households,2022-02-01,2022-02-28,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,46,all_households,2022-02-01,2022-02-28,Q25b,without_children,43
+Non-Chronically Homeless Veteran,46,all_households,2022-02-01,2022-02-28,Q25b,with_children_and_adults,3
+Non-Chronically Homeless Veteran,46,all_households,2022-02-01,2022-02-28,Q25b,unknown_household_type,0
+Not a Veteran,981,all_households,2022-02-01,2022-02-28,Q25b,without_children,835
+Not a Veteran,981,all_households,2022-02-01,2022-02-28,Q25b,with_children_and_adults,143
+Not a Veteran,981,all_households,2022-02-01,2022-02-28,Q25b,unknown_household_type,3
+Client Doesn't Know/Client Refused,3,all_households,2022-02-01,2022-02-28,Q25b,without_children,3
+Client Doesn't Know/Client Refused,3,all_households,2022-02-01,2022-02-28,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,3,all_households,2022-02-01,2022-02-28,Q25b,unknown_household_type,0
+Data Not Collected,16,all_households,2022-02-01,2022-02-28,Q25b,without_children,15
+Data Not Collected,16,all_households,2022-02-01,2022-02-28,Q25b,with_children_and_adults,1
+Data Not Collected,16,all_households,2022-02-01,2022-02-28,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,23,all_households,2022-03-01,2022-03-31,Q25b,without_children,23
+Chronically Homeless Veteran,23,all_households,2022-03-01,2022-03-31,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,23,all_households,2022-03-01,2022-03-31,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,58,all_households,2022-03-01,2022-03-31,Q25b,without_children,53
+Non-Chronically Homeless Veteran,58,all_households,2022-03-01,2022-03-31,Q25b,with_children_and_adults,5
+Non-Chronically Homeless Veteran,58,all_households,2022-03-01,2022-03-31,Q25b,unknown_household_type,0
+Not a Veteran,1040,all_households,2022-03-01,2022-03-31,Q25b,without_children,867
+Not a Veteran,1040,all_households,2022-03-01,2022-03-31,Q25b,with_children_and_adults,169
+Not a Veteran,1040,all_households,2022-03-01,2022-03-31,Q25b,unknown_household_type,4
+Client Doesn't Know/Client Refused,4,all_households,2022-03-01,2022-03-31,Q25b,without_children,4
+Client Doesn't Know/Client Refused,4,all_households,2022-03-01,2022-03-31,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,4,all_households,2022-03-01,2022-03-31,Q25b,unknown_household_type,0
+Data Not Collected,17,all_households,2022-03-01,2022-03-31,Q25b,without_children,15
+Data Not Collected,17,all_households,2022-03-01,2022-03-31,Q25b,with_children_and_adults,1
+Data Not Collected,17,all_households,2022-03-01,2022-03-31,Q25b,unknown_household_type,1
+Chronically Homeless Veteran,23,all_households,2022-04-01,2022-04-30,Q25b,without_children,23
+Chronically Homeless Veteran,23,all_households,2022-04-01,2022-04-30,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,23,all_households,2022-04-01,2022-04-30,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,53,all_households,2022-04-01,2022-04-30,Q25b,without_children,51
+Non-Chronically Homeless Veteran,53,all_households,2022-04-01,2022-04-30,Q25b,with_children_and_adults,2
+Non-Chronically Homeless Veteran,53,all_households,2022-04-01,2022-04-30,Q25b,unknown_household_type,0
+Not a Veteran,1054,all_households,2022-04-01,2022-04-30,Q25b,without_children,880
+Not a Veteran,1054,all_households,2022-04-01,2022-04-30,Q25b,with_children_and_adults,172
+Not a Veteran,1054,all_households,2022-04-01,2022-04-30,Q25b,unknown_household_type,2
+Client Doesn't Know/Client Refused,4,all_households,2022-04-01,2022-04-30,Q25b,without_children,4
+Client Doesn't Know/Client Refused,4,all_households,2022-04-01,2022-04-30,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,4,all_households,2022-04-01,2022-04-30,Q25b,unknown_household_type,0
+Data Not Collected,15,all_households,2022-04-01,2022-04-30,Q25b,without_children,14
+Data Not Collected,15,all_households,2022-04-01,2022-04-30,Q25b,with_children_and_adults,1
+Data Not Collected,15,all_households,2022-04-01,2022-04-30,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,23,all_households,2022-05-01,2022-05-31,Q25b,without_children,23
+Chronically Homeless Veteran,23,all_households,2022-05-01,2022-05-31,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,23,all_households,2022-05-01,2022-05-31,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,59,all_households,2022-05-01,2022-05-31,Q25b,without_children,55
+Non-Chronically Homeless Veteran,59,all_households,2022-05-01,2022-05-31,Q25b,with_children_and_adults,4
+Non-Chronically Homeless Veteran,59,all_households,2022-05-01,2022-05-31,Q25b,unknown_household_type,0
+Not a Veteran,1043,all_households,2022-05-01,2022-05-31,Q25b,without_children,865
+Not a Veteran,1043,all_households,2022-05-01,2022-05-31,Q25b,with_children_and_adults,176
+Not a Veteran,1043,all_households,2022-05-01,2022-05-31,Q25b,unknown_household_type,2
+Client Doesn't Know/Client Refused,5,all_households,2022-05-01,2022-05-31,Q25b,without_children,5
+Client Doesn't Know/Client Refused,5,all_households,2022-05-01,2022-05-31,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,5,all_households,2022-05-01,2022-05-31,Q25b,unknown_household_type,0
+Data Not Collected,15,all_households,2022-05-01,2022-05-31,Q25b,without_children,14
+Data Not Collected,15,all_households,2022-05-01,2022-05-31,Q25b,with_children_and_adults,1
+Data Not Collected,15,all_households,2022-05-01,2022-05-31,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,20,all_households,2022-06-01,2022-06-30,Q25b,without_children,20
+Chronically Homeless Veteran,20,all_households,2022-06-01,2022-06-30,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,20,all_households,2022-06-01,2022-06-30,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,64,all_households,2022-06-01,2022-06-30,Q25b,without_children,59
+Non-Chronically Homeless Veteran,64,all_households,2022-06-01,2022-06-30,Q25b,with_children_and_adults,5
+Non-Chronically Homeless Veteran,64,all_households,2022-06-01,2022-06-30,Q25b,unknown_household_type,0
+Not a Veteran,1087,all_households,2022-06-01,2022-06-30,Q25b,without_children,902
+Not a Veteran,1087,all_households,2022-06-01,2022-06-30,Q25b,with_children_and_adults,183
+Not a Veteran,1087,all_households,2022-06-01,2022-06-30,Q25b,unknown_household_type,2
+Client Doesn't Know/Client Refused,5,all_households,2022-06-01,2022-06-30,Q25b,without_children,5
+Client Doesn't Know/Client Refused,5,all_households,2022-06-01,2022-06-30,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,5,all_households,2022-06-01,2022-06-30,Q25b,unknown_household_type,0
+Data Not Collected,17,all_households,2022-06-01,2022-06-30,Q25b,without_children,16
+Data Not Collected,17,all_households,2022-06-01,2022-06-30,Q25b,with_children_and_adults,1
+Data Not Collected,17,all_households,2022-06-01,2022-06-30,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,22,all_households,2022-07-01,2022-07-31,Q25b,without_children,22
+Chronically Homeless Veteran,22,all_households,2022-07-01,2022-07-31,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,22,all_households,2022-07-01,2022-07-31,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,62,all_households,2022-07-01,2022-07-31,Q25b,without_children,57
+Non-Chronically Homeless Veteran,62,all_households,2022-07-01,2022-07-31,Q25b,with_children_and_adults,5
+Non-Chronically Homeless Veteran,62,all_households,2022-07-01,2022-07-31,Q25b,unknown_household_type,0
+Not a Veteran,1049,all_households,2022-07-01,2022-07-31,Q25b,without_children,871
+Not a Veteran,1049,all_households,2022-07-01,2022-07-31,Q25b,with_children_and_adults,175
+Not a Veteran,1049,all_households,2022-07-01,2022-07-31,Q25b,unknown_household_type,3
+Client Doesn't Know/Client Refused,5,all_households,2022-07-01,2022-07-31,Q25b,without_children,5
+Client Doesn't Know/Client Refused,5,all_households,2022-07-01,2022-07-31,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,5,all_households,2022-07-01,2022-07-31,Q25b,unknown_household_type,0
+Data Not Collected,20,all_households,2022-07-01,2022-07-31,Q25b,without_children,19
+Data Not Collected,20,all_households,2022-07-01,2022-07-31,Q25b,with_children_and_adults,1
+Data Not Collected,20,all_households,2022-07-01,2022-07-31,Q25b,unknown_household_type,0
+Chronically Homeless Veteran,20,all_households,2022-08-01,2022-08-31,Q25b,without_children,20
+Chronically Homeless Veteran,20,all_households,2022-08-01,2022-08-31,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,20,all_households,2022-08-01,2022-08-31,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,69,all_households,2022-08-01,2022-08-31,Q25b,without_children,62
+Non-Chronically Homeless Veteran,69,all_households,2022-08-01,2022-08-31,Q25b,with_children_and_adults,7
+Non-Chronically Homeless Veteran,69,all_households,2022-08-01,2022-08-31,Q25b,unknown_household_type,0
+Not a Veteran,1082,all_households,2022-08-01,2022-08-31,Q25b,without_children,888
+Not a Veteran,1082,all_households,2022-08-01,2022-08-31,Q25b,with_children_and_adults,190
+Not a Veteran,1082,all_households,2022-08-01,2022-08-31,Q25b,unknown_household_type,4
+Client Doesn't Know/Client Refused,5,all_households,2022-08-01,2022-08-31,Q25b,without_children,5
+Client Doesn't Know/Client Refused,5,all_households,2022-08-01,2022-08-31,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,5,all_households,2022-08-01,2022-08-31,Q25b,unknown_household_type,0
+Data Not Collected,21,all_households,2022-08-01,2022-08-31,Q25b,without_children,20
+Data Not Collected,21,all_households,2022-08-01,2022-08-31,Q25b,with_children_and_adults,1
+Data Not Collected,21,all_households,2022-08-01,2022-08-31,Q25b,unknown_household_type,0

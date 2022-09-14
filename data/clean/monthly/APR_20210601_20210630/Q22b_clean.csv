@@ -1,0 +1,5 @@
+summary,population,start_date,end_date,question,status,count
+Average Length,all_persons,2021-06-01,2021-06-30,Q22b,leavers,120
+Average Length,all_persons,2021-06-01,2021-06-30,Q22b,stayers,659
+Median Length,all_persons,2021-06-01,2021-06-30,Q22b,leavers,22
+Median Length,all_persons,2021-06-01,2021-06-30,Q22b,stayers,512

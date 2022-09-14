@@ -1,0 +1,25 @@
+conditions,population,start_date,end_date,question,status,count
+Mental Health Disorder,chronically_homeless,2015-05-01,2015-05-31,Q26e,conditions_at_start,11
+Mental Health Disorder,chronically_homeless,2015-05-01,2015-05-31,Q26e,conditions_at_latest_assessment_for_stayers,11
+Mental Health Disorder,chronically_homeless,2015-05-01,2015-05-31,Q26e,conditions_at_exit_for_leavers,0
+Alcohol Use Disorder,chronically_homeless,2015-05-01,2015-05-31,Q26e,conditions_at_start,2
+Alcohol Use Disorder,chronically_homeless,2015-05-01,2015-05-31,Q26e,conditions_at_latest_assessment_for_stayers,2
+Alcohol Use Disorder,chronically_homeless,2015-05-01,2015-05-31,Q26e,conditions_at_exit_for_leavers,0
+Drug Use Disorder,chronically_homeless,2015-05-01,2015-05-31,Q26e,conditions_at_start,0
+Drug Use Disorder,chronically_homeless,2015-05-01,2015-05-31,Q26e,conditions_at_latest_assessment_for_stayers,0
+Drug Use Disorder,chronically_homeless,2015-05-01,2015-05-31,Q26e,conditions_at_exit_for_leavers,0
+Both Alcohol and Drug Use Disorders,chronically_homeless,2015-05-01,2015-05-31,Q26e,conditions_at_start,5
+Both Alcohol and Drug Use Disorders,chronically_homeless,2015-05-01,2015-05-31,Q26e,conditions_at_latest_assessment_for_stayers,5
+Both Alcohol and Drug Use Disorders,chronically_homeless,2015-05-01,2015-05-31,Q26e,conditions_at_exit_for_leavers,0
+Chronic Health Condition,chronically_homeless,2015-05-01,2015-05-31,Q26e,conditions_at_start,6
+Chronic Health Condition,chronically_homeless,2015-05-01,2015-05-31,Q26e,conditions_at_latest_assessment_for_stayers,6
+Chronic Health Condition,chronically_homeless,2015-05-01,2015-05-31,Q26e,conditions_at_exit_for_leavers,0
+HIV/AIDS,chronically_homeless,2015-05-01,2015-05-31,Q26e,conditions_at_start,0
+HIV/AIDS,chronically_homeless,2015-05-01,2015-05-31,Q26e,conditions_at_latest_assessment_for_stayers,0
+HIV/AIDS,chronically_homeless,2015-05-01,2015-05-31,Q26e,conditions_at_exit_for_leavers,0
+Development Disability,chronically_homeless,2015-05-01,2015-05-31,Q26e,conditions_at_start,2
+Development Disability,chronically_homeless,2015-05-01,2015-05-31,Q26e,conditions_at_latest_assessment_for_stayers,2
+Development Disability,chronically_homeless,2015-05-01,2015-05-31,Q26e,conditions_at_exit_for_leavers,0
+Physical Disability,chronically_homeless,2015-05-01,2015-05-31,Q26e,conditions_at_start,4
+Physical Disability,chronically_homeless,2015-05-01,2015-05-31,Q26e,conditions_at_latest_assessment_for_stayers,4
+Physical Disability,chronically_homeless,2015-05-01,2015-05-31,Q26e,conditions_at_exit_for_leavers,0

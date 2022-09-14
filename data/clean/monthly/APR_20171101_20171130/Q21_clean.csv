@@ -1,0 +1,49 @@
+health_insurance,population,start_date,end_date,question,status,count
+MEDICAID,all_persons,2017-11-01,2017-11-30,Q21,at_start,262
+MEDICAID,all_persons,2017-11-01,2017-11-30,Q21,at_annual_assessment_for_stayers,21
+MEDICAID,all_persons,2017-11-01,2017-11-30,Q21,at_exit_for_leavers,63
+MEDICARE,all_persons,2017-11-01,2017-11-30,Q21,at_start,69
+MEDICARE,all_persons,2017-11-01,2017-11-30,Q21,at_annual_assessment_for_stayers,12
+MEDICARE,all_persons,2017-11-01,2017-11-30,Q21,at_exit_for_leavers,12
+State Children's Health Insurance Program,all_persons,2017-11-01,2017-11-30,Q21,at_start,0
+State Children's Health Insurance Program,all_persons,2017-11-01,2017-11-30,Q21,at_annual_assessment_for_stayers,0
+State Children's Health Insurance Program,all_persons,2017-11-01,2017-11-30,Q21,at_exit_for_leavers,0
+Veteran's Administration (VA) Medical Services,all_persons,2017-11-01,2017-11-30,Q21,at_start,14
+Veteran's Administration (VA) Medical Services,all_persons,2017-11-01,2017-11-30,Q21,at_annual_assessment_for_stayers,9
+Veteran's Administration (VA) Medical Services,all_persons,2017-11-01,2017-11-30,Q21,at_exit_for_leavers,4
+Employer - Provided Health Insurance,all_persons,2017-11-01,2017-11-30,Q21,at_start,20
+Employer - Provided Health Insurance,all_persons,2017-11-01,2017-11-30,Q21,at_annual_assessment_for_stayers,0
+Employer - Provided Health Insurance,all_persons,2017-11-01,2017-11-30,Q21,at_exit_for_leavers,4
+Health Insurance obtained through COBRA,all_persons,2017-11-01,2017-11-30,Q21,at_start,0
+Health Insurance obtained through COBRA,all_persons,2017-11-01,2017-11-30,Q21,at_annual_assessment_for_stayers,0
+Health Insurance obtained through COBRA,all_persons,2017-11-01,2017-11-30,Q21,at_exit_for_leavers,0
+Private Pay Health Insurance,all_persons,2017-11-01,2017-11-30,Q21,at_start,28
+Private Pay Health Insurance,all_persons,2017-11-01,2017-11-30,Q21,at_annual_assessment_for_stayers,0
+Private Pay Health Insurance,all_persons,2017-11-01,2017-11-30,Q21,at_exit_for_leavers,5
+State Health Insurance for Adults,all_persons,2017-11-01,2017-11-30,Q21,at_start,5
+State Health Insurance for Adults,all_persons,2017-11-01,2017-11-30,Q21,at_annual_assessment_for_stayers,0
+State Health Insurance for Adults,all_persons,2017-11-01,2017-11-30,Q21,at_exit_for_leavers,2
+Indian Health Services Program,all_persons,2017-11-01,2017-11-30,Q21,at_start,0
+Indian Health Services Program,all_persons,2017-11-01,2017-11-30,Q21,at_annual_assessment_for_stayers,0
+Indian Health Services Program,all_persons,2017-11-01,2017-11-30,Q21,at_exit_for_leavers,0
+Other,all_persons,2017-11-01,2017-11-30,Q21,at_start,5
+Other,all_persons,2017-11-01,2017-11-30,Q21,at_annual_assessment_for_stayers,0
+Other,all_persons,2017-11-01,2017-11-30,Q21,at_exit_for_leavers,2
+No Health Insurance,all_persons,2017-11-01,2017-11-30,Q21,at_start,214
+No Health Insurance,all_persons,2017-11-01,2017-11-30,Q21,at_annual_assessment_for_stayers,13
+No Health Insurance,all_persons,2017-11-01,2017-11-30,Q21,at_exit_for_leavers,68
+Client Doesn't Know/Client Refused,all_persons,2017-11-01,2017-11-30,Q21,at_start,3
+Client Doesn't Know/Client Refused,all_persons,2017-11-01,2017-11-30,Q21,at_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2017-11-01,2017-11-30,Q21,at_exit_for_leavers,2
+Data Not Collected,all_persons,2017-11-01,2017-11-30,Q21,at_start,29
+Data Not Collected,all_persons,2017-11-01,2017-11-30,Q21,at_annual_assessment_for_stayers,80
+Data Not Collected,all_persons,2017-11-01,2017-11-30,Q21,at_exit_for_leavers,6
+Number of Stayers not yet Required To Have an Annual Assessment,all_persons,2017-11-01,2017-11-30,Q21,at_start,0
+Number of Stayers not yet Required To Have an Annual Assessment,all_persons,2017-11-01,2017-11-30,Q21,at_annual_assessment_for_stayers,312
+Number of Stayers not yet Required To Have an Annual Assessment,all_persons,2017-11-01,2017-11-30,Q21,at_exit_for_leavers,0
+1 Source of Health Insurance,all_persons,2017-11-01,2017-11-30,Q21,at_start,305
+1 Source of Health Insurance,all_persons,2017-11-01,2017-11-30,Q21,at_annual_assessment_for_stayers,25
+1 Source of Health Insurance,all_persons,2017-11-01,2017-11-30,Q21,at_exit_for_leavers,73
+More than 1 Source of Health Insurance,all_persons,2017-11-01,2017-11-30,Q21,at_start,46
+More than 1 Source of Health Insurance,all_persons,2017-11-01,2017-11-30,Q21,at_annual_assessment_for_stayers,8
+More than 1 Source of Health Insurance,all_persons,2017-11-01,2017-11-30,Q21,at_exit_for_leavers,9

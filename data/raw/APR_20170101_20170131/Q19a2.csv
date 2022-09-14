@@ -1,0 +1,7 @@
+"""Income Change by Income Category (Universe: Adult Leavers with Income Information at Start and Exit)""", "Had Income Category at Start and Did Not Have It at Exit" , "Retained Income  Category But Had Less $ at Exit Than at Start" , "Retained Income Category and Same $ at Exit as at Start" , "Retained Income Category and Increased $ at Exit" , "Did Not Have the Income Category at Start and Gained the Income Category at Exit" , "Did Not Have the Income Category at Start or at Exit" , "Total Adults (including those with No Income)" , "Performance Measure: Adults who Gained or Increased Income from Start to Exit, Average Gain" , "Performance measure: Percent of persons who accomplished this measure"
+"""Number of Adults with Earned Income (ie.e, Employment Income)""",0,0,41,1,9,84,141,10,0.07
+"""Average Change in Earned Income""",0.0,0.0,0,848.0,1441.78,0,0,1382.4,0
+"""Number of Adults with Other Income""",0,0,34,0,1,105,141,1,0.01
+"""Average Change in Other Income""",0.0,0.0,0,0.0,1128.0,0,0,1128.0,0
+"""Number of Adults with Any Income (i.e., Total Income)""",0,0,66,4,8,56,141,12,0.09
+"""Average Change in Overall Income""",0.0,0.0,0,1528.0,1305.0,0,126,1379.33,0

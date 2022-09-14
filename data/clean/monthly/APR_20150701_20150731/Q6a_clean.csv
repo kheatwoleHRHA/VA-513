@@ -1,0 +1,8 @@
+data_element,client_doesn_t_know_refused,information_missing,data_issues,total,percent_of_error_rate,population,start_date,end_date,question
+Name (3.1),0,0,5,5,0.01,data_quality,2015-07-01,2015-07-31,Q6a
+Social Security Number (3.2),16,26,1,43,0.08,data_quality,2015-07-01,2015-07-31,Q6a
+Date of Birth (3.3),0,4,0,4,0.01,data_quality,2015-07-01,2015-07-31,Q6a
+Race (3.4),0,2,0,2,0.0,data_quality,2015-07-01,2015-07-31,Q6a
+Ethinicity (3.5),0,1,0,1,0.0,data_quality,2015-07-01,2015-07-31,Q6a
+Gender (3.6),0,1,0,1,0.0,data_quality,2015-07-01,2015-07-31,Q6a
+Overall Score,0,0,0,49,0.09,data_quality,2015-07-01,2015-07-31,Q6a

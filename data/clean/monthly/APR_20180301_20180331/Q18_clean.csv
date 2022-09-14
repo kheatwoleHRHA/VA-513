@@ -1,0 +1,34 @@
+number_of_adults_by_income_category,population,start_date,end_date,question,status,count
+"Adults with Only Earned Income (ie.e, Employment Income)",all_persons,2018-03-01,2018-03-31,Q18,number_of_adults_at_start,97
+"Adults with Only Earned Income (ie.e, Employment Income)",all_persons,2018-03-01,2018-03-31,Q18,number_of_adults_at_annual_assessment_stayers,6
+"Adults with Only Earned Income (ie.e, Employment Income)",all_persons,2018-03-01,2018-03-31,Q18,number_of_adults_at_exit_leavers,30
+Adults with Only Other Income,all_persons,2018-03-01,2018-03-31,Q18,number_of_adults_at_start,122
+Adults with Only Other Income,all_persons,2018-03-01,2018-03-31,Q18,number_of_adults_at_annual_assessment_stayers,27
+Adults with Only Other Income,all_persons,2018-03-01,2018-03-31,Q18,number_of_adults_at_exit_leavers,23
+Adults with Both Earned and Other Income,all_persons,2018-03-01,2018-03-31,Q18,number_of_adults_at_start,15
+Adults with Both Earned and Other Income,all_persons,2018-03-01,2018-03-31,Q18,number_of_adults_at_annual_assessment_stayers,1
+Adults with Both Earned and Other Income,all_persons,2018-03-01,2018-03-31,Q18,number_of_adults_at_exit_leavers,5
+Adults with No Income,all_persons,2018-03-01,2018-03-31,Q18,number_of_adults_at_start,191
+Adults with No Income,all_persons,2018-03-01,2018-03-31,Q18,number_of_adults_at_annual_assessment_stayers,11
+Adults with No Income,all_persons,2018-03-01,2018-03-31,Q18,number_of_adults_at_exit_leavers,47
+Adults with Client Doesn't Know/Client Refused Income Information,all_persons,2018-03-01,2018-03-31,Q18,number_of_adults_at_start,1
+Adults with Client Doesn't Know/Client Refused Income Information,all_persons,2018-03-01,2018-03-31,Q18,number_of_adults_at_annual_assessment_stayers,0
+Adults with Client Doesn't Know/Client Refused Income Information,all_persons,2018-03-01,2018-03-31,Q18,number_of_adults_at_exit_leavers,0
+Adults with Missing Income Information,all_persons,2018-03-01,2018-03-31,Q18,number_of_adults_at_start,10
+Adults with Missing Income Information,all_persons,2018-03-01,2018-03-31,Q18,number_of_adults_at_annual_assessment_stayers,0
+Adults with Missing Income Information,all_persons,2018-03-01,2018-03-31,Q18,number_of_adults_at_exit_leavers,3
+Number of Adult Stayers not yet Required to Have an Annual Assessment,all_persons,2018-03-01,2018-03-31,Q18,number_of_adults_at_start,0
+Number of Adult Stayers not yet Required to Have an Annual Assessment,all_persons,2018-03-01,2018-03-31,Q18,number_of_adults_at_annual_assessment_stayers,214
+Number of Adult Stayers not yet Required to Have an Annual Assessment,all_persons,2018-03-01,2018-03-31,Q18,number_of_adults_at_exit_leavers,0
+Number of Adult Stayers without Required Annual Assessment,all_persons,2018-03-01,2018-03-31,Q18,number_of_adults_at_start,0
+Number of Adult Stayers without Required Annual Assessment,all_persons,2018-03-01,2018-03-31,Q18,number_of_adults_at_annual_assessment_stayers,69
+Number of Adult Stayers without Required Annual Assessment,all_persons,2018-03-01,2018-03-31,Q18,number_of_adults_at_exit_leavers,0
+Total Adults,all_persons,2018-03-01,2018-03-31,Q18,number_of_adults_at_start,436
+Total Adults,all_persons,2018-03-01,2018-03-31,Q18,number_of_adults_at_annual_assessment_stayers,328
+Total Adults,all_persons,2018-03-01,2018-03-31,Q18,number_of_adults_at_exit_leavers,108
+1 or More Source of Income,all_persons,2018-03-01,2018-03-31,Q18,number_of_adults_at_start,251
+1 or More Source of Income,all_persons,2018-03-01,2018-03-31,Q18,number_of_adults_at_annual_assessment_stayers,35
+1 or More Source of Income,all_persons,2018-03-01,2018-03-31,Q18,number_of_adults_at_exit_leavers,63
+Adults with Income Information at Start and Annual Assessment/Exit,all_persons,2018-03-01,2018-03-31,Q18,number_of_adults_at_start,0
+Adults with Income Information at Start and Annual Assessment/Exit,all_persons,2018-03-01,2018-03-31,Q18,number_of_adults_at_annual_assessment_stayers,45
+Adults with Income Information at Start and Annual Assessment/Exit,all_persons,2018-03-01,2018-03-31,Q18,number_of_adults_at_exit_leavers,1

@@ -1,0 +1,29 @@
+gender_identity,total,population,start_date,end_date,question,household_type,count
+Male,52,youth,2022-02-01,2022-02-28,Q27c,without_children,33
+Male,52,youth,2022-02-01,2022-02-28,Q27c,with_children_and_adults,12
+Male,52,youth,2022-02-01,2022-02-28,Q27c,with_only_children,7
+Male,52,youth,2022-02-01,2022-02-28,Q27c,unknown_household_type,0
+Female,41,youth,2022-02-01,2022-02-28,Q27c,without_children,16
+Female,41,youth,2022-02-01,2022-02-28,Q27c,with_children_and_adults,18
+Female,41,youth,2022-02-01,2022-02-28,Q27c,with_only_children,7
+Female,41,youth,2022-02-01,2022-02-28,Q27c,unknown_household_type,0
+No Single Gender,0,youth,2022-02-01,2022-02-28,Q27c,without_children,0
+No Single Gender,0,youth,2022-02-01,2022-02-28,Q27c,with_children_and_adults,0
+No Single Gender,0,youth,2022-02-01,2022-02-28,Q27c,with_only_children,0
+No Single Gender,0,youth,2022-02-01,2022-02-28,Q27c,unknown_household_type,0
+Questioning,3,youth,2022-02-01,2022-02-28,Q27c,without_children,3
+Questioning,3,youth,2022-02-01,2022-02-28,Q27c,with_children_and_adults,0
+Questioning,3,youth,2022-02-01,2022-02-28,Q27c,with_only_children,0
+Questioning,3,youth,2022-02-01,2022-02-28,Q27c,unknown_household_type,0
+Transgender,1,youth,2022-02-01,2022-02-28,Q27c,without_children,1
+Transgender,1,youth,2022-02-01,2022-02-28,Q27c,with_children_and_adults,0
+Transgender,1,youth,2022-02-01,2022-02-28,Q27c,with_only_children,0
+Transgender,1,youth,2022-02-01,2022-02-28,Q27c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,youth,2022-02-01,2022-02-28,Q27c,without_children,0
+Client Doesn't Know/Client Refused,0,youth,2022-02-01,2022-02-28,Q27c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,youth,2022-02-01,2022-02-28,Q27c,with_only_children,0
+Client Doesn't Know/Client Refused,0,youth,2022-02-01,2022-02-28,Q27c,unknown_household_type,0
+Data Not Collected,0,youth,2022-02-01,2022-02-28,Q27c,without_children,0
+Data Not Collected,0,youth,2022-02-01,2022-02-28,Q27c,with_children_and_adults,0
+Data Not Collected,0,youth,2022-02-01,2022-02-28,Q27c,with_only_children,0
+Data Not Collected,0,youth,2022-02-01,2022-02-28,Q27c,unknown_household_type,0

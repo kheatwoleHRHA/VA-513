@@ -1,0 +1,17 @@
+, "At Start" , "At Annual Assessment for Stayers" , "At Exit for Leavers"
+"""MEDICAID""",192,8,81
+"""MEDICARE""",52,4,18
+"""State Children's Health Insurance Program""",6,0,0
+"""Veteran's Administration (VA) Medical Services""",4,0,3
+"""Employer - Provided Health Insurance""",26,1,4
+"""Health Insurance obtained through COBRA""",0,0,0
+"""Private Pay Health Insurance""",25,0,4
+"""State Health Insurance for Adults""",11,0,2
+"""Indian Health Services Program""",0,0,0
+"""Other""",0,0,0
+"""No Health Insurance""",262,2,85
+"""Client Doesn't Know/Client Refused""",1,0,1
+"""Data Not Collected""",41,90,12
+"""Number of Stayers not yet Required To Have an Annual Assessment""",0,271,0
+"""1 Source of Health Insurance""",229,7,92
+"""More than 1 Source of Health Insurance""",43,3,10

@@ -1,0 +1,16 @@
+veteran_status_persons,total,population,start_date,end_date,question,household_type,count
+Chronically Homeless Veteran,18,all_persons,2021-08-01,2021-08-31,Q25a,without_children,18
+Chronically Homeless Veteran,18,all_persons,2021-08-01,2021-08-31,Q25a,with_children_and_adults,0
+Chronically Homeless Veteran,18,all_persons,2021-08-01,2021-08-31,Q25a,unknown_household_type,0
+Non-Chronically Homeless Veteran,49,all_persons,2021-08-01,2021-08-31,Q25a,without_children,48
+Non-Chronically Homeless Veteran,49,all_persons,2021-08-01,2021-08-31,Q25a,with_children_and_adults,1
+Non-Chronically Homeless Veteran,49,all_persons,2021-08-01,2021-08-31,Q25a,unknown_household_type,0
+Not a Veteran,960,all_persons,2021-08-01,2021-08-31,Q25a,without_children,768
+Not a Veteran,960,all_persons,2021-08-01,2021-08-31,Q25a,with_children_and_adults,189
+Not a Veteran,960,all_persons,2021-08-01,2021-08-31,Q25a,unknown_household_type,3
+Client Doesn't Know/Client Refused,1,all_persons,2021-08-01,2021-08-31,Q25a,without_children,1
+Client Doesn't Know/Client Refused,1,all_persons,2021-08-01,2021-08-31,Q25a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_persons,2021-08-01,2021-08-31,Q25a,unknown_household_type,0
+Data Not Collected,17,all_persons,2021-08-01,2021-08-31,Q25a,without_children,14
+Data Not Collected,17,all_persons,2021-08-01,2021-08-31,Q25a,with_children_and_adults,3
+Data Not Collected,17,all_persons,2021-08-01,2021-08-31,Q25a,unknown_household_type,0

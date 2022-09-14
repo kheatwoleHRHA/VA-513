@@ -1,0 +1,1129 @@
+count_non_cash_benefits,population,start_date,end_date,question,status,count
+No Sources,all_persons,2014-11-01,2014-11-30,Q20b,benefit_at_entry,212
+No Sources,all_persons,2014-11-01,2014-11-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,2
+No Sources,all_persons,2014-11-01,2014-11-30,Q20b,benefit_at_exit_for_leavers,72
+1 + Source(s),all_persons,2014-11-01,2014-11-30,Q20b,benefit_at_entry,157
+1 + Source(s),all_persons,2014-11-01,2014-11-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,2
+1 + Source(s),all_persons,2014-11-01,2014-11-30,Q20b,benefit_at_exit_for_leavers,57
+Client Doesn't Know/Client Refused,all_persons,2014-11-01,2014-11-30,Q20b,benefit_at_entry,1
+Client Doesn't Know/Client Refused,all_persons,2014-11-01,2014-11-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2014-11-01,2014-11-30,Q20b,benefit_at_exit_for_leavers,1
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2014-11-01,2014-11-30,Q20b,benefit_at_entry,40
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2014-11-01,2014-11-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,270
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2014-11-01,2014-11-30,Q20b,benefit_at_exit_for_leavers,6
+No Sources,all_persons,2014-12-01,2014-12-31,Q20b,benefit_at_entry,225
+No Sources,all_persons,2014-12-01,2014-12-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,3
+No Sources,all_persons,2014-12-01,2014-12-31,Q20b,benefit_at_exit_for_leavers,73
+1 + Source(s),all_persons,2014-12-01,2014-12-31,Q20b,benefit_at_entry,151
+1 + Source(s),all_persons,2014-12-01,2014-12-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,5
+1 + Source(s),all_persons,2014-12-01,2014-12-31,Q20b,benefit_at_exit_for_leavers,54
+Client Doesn't Know/Client Refused,all_persons,2014-12-01,2014-12-31,Q20b,benefit_at_entry,0
+Client Doesn't Know/Client Refused,all_persons,2014-12-01,2014-12-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2014-12-01,2014-12-31,Q20b,benefit_at_exit_for_leavers,0
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2014-12-01,2014-12-31,Q20b,benefit_at_entry,43
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2014-12-01,2014-12-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,277
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2014-12-01,2014-12-31,Q20b,benefit_at_exit_for_leavers,7
+No Sources,all_persons,2015-01-01,2015-01-31,Q20b,benefit_at_entry,233
+No Sources,all_persons,2015-01-01,2015-01-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,4
+No Sources,all_persons,2015-01-01,2015-01-31,Q20b,benefit_at_exit_for_leavers,74
+1 + Source(s),all_persons,2015-01-01,2015-01-31,Q20b,benefit_at_entry,165
+1 + Source(s),all_persons,2015-01-01,2015-01-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,6
+1 + Source(s),all_persons,2015-01-01,2015-01-31,Q20b,benefit_at_exit_for_leavers,59
+Client Doesn't Know/Client Refused,all_persons,2015-01-01,2015-01-31,Q20b,benefit_at_entry,0
+Client Doesn't Know/Client Refused,all_persons,2015-01-01,2015-01-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2015-01-01,2015-01-31,Q20b,benefit_at_exit_for_leavers,0
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2015-01-01,2015-01-31,Q20b,benefit_at_entry,46
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2015-01-01,2015-01-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,292
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2015-01-01,2015-01-31,Q20b,benefit_at_exit_for_leavers,9
+No Sources,all_persons,2015-02-01,2015-02-28,Q20b,benefit_at_entry,247
+No Sources,all_persons,2015-02-01,2015-02-28,Q20b,benefit_at_latest_annual_assessment_for_stayers,4
+No Sources,all_persons,2015-02-01,2015-02-28,Q20b,benefit_at_exit_for_leavers,71
+1 + Source(s),all_persons,2015-02-01,2015-02-28,Q20b,benefit_at_entry,155
+1 + Source(s),all_persons,2015-02-01,2015-02-28,Q20b,benefit_at_latest_annual_assessment_for_stayers,7
+1 + Source(s),all_persons,2015-02-01,2015-02-28,Q20b,benefit_at_exit_for_leavers,53
+Client Doesn't Know/Client Refused,all_persons,2015-02-01,2015-02-28,Q20b,benefit_at_entry,1
+Client Doesn't Know/Client Refused,all_persons,2015-02-01,2015-02-28,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2015-02-01,2015-02-28,Q20b,benefit_at_exit_for_leavers,1
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2015-02-01,2015-02-28,Q20b,benefit_at_entry,45
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2015-02-01,2015-02-28,Q20b,benefit_at_latest_annual_assessment_for_stayers,303
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2015-02-01,2015-02-28,Q20b,benefit_at_exit_for_leavers,9
+No Sources,all_persons,2015-03-01,2015-03-31,Q20b,benefit_at_entry,249
+No Sources,all_persons,2015-03-01,2015-03-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,4
+No Sources,all_persons,2015-03-01,2015-03-31,Q20b,benefit_at_exit_for_leavers,74
+1 + Source(s),all_persons,2015-03-01,2015-03-31,Q20b,benefit_at_entry,147
+1 + Source(s),all_persons,2015-03-01,2015-03-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,7
+1 + Source(s),all_persons,2015-03-01,2015-03-31,Q20b,benefit_at_exit_for_leavers,57
+Client Doesn't Know/Client Refused,all_persons,2015-03-01,2015-03-31,Q20b,benefit_at_entry,1
+Client Doesn't Know/Client Refused,all_persons,2015-03-01,2015-03-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2015-03-01,2015-03-31,Q20b,benefit_at_exit_for_leavers,1
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2015-03-01,2015-03-31,Q20b,benefit_at_entry,43
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2015-03-01,2015-03-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,289
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2015-03-01,2015-03-31,Q20b,benefit_at_exit_for_leavers,8
+No Sources,all_persons,2015-04-01,2015-04-30,Q20b,benefit_at_entry,239
+No Sources,all_persons,2015-04-01,2015-04-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,4
+No Sources,all_persons,2015-04-01,2015-04-30,Q20b,benefit_at_exit_for_leavers,80
+1 + Source(s),all_persons,2015-04-01,2015-04-30,Q20b,benefit_at_entry,130
+1 + Source(s),all_persons,2015-04-01,2015-04-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,9
+1 + Source(s),all_persons,2015-04-01,2015-04-30,Q20b,benefit_at_exit_for_leavers,45
+Client Doesn't Know/Client Refused,all_persons,2015-04-01,2015-04-30,Q20b,benefit_at_entry,0
+Client Doesn't Know/Client Refused,all_persons,2015-04-01,2015-04-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2015-04-01,2015-04-30,Q20b,benefit_at_exit_for_leavers,0
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2015-04-01,2015-04-30,Q20b,benefit_at_entry,51
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2015-04-01,2015-04-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,262
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2015-04-01,2015-04-30,Q20b,benefit_at_exit_for_leavers,20
+No Sources,all_persons,2015-05-01,2015-05-31,Q20b,benefit_at_entry,196
+No Sources,all_persons,2015-05-01,2015-05-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,4
+No Sources,all_persons,2015-05-01,2015-05-31,Q20b,benefit_at_exit_for_leavers,26
+1 + Source(s),all_persons,2015-05-01,2015-05-31,Q20b,benefit_at_entry,119
+1 + Source(s),all_persons,2015-05-01,2015-05-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,15
+1 + Source(s),all_persons,2015-05-01,2015-05-31,Q20b,benefit_at_exit_for_leavers,25
+Client Doesn't Know/Client Refused,all_persons,2015-05-01,2015-05-31,Q20b,benefit_at_entry,0
+Client Doesn't Know/Client Refused,all_persons,2015-05-01,2015-05-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2015-05-01,2015-05-31,Q20b,benefit_at_exit_for_leavers,0
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2015-05-01,2015-05-31,Q20b,benefit_at_entry,37
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2015-05-01,2015-05-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,277
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2015-05-01,2015-05-31,Q20b,benefit_at_exit_for_leavers,5
+No Sources,all_persons,2015-06-01,2015-06-30,Q20b,benefit_at_entry,211
+No Sources,all_persons,2015-06-01,2015-06-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,3
+No Sources,all_persons,2015-06-01,2015-06-30,Q20b,benefit_at_exit_for_leavers,60
+1 + Source(s),all_persons,2015-06-01,2015-06-30,Q20b,benefit_at_entry,135
+1 + Source(s),all_persons,2015-06-01,2015-06-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,15
+1 + Source(s),all_persons,2015-06-01,2015-06-30,Q20b,benefit_at_exit_for_leavers,56
+Client Doesn't Know/Client Refused,all_persons,2015-06-01,2015-06-30,Q20b,benefit_at_entry,0
+Client Doesn't Know/Client Refused,all_persons,2015-06-01,2015-06-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2015-06-01,2015-06-30,Q20b,benefit_at_exit_for_leavers,0
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2015-06-01,2015-06-30,Q20b,benefit_at_entry,35
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2015-06-01,2015-06-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,245
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2015-06-01,2015-06-30,Q20b,benefit_at_exit_for_leavers,2
+No Sources,all_persons,2015-07-01,2015-07-31,Q20b,benefit_at_entry,216
+No Sources,all_persons,2015-07-01,2015-07-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,3
+No Sources,all_persons,2015-07-01,2015-07-31,Q20b,benefit_at_exit_for_leavers,51
+1 + Source(s),all_persons,2015-07-01,2015-07-31,Q20b,benefit_at_entry,129
+1 + Source(s),all_persons,2015-07-01,2015-07-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,15
+1 + Source(s),all_persons,2015-07-01,2015-07-31,Q20b,benefit_at_exit_for_leavers,44
+Client Doesn't Know/Client Refused,all_persons,2015-07-01,2015-07-31,Q20b,benefit_at_entry,0
+Client Doesn't Know/Client Refused,all_persons,2015-07-01,2015-07-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2015-07-01,2015-07-31,Q20b,benefit_at_exit_for_leavers,0
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2015-07-01,2015-07-31,Q20b,benefit_at_entry,34
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2015-07-01,2015-07-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,264
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2015-07-01,2015-07-31,Q20b,benefit_at_exit_for_leavers,2
+No Sources,all_persons,2015-08-01,2015-08-31,Q20b,benefit_at_entry,206
+No Sources,all_persons,2015-08-01,2015-08-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,3
+No Sources,all_persons,2015-08-01,2015-08-31,Q20b,benefit_at_exit_for_leavers,24
+1 + Source(s),all_persons,2015-08-01,2015-08-31,Q20b,benefit_at_entry,119
+1 + Source(s),all_persons,2015-08-01,2015-08-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,16
+1 + Source(s),all_persons,2015-08-01,2015-08-31,Q20b,benefit_at_exit_for_leavers,17
+Client Doesn't Know/Client Refused,all_persons,2015-08-01,2015-08-31,Q20b,benefit_at_entry,0
+Client Doesn't Know/Client Refused,all_persons,2015-08-01,2015-08-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2015-08-01,2015-08-31,Q20b,benefit_at_exit_for_leavers,0
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2015-08-01,2015-08-31,Q20b,benefit_at_entry,33
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2015-08-01,2015-08-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,294
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2015-08-01,2015-08-31,Q20b,benefit_at_exit_for_leavers,4
+No Sources,all_persons,2015-09-01,2015-09-30,Q20b,benefit_at_entry,226
+No Sources,all_persons,2015-09-01,2015-09-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,3
+No Sources,all_persons,2015-09-01,2015-09-30,Q20b,benefit_at_exit_for_leavers,40
+1 + Source(s),all_persons,2015-09-01,2015-09-30,Q20b,benefit_at_entry,147
+1 + Source(s),all_persons,2015-09-01,2015-09-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,17
+1 + Source(s),all_persons,2015-09-01,2015-09-30,Q20b,benefit_at_exit_for_leavers,40
+Client Doesn't Know/Client Refused,all_persons,2015-09-01,2015-09-30,Q20b,benefit_at_entry,0
+Client Doesn't Know/Client Refused,all_persons,2015-09-01,2015-09-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2015-09-01,2015-09-30,Q20b,benefit_at_exit_for_leavers,0
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2015-09-01,2015-09-30,Q20b,benefit_at_entry,32
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2015-09-01,2015-09-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,298
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2015-09-01,2015-09-30,Q20b,benefit_at_exit_for_leavers,7
+No Sources,all_persons,2015-10-01,2015-10-31,Q20b,benefit_at_entry,245
+No Sources,all_persons,2015-10-01,2015-10-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,6
+No Sources,all_persons,2015-10-01,2015-10-31,Q20b,benefit_at_exit_for_leavers,52
+1 + Source(s),all_persons,2015-10-01,2015-10-31,Q20b,benefit_at_entry,149
+1 + Source(s),all_persons,2015-10-01,2015-10-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,17
+1 + Source(s),all_persons,2015-10-01,2015-10-31,Q20b,benefit_at_exit_for_leavers,38
+Client Doesn't Know/Client Refused,all_persons,2015-10-01,2015-10-31,Q20b,benefit_at_entry,0
+Client Doesn't Know/Client Refused,all_persons,2015-10-01,2015-10-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2015-10-01,2015-10-31,Q20b,benefit_at_exit_for_leavers,0
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2015-10-01,2015-10-31,Q20b,benefit_at_entry,28
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2015-10-01,2015-10-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,305
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2015-10-01,2015-10-31,Q20b,benefit_at_exit_for_leavers,4
+No Sources,all_persons,2015-11-01,2015-11-30,Q20b,benefit_at_entry,270
+No Sources,all_persons,2015-11-01,2015-11-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,12
+No Sources,all_persons,2015-11-01,2015-11-30,Q20b,benefit_at_exit_for_leavers,53
+1 + Source(s),all_persons,2015-11-01,2015-11-30,Q20b,benefit_at_entry,155
+1 + Source(s),all_persons,2015-11-01,2015-11-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,18
+1 + Source(s),all_persons,2015-11-01,2015-11-30,Q20b,benefit_at_exit_for_leavers,37
+Client Doesn't Know/Client Refused,all_persons,2015-11-01,2015-11-30,Q20b,benefit_at_entry,0
+Client Doesn't Know/Client Refused,all_persons,2015-11-01,2015-11-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2015-11-01,2015-11-30,Q20b,benefit_at_exit_for_leavers,0
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2015-11-01,2015-11-30,Q20b,benefit_at_entry,28
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2015-11-01,2015-11-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,331
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2015-11-01,2015-11-30,Q20b,benefit_at_exit_for_leavers,2
+No Sources,all_persons,2015-12-01,2015-12-31,Q20b,benefit_at_entry,269
+No Sources,all_persons,2015-12-01,2015-12-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,12
+No Sources,all_persons,2015-12-01,2015-12-31,Q20b,benefit_at_exit_for_leavers,68
+1 + Source(s),all_persons,2015-12-01,2015-12-31,Q20b,benefit_at_entry,146
+1 + Source(s),all_persons,2015-12-01,2015-12-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,18
+1 + Source(s),all_persons,2015-12-01,2015-12-31,Q20b,benefit_at_exit_for_leavers,43
+Client Doesn't Know/Client Refused,all_persons,2015-12-01,2015-12-31,Q20b,benefit_at_entry,0
+Client Doesn't Know/Client Refused,all_persons,2015-12-01,2015-12-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2015-12-01,2015-12-31,Q20b,benefit_at_exit_for_leavers,0
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2015-12-01,2015-12-31,Q20b,benefit_at_entry,31
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2015-12-01,2015-12-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,300
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2015-12-01,2015-12-31,Q20b,benefit_at_exit_for_leavers,5
+No Sources,all_persons,2016-01-01,2016-01-31,Q20b,benefit_at_entry,276
+No Sources,all_persons,2016-01-01,2016-01-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,13
+No Sources,all_persons,2016-01-01,2016-01-31,Q20b,benefit_at_exit_for_leavers,66
+1 + Source(s),all_persons,2016-01-01,2016-01-31,Q20b,benefit_at_entry,142
+1 + Source(s),all_persons,2016-01-01,2016-01-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,18
+1 + Source(s),all_persons,2016-01-01,2016-01-31,Q20b,benefit_at_exit_for_leavers,31
+Client Doesn't Know/Client Refused,all_persons,2016-01-01,2016-01-31,Q20b,benefit_at_entry,0
+Client Doesn't Know/Client Refused,all_persons,2016-01-01,2016-01-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2016-01-01,2016-01-31,Q20b,benefit_at_exit_for_leavers,0
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2016-01-01,2016-01-31,Q20b,benefit_at_entry,30
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2016-01-01,2016-01-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,317
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2016-01-01,2016-01-31,Q20b,benefit_at_exit_for_leavers,3
+No Sources,all_persons,2016-02-01,2016-02-29,Q20b,benefit_at_entry,270
+No Sources,all_persons,2016-02-01,2016-02-29,Q20b,benefit_at_latest_annual_assessment_for_stayers,13
+No Sources,all_persons,2016-02-01,2016-02-29,Q20b,benefit_at_exit_for_leavers,81
+1 + Source(s),all_persons,2016-02-01,2016-02-29,Q20b,benefit_at_entry,135
+1 + Source(s),all_persons,2016-02-01,2016-02-29,Q20b,benefit_at_latest_annual_assessment_for_stayers,17
+1 + Source(s),all_persons,2016-02-01,2016-02-29,Q20b,benefit_at_exit_for_leavers,40
+Client Doesn't Know/Client Refused,all_persons,2016-02-01,2016-02-29,Q20b,benefit_at_entry,1
+Client Doesn't Know/Client Refused,all_persons,2016-02-01,2016-02-29,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2016-02-01,2016-02-29,Q20b,benefit_at_exit_for_leavers,1
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2016-02-01,2016-02-29,Q20b,benefit_at_entry,29
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2016-02-01,2016-02-29,Q20b,benefit_at_latest_annual_assessment_for_stayers,278
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2016-02-01,2016-02-29,Q20b,benefit_at_exit_for_leavers,5
+No Sources,all_persons,2016-03-01,2016-03-31,Q20b,benefit_at_entry,292
+No Sources,all_persons,2016-03-01,2016-03-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,14
+No Sources,all_persons,2016-03-01,2016-03-31,Q20b,benefit_at_exit_for_leavers,81
+1 + Source(s),all_persons,2016-03-01,2016-03-31,Q20b,benefit_at_entry,130
+1 + Source(s),all_persons,2016-03-01,2016-03-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,18
+1 + Source(s),all_persons,2016-03-01,2016-03-31,Q20b,benefit_at_exit_for_leavers,36
+Client Doesn't Know/Client Refused,all_persons,2016-03-01,2016-03-31,Q20b,benefit_at_entry,0
+Client Doesn't Know/Client Refused,all_persons,2016-03-01,2016-03-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2016-03-01,2016-03-31,Q20b,benefit_at_exit_for_leavers,0
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2016-03-01,2016-03-31,Q20b,benefit_at_entry,28
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2016-03-01,2016-03-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,299
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2016-03-01,2016-03-31,Q20b,benefit_at_exit_for_leavers,2
+No Sources,all_persons,2016-04-01,2016-04-30,Q20b,benefit_at_entry,247
+No Sources,all_persons,2016-04-01,2016-04-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,14
+No Sources,all_persons,2016-04-01,2016-04-30,Q20b,benefit_at_exit_for_leavers,51
+1 + Source(s),all_persons,2016-04-01,2016-04-30,Q20b,benefit_at_entry,125
+1 + Source(s),all_persons,2016-04-01,2016-04-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,19
+1 + Source(s),all_persons,2016-04-01,2016-04-30,Q20b,benefit_at_exit_for_leavers,31
+Client Doesn't Know/Client Refused,all_persons,2016-04-01,2016-04-30,Q20b,benefit_at_entry,0
+Client Doesn't Know/Client Refused,all_persons,2016-04-01,2016-04-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2016-04-01,2016-04-30,Q20b,benefit_at_exit_for_leavers,0
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2016-04-01,2016-04-30,Q20b,benefit_at_entry,31
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2016-04-01,2016-04-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,284
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2016-04-01,2016-04-30,Q20b,benefit_at_exit_for_leavers,4
+No Sources,all_persons,2016-05-01,2016-05-31,Q20b,benefit_at_entry,231
+No Sources,all_persons,2016-05-01,2016-05-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,15
+No Sources,all_persons,2016-05-01,2016-05-31,Q20b,benefit_at_exit_for_leavers,45
+1 + Source(s),all_persons,2016-05-01,2016-05-31,Q20b,benefit_at_entry,121
+1 + Source(s),all_persons,2016-05-01,2016-05-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,19
+1 + Source(s),all_persons,2016-05-01,2016-05-31,Q20b,benefit_at_exit_for_leavers,30
+Client Doesn't Know/Client Refused,all_persons,2016-05-01,2016-05-31,Q20b,benefit_at_entry,0
+Client Doesn't Know/Client Refused,all_persons,2016-05-01,2016-05-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2016-05-01,2016-05-31,Q20b,benefit_at_exit_for_leavers,1
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2016-05-01,2016-05-31,Q20b,benefit_at_entry,31
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2016-05-01,2016-05-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,269
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2016-05-01,2016-05-31,Q20b,benefit_at_exit_for_leavers,4
+No Sources,all_persons,2016-06-01,2016-06-30,Q20b,benefit_at_entry,227
+No Sources,all_persons,2016-06-01,2016-06-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,14
+No Sources,all_persons,2016-06-01,2016-06-30,Q20b,benefit_at_exit_for_leavers,32
+1 + Source(s),all_persons,2016-06-01,2016-06-30,Q20b,benefit_at_entry,122
+1 + Source(s),all_persons,2016-06-01,2016-06-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,18
+1 + Source(s),all_persons,2016-06-01,2016-06-30,Q20b,benefit_at_exit_for_leavers,35
+Client Doesn't Know/Client Refused,all_persons,2016-06-01,2016-06-30,Q20b,benefit_at_entry,0
+Client Doesn't Know/Client Refused,all_persons,2016-06-01,2016-06-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2016-06-01,2016-06-30,Q20b,benefit_at_exit_for_leavers,0
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2016-06-01,2016-06-30,Q20b,benefit_at_entry,29
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2016-06-01,2016-06-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,274
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2016-06-01,2016-06-30,Q20b,benefit_at_exit_for_leavers,5
+No Sources,all_persons,2016-07-01,2016-07-31,Q20b,benefit_at_entry,245
+No Sources,all_persons,2016-07-01,2016-07-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,15
+No Sources,all_persons,2016-07-01,2016-07-31,Q20b,benefit_at_exit_for_leavers,32
+1 + Source(s),all_persons,2016-07-01,2016-07-31,Q20b,benefit_at_entry,130
+1 + Source(s),all_persons,2016-07-01,2016-07-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,18
+1 + Source(s),all_persons,2016-07-01,2016-07-31,Q20b,benefit_at_exit_for_leavers,22
+Client Doesn't Know/Client Refused,all_persons,2016-07-01,2016-07-31,Q20b,benefit_at_entry,0
+Client Doesn't Know/Client Refused,all_persons,2016-07-01,2016-07-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2016-07-01,2016-07-31,Q20b,benefit_at_exit_for_leavers,0
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2016-07-01,2016-07-31,Q20b,benefit_at_entry,31
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2016-07-01,2016-07-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,318
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2016-07-01,2016-07-31,Q20b,benefit_at_exit_for_leavers,1
+No Sources,all_persons,2016-08-01,2016-08-31,Q20b,benefit_at_entry,291
+No Sources,all_persons,2016-08-01,2016-08-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,15
+No Sources,all_persons,2016-08-01,2016-08-31,Q20b,benefit_at_exit_for_leavers,66
+1 + Source(s),all_persons,2016-08-01,2016-08-31,Q20b,benefit_at_entry,154
+1 + Source(s),all_persons,2016-08-01,2016-08-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,16
+1 + Source(s),all_persons,2016-08-01,2016-08-31,Q20b,benefit_at_exit_for_leavers,33
+Client Doesn't Know/Client Refused,all_persons,2016-08-01,2016-08-31,Q20b,benefit_at_entry,0
+Client Doesn't Know/Client Refused,all_persons,2016-08-01,2016-08-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2016-08-01,2016-08-31,Q20b,benefit_at_exit_for_leavers,0
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2016-08-01,2016-08-31,Q20b,benefit_at_entry,34
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2016-08-01,2016-08-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,345
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2016-08-01,2016-08-31,Q20b,benefit_at_exit_for_leavers,4
+No Sources,all_persons,2016-09-01,2016-09-30,Q20b,benefit_at_entry,280
+No Sources,all_persons,2016-09-01,2016-09-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,15
+No Sources,all_persons,2016-09-01,2016-09-30,Q20b,benefit_at_exit_for_leavers,71
+1 + Source(s),all_persons,2016-09-01,2016-09-30,Q20b,benefit_at_entry,159
+1 + Source(s),all_persons,2016-09-01,2016-09-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,15
+1 + Source(s),all_persons,2016-09-01,2016-09-30,Q20b,benefit_at_exit_for_leavers,53
+Client Doesn't Know/Client Refused,all_persons,2016-09-01,2016-09-30,Q20b,benefit_at_entry,0
+Client Doesn't Know/Client Refused,all_persons,2016-09-01,2016-09-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2016-09-01,2016-09-30,Q20b,benefit_at_exit_for_leavers,0
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2016-09-01,2016-09-30,Q20b,benefit_at_entry,39
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2016-09-01,2016-09-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,315
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2016-09-01,2016-09-30,Q20b,benefit_at_exit_for_leavers,9
+No Sources,all_persons,2016-10-01,2016-10-31,Q20b,benefit_at_entry,271
+No Sources,all_persons,2016-10-01,2016-10-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,11
+No Sources,all_persons,2016-10-01,2016-10-31,Q20b,benefit_at_exit_for_leavers,50
+1 + Source(s),all_persons,2016-10-01,2016-10-31,Q20b,benefit_at_entry,141
+1 + Source(s),all_persons,2016-10-01,2016-10-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,16
+1 + Source(s),all_persons,2016-10-01,2016-10-31,Q20b,benefit_at_exit_for_leavers,34
+Client Doesn't Know/Client Refused,all_persons,2016-10-01,2016-10-31,Q20b,benefit_at_entry,0
+Client Doesn't Know/Client Refused,all_persons,2016-10-01,2016-10-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2016-10-01,2016-10-31,Q20b,benefit_at_exit_for_leavers,0
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2016-10-01,2016-10-31,Q20b,benefit_at_entry,33
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2016-10-01,2016-10-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,326
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2016-10-01,2016-10-31,Q20b,benefit_at_exit_for_leavers,8
+No Sources,all_persons,2016-11-01,2016-11-30,Q20b,benefit_at_entry,316
+No Sources,all_persons,2016-11-01,2016-11-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,9
+No Sources,all_persons,2016-11-01,2016-11-30,Q20b,benefit_at_exit_for_leavers,61
+1 + Source(s),all_persons,2016-11-01,2016-11-30,Q20b,benefit_at_entry,147
+1 + Source(s),all_persons,2016-11-01,2016-11-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,16
+1 + Source(s),all_persons,2016-11-01,2016-11-30,Q20b,benefit_at_exit_for_leavers,32
+Client Doesn't Know/Client Refused,all_persons,2016-11-01,2016-11-30,Q20b,benefit_at_entry,1
+Client Doesn't Know/Client Refused,all_persons,2016-11-01,2016-11-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2016-11-01,2016-11-30,Q20b,benefit_at_exit_for_leavers,0
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2016-11-01,2016-11-30,Q20b,benefit_at_entry,27
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2016-11-01,2016-11-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,371
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2016-11-01,2016-11-30,Q20b,benefit_at_exit_for_leavers,2
+No Sources,all_persons,2016-12-01,2016-12-31,Q20b,benefit_at_entry,320
+No Sources,all_persons,2016-12-01,2016-12-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,9
+No Sources,all_persons,2016-12-01,2016-12-31,Q20b,benefit_at_exit_for_leavers,87
+1 + Source(s),all_persons,2016-12-01,2016-12-31,Q20b,benefit_at_entry,148
+1 + Source(s),all_persons,2016-12-01,2016-12-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,15
+1 + Source(s),all_persons,2016-12-01,2016-12-31,Q20b,benefit_at_exit_for_leavers,32
+Client Doesn't Know/Client Refused,all_persons,2016-12-01,2016-12-31,Q20b,benefit_at_entry,1
+Client Doesn't Know/Client Refused,all_persons,2016-12-01,2016-12-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2016-12-01,2016-12-31,Q20b,benefit_at_exit_for_leavers,1
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2016-12-01,2016-12-31,Q20b,benefit_at_entry,27
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2016-12-01,2016-12-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,348
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2016-12-01,2016-12-31,Q20b,benefit_at_exit_for_leavers,4
+No Sources,all_persons,2017-01-01,2017-01-31,Q20b,benefit_at_entry,307
+No Sources,all_persons,2017-01-01,2017-01-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,8
+No Sources,all_persons,2017-01-01,2017-01-31,Q20b,benefit_at_exit_for_leavers,86
+1 + Source(s),all_persons,2017-01-01,2017-01-31,Q20b,benefit_at_entry,154
+1 + Source(s),all_persons,2017-01-01,2017-01-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,15
+1 + Source(s),all_persons,2017-01-01,2017-01-31,Q20b,benefit_at_exit_for_leavers,47
+Client Doesn't Know/Client Refused,all_persons,2017-01-01,2017-01-31,Q20b,benefit_at_entry,1
+Client Doesn't Know/Client Refused,all_persons,2017-01-01,2017-01-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2017-01-01,2017-01-31,Q20b,benefit_at_exit_for_leavers,1
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2017-01-01,2017-01-31,Q20b,benefit_at_entry,29
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2017-01-01,2017-01-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,327
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2017-01-01,2017-01-31,Q20b,benefit_at_exit_for_leavers,7
+No Sources,all_persons,2017-02-01,2017-02-28,Q20b,benefit_at_entry,279
+No Sources,all_persons,2017-02-01,2017-02-28,Q20b,benefit_at_latest_annual_assessment_for_stayers,13
+No Sources,all_persons,2017-02-01,2017-02-28,Q20b,benefit_at_exit_for_leavers,70
+1 + Source(s),all_persons,2017-02-01,2017-02-28,Q20b,benefit_at_entry,139
+1 + Source(s),all_persons,2017-02-01,2017-02-28,Q20b,benefit_at_latest_annual_assessment_for_stayers,20
+1 + Source(s),all_persons,2017-02-01,2017-02-28,Q20b,benefit_at_exit_for_leavers,38
+Client Doesn't Know/Client Refused,all_persons,2017-02-01,2017-02-28,Q20b,benefit_at_entry,3
+Client Doesn't Know/Client Refused,all_persons,2017-02-01,2017-02-28,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2017-02-01,2017-02-28,Q20b,benefit_at_exit_for_leavers,2
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2017-02-01,2017-02-28,Q20b,benefit_at_entry,27
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2017-02-01,2017-02-28,Q20b,benefit_at_latest_annual_assessment_for_stayers,299
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2017-02-01,2017-02-28,Q20b,benefit_at_exit_for_leavers,6
+No Sources,all_persons,2017-03-01,2017-03-31,Q20b,benefit_at_entry,274
+No Sources,all_persons,2017-03-01,2017-03-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,15
+No Sources,all_persons,2017-03-01,2017-03-31,Q20b,benefit_at_exit_for_leavers,73
+1 + Source(s),all_persons,2017-03-01,2017-03-31,Q20b,benefit_at_entry,137
+1 + Source(s),all_persons,2017-03-01,2017-03-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,19
+1 + Source(s),all_persons,2017-03-01,2017-03-31,Q20b,benefit_at_exit_for_leavers,40
+Client Doesn't Know/Client Refused,all_persons,2017-03-01,2017-03-31,Q20b,benefit_at_entry,2
+Client Doesn't Know/Client Refused,all_persons,2017-03-01,2017-03-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2017-03-01,2017-03-31,Q20b,benefit_at_exit_for_leavers,2
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2017-03-01,2017-03-31,Q20b,benefit_at_entry,26
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2017-03-01,2017-03-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,285
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2017-03-01,2017-03-31,Q20b,benefit_at_exit_for_leavers,5
+No Sources,all_persons,2017-04-01,2017-04-30,Q20b,benefit_at_entry,249
+No Sources,all_persons,2017-04-01,2017-04-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,17
+No Sources,all_persons,2017-04-01,2017-04-30,Q20b,benefit_at_exit_for_leavers,62
+1 + Source(s),all_persons,2017-04-01,2017-04-30,Q20b,benefit_at_entry,129
+1 + Source(s),all_persons,2017-04-01,2017-04-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,23
+1 + Source(s),all_persons,2017-04-01,2017-04-30,Q20b,benefit_at_exit_for_leavers,39
+Client Doesn't Know/Client Refused,all_persons,2017-04-01,2017-04-30,Q20b,benefit_at_entry,0
+Client Doesn't Know/Client Refused,all_persons,2017-04-01,2017-04-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2017-04-01,2017-04-30,Q20b,benefit_at_exit_for_leavers,0
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2017-04-01,2017-04-30,Q20b,benefit_at_entry,28
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2017-04-01,2017-04-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,262
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2017-04-01,2017-04-30,Q20b,benefit_at_exit_for_leavers,3
+No Sources,all_persons,2017-05-01,2017-05-31,Q20b,benefit_at_entry,220
+No Sources,all_persons,2017-05-01,2017-05-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,17
+No Sources,all_persons,2017-05-01,2017-05-31,Q20b,benefit_at_exit_for_leavers,24
+1 + Source(s),all_persons,2017-05-01,2017-05-31,Q20b,benefit_at_entry,120
+1 + Source(s),all_persons,2017-05-01,2017-05-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,22
+1 + Source(s),all_persons,2017-05-01,2017-05-31,Q20b,benefit_at_exit_for_leavers,22
+Client Doesn't Know/Client Refused,all_persons,2017-05-01,2017-05-31,Q20b,benefit_at_entry,1
+Client Doesn't Know/Client Refused,all_persons,2017-05-01,2017-05-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2017-05-01,2017-05-31,Q20b,benefit_at_exit_for_leavers,1
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2017-05-01,2017-05-31,Q20b,benefit_at_entry,29
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2017-05-01,2017-05-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,282
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2017-05-01,2017-05-31,Q20b,benefit_at_exit_for_leavers,2
+No Sources,all_persons,2017-06-01,2017-06-30,Q20b,benefit_at_entry,225
+No Sources,all_persons,2017-06-01,2017-06-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,18
+No Sources,all_persons,2017-06-01,2017-06-30,Q20b,benefit_at_exit_for_leavers,21
+1 + Source(s),all_persons,2017-06-01,2017-06-30,Q20b,benefit_at_entry,123
+1 + Source(s),all_persons,2017-06-01,2017-06-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,23
+1 + Source(s),all_persons,2017-06-01,2017-06-30,Q20b,benefit_at_exit_for_leavers,11
+Client Doesn't Know/Client Refused,all_persons,2017-06-01,2017-06-30,Q20b,benefit_at_entry,0
+Client Doesn't Know/Client Refused,all_persons,2017-06-01,2017-06-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2017-06-01,2017-06-30,Q20b,benefit_at_exit_for_leavers,0
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2017-06-01,2017-06-30,Q20b,benefit_at_entry,38
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2017-06-01,2017-06-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,302
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2017-06-01,2017-06-30,Q20b,benefit_at_exit_for_leavers,11
+No Sources,all_persons,2017-07-01,2017-07-31,Q20b,benefit_at_entry,233
+No Sources,all_persons,2017-07-01,2017-07-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,19
+No Sources,all_persons,2017-07-01,2017-07-31,Q20b,benefit_at_exit_for_leavers,29
+1 + Source(s),all_persons,2017-07-01,2017-07-31,Q20b,benefit_at_entry,141
+1 + Source(s),all_persons,2017-07-01,2017-07-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,21
+1 + Source(s),all_persons,2017-07-01,2017-07-31,Q20b,benefit_at_exit_for_leavers,24
+Client Doesn't Know/Client Refused,all_persons,2017-07-01,2017-07-31,Q20b,benefit_at_entry,0
+Client Doesn't Know/Client Refused,all_persons,2017-07-01,2017-07-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2017-07-01,2017-07-31,Q20b,benefit_at_exit_for_leavers,0
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2017-07-01,2017-07-31,Q20b,benefit_at_entry,38
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2017-07-01,2017-07-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,313
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2017-07-01,2017-07-31,Q20b,benefit_at_exit_for_leavers,6
+No Sources,all_persons,2017-08-01,2017-08-31,Q20b,benefit_at_entry,252
+No Sources,all_persons,2017-08-01,2017-08-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,23
+No Sources,all_persons,2017-08-01,2017-08-31,Q20b,benefit_at_exit_for_leavers,50
+1 + Source(s),all_persons,2017-08-01,2017-08-31,Q20b,benefit_at_entry,145
+1 + Source(s),all_persons,2017-08-01,2017-08-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,21
+1 + Source(s),all_persons,2017-08-01,2017-08-31,Q20b,benefit_at_exit_for_leavers,42
+Client Doesn't Know/Client Refused,all_persons,2017-08-01,2017-08-31,Q20b,benefit_at_entry,1
+Client Doesn't Know/Client Refused,all_persons,2017-08-01,2017-08-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2017-08-01,2017-08-31,Q20b,benefit_at_exit_for_leavers,0
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2017-08-01,2017-08-31,Q20b,benefit_at_entry,44
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2017-08-01,2017-08-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,296
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2017-08-01,2017-08-31,Q20b,benefit_at_exit_for_leavers,10
+No Sources,all_persons,2017-09-01,2017-09-30,Q20b,benefit_at_entry,252
+No Sources,all_persons,2017-09-01,2017-09-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,21
+No Sources,all_persons,2017-09-01,2017-09-30,Q20b,benefit_at_exit_for_leavers,67
+1 + Source(s),all_persons,2017-09-01,2017-09-30,Q20b,benefit_at_entry,120
+1 + Source(s),all_persons,2017-09-01,2017-09-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,21
+1 + Source(s),all_persons,2017-09-01,2017-09-30,Q20b,benefit_at_exit_for_leavers,39
+Client Doesn't Know/Client Refused,all_persons,2017-09-01,2017-09-30,Q20b,benefit_at_entry,1
+Client Doesn't Know/Client Refused,all_persons,2017-09-01,2017-09-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2017-09-01,2017-09-30,Q20b,benefit_at_exit_for_leavers,1
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2017-09-01,2017-09-30,Q20b,benefit_at_entry,37
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2017-09-01,2017-09-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,250
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2017-09-01,2017-09-30,Q20b,benefit_at_exit_for_leavers,11
+No Sources,all_persons,2017-10-01,2017-10-31,Q20b,benefit_at_entry,222
+No Sources,all_persons,2017-10-01,2017-10-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,21
+No Sources,all_persons,2017-10-01,2017-10-31,Q20b,benefit_at_exit_for_leavers,39
+1 + Source(s),all_persons,2017-10-01,2017-10-31,Q20b,benefit_at_entry,106
+1 + Source(s),all_persons,2017-10-01,2017-10-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,22
+1 + Source(s),all_persons,2017-10-01,2017-10-31,Q20b,benefit_at_exit_for_leavers,21
+Client Doesn't Know/Client Refused,all_persons,2017-10-01,2017-10-31,Q20b,benefit_at_entry,0
+Client Doesn't Know/Client Refused,all_persons,2017-10-01,2017-10-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2017-10-01,2017-10-31,Q20b,benefit_at_exit_for_leavers,0
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2017-10-01,2017-10-31,Q20b,benefit_at_entry,28
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2017-10-01,2017-10-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,251
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2017-10-01,2017-10-31,Q20b,benefit_at_exit_for_leavers,2
+No Sources,all_persons,2017-11-01,2017-11-30,Q20b,benefit_at_entry,270
+No Sources,all_persons,2017-11-01,2017-11-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,19
+No Sources,all_persons,2017-11-01,2017-11-30,Q20b,benefit_at_exit_for_leavers,73
+1 + Source(s),all_persons,2017-11-01,2017-11-30,Q20b,benefit_at_entry,128
+1 + Source(s),all_persons,2017-11-01,2017-11-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,21
+1 + Source(s),all_persons,2017-11-01,2017-11-30,Q20b,benefit_at_exit_for_leavers,34
+Client Doesn't Know/Client Refused,all_persons,2017-11-01,2017-11-30,Q20b,benefit_at_entry,2
+Client Doesn't Know/Client Refused,all_persons,2017-11-01,2017-11-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2017-11-01,2017-11-30,Q20b,benefit_at_exit_for_leavers,2
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2017-11-01,2017-11-30,Q20b,benefit_at_entry,30
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2017-11-01,2017-11-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,277
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2017-11-01,2017-11-30,Q20b,benefit_at_exit_for_leavers,4
+No Sources,all_persons,2017-12-01,2017-12-31,Q20b,benefit_at_entry,269
+No Sources,all_persons,2017-12-01,2017-12-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,21
+No Sources,all_persons,2017-12-01,2017-12-31,Q20b,benefit_at_exit_for_leavers,79
+1 + Source(s),all_persons,2017-12-01,2017-12-31,Q20b,benefit_at_entry,127
+1 + Source(s),all_persons,2017-12-01,2017-12-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,21
+1 + Source(s),all_persons,2017-12-01,2017-12-31,Q20b,benefit_at_exit_for_leavers,31
+Client Doesn't Know/Client Refused,all_persons,2017-12-01,2017-12-31,Q20b,benefit_at_entry,1
+Client Doesn't Know/Client Refused,all_persons,2017-12-01,2017-12-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2017-12-01,2017-12-31,Q20b,benefit_at_exit_for_leavers,2
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2017-12-01,2017-12-31,Q20b,benefit_at_entry,28
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2017-12-01,2017-12-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,264
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2017-12-01,2017-12-31,Q20b,benefit_at_exit_for_leavers,7
+No Sources,all_persons,2018-01-01,2018-01-31,Q20b,benefit_at_entry,255
+No Sources,all_persons,2018-01-01,2018-01-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,20
+No Sources,all_persons,2018-01-01,2018-01-31,Q20b,benefit_at_exit_for_leavers,44
+1 + Source(s),all_persons,2018-01-01,2018-01-31,Q20b,benefit_at_entry,135
+1 + Source(s),all_persons,2018-01-01,2018-01-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,22
+1 + Source(s),all_persons,2018-01-01,2018-01-31,Q20b,benefit_at_exit_for_leavers,33
+Client Doesn't Know/Client Refused,all_persons,2018-01-01,2018-01-31,Q20b,benefit_at_entry,0
+Client Doesn't Know/Client Refused,all_persons,2018-01-01,2018-01-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2018-01-01,2018-01-31,Q20b,benefit_at_exit_for_leavers,0
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2018-01-01,2018-01-31,Q20b,benefit_at_entry,27
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2018-01-01,2018-01-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,295
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2018-01-01,2018-01-31,Q20b,benefit_at_exit_for_leavers,3
+No Sources,all_persons,2018-02-01,2018-02-28,Q20b,benefit_at_entry,268
+No Sources,all_persons,2018-02-01,2018-02-28,Q20b,benefit_at_latest_annual_assessment_for_stayers,19
+No Sources,all_persons,2018-02-01,2018-02-28,Q20b,benefit_at_exit_for_leavers,54
+1 + Source(s),all_persons,2018-02-01,2018-02-28,Q20b,benefit_at_entry,141
+1 + Source(s),all_persons,2018-02-01,2018-02-28,Q20b,benefit_at_latest_annual_assessment_for_stayers,23
+1 + Source(s),all_persons,2018-02-01,2018-02-28,Q20b,benefit_at_exit_for_leavers,30
+Client Doesn't Know/Client Refused,all_persons,2018-02-01,2018-02-28,Q20b,benefit_at_entry,0
+Client Doesn't Know/Client Refused,all_persons,2018-02-01,2018-02-28,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2018-02-01,2018-02-28,Q20b,benefit_at_exit_for_leavers,0
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2018-02-01,2018-02-28,Q20b,benefit_at_entry,26
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2018-02-01,2018-02-28,Q20b,benefit_at_latest_annual_assessment_for_stayers,305
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2018-02-01,2018-02-28,Q20b,benefit_at_exit_for_leavers,4
+No Sources,all_persons,2018-03-01,2018-03-31,Q20b,benefit_at_entry,271
+No Sources,all_persons,2018-03-01,2018-03-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,17
+No Sources,all_persons,2018-03-01,2018-03-31,Q20b,benefit_at_exit_for_leavers,61
+1 + Source(s),all_persons,2018-03-01,2018-03-31,Q20b,benefit_at_entry,139
+1 + Source(s),all_persons,2018-03-01,2018-03-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,24
+1 + Source(s),all_persons,2018-03-01,2018-03-31,Q20b,benefit_at_exit_for_leavers,43
+Client Doesn't Know/Client Refused,all_persons,2018-03-01,2018-03-31,Q20b,benefit_at_entry,0
+Client Doesn't Know/Client Refused,all_persons,2018-03-01,2018-03-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2018-03-01,2018-03-31,Q20b,benefit_at_exit_for_leavers,0
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2018-03-01,2018-03-31,Q20b,benefit_at_entry,26
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2018-03-01,2018-03-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,287
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2018-03-01,2018-03-31,Q20b,benefit_at_exit_for_leavers,4
+No Sources,all_persons,2018-04-01,2018-04-30,Q20b,benefit_at_entry,257
+No Sources,all_persons,2018-04-01,2018-04-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,14
+No Sources,all_persons,2018-04-01,2018-04-30,Q20b,benefit_at_exit_for_leavers,62
+1 + Source(s),all_persons,2018-04-01,2018-04-30,Q20b,benefit_at_entry,122
+1 + Source(s),all_persons,2018-04-01,2018-04-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,25
+1 + Source(s),all_persons,2018-04-01,2018-04-30,Q20b,benefit_at_exit_for_leavers,23
+Client Doesn't Know/Client Refused,all_persons,2018-04-01,2018-04-30,Q20b,benefit_at_entry,0
+Client Doesn't Know/Client Refused,all_persons,2018-04-01,2018-04-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2018-04-01,2018-04-30,Q20b,benefit_at_exit_for_leavers,0
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2018-04-01,2018-04-30,Q20b,benefit_at_entry,24
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2018-04-01,2018-04-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,275
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2018-04-01,2018-04-30,Q20b,benefit_at_exit_for_leavers,4
+No Sources,all_persons,2018-05-01,2018-05-31,Q20b,benefit_at_entry,229
+No Sources,all_persons,2018-05-01,2018-05-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,15
+No Sources,all_persons,2018-05-01,2018-05-31,Q20b,benefit_at_exit_for_leavers,45
+1 + Source(s),all_persons,2018-05-01,2018-05-31,Q20b,benefit_at_entry,148
+1 + Source(s),all_persons,2018-05-01,2018-05-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,26
+1 + Source(s),all_persons,2018-05-01,2018-05-31,Q20b,benefit_at_exit_for_leavers,34
+Client Doesn't Know/Client Refused,all_persons,2018-05-01,2018-05-31,Q20b,benefit_at_entry,0
+Client Doesn't Know/Client Refused,all_persons,2018-05-01,2018-05-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2018-05-01,2018-05-31,Q20b,benefit_at_exit_for_leavers,0
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2018-05-01,2018-05-31,Q20b,benefit_at_entry,22
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2018-05-01,2018-05-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,276
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2018-05-01,2018-05-31,Q20b,benefit_at_exit_for_leavers,3
+No Sources,all_persons,2018-06-01,2018-06-30,Q20b,benefit_at_entry,208
+No Sources,all_persons,2018-06-01,2018-06-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,15
+No Sources,all_persons,2018-06-01,2018-06-30,Q20b,benefit_at_exit_for_leavers,66
+1 + Source(s),all_persons,2018-06-01,2018-06-30,Q20b,benefit_at_entry,142
+1 + Source(s),all_persons,2018-06-01,2018-06-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,27
+1 + Source(s),all_persons,2018-06-01,2018-06-30,Q20b,benefit_at_exit_for_leavers,36
+Client Doesn't Know/Client Refused,all_persons,2018-06-01,2018-06-30,Q20b,benefit_at_entry,0
+Client Doesn't Know/Client Refused,all_persons,2018-06-01,2018-06-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2018-06-01,2018-06-30,Q20b,benefit_at_exit_for_leavers,0
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2018-06-01,2018-06-30,Q20b,benefit_at_entry,23
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2018-06-01,2018-06-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,225
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2018-06-01,2018-06-30,Q20b,benefit_at_exit_for_leavers,4
+No Sources,all_persons,2018-07-01,2018-07-31,Q20b,benefit_at_entry,182
+No Sources,all_persons,2018-07-01,2018-07-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,15
+No Sources,all_persons,2018-07-01,2018-07-31,Q20b,benefit_at_exit_for_leavers,21
+1 + Source(s),all_persons,2018-07-01,2018-07-31,Q20b,benefit_at_entry,138
+1 + Source(s),all_persons,2018-07-01,2018-07-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,27
+1 + Source(s),all_persons,2018-07-01,2018-07-31,Q20b,benefit_at_exit_for_leavers,15
+Client Doesn't Know/Client Refused,all_persons,2018-07-01,2018-07-31,Q20b,benefit_at_entry,0
+Client Doesn't Know/Client Refused,all_persons,2018-07-01,2018-07-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2018-07-01,2018-07-31,Q20b,benefit_at_exit_for_leavers,0
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2018-07-01,2018-07-31,Q20b,benefit_at_entry,19
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2018-07-01,2018-07-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,260
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2018-07-01,2018-07-31,Q20b,benefit_at_exit_for_leavers,1
+No Sources,all_persons,2018-08-01,2018-08-31,Q20b,benefit_at_entry,195
+No Sources,all_persons,2018-08-01,2018-08-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,16
+No Sources,all_persons,2018-08-01,2018-08-31,Q20b,benefit_at_exit_for_leavers,28
+1 + Source(s),all_persons,2018-08-01,2018-08-31,Q20b,benefit_at_entry,144
+1 + Source(s),all_persons,2018-08-01,2018-08-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,28
+1 + Source(s),all_persons,2018-08-01,2018-08-31,Q20b,benefit_at_exit_for_leavers,28
+Client Doesn't Know/Client Refused,all_persons,2018-08-01,2018-08-31,Q20b,benefit_at_entry,0
+Client Doesn't Know/Client Refused,all_persons,2018-08-01,2018-08-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2018-08-01,2018-08-31,Q20b,benefit_at_exit_for_leavers,0
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2018-08-01,2018-08-31,Q20b,benefit_at_entry,21
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2018-08-01,2018-08-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,259
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2018-08-01,2018-08-31,Q20b,benefit_at_exit_for_leavers,1
+No Sources,all_persons,2018-09-01,2018-09-30,Q20b,benefit_at_entry,190
+No Sources,all_persons,2018-09-01,2018-09-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,17
+No Sources,all_persons,2018-09-01,2018-09-30,Q20b,benefit_at_exit_for_leavers,22
+1 + Source(s),all_persons,2018-09-01,2018-09-30,Q20b,benefit_at_entry,149
+1 + Source(s),all_persons,2018-09-01,2018-09-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,28
+1 + Source(s),all_persons,2018-09-01,2018-09-30,Q20b,benefit_at_exit_for_leavers,25
+Client Doesn't Know/Client Refused,all_persons,2018-09-01,2018-09-30,Q20b,benefit_at_entry,0
+Client Doesn't Know/Client Refused,all_persons,2018-09-01,2018-09-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2018-09-01,2018-09-30,Q20b,benefit_at_exit_for_leavers,0
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2018-09-01,2018-09-30,Q20b,benefit_at_entry,24
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2018-09-01,2018-09-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,270
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2018-09-01,2018-09-30,Q20b,benefit_at_exit_for_leavers,1
+No Sources,all_persons,2018-10-01,2018-10-31,Q20b,benefit_at_entry,207
+No Sources,all_persons,2018-10-01,2018-10-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,19
+No Sources,all_persons,2018-10-01,2018-10-31,Q20b,benefit_at_exit_for_leavers,32
+1 + Source(s),all_persons,2018-10-01,2018-10-31,Q20b,benefit_at_entry,162
+1 + Source(s),all_persons,2018-10-01,2018-10-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,29
+1 + Source(s),all_persons,2018-10-01,2018-10-31,Q20b,benefit_at_exit_for_leavers,33
+Client Doesn't Know/Client Refused,all_persons,2018-10-01,2018-10-31,Q20b,benefit_at_entry,0
+Client Doesn't Know/Client Refused,all_persons,2018-10-01,2018-10-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2018-10-01,2018-10-31,Q20b,benefit_at_exit_for_leavers,0
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2018-10-01,2018-10-31,Q20b,benefit_at_entry,26
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2018-10-01,2018-10-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,277
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2018-10-01,2018-10-31,Q20b,benefit_at_exit_for_leavers,5
+No Sources,all_persons,2018-11-01,2018-11-30,Q20b,benefit_at_entry,260
+No Sources,all_persons,2018-11-01,2018-11-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,19
+No Sources,all_persons,2018-11-01,2018-11-30,Q20b,benefit_at_exit_for_leavers,51
+1 + Source(s),all_persons,2018-11-01,2018-11-30,Q20b,benefit_at_entry,167
+1 + Source(s),all_persons,2018-11-01,2018-11-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,28
+1 + Source(s),all_persons,2018-11-01,2018-11-30,Q20b,benefit_at_exit_for_leavers,34
+Client Doesn't Know/Client Refused,all_persons,2018-11-01,2018-11-30,Q20b,benefit_at_entry,1
+Client Doesn't Know/Client Refused,all_persons,2018-11-01,2018-11-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2018-11-01,2018-11-30,Q20b,benefit_at_exit_for_leavers,0
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2018-11-01,2018-11-30,Q20b,benefit_at_entry,21
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2018-11-01,2018-11-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,317
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2018-11-01,2018-11-30,Q20b,benefit_at_exit_for_leavers,0
+No Sources,all_persons,2018-12-01,2018-12-31,Q20b,benefit_at_entry,305
+No Sources,all_persons,2018-12-01,2018-12-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,19
+No Sources,all_persons,2018-12-01,2018-12-31,Q20b,benefit_at_exit_for_leavers,98
+1 + Source(s),all_persons,2018-12-01,2018-12-31,Q20b,benefit_at_entry,198
+1 + Source(s),all_persons,2018-12-01,2018-12-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,29
+1 + Source(s),all_persons,2018-12-01,2018-12-31,Q20b,benefit_at_exit_for_leavers,66
+Client Doesn't Know/Client Refused,all_persons,2018-12-01,2018-12-31,Q20b,benefit_at_entry,1
+Client Doesn't Know/Client Refused,all_persons,2018-12-01,2018-12-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2018-12-01,2018-12-31,Q20b,benefit_at_exit_for_leavers,1
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2018-12-01,2018-12-31,Q20b,benefit_at_entry,32
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2018-12-01,2018-12-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,315
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2018-12-01,2018-12-31,Q20b,benefit_at_exit_for_leavers,8
+No Sources,all_persons,2019-01-01,2019-01-31,Q20b,benefit_at_entry,367
+No Sources,all_persons,2019-01-01,2019-01-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,20
+No Sources,all_persons,2019-01-01,2019-01-31,Q20b,benefit_at_exit_for_leavers,120
+1 + Source(s),all_persons,2019-01-01,2019-01-31,Q20b,benefit_at_entry,245
+1 + Source(s),all_persons,2019-01-01,2019-01-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,28
+1 + Source(s),all_persons,2019-01-01,2019-01-31,Q20b,benefit_at_exit_for_leavers,86
+Client Doesn't Know/Client Refused,all_persons,2019-01-01,2019-01-31,Q20b,benefit_at_entry,1
+Client Doesn't Know/Client Refused,all_persons,2019-01-01,2019-01-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2019-01-01,2019-01-31,Q20b,benefit_at_exit_for_leavers,1
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2019-01-01,2019-01-31,Q20b,benefit_at_entry,36
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2019-01-01,2019-01-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,384
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2019-01-01,2019-01-31,Q20b,benefit_at_exit_for_leavers,10
+No Sources,all_persons,2019-02-01,2019-02-28,Q20b,benefit_at_entry,399
+No Sources,all_persons,2019-02-01,2019-02-28,Q20b,benefit_at_latest_annual_assessment_for_stayers,22
+No Sources,all_persons,2019-02-01,2019-02-28,Q20b,benefit_at_exit_for_leavers,144
+1 + Source(s),all_persons,2019-02-01,2019-02-28,Q20b,benefit_at_entry,253
+1 + Source(s),all_persons,2019-02-01,2019-02-28,Q20b,benefit_at_latest_annual_assessment_for_stayers,32
+1 + Source(s),all_persons,2019-02-01,2019-02-28,Q20b,benefit_at_exit_for_leavers,102
+Client Doesn't Know/Client Refused,all_persons,2019-02-01,2019-02-28,Q20b,benefit_at_entry,2
+Client Doesn't Know/Client Refused,all_persons,2019-02-01,2019-02-28,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2019-02-01,2019-02-28,Q20b,benefit_at_exit_for_leavers,2
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2019-02-01,2019-02-28,Q20b,benefit_at_entry,73
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2019-02-01,2019-02-28,Q20b,benefit_at_latest_annual_assessment_for_stayers,386
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2019-02-01,2019-02-28,Q20b,benefit_at_exit_for_leavers,39
+No Sources,all_persons,2019-03-01,2019-03-31,Q20b,benefit_at_entry,392
+No Sources,all_persons,2019-03-01,2019-03-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,21
+No Sources,all_persons,2019-03-01,2019-03-31,Q20b,benefit_at_exit_for_leavers,131
+1 + Source(s),all_persons,2019-03-01,2019-03-31,Q20b,benefit_at_entry,233
+1 + Source(s),all_persons,2019-03-01,2019-03-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,33
+1 + Source(s),all_persons,2019-03-01,2019-03-31,Q20b,benefit_at_exit_for_leavers,86
+Client Doesn't Know/Client Refused,all_persons,2019-03-01,2019-03-31,Q20b,benefit_at_entry,0
+Client Doesn't Know/Client Refused,all_persons,2019-03-01,2019-03-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2019-03-01,2019-03-31,Q20b,benefit_at_exit_for_leavers,0
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2019-03-01,2019-03-31,Q20b,benefit_at_entry,82
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2019-03-01,2019-03-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,393
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2019-03-01,2019-03-31,Q20b,benefit_at_exit_for_leavers,43
+No Sources,all_persons,2019-04-01,2019-04-30,Q20b,benefit_at_entry,409
+No Sources,all_persons,2019-04-01,2019-04-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,22
+No Sources,all_persons,2019-04-01,2019-04-30,Q20b,benefit_at_exit_for_leavers,154
+1 + Source(s),all_persons,2019-04-01,2019-04-30,Q20b,benefit_at_entry,239
+1 + Source(s),all_persons,2019-04-01,2019-04-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,32
+1 + Source(s),all_persons,2019-04-01,2019-04-30,Q20b,benefit_at_exit_for_leavers,106
+Client Doesn't Know/Client Refused,all_persons,2019-04-01,2019-04-30,Q20b,benefit_at_entry,0
+Client Doesn't Know/Client Refused,all_persons,2019-04-01,2019-04-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2019-04-01,2019-04-30,Q20b,benefit_at_exit_for_leavers,0
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2019-04-01,2019-04-30,Q20b,benefit_at_entry,76
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2019-04-01,2019-04-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,371
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2019-04-01,2019-04-30,Q20b,benefit_at_exit_for_leavers,39
+No Sources,all_persons,2019-05-01,2019-05-31,Q20b,benefit_at_entry,389
+No Sources,all_persons,2019-05-01,2019-05-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,22
+No Sources,all_persons,2019-05-01,2019-05-31,Q20b,benefit_at_exit_for_leavers,115
+1 + Source(s),all_persons,2019-05-01,2019-05-31,Q20b,benefit_at_entry,215
+1 + Source(s),all_persons,2019-05-01,2019-05-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,35
+1 + Source(s),all_persons,2019-05-01,2019-05-31,Q20b,benefit_at_exit_for_leavers,59
+Client Doesn't Know/Client Refused,all_persons,2019-05-01,2019-05-31,Q20b,benefit_at_entry,0
+Client Doesn't Know/Client Refused,all_persons,2019-05-01,2019-05-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2019-05-01,2019-05-31,Q20b,benefit_at_exit_for_leavers,0
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2019-05-01,2019-05-31,Q20b,benefit_at_entry,108
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2019-05-01,2019-05-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,410
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2019-05-01,2019-05-31,Q20b,benefit_at_exit_for_leavers,71
+No Sources,all_persons,2019-06-01,2019-06-30,Q20b,benefit_at_entry,398
+No Sources,all_persons,2019-06-01,2019-06-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,22
+No Sources,all_persons,2019-06-01,2019-06-30,Q20b,benefit_at_exit_for_leavers,135
+1 + Source(s),all_persons,2019-06-01,2019-06-30,Q20b,benefit_at_entry,214
+1 + Source(s),all_persons,2019-06-01,2019-06-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,37
+1 + Source(s),all_persons,2019-06-01,2019-06-30,Q20b,benefit_at_exit_for_leavers,66
+Client Doesn't Know/Client Refused,all_persons,2019-06-01,2019-06-30,Q20b,benefit_at_entry,0
+Client Doesn't Know/Client Refused,all_persons,2019-06-01,2019-06-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2019-06-01,2019-06-30,Q20b,benefit_at_exit_for_leavers,0
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2019-06-01,2019-06-30,Q20b,benefit_at_entry,97
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2019-06-01,2019-06-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,381
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2019-06-01,2019-06-30,Q20b,benefit_at_exit_for_leavers,68
+No Sources,all_persons,2019-07-01,2019-07-31,Q20b,benefit_at_entry,451
+No Sources,all_persons,2019-07-01,2019-07-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,22
+No Sources,all_persons,2019-07-01,2019-07-31,Q20b,benefit_at_exit_for_leavers,159
+1 + Source(s),all_persons,2019-07-01,2019-07-31,Q20b,benefit_at_entry,232
+1 + Source(s),all_persons,2019-07-01,2019-07-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,37
+1 + Source(s),all_persons,2019-07-01,2019-07-31,Q20b,benefit_at_exit_for_leavers,79
+Client Doesn't Know/Client Refused,all_persons,2019-07-01,2019-07-31,Q20b,benefit_at_entry,0
+Client Doesn't Know/Client Refused,all_persons,2019-07-01,2019-07-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2019-07-01,2019-07-31,Q20b,benefit_at_exit_for_leavers,0
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2019-07-01,2019-07-31,Q20b,benefit_at_entry,113
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2019-07-01,2019-07-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,420
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2019-07-01,2019-07-31,Q20b,benefit_at_exit_for_leavers,79
+No Sources,all_persons,2019-08-01,2019-08-31,Q20b,benefit_at_entry,469
+No Sources,all_persons,2019-08-01,2019-08-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,22
+No Sources,all_persons,2019-08-01,2019-08-31,Q20b,benefit_at_exit_for_leavers,151
+1 + Source(s),all_persons,2019-08-01,2019-08-31,Q20b,benefit_at_entry,243
+1 + Source(s),all_persons,2019-08-01,2019-08-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,37
+1 + Source(s),all_persons,2019-08-01,2019-08-31,Q20b,benefit_at_exit_for_leavers,74
+Client Doesn't Know/Client Refused,all_persons,2019-08-01,2019-08-31,Q20b,benefit_at_entry,0
+Client Doesn't Know/Client Refused,all_persons,2019-08-01,2019-08-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2019-08-01,2019-08-31,Q20b,benefit_at_exit_for_leavers,0
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2019-08-01,2019-08-31,Q20b,benefit_at_entry,109
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2019-08-01,2019-08-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,459
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2019-08-01,2019-08-31,Q20b,benefit_at_exit_for_leavers,78
+No Sources,all_persons,2019-09-01,2019-09-30,Q20b,benefit_at_entry,445
+No Sources,all_persons,2019-09-01,2019-09-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,22
+No Sources,all_persons,2019-09-01,2019-09-30,Q20b,benefit_at_exit_for_leavers,114
+1 + Source(s),all_persons,2019-09-01,2019-09-30,Q20b,benefit_at_entry,251
+1 + Source(s),all_persons,2019-09-01,2019-09-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,34
+1 + Source(s),all_persons,2019-09-01,2019-09-30,Q20b,benefit_at_exit_for_leavers,86
+Client Doesn't Know/Client Refused,all_persons,2019-09-01,2019-09-30,Q20b,benefit_at_entry,0
+Client Doesn't Know/Client Refused,all_persons,2019-09-01,2019-09-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2019-09-01,2019-09-30,Q20b,benefit_at_exit_for_leavers,0
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2019-09-01,2019-09-30,Q20b,benefit_at_entry,124
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2019-09-01,2019-09-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,481
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2019-09-01,2019-09-30,Q20b,benefit_at_exit_for_leavers,83
+No Sources,all_persons,2019-10-01,2019-10-31,Q20b,benefit_at_entry,474
+No Sources,all_persons,2019-10-01,2019-10-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,24
+No Sources,all_persons,2019-10-01,2019-10-31,Q20b,benefit_at_exit_for_leavers,130
+1 + Source(s),all_persons,2019-10-01,2019-10-31,Q20b,benefit_at_entry,239
+1 + Source(s),all_persons,2019-10-01,2019-10-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,36
+1 + Source(s),all_persons,2019-10-01,2019-10-31,Q20b,benefit_at_exit_for_leavers,71
+Client Doesn't Know/Client Refused,all_persons,2019-10-01,2019-10-31,Q20b,benefit_at_entry,0
+Client Doesn't Know/Client Refused,all_persons,2019-10-01,2019-10-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2019-10-01,2019-10-31,Q20b,benefit_at_exit_for_leavers,0
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2019-10-01,2019-10-31,Q20b,benefit_at_entry,131
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2019-10-01,2019-10-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,498
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2019-10-01,2019-10-31,Q20b,benefit_at_exit_for_leavers,85
+No Sources,all_persons,2019-11-01,2019-11-30,Q20b,benefit_at_entry,484
+No Sources,all_persons,2019-11-01,2019-11-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,24
+No Sources,all_persons,2019-11-01,2019-11-30,Q20b,benefit_at_exit_for_leavers,120
+1 + Source(s),all_persons,2019-11-01,2019-11-30,Q20b,benefit_at_entry,258
+1 + Source(s),all_persons,2019-11-01,2019-11-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,37
+1 + Source(s),all_persons,2019-11-01,2019-11-30,Q20b,benefit_at_exit_for_leavers,77
+Client Doesn't Know/Client Refused,all_persons,2019-11-01,2019-11-30,Q20b,benefit_at_entry,1
+Client Doesn't Know/Client Refused,all_persons,2019-11-01,2019-11-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2019-11-01,2019-11-30,Q20b,benefit_at_exit_for_leavers,0
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2019-11-01,2019-11-30,Q20b,benefit_at_entry,122
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2019-11-01,2019-11-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,540
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2019-11-01,2019-11-30,Q20b,benefit_at_exit_for_leavers,67
+No Sources,all_persons,2019-12-01,2019-12-31,Q20b,benefit_at_entry,508
+No Sources,all_persons,2019-12-01,2019-12-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,24
+No Sources,all_persons,2019-12-01,2019-12-31,Q20b,benefit_at_exit_for_leavers,131
+1 + Source(s),all_persons,2019-12-01,2019-12-31,Q20b,benefit_at_entry,266
+1 + Source(s),all_persons,2019-12-01,2019-12-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,35
+1 + Source(s),all_persons,2019-12-01,2019-12-31,Q20b,benefit_at_exit_for_leavers,77
+Client Doesn't Know/Client Refused,all_persons,2019-12-01,2019-12-31,Q20b,benefit_at_entry,1
+Client Doesn't Know/Client Refused,all_persons,2019-12-01,2019-12-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2019-12-01,2019-12-31,Q20b,benefit_at_exit_for_leavers,0
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2019-12-01,2019-12-31,Q20b,benefit_at_entry,116
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2019-12-01,2019-12-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,558
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2019-12-01,2019-12-31,Q20b,benefit_at_exit_for_leavers,66
+No Sources,all_persons,2020-01-01,2020-01-31,Q20b,benefit_at_entry,538
+No Sources,all_persons,2020-01-01,2020-01-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,23
+No Sources,all_persons,2020-01-01,2020-01-31,Q20b,benefit_at_exit_for_leavers,145
+1 + Source(s),all_persons,2020-01-01,2020-01-31,Q20b,benefit_at_entry,272
+1 + Source(s),all_persons,2020-01-01,2020-01-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,33
+1 + Source(s),all_persons,2020-01-01,2020-01-31,Q20b,benefit_at_exit_for_leavers,95
+Client Doesn't Know/Client Refused,all_persons,2020-01-01,2020-01-31,Q20b,benefit_at_entry,2
+Client Doesn't Know/Client Refused,all_persons,2020-01-01,2020-01-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2020-01-01,2020-01-31,Q20b,benefit_at_exit_for_leavers,2
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2020-01-01,2020-01-31,Q20b,benefit_at_entry,124
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2020-01-01,2020-01-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,561
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2020-01-01,2020-01-31,Q20b,benefit_at_exit_for_leavers,77
+No Sources,all_persons,2020-02-01,2020-02-29,Q20b,benefit_at_entry,527
+No Sources,all_persons,2020-02-01,2020-02-29,Q20b,benefit_at_latest_annual_assessment_for_stayers,23
+No Sources,all_persons,2020-02-01,2020-02-29,Q20b,benefit_at_exit_for_leavers,137
+1 + Source(s),all_persons,2020-02-01,2020-02-29,Q20b,benefit_at_entry,258
+1 + Source(s),all_persons,2020-02-01,2020-02-29,Q20b,benefit_at_latest_annual_assessment_for_stayers,34
+1 + Source(s),all_persons,2020-02-01,2020-02-29,Q20b,benefit_at_exit_for_leavers,76
+Client Doesn't Know/Client Refused,all_persons,2020-02-01,2020-02-29,Q20b,benefit_at_entry,1
+Client Doesn't Know/Client Refused,all_persons,2020-02-01,2020-02-29,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2020-02-01,2020-02-29,Q20b,benefit_at_exit_for_leavers,0
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2020-02-01,2020-02-29,Q20b,benefit_at_entry,119
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2020-02-01,2020-02-29,Q20b,benefit_at_latest_annual_assessment_for_stayers,568
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2020-02-01,2020-02-29,Q20b,benefit_at_exit_for_leavers,67
+No Sources,all_persons,2020-03-01,2020-03-31,Q20b,benefit_at_entry,525
+No Sources,all_persons,2020-03-01,2020-03-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,24
+No Sources,all_persons,2020-03-01,2020-03-31,Q20b,benefit_at_exit_for_leavers,146
+1 + Source(s),all_persons,2020-03-01,2020-03-31,Q20b,benefit_at_entry,241
+1 + Source(s),all_persons,2020-03-01,2020-03-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,33
+1 + Source(s),all_persons,2020-03-01,2020-03-31,Q20b,benefit_at_exit_for_leavers,65
+Client Doesn't Know/Client Refused,all_persons,2020-03-01,2020-03-31,Q20b,benefit_at_entry,2
+Client Doesn't Know/Client Refused,all_persons,2020-03-01,2020-03-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2020-03-01,2020-03-31,Q20b,benefit_at_exit_for_leavers,1
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2020-03-01,2020-03-31,Q20b,benefit_at_entry,84
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2020-03-01,2020-03-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,550
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2020-03-01,2020-03-31,Q20b,benefit_at_exit_for_leavers,33
+No Sources,all_persons,2020-04-01,2020-04-30,Q20b,benefit_at_entry,524
+No Sources,all_persons,2020-04-01,2020-04-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,23
+No Sources,all_persons,2020-04-01,2020-04-30,Q20b,benefit_at_exit_for_leavers,113
+1 + Source(s),all_persons,2020-04-01,2020-04-30,Q20b,benefit_at_entry,234
+1 + Source(s),all_persons,2020-04-01,2020-04-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,33
+1 + Source(s),all_persons,2020-04-01,2020-04-30,Q20b,benefit_at_exit_for_leavers,50
+Client Doesn't Know/Client Refused,all_persons,2020-04-01,2020-04-30,Q20b,benefit_at_entry,3
+Client Doesn't Know/Client Refused,all_persons,2020-04-01,2020-04-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2020-04-01,2020-04-30,Q20b,benefit_at_exit_for_leavers,2
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2020-04-01,2020-04-30,Q20b,benefit_at_entry,76
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2020-04-01,2020-04-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,594
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2020-04-01,2020-04-30,Q20b,benefit_at_exit_for_leavers,22
+No Sources,all_persons,2020-05-01,2020-05-31,Q20b,benefit_at_entry,512
+No Sources,all_persons,2020-05-01,2020-05-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,24
+No Sources,all_persons,2020-05-01,2020-05-31,Q20b,benefit_at_exit_for_leavers,117
+1 + Source(s),all_persons,2020-05-01,2020-05-31,Q20b,benefit_at_entry,240
+1 + Source(s),all_persons,2020-05-01,2020-05-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,33
+1 + Source(s),all_persons,2020-05-01,2020-05-31,Q20b,benefit_at_exit_for_leavers,52
+Client Doesn't Know/Client Refused,all_persons,2020-05-01,2020-05-31,Q20b,benefit_at_entry,1
+Client Doesn't Know/Client Refused,all_persons,2020-05-01,2020-05-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2020-05-01,2020-05-31,Q20b,benefit_at_exit_for_leavers,1
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2020-05-01,2020-05-31,Q20b,benefit_at_entry,78
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2020-05-01,2020-05-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,579
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2020-05-01,2020-05-31,Q20b,benefit_at_exit_for_leavers,25
+No Sources,all_persons,2020-06-01,2020-06-30,Q20b,benefit_at_entry,491
+No Sources,all_persons,2020-06-01,2020-06-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,23
+No Sources,all_persons,2020-06-01,2020-06-30,Q20b,benefit_at_exit_for_leavers,134
+1 + Source(s),all_persons,2020-06-01,2020-06-30,Q20b,benefit_at_entry,253
+1 + Source(s),all_persons,2020-06-01,2020-06-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,33
+1 + Source(s),all_persons,2020-06-01,2020-06-30,Q20b,benefit_at_exit_for_leavers,74
+Client Doesn't Know/Client Refused,all_persons,2020-06-01,2020-06-30,Q20b,benefit_at_entry,1
+Client Doesn't Know/Client Refused,all_persons,2020-06-01,2020-06-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2020-06-01,2020-06-30,Q20b,benefit_at_exit_for_leavers,1
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2020-06-01,2020-06-30,Q20b,benefit_at_entry,95
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2020-06-01,2020-06-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,536
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2020-06-01,2020-06-30,Q20b,benefit_at_exit_for_leavers,39
+No Sources,all_persons,2020-07-01,2020-07-31,Q20b,benefit_at_entry,476
+No Sources,all_persons,2020-07-01,2020-07-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,24
+No Sources,all_persons,2020-07-01,2020-07-31,Q20b,benefit_at_exit_for_leavers,107
+1 + Source(s),all_persons,2020-07-01,2020-07-31,Q20b,benefit_at_entry,230
+1 + Source(s),all_persons,2020-07-01,2020-07-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,33
+1 + Source(s),all_persons,2020-07-01,2020-07-31,Q20b,benefit_at_exit_for_leavers,58
+Client Doesn't Know/Client Refused,all_persons,2020-07-01,2020-07-31,Q20b,benefit_at_entry,0
+Client Doesn't Know/Client Refused,all_persons,2020-07-01,2020-07-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2020-07-01,2020-07-31,Q20b,benefit_at_exit_for_leavers,0
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2020-07-01,2020-07-31,Q20b,benefit_at_entry,99
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2020-07-01,2020-07-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,532
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2020-07-01,2020-07-31,Q20b,benefit_at_exit_for_leavers,51
+No Sources,all_persons,2020-08-01,2020-08-31,Q20b,benefit_at_entry,474
+No Sources,all_persons,2020-08-01,2020-08-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,24
+No Sources,all_persons,2020-08-01,2020-08-31,Q20b,benefit_at_exit_for_leavers,77
+1 + Source(s),all_persons,2020-08-01,2020-08-31,Q20b,benefit_at_entry,236
+1 + Source(s),all_persons,2020-08-01,2020-08-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,33
+1 + Source(s),all_persons,2020-08-01,2020-08-31,Q20b,benefit_at_exit_for_leavers,41
+Client Doesn't Know/Client Refused,all_persons,2020-08-01,2020-08-31,Q20b,benefit_at_entry,1
+Client Doesn't Know/Client Refused,all_persons,2020-08-01,2020-08-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2020-08-01,2020-08-31,Q20b,benefit_at_exit_for_leavers,0
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2020-08-01,2020-08-31,Q20b,benefit_at_entry,91
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2020-08-01,2020-08-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,587
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2020-08-01,2020-08-31,Q20b,benefit_at_exit_for_leavers,40
+No Sources,all_persons,2020-09-01,2020-09-30,Q20b,benefit_at_entry,493
+No Sources,all_persons,2020-09-01,2020-09-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,23
+No Sources,all_persons,2020-09-01,2020-09-30,Q20b,benefit_at_exit_for_leavers,108
+1 + Source(s),all_persons,2020-09-01,2020-09-30,Q20b,benefit_at_entry,245
+1 + Source(s),all_persons,2020-09-01,2020-09-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,34
+1 + Source(s),all_persons,2020-09-01,2020-09-30,Q20b,benefit_at_exit_for_leavers,40
+Client Doesn't Know/Client Refused,all_persons,2020-09-01,2020-09-30,Q20b,benefit_at_entry,1
+Client Doesn't Know/Client Refused,all_persons,2020-09-01,2020-09-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2020-09-01,2020-09-30,Q20b,benefit_at_exit_for_leavers,0
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2020-09-01,2020-09-30,Q20b,benefit_at_entry,98
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2020-09-01,2020-09-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,581
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2020-09-01,2020-09-30,Q20b,benefit_at_exit_for_leavers,51
+No Sources,all_persons,2020-10-01,2020-10-31,Q20b,benefit_at_entry,480
+No Sources,all_persons,2020-10-01,2020-10-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,24
+No Sources,all_persons,2020-10-01,2020-10-31,Q20b,benefit_at_exit_for_leavers,80
+1 + Source(s),all_persons,2020-10-01,2020-10-31,Q20b,benefit_at_entry,283
+1 + Source(s),all_persons,2020-10-01,2020-10-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,35
+1 + Source(s),all_persons,2020-10-01,2020-10-31,Q20b,benefit_at_exit_for_leavers,56
+Client Doesn't Know/Client Refused,all_persons,2020-10-01,2020-10-31,Q20b,benefit_at_entry,1
+Client Doesn't Know/Client Refused,all_persons,2020-10-01,2020-10-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2020-10-01,2020-10-31,Q20b,benefit_at_exit_for_leavers,0
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2020-10-01,2020-10-31,Q20b,benefit_at_entry,104
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2020-10-01,2020-10-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,620
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2020-10-01,2020-10-31,Q20b,benefit_at_exit_for_leavers,53
+No Sources,all_persons,2020-11-01,2020-11-30,Q20b,benefit_at_entry,540
+No Sources,all_persons,2020-11-01,2020-11-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,24
+No Sources,all_persons,2020-11-01,2020-11-30,Q20b,benefit_at_exit_for_leavers,88
+1 + Source(s),all_persons,2020-11-01,2020-11-30,Q20b,benefit_at_entry,288
+1 + Source(s),all_persons,2020-11-01,2020-11-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,35
+1 + Source(s),all_persons,2020-11-01,2020-11-30,Q20b,benefit_at_exit_for_leavers,44
+Client Doesn't Know/Client Refused,all_persons,2020-11-01,2020-11-30,Q20b,benefit_at_entry,2
+Client Doesn't Know/Client Refused,all_persons,2020-11-01,2020-11-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2020-11-01,2020-11-30,Q20b,benefit_at_exit_for_leavers,0
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2020-11-01,2020-11-30,Q20b,benefit_at_entry,107
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2020-11-01,2020-11-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,697
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2020-11-01,2020-11-30,Q20b,benefit_at_exit_for_leavers,49
+No Sources,all_persons,2020-12-01,2020-12-31,Q20b,benefit_at_entry,559
+No Sources,all_persons,2020-12-01,2020-12-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,23
+No Sources,all_persons,2020-12-01,2020-12-31,Q20b,benefit_at_exit_for_leavers,107
+1 + Source(s),all_persons,2020-12-01,2020-12-31,Q20b,benefit_at_entry,304
+1 + Source(s),all_persons,2020-12-01,2020-12-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,35
+1 + Source(s),all_persons,2020-12-01,2020-12-31,Q20b,benefit_at_exit_for_leavers,62
+Client Doesn't Know/Client Refused,all_persons,2020-12-01,2020-12-31,Q20b,benefit_at_entry,2
+Client Doesn't Know/Client Refused,all_persons,2020-12-01,2020-12-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2020-12-01,2020-12-31,Q20b,benefit_at_exit_for_leavers,0
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2020-12-01,2020-12-31,Q20b,benefit_at_entry,89
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2020-12-01,2020-12-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,704
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2020-12-01,2020-12-31,Q20b,benefit_at_exit_for_leavers,23
+No Sources,all_persons,2021-01-01,2021-01-31,Q20b,benefit_at_entry,557
+No Sources,all_persons,2021-01-01,2021-01-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,23
+No Sources,all_persons,2021-01-01,2021-01-31,Q20b,benefit_at_exit_for_leavers,97
+1 + Source(s),all_persons,2021-01-01,2021-01-31,Q20b,benefit_at_entry,299
+1 + Source(s),all_persons,2021-01-01,2021-01-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,32
+1 + Source(s),all_persons,2021-01-01,2021-01-31,Q20b,benefit_at_exit_for_leavers,50
+Client Doesn't Know/Client Refused,all_persons,2021-01-01,2021-01-31,Q20b,benefit_at_entry,2
+Client Doesn't Know/Client Refused,all_persons,2021-01-01,2021-01-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2021-01-01,2021-01-31,Q20b,benefit_at_exit_for_leavers,0
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2021-01-01,2021-01-31,Q20b,benefit_at_entry,123
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2021-01-01,2021-01-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,719
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2021-01-01,2021-01-31,Q20b,benefit_at_exit_for_leavers,60
+No Sources,all_persons,2021-02-01,2021-02-28,Q20b,benefit_at_entry,539
+No Sources,all_persons,2021-02-01,2021-02-28,Q20b,benefit_at_latest_annual_assessment_for_stayers,24
+No Sources,all_persons,2021-02-01,2021-02-28,Q20b,benefit_at_exit_for_leavers,95
+1 + Source(s),all_persons,2021-02-01,2021-02-28,Q20b,benefit_at_entry,295
+1 + Source(s),all_persons,2021-02-01,2021-02-28,Q20b,benefit_at_latest_annual_assessment_for_stayers,32
+1 + Source(s),all_persons,2021-02-01,2021-02-28,Q20b,benefit_at_exit_for_leavers,45
+Client Doesn't Know/Client Refused,all_persons,2021-02-01,2021-02-28,Q20b,benefit_at_entry,2
+Client Doesn't Know/Client Refused,all_persons,2021-02-01,2021-02-28,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2021-02-01,2021-02-28,Q20b,benefit_at_exit_for_leavers,0
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2021-02-01,2021-02-28,Q20b,benefit_at_entry,92
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2021-02-01,2021-02-28,Q20b,benefit_at_latest_annual_assessment_for_stayers,700
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2021-02-01,2021-02-28,Q20b,benefit_at_exit_for_leavers,32
+No Sources,all_persons,2021-03-01,2021-03-31,Q20b,benefit_at_entry,533
+No Sources,all_persons,2021-03-01,2021-03-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,24
+No Sources,all_persons,2021-03-01,2021-03-31,Q20b,benefit_at_exit_for_leavers,94
+1 + Source(s),all_persons,2021-03-01,2021-03-31,Q20b,benefit_at_entry,293
+1 + Source(s),all_persons,2021-03-01,2021-03-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,35
+1 + Source(s),all_persons,2021-03-01,2021-03-31,Q20b,benefit_at_exit_for_leavers,54
+Client Doesn't Know/Client Refused,all_persons,2021-03-01,2021-03-31,Q20b,benefit_at_entry,2
+Client Doesn't Know/Client Refused,all_persons,2021-03-01,2021-03-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2021-03-01,2021-03-31,Q20b,benefit_at_exit_for_leavers,0
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2021-03-01,2021-03-31,Q20b,benefit_at_entry,98
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2021-03-01,2021-03-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,685
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2021-03-01,2021-03-31,Q20b,benefit_at_exit_for_leavers,34
+No Sources,all_persons,2021-04-01,2021-04-30,Q20b,benefit_at_entry,506
+No Sources,all_persons,2021-04-01,2021-04-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,24
+No Sources,all_persons,2021-04-01,2021-04-30,Q20b,benefit_at_exit_for_leavers,84
+1 + Source(s),all_persons,2021-04-01,2021-04-30,Q20b,benefit_at_entry,282
+1 + Source(s),all_persons,2021-04-01,2021-04-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,35
+1 + Source(s),all_persons,2021-04-01,2021-04-30,Q20b,benefit_at_exit_for_leavers,58
+Client Doesn't Know/Client Refused,all_persons,2021-04-01,2021-04-30,Q20b,benefit_at_entry,2
+Client Doesn't Know/Client Refused,all_persons,2021-04-01,2021-04-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2021-04-01,2021-04-30,Q20b,benefit_at_exit_for_leavers,0
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2021-04-01,2021-04-30,Q20b,benefit_at_entry,106
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2021-04-01,2021-04-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,651
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2021-04-01,2021-04-30,Q20b,benefit_at_exit_for_leavers,44
+No Sources,all_persons,2021-05-01,2021-05-31,Q20b,benefit_at_entry,495
+No Sources,all_persons,2021-05-01,2021-05-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,26
+No Sources,all_persons,2021-05-01,2021-05-31,Q20b,benefit_at_exit_for_leavers,72
+1 + Source(s),all_persons,2021-05-01,2021-05-31,Q20b,benefit_at_entry,272
+1 + Source(s),all_persons,2021-05-01,2021-05-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,34
+1 + Source(s),all_persons,2021-05-01,2021-05-31,Q20b,benefit_at_exit_for_leavers,40
+Client Doesn't Know/Client Refused,all_persons,2021-05-01,2021-05-31,Q20b,benefit_at_entry,2
+Client Doesn't Know/Client Refused,all_persons,2021-05-01,2021-05-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2021-05-01,2021-05-31,Q20b,benefit_at_exit_for_leavers,0
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2021-05-01,2021-05-31,Q20b,benefit_at_entry,95
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2021-05-01,2021-05-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,662
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2021-05-01,2021-05-31,Q20b,benefit_at_exit_for_leavers,30
+No Sources,all_persons,2021-06-01,2021-06-30,Q20b,benefit_at_entry,525
+No Sources,all_persons,2021-06-01,2021-06-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,22
+No Sources,all_persons,2021-06-01,2021-06-30,Q20b,benefit_at_exit_for_leavers,97
+1 + Source(s),all_persons,2021-06-01,2021-06-30,Q20b,benefit_at_entry,279
+1 + Source(s),all_persons,2021-06-01,2021-06-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,34
+1 + Source(s),all_persons,2021-06-01,2021-06-30,Q20b,benefit_at_exit_for_leavers,58
+Client Doesn't Know/Client Refused,all_persons,2021-06-01,2021-06-30,Q20b,benefit_at_entry,3
+Client Doesn't Know/Client Refused,all_persons,2021-06-01,2021-06-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2021-06-01,2021-06-30,Q20b,benefit_at_exit_for_leavers,1
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2021-06-01,2021-06-30,Q20b,benefit_at_entry,100
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2021-06-01,2021-06-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,656
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2021-06-01,2021-06-30,Q20b,benefit_at_exit_for_leavers,39
+No Sources,all_persons,2021-07-01,2021-07-31,Q20b,benefit_at_entry,524
+No Sources,all_persons,2021-07-01,2021-07-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,23
+No Sources,all_persons,2021-07-01,2021-07-31,Q20b,benefit_at_exit_for_leavers,76
+1 + Source(s),all_persons,2021-07-01,2021-07-31,Q20b,benefit_at_entry,294
+1 + Source(s),all_persons,2021-07-01,2021-07-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,34
+1 + Source(s),all_persons,2021-07-01,2021-07-31,Q20b,benefit_at_exit_for_leavers,42
+Client Doesn't Know/Client Refused,all_persons,2021-07-01,2021-07-31,Q20b,benefit_at_entry,2
+Client Doesn't Know/Client Refused,all_persons,2021-07-01,2021-07-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2021-07-01,2021-07-31,Q20b,benefit_at_exit_for_leavers,0
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2021-07-01,2021-07-31,Q20b,benefit_at_entry,102
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2021-07-01,2021-07-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,721
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2021-07-01,2021-07-31,Q20b,benefit_at_exit_for_leavers,26
+No Sources,all_persons,2021-08-01,2021-08-31,Q20b,benefit_at_entry,605
+No Sources,all_persons,2021-08-01,2021-08-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,22
+No Sources,all_persons,2021-08-01,2021-08-31,Q20b,benefit_at_exit_for_leavers,130
+1 + Source(s),all_persons,2021-08-01,2021-08-31,Q20b,benefit_at_entry,315
+1 + Source(s),all_persons,2021-08-01,2021-08-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,36
+1 + Source(s),all_persons,2021-08-01,2021-08-31,Q20b,benefit_at_exit_for_leavers,61
+Client Doesn't Know/Client Refused,all_persons,2021-08-01,2021-08-31,Q20b,benefit_at_entry,3
+Client Doesn't Know/Client Refused,all_persons,2021-08-01,2021-08-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2021-08-01,2021-08-31,Q20b,benefit_at_exit_for_leavers,0
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2021-08-01,2021-08-31,Q20b,benefit_at_entry,122
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2021-08-01,2021-08-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,752
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2021-08-01,2021-08-31,Q20b,benefit_at_exit_for_leavers,44
+No Sources,all_persons,2021-09-01,2021-09-30,Q20b,benefit_at_entry,620
+No Sources,all_persons,2021-09-01,2021-09-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,21
+No Sources,all_persons,2021-09-01,2021-09-30,Q20b,benefit_at_exit_for_leavers,114
+1 + Source(s),all_persons,2021-09-01,2021-09-30,Q20b,benefit_at_entry,335
+1 + Source(s),all_persons,2021-09-01,2021-09-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,36
+1 + Source(s),all_persons,2021-09-01,2021-09-30,Q20b,benefit_at_exit_for_leavers,53
+Client Doesn't Know/Client Refused,all_persons,2021-09-01,2021-09-30,Q20b,benefit_at_entry,5
+Client Doesn't Know/Client Refused,all_persons,2021-09-01,2021-09-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2021-09-01,2021-09-30,Q20b,benefit_at_exit_for_leavers,2
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2021-09-01,2021-09-30,Q20b,benefit_at_entry,133
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2021-09-01,2021-09-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,824
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2021-09-01,2021-09-30,Q20b,benefit_at_exit_for_leavers,43
+No Sources,all_persons,2021-10-01,2021-10-31,Q20b,benefit_at_entry,630
+No Sources,all_persons,2021-10-01,2021-10-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,21
+No Sources,all_persons,2021-10-01,2021-10-31,Q20b,benefit_at_exit_for_leavers,92
+1 + Source(s),all_persons,2021-10-01,2021-10-31,Q20b,benefit_at_entry,355
+1 + Source(s),all_persons,2021-10-01,2021-10-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,37
+1 + Source(s),all_persons,2021-10-01,2021-10-31,Q20b,benefit_at_exit_for_leavers,64
+Client Doesn't Know/Client Refused,all_persons,2021-10-01,2021-10-31,Q20b,benefit_at_entry,4
+Client Doesn't Know/Client Refused,all_persons,2021-10-01,2021-10-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2021-10-01,2021-10-31,Q20b,benefit_at_exit_for_leavers,0
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2021-10-01,2021-10-31,Q20b,benefit_at_entry,152
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2021-10-01,2021-10-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,875
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2021-10-01,2021-10-31,Q20b,benefit_at_exit_for_leavers,52
+No Sources,all_persons,2021-11-01,2021-11-30,Q20b,benefit_at_entry,657
+No Sources,all_persons,2021-11-01,2021-11-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,22
+No Sources,all_persons,2021-11-01,2021-11-30,Q20b,benefit_at_exit_for_leavers,79
+1 + Source(s),all_persons,2021-11-01,2021-11-30,Q20b,benefit_at_entry,388
+1 + Source(s),all_persons,2021-11-01,2021-11-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,37
+1 + Source(s),all_persons,2021-11-01,2021-11-30,Q20b,benefit_at_exit_for_leavers,58
+Client Doesn't Know/Client Refused,all_persons,2021-11-01,2021-11-30,Q20b,benefit_at_entry,4
+Client Doesn't Know/Client Refused,all_persons,2021-11-01,2021-11-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2021-11-01,2021-11-30,Q20b,benefit_at_exit_for_leavers,1
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2021-11-01,2021-11-30,Q20b,benefit_at_entry,154
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2021-11-01,2021-11-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,974
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2021-11-01,2021-11-30,Q20b,benefit_at_exit_for_leavers,32
+No Sources,all_persons,2021-12-01,2021-12-31,Q20b,benefit_at_entry,710
+No Sources,all_persons,2021-12-01,2021-12-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,21
+No Sources,all_persons,2021-12-01,2021-12-31,Q20b,benefit_at_exit_for_leavers,90
+1 + Source(s),all_persons,2021-12-01,2021-12-31,Q20b,benefit_at_entry,416
+1 + Source(s),all_persons,2021-12-01,2021-12-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,37
+1 + Source(s),all_persons,2021-12-01,2021-12-31,Q20b,benefit_at_exit_for_leavers,70
+Client Doesn't Know/Client Refused,all_persons,2021-12-01,2021-12-31,Q20b,benefit_at_entry,4
+Client Doesn't Know/Client Refused,all_persons,2021-12-01,2021-12-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2021-12-01,2021-12-31,Q20b,benefit_at_exit_for_leavers,0
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2021-12-01,2021-12-31,Q20b,benefit_at_entry,164
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2021-12-01,2021-12-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,1034
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2021-12-01,2021-12-31,Q20b,benefit_at_exit_for_leavers,42
+No Sources,all_persons,2022-01-01,2022-01-31,Q20b,benefit_at_entry,708
+No Sources,all_persons,2022-01-01,2022-01-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,26
+No Sources,all_persons,2022-01-01,2022-01-31,Q20b,benefit_at_exit_for_leavers,89
+1 + Source(s),all_persons,2022-01-01,2022-01-31,Q20b,benefit_at_entry,426
+1 + Source(s),all_persons,2022-01-01,2022-01-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,35
+1 + Source(s),all_persons,2022-01-01,2022-01-31,Q20b,benefit_at_exit_for_leavers,62
+Client Doesn't Know/Client Refused,all_persons,2022-01-01,2022-01-31,Q20b,benefit_at_entry,4
+Client Doesn't Know/Client Refused,all_persons,2022-01-01,2022-01-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2022-01-01,2022-01-31,Q20b,benefit_at_exit_for_leavers,1
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2022-01-01,2022-01-31,Q20b,benefit_at_entry,155
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2022-01-01,2022-01-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,1049
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2022-01-01,2022-01-31,Q20b,benefit_at_exit_for_leavers,31
+No Sources,all_persons,2022-02-01,2022-02-28,Q20b,benefit_at_entry,725
+No Sources,all_persons,2022-02-01,2022-02-28,Q20b,benefit_at_latest_annual_assessment_for_stayers,26
+No Sources,all_persons,2022-02-01,2022-02-28,Q20b,benefit_at_exit_for_leavers,73
+1 + Source(s),all_persons,2022-02-01,2022-02-28,Q20b,benefit_at_entry,426
+1 + Source(s),all_persons,2022-02-01,2022-02-28,Q20b,benefit_at_latest_annual_assessment_for_stayers,33
+1 + Source(s),all_persons,2022-02-01,2022-02-28,Q20b,benefit_at_exit_for_leavers,47
+Client Doesn't Know/Client Refused,all_persons,2022-02-01,2022-02-28,Q20b,benefit_at_entry,3
+Client Doesn't Know/Client Refused,all_persons,2022-02-01,2022-02-28,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2022-02-01,2022-02-28,Q20b,benefit_at_exit_for_leavers,0
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2022-02-01,2022-02-28,Q20b,benefit_at_entry,165
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2022-02-01,2022-02-28,Q20b,benefit_at_latest_annual_assessment_for_stayers,1109
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2022-02-01,2022-02-28,Q20b,benefit_at_exit_for_leavers,31
+No Sources,all_persons,2022-03-01,2022-03-31,Q20b,benefit_at_entry,762
+No Sources,all_persons,2022-03-01,2022-03-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,25
+No Sources,all_persons,2022-03-01,2022-03-31,Q20b,benefit_at_exit_for_leavers,105
+1 + Source(s),all_persons,2022-03-01,2022-03-31,Q20b,benefit_at_entry,457
+1 + Source(s),all_persons,2022-03-01,2022-03-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,30
+1 + Source(s),all_persons,2022-03-01,2022-03-31,Q20b,benefit_at_exit_for_leavers,61
+Client Doesn't Know/Client Refused,all_persons,2022-03-01,2022-03-31,Q20b,benefit_at_entry,6
+Client Doesn't Know/Client Refused,all_persons,2022-03-01,2022-03-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2022-03-01,2022-03-31,Q20b,benefit_at_exit_for_leavers,1
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2022-03-01,2022-03-31,Q20b,benefit_at_entry,192
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2022-03-01,2022-03-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,1148
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2022-03-01,2022-03-31,Q20b,benefit_at_exit_for_leavers,47
+No Sources,all_persons,2022-04-01,2022-04-30,Q20b,benefit_at_entry,773
+No Sources,all_persons,2022-04-01,2022-04-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,25
+No Sources,all_persons,2022-04-01,2022-04-30,Q20b,benefit_at_exit_for_leavers,99
+1 + Source(s),all_persons,2022-04-01,2022-04-30,Q20b,benefit_at_entry,453
+1 + Source(s),all_persons,2022-04-01,2022-04-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,29
+1 + Source(s),all_persons,2022-04-01,2022-04-30,Q20b,benefit_at_exit_for_leavers,75
+Client Doesn't Know/Client Refused,all_persons,2022-04-01,2022-04-30,Q20b,benefit_at_entry,6
+Client Doesn't Know/Client Refused,all_persons,2022-04-01,2022-04-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2022-04-01,2022-04-30,Q20b,benefit_at_exit_for_leavers,0
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2022-04-01,2022-04-30,Q20b,benefit_at_entry,200
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2022-04-01,2022-04-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,1153
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2022-04-01,2022-04-30,Q20b,benefit_at_exit_for_leavers,51
+No Sources,all_persons,2022-05-01,2022-05-31,Q20b,benefit_at_entry,745
+No Sources,all_persons,2022-05-01,2022-05-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,24
+No Sources,all_persons,2022-05-01,2022-05-31,Q20b,benefit_at_exit_for_leavers,77
+1 + Source(s),all_persons,2022-05-01,2022-05-31,Q20b,benefit_at_entry,450
+1 + Source(s),all_persons,2022-05-01,2022-05-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,29
+1 + Source(s),all_persons,2022-05-01,2022-05-31,Q20b,benefit_at_exit_for_leavers,63
+Client Doesn't Know/Client Refused,all_persons,2022-05-01,2022-05-31,Q20b,benefit_at_entry,7
+Client Doesn't Know/Client Refused,all_persons,2022-05-01,2022-05-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2022-05-01,2022-05-31,Q20b,benefit_at_exit_for_leavers,0
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2022-05-01,2022-05-31,Q20b,benefit_at_entry,231
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2022-05-01,2022-05-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,1171
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2022-05-01,2022-05-31,Q20b,benefit_at_exit_for_leavers,69
+No Sources,all_persons,2022-06-01,2022-06-30,Q20b,benefit_at_entry,793
+No Sources,all_persons,2022-06-01,2022-06-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,24
+No Sources,all_persons,2022-06-01,2022-06-30,Q20b,benefit_at_exit_for_leavers,90
+1 + Source(s),all_persons,2022-06-01,2022-06-30,Q20b,benefit_at_entry,465
+1 + Source(s),all_persons,2022-06-01,2022-06-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,29
+1 + Source(s),all_persons,2022-06-01,2022-06-30,Q20b,benefit_at_exit_for_leavers,73
+Client Doesn't Know/Client Refused,all_persons,2022-06-01,2022-06-30,Q20b,benefit_at_entry,8
+Client Doesn't Know/Client Refused,all_persons,2022-06-01,2022-06-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2022-06-01,2022-06-30,Q20b,benefit_at_exit_for_leavers,0
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2022-06-01,2022-06-30,Q20b,benefit_at_entry,218
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2022-06-01,2022-06-30,Q20b,benefit_at_latest_annual_assessment_for_stayers,1212
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2022-06-01,2022-06-30,Q20b,benefit_at_exit_for_leavers,56
+No Sources,all_persons,2022-07-01,2022-07-31,Q20b,benefit_at_entry,777
+No Sources,all_persons,2022-07-01,2022-07-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,23
+No Sources,all_persons,2022-07-01,2022-07-31,Q20b,benefit_at_exit_for_leavers,78
+1 + Source(s),all_persons,2022-07-01,2022-07-31,Q20b,benefit_at_entry,452
+1 + Source(s),all_persons,2022-07-01,2022-07-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,29
+1 + Source(s),all_persons,2022-07-01,2022-07-31,Q20b,benefit_at_exit_for_leavers,41
+Client Doesn't Know/Client Refused,all_persons,2022-07-01,2022-07-31,Q20b,benefit_at_entry,8
+Client Doesn't Know/Client Refused,all_persons,2022-07-01,2022-07-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2022-07-01,2022-07-31,Q20b,benefit_at_exit_for_leavers,0
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2022-07-01,2022-07-31,Q20b,benefit_at_entry,205
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2022-07-01,2022-07-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,1231
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2022-07-01,2022-07-31,Q20b,benefit_at_exit_for_leavers,40
+No Sources,all_persons,2022-08-01,2022-08-31,Q20b,benefit_at_entry,774
+No Sources,all_persons,2022-08-01,2022-08-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,23
+No Sources,all_persons,2022-08-01,2022-08-31,Q20b,benefit_at_exit_for_leavers,69
+1 + Source(s),all_persons,2022-08-01,2022-08-31,Q20b,benefit_at_entry,457
+1 + Source(s),all_persons,2022-08-01,2022-08-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,29
+1 + Source(s),all_persons,2022-08-01,2022-08-31,Q20b,benefit_at_exit_for_leavers,29
+Client Doesn't Know/Client Refused,all_persons,2022-08-01,2022-08-31,Q20b,benefit_at_entry,9
+Client Doesn't Know/Client Refused,all_persons,2022-08-01,2022-08-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,all_persons,2022-08-01,2022-08-31,Q20b,benefit_at_exit_for_leavers,1
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2022-08-01,2022-08-31,Q20b,benefit_at_entry,243
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2022-08-01,2022-08-31,Q20b,benefit_at_latest_annual_assessment_for_stayers,1262
+Data Not Collected/Not stayed long enough for Annual Assessment,all_persons,2022-08-01,2022-08-31,Q20b,benefit_at_exit_for_leavers,70

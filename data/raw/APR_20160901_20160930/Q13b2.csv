@@ -1,0 +1,9 @@
+, "Total" , "Without Children" , "Adults in HH with Children and Adults" , "Children in HH with Children and Adults" , "With Only Children" , "Unknown Household Type"
+"""None""",153,20,51,82,0,0
+"""1 Condition""",46,32,9,5,0,0
+"""2 Conditions""",13,8,3,2,0,0
+"""3+ Conditions""",3,2,1,0,0,0
+"""Condition Unknown""",6,3,2,1,0,0
+"""Client Doesn't Know/Client Refused""",1,0,0,1,0,0
+"""Data Not Collected""",4,0,2,2,0,0
+"""Total""",226,65,68,93,0,0

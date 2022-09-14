@@ -1,0 +1,7 @@
+income_change_by_income_category_universe_adult_stayers_with_income_information_at_start_and_annual_assessment,had_income_category_at_start_and_did_not_have_it_at_annual_assessment,retained_income_category_but_had_less_at_annual_assessment_than_at_start,retained_income_category_and_same_at_annual_assessment_as_at_start,retained_income_category_and_increased_at_annual_assessment,did_not_have_the_income_category_at_start_and_gained_the_income_category_at_annual_assessment,did_not_have_the_income_category_at_start_or_at_annual_assessment,total_adults_including_those_with_no_income,performance_measure_adults_who_gained_or_increased_income_from_start_to_annual_assessment,average_gain,performance_measure_percent_of_persons_who_accomplished_this_measure,population,start_date,end_date,question
+"Number of Adults with Earned Income (ie.e, Employment Income)",0,0,4,1,2,38,46,4,0.09,NA,all_persons,2017-06-01,2017-06-30,Q19a1
+Average Change in Earned Income,0.0,0.0,0,1200.0,533.5,0,0,685.5,0,NA,all_persons,2017-06-01,2017-06-30,Q19a1
+Number of Adults with Other Income,2,0,15,6,1,20,46,7,0.15,NA,all_persons,2017-06-01,2017-06-30,Q19a1
+Average Change in Other Income,-665.0,0.0,0,193.5,1469.0,0,0,375.71,0,NA,all_persons,2017-06-01,2017-06-30,Q19a1
+"Number of Adults with Any Income (i.e., Total Income)",2,0,19,7,2,13,46,10,0.22,NA,all_persons,2017-06-01,2017-06-30,Q19a1
+Average Change in Overall Income,-665.0,0.0,0,337.29,1268.0,0,171,537.2,0,NA,all_persons,2017-06-01,2017-06-30,Q19a1

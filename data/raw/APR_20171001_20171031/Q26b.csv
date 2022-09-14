@@ -1,0 +1,6 @@
+, "Total" , "Without Children" , "With Children and Adults" , "With Only Children" , "Unknown Household Type"
+"""Chronically Homeless """,56,51,5,0,0
+"""Not Chronically Homeless""",442,183,245,13,1
+"""Client Doesn't Know/Client Refused""",2,2,0,0,0
+"""Data Not Collected""",17,15,0,0,2
+"""Total""",517,251,250,13,3

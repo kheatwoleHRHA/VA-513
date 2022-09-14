@@ -1,0 +1,61 @@
+organization_name,organization_id,project_name,project_id,hmis_project_type,method_for_tracking_es,affiliated_with_a_residential_project,project_i_ds_of_affiliations,co_c_number,geocode,victim_service_provider,hmis_software_name,report_start_date,report_end_date,population,start_date,end_date,question
+NA,NA,Blue Ridge Housing Network - Parent,1516,6,NA,0,NA,NA,NA,0,ServicePoint,2016-12-01,2016-12-31,NA,2016-12-01,2016-12-31,Q4a
+Harrisonburg Community Health Center-Valley AIDS Network(VAN) - Western CoC,1449,Hburg Care Management - STRMU Prevention,1515,12,NA,NA,NA,VA-513,510726,0,ServicePoint,2016-12-01,2016-12-31,NA,2016-12-01,2016-12-31,Q4a
+Shenandoah Alliance for Shelter,1191,Shenandoah Alliance for Shelter: HPP DHCD (Closed),1222,12,NA,NA,NA,VA-513,519171,0,ServicePoint,2016-12-01,2016-12-31,NA,2016-12-01,2016-12-31,Q4a
+Winchester Rescue Mission - PARENT,1563,Winchester Rescue Mission Vouchers DHCD/VHSP CDBG,2039,1,0,NA,NA,VA-513,511674,0,ServicePoint,2016-12-01,2016-12-31,NA,2016-12-01,2016-12-31,Q4a
+Western Virginia CoC - BFZ,1183,Front Royal Thermal Shelter - Parent,1806,7,NA,NA,NA,NA,NA,0,ServicePoint,2016-12-01,2016-12-31,NA,2016-12-01,2016-12-31,Q4a
+Salvation Army of Winchester,1194,Salvation Army of Winchester: ES (HMIS Start 1-23-2021),1203,1,0,NA,NA,VA-513,519069,0,ServicePoint,2016-12-01,2016-12-31,NA,2016-12-01,2016-12-31,Q4a
+Mercy House Parent,1286,Mercy House Z: HPP (closed),1292,12,NA,NA,NA,VA-513,510726,0,ServicePoint,2016-12-01,2016-12-31,NA,2016-12-01,2016-12-31,Q4a
+Mercy House Parent,1286,Mercy House Z: HSG Rapid Rehousing (closed),1293,13,NA,NA,NA,VA-513,510726,0,ServicePoint,2016-12-01,2016-12-31,NA,2016-12-01,2016-12-31,Q4a
+Western Virginia CoC - BFZ,1183,Phoenix Project CDBG Hotel/Motel Vouchers (HIC ONLY),2085,1,0,NA,NA,NA,NA,0,ServicePoint,2016-12-01,2016-12-31,NA,2016-12-01,2016-12-31,Q4a
+Winchester Rescue Mission - PARENT,1563,Winchester Rescue Mission COVID 19,1866,1,0,NA,NA,VA-513,511674,0,ServicePoint,2016-12-01,2016-12-31,NA,2016-12-01,2016-12-31,Q4a
+Mercy House Parent,1286,Mercy House ES COVID Self Funded Vouchers,1857,1,0,NA,NA,VA-513,510726,0,ServicePoint,2016-12-01,2016-12-31,NA,2016-12-01,2016-12-31,Q4a
+Winchester Rescue Mission - PARENT,1563,Winchester Rescue Mission Men's Shelter CHERP,1565,1,0,NA,NA,VA-513,511674,0,ServicePoint,2016-12-01,2016-12-31,NA,2016-12-01,2016-12-31,Q4a
+Strength in Peers  PARENT,1531,Strength in Peers Offender Reentry Program(closed),1536,6,NA,0,NA,VA-513,NA,0,ServicePoint,2016-12-01,2016-12-31,NA,2016-12-01,2016-12-31,Q4a
+Homeward,2,Faithworks,1284,9,NA,NA,NA,NA,NA,0,ServicePoint,2016-12-01,2016-12-31,NA,2016-12-01,2016-12-31,Q4a
+Western Virginia CoC - BFZ,1183,"Western SO - Unsheltered Hburg, Rham, Shen, Page",1686,4,NA,NA,NA,VA-513,510726,0,ServicePoint,2016-12-01,2016-12-31,NA,2016-12-01,2016-12-31,Q4a
+NA,NA,Community Services Board,1325,NA,NA,NA,NA,NA,NA,0,ServicePoint,2016-12-01,2016-12-31,NA,2016-12-01,2016-12-31,Q4a
+NA,NA,Harrisonburg & Rockingham Free Clinic (closed),1318,NA,NA,NA,NA,NA,NA,0,ServicePoint,2016-12-01,2016-12-31,NA,2016-12-01,2016-12-31,Q4a
+Western Virginia CoC - BFZ,1183,House of Hope,1189,7,NA,NA,NA,NA,NA,0,ServicePoint,2016-12-01,2016-12-31,NA,2016-12-01,2016-12-31,Q4a
+Central Intake - Parent,1300,Central Intake - Parent,1300,6,NA,0,NA,NA,NA,0,ServicePoint,2016-12-01,2016-12-31,NA,2016-12-01,2016-12-31,Q4a
+Western Virginia CoC - BFZ,1183,First Step RRH HIC ONLY,1790,13,NA,NA,NA,VA-513,510726,1,ServicePoint,2016-12-01,2016-12-31,NA,2016-12-01,2016-12-31,Q4a
+Homeward,2,Watts Thermal Shelter,1400,1,0,NA,NA,NA,NA,0,ServicePoint,2016-12-01,2016-12-31,NA,2016-12-01,2016-12-31,Q4a
+Mercy House Parent,1286,Mercy House: Prevention ESG CV 1-21,1999,12,NA,NA,NA,VA-513,510726,0,ServicePoint,2016-12-01,2016-12-31,NA,2016-12-01,2016-12-31,Q4a
+WATTS - Parent,1399,WATTS Thermal Shelter ES (NbyN) (closed 03/31/21),1794,1,3,NA,NA,VA-513,511674,0,ServicePoint,2016-12-01,2016-12-31,NA,2016-12-01,2016-12-31,Q4a
+Winchester Rescue Mission - PARENT,1563,Winchester Rescue Mission Women's Shelter CHERP,1795,1,0,NA,NA,VA-513,511674,0,ServicePoint,2016-12-01,2016-12-31,NA,2016-12-01,2016-12-31,Q4a
+Shenandoah Alliance for Shelter,1191,Shenandoah Alliance for Shelter: HSG Rapid Rehousing (Closed),1248,13,NA,NA,NA,VA-513,519171,0,ServicePoint,2016-12-01,2016-12-31,NA,2016-12-01,2016-12-31,Q4a
+Western Virginia CoC - BFZ,1183,Winchester Rescue Mission - TH WOMEN,1796,2,NA,NA,NA,VA-513,511674,0,ServicePoint,2016-12-01,2016-12-31,NA,2016-12-01,2016-12-31,Q4a
+Shenandoah Alliance for Shelter,1191,Shenandoah Alliance for Shelter: TBRA Prevention,1304,6,NA,0,NA,VA-513,NA,0,ServicePoint,2016-12-01,2016-12-31,NA,2016-12-01,2016-12-31,Q4a
+Homeward,2,AIDS Response Effort - Parent,1193,NA,NA,NA,NA,NA,NA,0,ServicePoint,2016-12-01,2016-12-31,NA,2016-12-01,2016-12-31,Q4a
+NA,NA,AIDS Response CHERP PREVENTION 1-1-21,1988,12,NA,NA,NA,VA-513,519171,0,ServicePoint,2016-12-01,2016-12-31,NA,2016-12-01,2016-12-31,Q4a
+NA,NA,Way To Go,1320,NA,NA,NA,NA,NA,NA,0,ServicePoint,2016-12-01,2016-12-31,NA,2016-12-01,2016-12-31,Q4a
+NA,NA,Blue Ridge Area Health Education Center,1316,NA,NA,NA,NA,NA,NA,0,ServicePoint,2016-12-01,2016-12-31,NA,2016-12-01,2016-12-31,Q4a
+NA,NA,Valley Program for Aging Services,1315,NA,NA,NA,NA,NA,NA,0,ServicePoint,2016-12-01,2016-12-31,NA,2016-12-01,2016-12-31,Q4a
+NA,NA,AIDS Response Effort Prevention - CHERP 1-21,1997,12,NA,NA,NA,VA-513,519171,0,ServicePoint,2016-12-01,2016-12-31,NA,2016-12-01,2016-12-31,Q4a
+AIDS Response Effort - Parent,1193,ARE Ryan White Program (1609),1609,6,NA,0,NA,VA-513,511674,0,ServicePoint,2016-12-01,2016-12-31,NA,2016-12-01,2016-12-31,Q4a
+Shenandoah Alliance for Shelter,1191,Shenandoah Alliance CHERP RRH (ESG-CV) start 4-15-20,1927,13,NA,NA,NA,VA-513,519171,0,ServicePoint,2016-12-01,2016-12-31,NA,2016-12-01,2016-12-31,Q4a
+Homeward,2,General Temporary Agency,1370,7,NA,NA,NA,NA,NA,0,ServicePoint,2016-12-01,2016-12-31,NA,2016-12-01,2016-12-31,Q4a
+Northern Shenandoah Valley Regional Commission,1192,Western Street Outreach - Other,1694,4,NA,NA,NA,VA-513,NA,0,ServicePoint,2016-12-01,2016-12-31,NA,2016-12-01,2016-12-31,Q4a
+NA,NA,Rebuilding Together,1329,NA,NA,NA,NA,NA,NA,0,ServicePoint,2016-12-01,2016-12-31,NA,2016-12-01,2016-12-31,Q4a
+Western Virginia CoC - BFZ,1183,Phoenix Project PARENT,2084,1,0,NA,NA,NA,NA,0,ServicePoint,2016-12-01,2016-12-31,NA,2016-12-01,2016-12-31,Q4a
+Mercy House Parent,1286,Mercy House: Prevention VHSP,1291,12,NA,NA,NA,VA-513,510726,0,ServicePoint,2016-12-01,2016-12-31,NA,2016-12-01,2016-12-31,Q4a
+Western Virginia CoC - BFZ,1183,Western Virginia CoC - BFZ,1183,7,NA,NA,NA,NA,NA,0,ServicePoint,2016-12-01,2016-12-31,NA,2016-12-01,2016-12-31,Q4a
+NA,NA,New Bridges Immigrant Resource Center (closed),1323,NA,NA,NA,NA,NA,NA,0,ServicePoint,2016-12-01,2016-12-31,NA,2016-12-01,2016-12-31,Q4a
+Northern Shenandoah Valley Regional Commission,1192,Northern Shenandoah Valley Regional Commission,1192,7,NA,NA,NA,VA-513,NA,0,ServicePoint,2016-12-01,2016-12-31,NA,2016-12-01,2016-12-31,Q4a
+Northwestern PARENT,1184,Northwestern Community Services: S + C,1188,3,NA,NA,NA,VA-513,511674,0,ServicePoint,2016-12-01,2016-12-31,NA,2016-12-01,2016-12-31,Q4a
+Shenandoah Alliance for Shelter,1191,Shenandoah Alliance ESG/COVID-19 ES Voucher,1867,1,0,NA,NA,VA-513,519171,0,ServicePoint,2016-12-01,2016-12-31,NA,2016-12-01,2016-12-31,Q4a
+Western Virginia CoC - BFZ,1183,Warren DSS PARENT,2082,1,0,NA,NA,NA,NA,0,ServicePoint,2016-12-01,2016-12-31,NA,2016-12-01,2016-12-31,Q4a
+Western Virginia CoC - BFZ,1183,Warren DSS CDBG Hotel/Motel Vouchers (HIC ONLY),2083,1,0,NA,NA,NA,NA,0,ServicePoint,2016-12-01,2016-12-31,NA,2016-12-01,2016-12-31,Q4a
+Western Virginia CoC - BFZ,1183,HRCSB Parent,1906,7,NA,NA,NA,NA,NA,0,ServicePoint,2016-12-01,2016-12-31,NA,2016-12-01,2016-12-31,Q4a
+Western Virginia CoC - BFZ,1183,Strength in Peers ARCH SSVF Prevention,1530,12,NA,NA,NA,VA-521,NA,0,ServicePoint,2016-12-01,2016-12-31,NA,2016-12-01,2016-12-31,Q4a
+Salvation Army of Winchester,1194,Salvation Army of Winchester: HPP DHCD (closed),1223,12,NA,NA,NA,VA-513,NA,0,ServicePoint,2016-12-01,2016-12-31,NA,2016-12-01,2016-12-31,Q4a
+Homeward,2,Saint Stephen's Community Development Center: Emergency Shelter,1196,NA,NA,NA,NA,NA,NA,0,ServicePoint,2016-12-01,2016-12-31,NA,2016-12-01,2016-12-31,Q4a
+Choices RRH - DV,1612,Choices RRH - DV,1612,13,NA,NA,NA,VA-513,519139,1,ServicePoint,2016-12-01,2016-12-31,NA,2016-12-01,2016-12-31,Q4a
+Salvation Army of Harrisonburg,1289,Salvation Army of Harrisonburg FEMA (Closed),1303,6,NA,0,NA,VA-513,NA,0,ServicePoint,2016-12-01,2016-12-31,NA,2016-12-01,2016-12-31,Q4a
+AIDS Response Effort - Parent,1193,AIDS Response Effort RRH DHCD,1391,13,NA,NA,NA,VA-513,511674,0,ServicePoint,2016-12-01,2016-12-31,NA,2016-12-01,2016-12-31,Q4a
+Homeward,2,Mercy House Thrift Store,1314,6,NA,0,NA,VA-513,NA,0,ServicePoint,2016-12-01,2016-12-31,NA,2016-12-01,2016-12-31,Q4a
+Homeward,2,Faithworks Permanent Housing,1297,9,NA,NA,NA,NA,NA,0,ServicePoint,2016-12-01,2016-12-31,NA,2016-12-01,2016-12-31,Q4a
+Western Virginia CoC - BFZ,1183,Western SO - Unsheltered Winchester/Frederick,1707,4,NA,NA,NA,VA-513,519187,0,ServicePoint,2016-12-01,2016-12-31,NA,2016-12-01,2016-12-31,Q4a
+NA,NA,Saint Stephen's Community Development Center,1190,NA,NA,NA,NA,NA,NA,0,ServicePoint,2016-12-01,2016-12-31,NA,2016-12-01,2016-12-31,Q4a
+Homeward,2,Lions Club,1365,7,NA,NA,NA,NA,NA,0,ServicePoint,2016-12-01,2016-12-31,NA,2016-12-01,2016-12-31,Q4a
+Western Virginia CoC - BFZ,1183,Winchester CCAP ES (HIC ONLY),1803,1,0,NA,NA,VA-513,511674,0,ServicePoint,2016-12-01,2016-12-31,NA,2016-12-01,2016-12-31,Q4a

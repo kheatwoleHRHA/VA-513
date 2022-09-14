@@ -1,0 +1,21 @@
+persons_served,total,population,start_date,end_date,question,household_type,count
+Adults,446,all_persons,2015-12-01,2015-12-31,Q7a,without_children,315
+Adults,446,all_persons,2015-12-01,2015-12-31,Q7a,with_children_and_adults,130
+Adults,446,all_persons,2015-12-01,2015-12-31,Q7a,with_only_children,0
+Adults,446,all_persons,2015-12-01,2015-12-31,Q7a,unknown_household_type,1
+Children,171,all_persons,2015-12-01,2015-12-31,Q7a,without_children,0
+Children,171,all_persons,2015-12-01,2015-12-31,Q7a,with_children_and_adults,168
+Children,171,all_persons,2015-12-01,2015-12-31,Q7a,with_only_children,3
+Children,171,all_persons,2015-12-01,2015-12-31,Q7a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,all_persons,2015-12-01,2015-12-31,Q7a,without_children,0
+Client Doesn't Know/Client Refused,0,all_persons,2015-12-01,2015-12-31,Q7a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,all_persons,2015-12-01,2015-12-31,Q7a,with_only_children,0
+Client Doesn't Know/Client Refused,0,all_persons,2015-12-01,2015-12-31,Q7a,unknown_household_type,0
+Data Not Collected,1,all_persons,2015-12-01,2015-12-31,Q7a,without_children,0
+Data Not Collected,1,all_persons,2015-12-01,2015-12-31,Q7a,with_children_and_adults,0
+Data Not Collected,1,all_persons,2015-12-01,2015-12-31,Q7a,with_only_children,0
+Data Not Collected,1,all_persons,2015-12-01,2015-12-31,Q7a,unknown_household_type,1
+For PSH and RRH - the total persons served who moved into housing,134,all_persons,2015-12-01,2015-12-31,Q7a,without_children,57
+For PSH and RRH - the total persons served who moved into housing,134,all_persons,2015-12-01,2015-12-31,Q7a,with_children_and_adults,77
+For PSH and RRH - the total persons served who moved into housing,134,all_persons,2015-12-01,2015-12-31,Q7a,with_only_children,0
+For PSH and RRH - the total persons served who moved into housing,134,all_persons,2015-12-01,2015-12-31,Q7a,unknown_household_type,0

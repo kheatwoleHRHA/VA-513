@@ -1,0 +1,23 @@
+length,total,population,start_date,end_date,question,status,count
+30 days or less,329,all_persons,2020-04-01,2020-04-30,Q22a1,leavers,149
+30 days or less,329,all_persons,2020-04-01,2020-04-30,Q22a1,stayers,180
+31 to 60 days,65,all_persons,2020-04-01,2020-04-30,Q22a1,leavers,15
+31 to 60 days,65,all_persons,2020-04-01,2020-04-30,Q22a1,stayers,50
+61 to 90 days,71,all_persons,2020-04-01,2020-04-30,Q22a1,leavers,13
+61 to 90 days,71,all_persons,2020-04-01,2020-04-30,Q22a1,stayers,58
+91 to 180 days,129,all_persons,2020-04-01,2020-04-30,Q22a1,leavers,23
+91 to 180 days,129,all_persons,2020-04-01,2020-04-30,Q22a1,stayers,106
+181 to 365 days,211,all_persons,2020-04-01,2020-04-30,Q22a1,leavers,13
+181 to 365 days,211,all_persons,2020-04-01,2020-04-30,Q22a1,stayers,198
+366 to 730 Days (1-2 Yrs),151,all_persons,2020-04-01,2020-04-30,Q22a1,leavers,3
+366 to 730 Days (1-2 Yrs),151,all_persons,2020-04-01,2020-04-30,Q22a1,stayers,148
+"731 to 1,095 Days (2-3 Yrs)",49,all_persons,2020-04-01,2020-04-30,Q22a1,leavers,1
+"731 to 1,095 Days (2-3 Yrs)",49,all_persons,2020-04-01,2020-04-30,Q22a1,stayers,48
+"1,096 to 1,460 Days (3-4 Yrs)",29,all_persons,2020-04-01,2020-04-30,Q22a1,leavers,0
+"1,096 to 1,460 Days (3-4 Yrs)",29,all_persons,2020-04-01,2020-04-30,Q22a1,stayers,29
+"1,461 to 1,825 Days (5-5 Yrs)",16,all_persons,2020-04-01,2020-04-30,Q22a1,leavers,0
+"1,461 to 1,825 Days (5-5 Yrs)",16,all_persons,2020-04-01,2020-04-30,Q22a1,stayers,16
+"More than 1,825 Days (>5 Yrs)",35,all_persons,2020-04-01,2020-04-30,Q22a1,leavers,0
+"More than 1,825 Days (>5 Yrs)",35,all_persons,2020-04-01,2020-04-30,Q22a1,stayers,35
+Data Not Collected,0,all_persons,2020-04-01,2020-04-30,Q22a1,leavers,0
+Data Not Collected,0,all_persons,2020-04-01,2020-04-30,Q22a1,stayers,0

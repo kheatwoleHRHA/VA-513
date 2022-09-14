@@ -1,0 +1,14 @@
+, "Total" , "Without Children" , "With Children and Adults" , "With Only Children" , "Unknown Household Type"
+"""7 days or less""",104,60,44,0,0
+"""8 to 14 days""",14,7,7,0,0
+"""15 to 21 days""",11,11,0,0,0
+"""22 to 30 days""",8,4,4,0,0
+"""31 to 60 days""",24,19,5,0,0
+"""61 to 180 days""",76,61,15,0,0
+"""181 to 365 days""",37,29,8,0,0
+"""366-730 days (1-2 years)""",40,40,0,0,0
+"""731 days or more""",66,54,12,0,0
+"""Total (persons moved into housing)""",380,285,95,0,0
+"""Not yet moved into housing""",28,17,11,0,0
+"""Data not collected""",20,18,2,0,0
+"""Total persons""",428,320,108,0,0

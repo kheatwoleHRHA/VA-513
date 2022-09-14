@@ -1,0 +1,6 @@
+"""Time for Record Entry""", "Number of Project Entry Records" , "Number of Project Exit Records"
+"""0 days""",203,169
+"""1-3 days""",35,18
+"""4-6 days""",10,2
+"""7-10 days""",12,5
+"""11+ days""",144,106

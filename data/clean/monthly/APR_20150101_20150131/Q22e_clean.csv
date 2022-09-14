@@ -1,0 +1,53 @@
+time_prior_to_housing,total,population,start_date,end_date,question,household_type,count
+7 days or less,25,all_persons,2015-01-01,2015-01-31,Q22e,without_children,12
+7 days or less,25,all_persons,2015-01-01,2015-01-31,Q22e,with_children_and_adults,13
+7 days or less,25,all_persons,2015-01-01,2015-01-31,Q22e,with_only_children,0
+7 days or less,25,all_persons,2015-01-01,2015-01-31,Q22e,unknown_household_type,0
+8 to 14 days,0,all_persons,2015-01-01,2015-01-31,Q22e,without_children,0
+8 to 14 days,0,all_persons,2015-01-01,2015-01-31,Q22e,with_children_and_adults,0
+8 to 14 days,0,all_persons,2015-01-01,2015-01-31,Q22e,with_only_children,0
+8 to 14 days,0,all_persons,2015-01-01,2015-01-31,Q22e,unknown_household_type,0
+15 to 21 days,0,all_persons,2015-01-01,2015-01-31,Q22e,without_children,0
+15 to 21 days,0,all_persons,2015-01-01,2015-01-31,Q22e,with_children_and_adults,0
+15 to 21 days,0,all_persons,2015-01-01,2015-01-31,Q22e,with_only_children,0
+15 to 21 days,0,all_persons,2015-01-01,2015-01-31,Q22e,unknown_household_type,0
+22 to 30 days,8,all_persons,2015-01-01,2015-01-31,Q22e,without_children,3
+22 to 30 days,8,all_persons,2015-01-01,2015-01-31,Q22e,with_children_and_adults,5
+22 to 30 days,8,all_persons,2015-01-01,2015-01-31,Q22e,with_only_children,0
+22 to 30 days,8,all_persons,2015-01-01,2015-01-31,Q22e,unknown_household_type,0
+31 to 60 days,16,all_persons,2015-01-01,2015-01-31,Q22e,without_children,6
+31 to 60 days,16,all_persons,2015-01-01,2015-01-31,Q22e,with_children_and_adults,10
+31 to 60 days,16,all_persons,2015-01-01,2015-01-31,Q22e,with_only_children,0
+31 to 60 days,16,all_persons,2015-01-01,2015-01-31,Q22e,unknown_household_type,0
+61 to 180 days,47,all_persons,2015-01-01,2015-01-31,Q22e,without_children,30
+61 to 180 days,47,all_persons,2015-01-01,2015-01-31,Q22e,with_children_and_adults,17
+61 to 180 days,47,all_persons,2015-01-01,2015-01-31,Q22e,with_only_children,0
+61 to 180 days,47,all_persons,2015-01-01,2015-01-31,Q22e,unknown_household_type,0
+181 to 365 days,21,all_persons,2015-01-01,2015-01-31,Q22e,without_children,18
+181 to 365 days,21,all_persons,2015-01-01,2015-01-31,Q22e,with_children_and_adults,3
+181 to 365 days,21,all_persons,2015-01-01,2015-01-31,Q22e,with_only_children,0
+181 to 365 days,21,all_persons,2015-01-01,2015-01-31,Q22e,unknown_household_type,0
+366-730 days (1-2 years),16,all_persons,2015-01-01,2015-01-31,Q22e,without_children,16
+366-730 days (1-2 years),16,all_persons,2015-01-01,2015-01-31,Q22e,with_children_and_adults,0
+366-730 days (1-2 years),16,all_persons,2015-01-01,2015-01-31,Q22e,with_only_children,0
+366-730 days (1-2 years),16,all_persons,2015-01-01,2015-01-31,Q22e,unknown_household_type,0
+731 days or more,16,all_persons,2015-01-01,2015-01-31,Q22e,without_children,16
+731 days or more,16,all_persons,2015-01-01,2015-01-31,Q22e,with_children_and_adults,0
+731 days or more,16,all_persons,2015-01-01,2015-01-31,Q22e,with_only_children,0
+731 days or more,16,all_persons,2015-01-01,2015-01-31,Q22e,unknown_household_type,0
+Total (persons moved into housing),149,all_persons,2015-01-01,2015-01-31,Q22e,without_children,101
+Total (persons moved into housing),149,all_persons,2015-01-01,2015-01-31,Q22e,with_children_and_adults,48
+Total (persons moved into housing),149,all_persons,2015-01-01,2015-01-31,Q22e,with_only_children,0
+Total (persons moved into housing),149,all_persons,2015-01-01,2015-01-31,Q22e,unknown_household_type,0
+Not yet moved into housing,46,all_persons,2015-01-01,2015-01-31,Q22e,without_children,8
+Not yet moved into housing,46,all_persons,2015-01-01,2015-01-31,Q22e,with_children_and_adults,38
+Not yet moved into housing,46,all_persons,2015-01-01,2015-01-31,Q22e,with_only_children,0
+Not yet moved into housing,46,all_persons,2015-01-01,2015-01-31,Q22e,unknown_household_type,0
+Data not collected,96,all_persons,2015-01-01,2015-01-31,Q22e,without_children,66
+Data not collected,96,all_persons,2015-01-01,2015-01-31,Q22e,with_children_and_adults,30
+Data not collected,96,all_persons,2015-01-01,2015-01-31,Q22e,with_only_children,0
+Data not collected,96,all_persons,2015-01-01,2015-01-31,Q22e,unknown_household_type,0
+Total persons,291,all_persons,2015-01-01,2015-01-31,Q22e,without_children,175
+Total persons,291,all_persons,2015-01-01,2015-01-31,Q22e,with_children_and_adults,116
+Total persons,291,all_persons,2015-01-01,2015-01-31,Q22e,with_only_children,0
+Total persons,291,all_persons,2015-01-01,2015-01-31,Q22e,unknown_household_type,0

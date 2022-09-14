@@ -1,0 +1,25 @@
+conditions,total,adults_in_hh_with_children_and_adults,children_in_hh_with_children_and_adults,population,start_date,end_date,question,household_type,count
+Mental Health Disorder,117,22,6,all_persons,2017-06-01,2017-06-30,Q13c1,without_children,88
+Mental Health Disorder,117,22,6,all_persons,2017-06-01,2017-06-30,Q13c1,with_only_children,1
+Mental Health Disorder,117,22,6,all_persons,2017-06-01,2017-06-30,Q13c1,unknown_household_type,0
+Alcohol Use Disorder,14,0,0,all_persons,2017-06-01,2017-06-30,Q13c1,without_children,14
+Alcohol Use Disorder,14,0,0,all_persons,2017-06-01,2017-06-30,Q13c1,with_only_children,0
+Alcohol Use Disorder,14,0,0,all_persons,2017-06-01,2017-06-30,Q13c1,unknown_household_type,0
+Drug Use Disorder,11,3,0,all_persons,2017-06-01,2017-06-30,Q13c1,without_children,8
+Drug Use Disorder,11,3,0,all_persons,2017-06-01,2017-06-30,Q13c1,with_only_children,0
+Drug Use Disorder,11,3,0,all_persons,2017-06-01,2017-06-30,Q13c1,unknown_household_type,0
+Both Alcohol and Drug Use Disorders,17,0,0,all_persons,2017-06-01,2017-06-30,Q13c1,without_children,16
+Both Alcohol and Drug Use Disorders,17,0,0,all_persons,2017-06-01,2017-06-30,Q13c1,with_only_children,1
+Both Alcohol and Drug Use Disorders,17,0,0,all_persons,2017-06-01,2017-06-30,Q13c1,unknown_household_type,0
+Chronic Health Condition,54,10,7,all_persons,2017-06-01,2017-06-30,Q13c1,without_children,37
+Chronic Health Condition,54,10,7,all_persons,2017-06-01,2017-06-30,Q13c1,with_only_children,0
+Chronic Health Condition,54,10,7,all_persons,2017-06-01,2017-06-30,Q13c1,unknown_household_type,0
+HIV/AIDS,101,1,0,all_persons,2017-06-01,2017-06-30,Q13c1,without_children,100
+HIV/AIDS,101,1,0,all_persons,2017-06-01,2017-06-30,Q13c1,with_only_children,0
+HIV/AIDS,101,1,0,all_persons,2017-06-01,2017-06-30,Q13c1,unknown_household_type,0
+Development Disability,25,4,10,all_persons,2017-06-01,2017-06-30,Q13c1,without_children,11
+Development Disability,25,4,10,all_persons,2017-06-01,2017-06-30,Q13c1,with_only_children,0
+Development Disability,25,4,10,all_persons,2017-06-01,2017-06-30,Q13c1,unknown_household_type,0
+Physical Disability,57,14,0,all_persons,2017-06-01,2017-06-30,Q13c1,without_children,43
+Physical Disability,57,14,0,all_persons,2017-06-01,2017-06-30,Q13c1,with_only_children,0
+Physical Disability,57,14,0,all_persons,2017-06-01,2017-06-30,Q13c1,unknown_household_type,0

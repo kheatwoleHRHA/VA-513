@@ -1,0 +1,16 @@
+veteran_status_households,total,population,start_date,end_date,question,household_type,count
+Chronically Homeless Veteran,17,all_households,2020-04-01,2020-04-30,Q25b,without_children,17
+Chronically Homeless Veteran,17,all_households,2020-04-01,2020-04-30,Q25b,with_children_and_adults,0
+Chronically Homeless Veteran,17,all_households,2020-04-01,2020-04-30,Q25b,unknown_household_type,0
+Non-Chronically Homeless Veteran,30,all_households,2020-04-01,2020-04-30,Q25b,without_children,27
+Non-Chronically Homeless Veteran,30,all_households,2020-04-01,2020-04-30,Q25b,with_children_and_adults,2
+Non-Chronically Homeless Veteran,30,all_households,2020-04-01,2020-04-30,Q25b,unknown_household_type,1
+Not a Veteran,629,all_households,2020-04-01,2020-04-30,Q25b,without_children,539
+Not a Veteran,629,all_households,2020-04-01,2020-04-30,Q25b,with_children_and_adults,88
+Not a Veteran,629,all_households,2020-04-01,2020-04-30,Q25b,unknown_household_type,2
+Client Doesn't Know/Client Refused,3,all_households,2020-04-01,2020-04-30,Q25b,without_children,3
+Client Doesn't Know/Client Refused,3,all_households,2020-04-01,2020-04-30,Q25b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,3,all_households,2020-04-01,2020-04-30,Q25b,unknown_household_type,0
+Data Not Collected,3,all_households,2020-04-01,2020-04-30,Q25b,without_children,3
+Data Not Collected,3,all_households,2020-04-01,2020-04-30,Q25b,with_children_and_adults,0
+Data Not Collected,3,all_households,2020-04-01,2020-04-30,Q25b,unknown_household_type,0

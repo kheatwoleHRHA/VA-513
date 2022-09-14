@@ -1,0 +1,25 @@
+conditions,population,start_date,end_date,question,status,count
+Mental Health Disorder,chronically_homeless,2021-12-01,2021-12-31,Q26e,conditions_at_start,105
+Mental Health Disorder,chronically_homeless,2021-12-01,2021-12-31,Q26e,conditions_at_latest_assessment_for_stayers,95
+Mental Health Disorder,chronically_homeless,2021-12-01,2021-12-31,Q26e,conditions_at_exit_for_leavers,10
+Alcohol Use Disorder,chronically_homeless,2021-12-01,2021-12-31,Q26e,conditions_at_start,28
+Alcohol Use Disorder,chronically_homeless,2021-12-01,2021-12-31,Q26e,conditions_at_latest_assessment_for_stayers,21
+Alcohol Use Disorder,chronically_homeless,2021-12-01,2021-12-31,Q26e,conditions_at_exit_for_leavers,7
+Drug Use Disorder,chronically_homeless,2021-12-01,2021-12-31,Q26e,conditions_at_start,11
+Drug Use Disorder,chronically_homeless,2021-12-01,2021-12-31,Q26e,conditions_at_latest_assessment_for_stayers,9
+Drug Use Disorder,chronically_homeless,2021-12-01,2021-12-31,Q26e,conditions_at_exit_for_leavers,2
+Both Alcohol and Drug Use Disorders,chronically_homeless,2021-12-01,2021-12-31,Q26e,conditions_at_start,28
+Both Alcohol and Drug Use Disorders,chronically_homeless,2021-12-01,2021-12-31,Q26e,conditions_at_latest_assessment_for_stayers,27
+Both Alcohol and Drug Use Disorders,chronically_homeless,2021-12-01,2021-12-31,Q26e,conditions_at_exit_for_leavers,1
+Chronic Health Condition,chronically_homeless,2021-12-01,2021-12-31,Q26e,conditions_at_start,60
+Chronic Health Condition,chronically_homeless,2021-12-01,2021-12-31,Q26e,conditions_at_latest_assessment_for_stayers,54
+Chronic Health Condition,chronically_homeless,2021-12-01,2021-12-31,Q26e,conditions_at_exit_for_leavers,6
+HIV/AIDS,chronically_homeless,2021-12-01,2021-12-31,Q26e,conditions_at_start,5
+HIV/AIDS,chronically_homeless,2021-12-01,2021-12-31,Q26e,conditions_at_latest_assessment_for_stayers,5
+HIV/AIDS,chronically_homeless,2021-12-01,2021-12-31,Q26e,conditions_at_exit_for_leavers,0
+Development Disability,chronically_homeless,2021-12-01,2021-12-31,Q26e,conditions_at_start,23
+Development Disability,chronically_homeless,2021-12-01,2021-12-31,Q26e,conditions_at_latest_assessment_for_stayers,23
+Development Disability,chronically_homeless,2021-12-01,2021-12-31,Q26e,conditions_at_exit_for_leavers,0
+Physical Disability,chronically_homeless,2021-12-01,2021-12-31,Q26e,conditions_at_start,62
+Physical Disability,chronically_homeless,2021-12-01,2021-12-31,Q26e,conditions_at_latest_assessment_for_stayers,56
+Physical Disability,chronically_homeless,2021-12-01,2021-12-31,Q26e,conditions_at_exit_for_leavers,6

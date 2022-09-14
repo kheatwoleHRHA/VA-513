@@ -1,0 +1,21 @@
+persons_served,total,population,start_date,end_date,question,household_type,count
+Adults,1319,all_persons,2022-02-01,2022-02-28,Q7a,without_children,1062
+Adults,1319,all_persons,2022-02-01,2022-02-28,Q7a,with_children_and_adults,251
+Adults,1319,all_persons,2022-02-01,2022-02-28,Q7a,with_only_children,0
+Adults,1319,all_persons,2022-02-01,2022-02-28,Q7a,unknown_household_type,6
+Children,370,all_persons,2022-02-01,2022-02-28,Q7a,without_children,0
+Children,370,all_persons,2022-02-01,2022-02-28,Q7a,with_children_and_adults,333
+Children,370,all_persons,2022-02-01,2022-02-28,Q7a,with_only_children,37
+Children,370,all_persons,2022-02-01,2022-02-28,Q7a,unknown_household_type,0
+Client Doesn't Know/Client Refused,4,all_persons,2022-02-01,2022-02-28,Q7a,without_children,0
+Client Doesn't Know/Client Refused,4,all_persons,2022-02-01,2022-02-28,Q7a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,4,all_persons,2022-02-01,2022-02-28,Q7a,with_only_children,0
+Client Doesn't Know/Client Refused,4,all_persons,2022-02-01,2022-02-28,Q7a,unknown_household_type,4
+Data Not Collected,12,all_persons,2022-02-01,2022-02-28,Q7a,without_children,0
+Data Not Collected,12,all_persons,2022-02-01,2022-02-28,Q7a,with_children_and_adults,1
+Data Not Collected,12,all_persons,2022-02-01,2022-02-28,Q7a,with_only_children,0
+Data Not Collected,12,all_persons,2022-02-01,2022-02-28,Q7a,unknown_household_type,11
+For PSH and RRH - the total persons served who moved into housing,174,all_persons,2022-02-01,2022-02-28,Q7a,without_children,102
+For PSH and RRH - the total persons served who moved into housing,174,all_persons,2022-02-01,2022-02-28,Q7a,with_children_and_adults,72
+For PSH and RRH - the total persons served who moved into housing,174,all_persons,2022-02-01,2022-02-28,Q7a,with_only_children,0
+For PSH and RRH - the total persons served who moved into housing,174,all_persons,2022-02-01,2022-02-28,Q7a,unknown_household_type,0

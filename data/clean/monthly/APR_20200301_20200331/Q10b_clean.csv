@@ -1,0 +1,22 @@
+gender_identity,total,population,start_date,end_date,question,household_type,count
+Male,129,children,2020-03-01,2020-03-31,Q10b,with_children_and_adults,123
+Male,129,children,2020-03-01,2020-03-31,Q10b,with_only_children,6
+Male,129,children,2020-03-01,2020-03-31,Q10b,unknown_household_type,0
+Female,122,children,2020-03-01,2020-03-31,Q10b,with_children_and_adults,113
+Female,122,children,2020-03-01,2020-03-31,Q10b,with_only_children,9
+Female,122,children,2020-03-01,2020-03-31,Q10b,unknown_household_type,0
+No Single Gender,0,children,2020-03-01,2020-03-31,Q10b,with_children_and_adults,0
+No Single Gender,0,children,2020-03-01,2020-03-31,Q10b,with_only_children,0
+No Single Gender,0,children,2020-03-01,2020-03-31,Q10b,unknown_household_type,0
+Questioning,0,children,2020-03-01,2020-03-31,Q10b,with_children_and_adults,0
+Questioning,0,children,2020-03-01,2020-03-31,Q10b,with_only_children,0
+Questioning,0,children,2020-03-01,2020-03-31,Q10b,unknown_household_type,0
+Transgender,0,children,2020-03-01,2020-03-31,Q10b,with_children_and_adults,0
+Transgender,0,children,2020-03-01,2020-03-31,Q10b,with_only_children,0
+Transgender,0,children,2020-03-01,2020-03-31,Q10b,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,children,2020-03-01,2020-03-31,Q10b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,children,2020-03-01,2020-03-31,Q10b,with_only_children,0
+Client Doesn't Know/Client Refused,0,children,2020-03-01,2020-03-31,Q10b,unknown_household_type,0
+Data Not Collected,0,children,2020-03-01,2020-03-31,Q10b,with_children_and_adults,0
+Data Not Collected,0,children,2020-03-01,2020-03-31,Q10b,with_only_children,0
+Data Not Collected,0,children,2020-03-01,2020-03-31,Q10b,unknown_household_type,0

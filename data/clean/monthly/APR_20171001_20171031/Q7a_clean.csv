@@ -1,0 +1,21 @@
+persons_served,total,population,start_date,end_date,question,household_type,count
+Adults,356,all_persons,2017-10-01,2017-10-31,Q7a,without_children,251
+Adults,356,all_persons,2017-10-01,2017-10-31,Q7a,with_children_and_adults,104
+Adults,356,all_persons,2017-10-01,2017-10-31,Q7a,with_only_children,0
+Adults,356,all_persons,2017-10-01,2017-10-31,Q7a,unknown_household_type,1
+Children,159,all_persons,2017-10-01,2017-10-31,Q7a,without_children,0
+Children,159,all_persons,2017-10-01,2017-10-31,Q7a,with_children_and_adults,146
+Children,159,all_persons,2017-10-01,2017-10-31,Q7a,with_only_children,13
+Children,159,all_persons,2017-10-01,2017-10-31,Q7a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,all_persons,2017-10-01,2017-10-31,Q7a,without_children,0
+Client Doesn't Know/Client Refused,0,all_persons,2017-10-01,2017-10-31,Q7a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,all_persons,2017-10-01,2017-10-31,Q7a,with_only_children,0
+Client Doesn't Know/Client Refused,0,all_persons,2017-10-01,2017-10-31,Q7a,unknown_household_type,0
+Data Not Collected,2,all_persons,2017-10-01,2017-10-31,Q7a,without_children,0
+Data Not Collected,2,all_persons,2017-10-01,2017-10-31,Q7a,with_children_and_adults,0
+Data Not Collected,2,all_persons,2017-10-01,2017-10-31,Q7a,with_only_children,0
+Data Not Collected,2,all_persons,2017-10-01,2017-10-31,Q7a,unknown_household_type,2
+For PSH and RRH - the total persons served who moved into housing,138,all_persons,2017-10-01,2017-10-31,Q7a,without_children,73
+For PSH and RRH - the total persons served who moved into housing,138,all_persons,2017-10-01,2017-10-31,Q7a,with_children_and_adults,65
+For PSH and RRH - the total persons served who moved into housing,138,all_persons,2017-10-01,2017-10-31,Q7a,with_only_children,0
+For PSH and RRH - the total persons served who moved into housing,138,all_persons,2017-10-01,2017-10-31,Q7a,unknown_household_type,0

@@ -1,0 +1,9 @@
+, "Conditions at Start" , "Conditions at Latest Assessment for Stayers" , "Conditions at Exit for Leavers"
+"""Mental Health Disorder""",64,59,5
+"""Alcohol Use Disorder""",11,9,2
+"""Drug Use Disorder""",11,11,0
+"""Both Alcohol and Drug Use Disorders""",10,10,0
+"""Chronic Health Condition""",30,28,2
+"""HIV/AIDS""",0,0,0
+"""Development Disability""",12,11,2
+"""Physical Disability""",28,23,5

@@ -1,0 +1,35 @@
+, "Total" , "Without Children" , "With Children and Adults" , "With Only Children" , "Unknown Household Type"
+"""Homeless Situations"""
+"""Emergency shelter, including hotel or motel paid for with emergency shelter voucher""",89,58,31,0,0
+"""Transitional housing for homeless persons (including homeless youth)""",3,3,0,0,0
+"""Place not meant for human habitation""",57,49,8,0,0
+"""Safe Haven""",2,2,0,0,0
+"""Host Home""",0,0,0,0,0
+"""Subtotal""",151,112,39,0,0
+"""Institutional Settings"""
+"""Psychiatric hospital or other psychiatric facility""",2,2,0,0,0
+"""Substance abuse treatment facility or detox center""",2,2,0,0,0
+"""Hospital or other residential non-psychiatric medical facility""",7,7,0,0,0
+"""Jail, prison or juvenile detention facility""",12,12,0,0,0
+"""Foster care home or foster care group home""",0,0,0,0,0
+"""Long-term care facility or nursing home""",0,0,0,0,0
+"""Residential project or halfway house with no homeless criteria""",0,0,0,0,0
+"""Subtotal""",23,23,0,0,0
+"""Other Locations"""
+"""Permanent housing (other than RRH) for formerly homeless persons""",2,2,0,0,0
+"""Owned by client, no ongoing housing subsidy""",10,6,4,0,0
+"""Owned by client, with ongoing housing subsidy""",0,0,0,0,0
+"""Rental by client, with RRH or equivalent subsidy""",0,0,0,0,0
+"""Rental by client, with HCV voucher (tenant or project based)""",0,0,0,0,0
+"""Rental by client in a public housing unit""",0,0,0,0,0
+"""Rental by client, no ongoing housing subsidy""",117,86,31,0,0
+"""Rental by client, with VASH housing subsidy""",2,2,0,0,0
+"""Rental by client, with GPD TIP housing subsidy""",0,0,0,0,0
+"""Rental by client, with other housing subsidy (including RRH)""",5,4,1,0,0
+"""Hotel or motel paid for without emergency shelter voucher""",34,19,15,0,0
+"""Staying or living in a friend''s room, apartment or house""",64,54,9,1,0
+"""Staying or living in a family member''s room, apartment or house""",27,24,3,0,0
+"""Client Doesn''t Know/Client Refused""",0,0,0,0,0
+"""Data not collected""",3,2,0,0,1
+"""Subtotal""",264,199,63,1,1
+"""Total""",438,334,102,1,1

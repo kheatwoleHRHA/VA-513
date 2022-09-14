@@ -1,0 +1,1693 @@
+non_cash_benefits,population,start_date,end_date,question,status,count
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2014-11-01,2014-11-30,Q20a,benefit_at_start,154
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2014-11-01,2014-11-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,2
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2014-11-01,2014-11-30,Q20a,benefit_at_exit_for_leavers,56
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2014-11-01,2014-11-30,Q20a,benefit_at_start,17
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2014-11-01,2014-11-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2014-11-01,2014-11-30,Q20a,benefit_at_exit_for_leavers,5
+TANF Child Care Services,all_persons,2014-11-01,2014-11-30,Q20a,benefit_at_start,2
+TANF Child Care Services,all_persons,2014-11-01,2014-11-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2014-11-01,2014-11-30,Q20a,benefit_at_exit_for_leavers,1
+TANF Transportation Services,all_persons,2014-11-01,2014-11-30,Q20a,benefit_at_start,1
+TANF Transportation Services,all_persons,2014-11-01,2014-11-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2014-11-01,2014-11-30,Q20a,benefit_at_exit_for_leavers,1
+Other TANF-Funded Services,all_persons,2014-11-01,2014-11-30,Q20a,benefit_at_start,4
+Other TANF-Funded Services,all_persons,2014-11-01,2014-11-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2014-11-01,2014-11-30,Q20a,benefit_at_exit_for_leavers,1
+Other Source,all_persons,2014-11-01,2014-11-30,Q20a,benefit_at_start,5
+Other Source,all_persons,2014-11-01,2014-11-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,2
+Other Source,all_persons,2014-11-01,2014-11-30,Q20a,benefit_at_exit_for_leavers,2
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2014-12-01,2014-12-31,Q20a,benefit_at_start,149
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2014-12-01,2014-12-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,5
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2014-12-01,2014-12-31,Q20a,benefit_at_exit_for_leavers,53
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2014-12-01,2014-12-31,Q20a,benefit_at_start,15
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2014-12-01,2014-12-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2014-12-01,2014-12-31,Q20a,benefit_at_exit_for_leavers,6
+TANF Child Care Services,all_persons,2014-12-01,2014-12-31,Q20a,benefit_at_start,1
+TANF Child Care Services,all_persons,2014-12-01,2014-12-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2014-12-01,2014-12-31,Q20a,benefit_at_exit_for_leavers,1
+TANF Transportation Services,all_persons,2014-12-01,2014-12-31,Q20a,benefit_at_start,1
+TANF Transportation Services,all_persons,2014-12-01,2014-12-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2014-12-01,2014-12-31,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2014-12-01,2014-12-31,Q20a,benefit_at_start,2
+Other TANF-Funded Services,all_persons,2014-12-01,2014-12-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2014-12-01,2014-12-31,Q20a,benefit_at_exit_for_leavers,0
+Other Source,all_persons,2014-12-01,2014-12-31,Q20a,benefit_at_start,6
+Other Source,all_persons,2014-12-01,2014-12-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,5
+Other Source,all_persons,2014-12-01,2014-12-31,Q20a,benefit_at_exit_for_leavers,2
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2015-01-01,2015-01-31,Q20a,benefit_at_start,164
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2015-01-01,2015-01-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,6
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2015-01-01,2015-01-31,Q20a,benefit_at_exit_for_leavers,59
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2015-01-01,2015-01-31,Q20a,benefit_at_start,11
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2015-01-01,2015-01-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2015-01-01,2015-01-31,Q20a,benefit_at_exit_for_leavers,6
+TANF Child Care Services,all_persons,2015-01-01,2015-01-31,Q20a,benefit_at_start,0
+TANF Child Care Services,all_persons,2015-01-01,2015-01-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2015-01-01,2015-01-31,Q20a,benefit_at_exit_for_leavers,0
+TANF Transportation Services,all_persons,2015-01-01,2015-01-31,Q20a,benefit_at_start,1
+TANF Transportation Services,all_persons,2015-01-01,2015-01-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2015-01-01,2015-01-31,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2015-01-01,2015-01-31,Q20a,benefit_at_start,3
+Other TANF-Funded Services,all_persons,2015-01-01,2015-01-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2015-01-01,2015-01-31,Q20a,benefit_at_exit_for_leavers,0
+Other Source,all_persons,2015-01-01,2015-01-31,Q20a,benefit_at_start,7
+Other Source,all_persons,2015-01-01,2015-01-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,5
+Other Source,all_persons,2015-01-01,2015-01-31,Q20a,benefit_at_exit_for_leavers,3
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2015-02-01,2015-02-28,Q20a,benefit_at_start,153
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2015-02-01,2015-02-28,Q20a,benefit_at_latest_annual_assessment_for_stayers,7
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2015-02-01,2015-02-28,Q20a,benefit_at_exit_for_leavers,53
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2015-02-01,2015-02-28,Q20a,benefit_at_start,8
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2015-02-01,2015-02-28,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2015-02-01,2015-02-28,Q20a,benefit_at_exit_for_leavers,3
+TANF Child Care Services,all_persons,2015-02-01,2015-02-28,Q20a,benefit_at_start,1
+TANF Child Care Services,all_persons,2015-02-01,2015-02-28,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2015-02-01,2015-02-28,Q20a,benefit_at_exit_for_leavers,1
+TANF Transportation Services,all_persons,2015-02-01,2015-02-28,Q20a,benefit_at_start,2
+TANF Transportation Services,all_persons,2015-02-01,2015-02-28,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2015-02-01,2015-02-28,Q20a,benefit_at_exit_for_leavers,1
+Other TANF-Funded Services,all_persons,2015-02-01,2015-02-28,Q20a,benefit_at_start,4
+Other TANF-Funded Services,all_persons,2015-02-01,2015-02-28,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2015-02-01,2015-02-28,Q20a,benefit_at_exit_for_leavers,1
+Other Source,all_persons,2015-02-01,2015-02-28,Q20a,benefit_at_start,8
+Other Source,all_persons,2015-02-01,2015-02-28,Q20a,benefit_at_latest_annual_assessment_for_stayers,6
+Other Source,all_persons,2015-02-01,2015-02-28,Q20a,benefit_at_exit_for_leavers,4
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2015-03-01,2015-03-31,Q20a,benefit_at_start,145
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2015-03-01,2015-03-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,7
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2015-03-01,2015-03-31,Q20a,benefit_at_exit_for_leavers,57
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2015-03-01,2015-03-31,Q20a,benefit_at_start,7
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2015-03-01,2015-03-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2015-03-01,2015-03-31,Q20a,benefit_at_exit_for_leavers,1
+TANF Child Care Services,all_persons,2015-03-01,2015-03-31,Q20a,benefit_at_start,1
+TANF Child Care Services,all_persons,2015-03-01,2015-03-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2015-03-01,2015-03-31,Q20a,benefit_at_exit_for_leavers,0
+TANF Transportation Services,all_persons,2015-03-01,2015-03-31,Q20a,benefit_at_start,1
+TANF Transportation Services,all_persons,2015-03-01,2015-03-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2015-03-01,2015-03-31,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2015-03-01,2015-03-31,Q20a,benefit_at_start,3
+Other TANF-Funded Services,all_persons,2015-03-01,2015-03-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2015-03-01,2015-03-31,Q20a,benefit_at_exit_for_leavers,0
+Other Source,all_persons,2015-03-01,2015-03-31,Q20a,benefit_at_start,7
+Other Source,all_persons,2015-03-01,2015-03-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,6
+Other Source,all_persons,2015-03-01,2015-03-31,Q20a,benefit_at_exit_for_leavers,0
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2015-04-01,2015-04-30,Q20a,benefit_at_start,129
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2015-04-01,2015-04-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,9
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2015-04-01,2015-04-30,Q20a,benefit_at_exit_for_leavers,45
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2015-04-01,2015-04-30,Q20a,benefit_at_start,6
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2015-04-01,2015-04-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2015-04-01,2015-04-30,Q20a,benefit_at_exit_for_leavers,3
+TANF Child Care Services,all_persons,2015-04-01,2015-04-30,Q20a,benefit_at_start,1
+TANF Child Care Services,all_persons,2015-04-01,2015-04-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2015-04-01,2015-04-30,Q20a,benefit_at_exit_for_leavers,0
+TANF Transportation Services,all_persons,2015-04-01,2015-04-30,Q20a,benefit_at_start,1
+TANF Transportation Services,all_persons,2015-04-01,2015-04-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2015-04-01,2015-04-30,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2015-04-01,2015-04-30,Q20a,benefit_at_start,3
+Other TANF-Funded Services,all_persons,2015-04-01,2015-04-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2015-04-01,2015-04-30,Q20a,benefit_at_exit_for_leavers,0
+Other Source,all_persons,2015-04-01,2015-04-30,Q20a,benefit_at_start,6
+Other Source,all_persons,2015-04-01,2015-04-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,7
+Other Source,all_persons,2015-04-01,2015-04-30,Q20a,benefit_at_exit_for_leavers,2
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2015-05-01,2015-05-31,Q20a,benefit_at_start,118
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2015-05-01,2015-05-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,14
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2015-05-01,2015-05-31,Q20a,benefit_at_exit_for_leavers,25
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2015-05-01,2015-05-31,Q20a,benefit_at_start,5
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2015-05-01,2015-05-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2015-05-01,2015-05-31,Q20a,benefit_at_exit_for_leavers,1
+TANF Child Care Services,all_persons,2015-05-01,2015-05-31,Q20a,benefit_at_start,1
+TANF Child Care Services,all_persons,2015-05-01,2015-05-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2015-05-01,2015-05-31,Q20a,benefit_at_exit_for_leavers,0
+TANF Transportation Services,all_persons,2015-05-01,2015-05-31,Q20a,benefit_at_start,1
+TANF Transportation Services,all_persons,2015-05-01,2015-05-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2015-05-01,2015-05-31,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2015-05-01,2015-05-31,Q20a,benefit_at_start,3
+Other TANF-Funded Services,all_persons,2015-05-01,2015-05-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2015-05-01,2015-05-31,Q20a,benefit_at_exit_for_leavers,0
+Other Source,all_persons,2015-05-01,2015-05-31,Q20a,benefit_at_start,6
+Other Source,all_persons,2015-05-01,2015-05-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,13
+Other Source,all_persons,2015-05-01,2015-05-31,Q20a,benefit_at_exit_for_leavers,2
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2015-06-01,2015-06-30,Q20a,benefit_at_start,131
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2015-06-01,2015-06-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,14
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2015-06-01,2015-06-30,Q20a,benefit_at_exit_for_leavers,54
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2015-06-01,2015-06-30,Q20a,benefit_at_start,13
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2015-06-01,2015-06-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2015-06-01,2015-06-30,Q20a,benefit_at_exit_for_leavers,4
+TANF Child Care Services,all_persons,2015-06-01,2015-06-30,Q20a,benefit_at_start,2
+TANF Child Care Services,all_persons,2015-06-01,2015-06-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2015-06-01,2015-06-30,Q20a,benefit_at_exit_for_leavers,0
+TANF Transportation Services,all_persons,2015-06-01,2015-06-30,Q20a,benefit_at_start,1
+TANF Transportation Services,all_persons,2015-06-01,2015-06-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2015-06-01,2015-06-30,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2015-06-01,2015-06-30,Q20a,benefit_at_start,3
+Other TANF-Funded Services,all_persons,2015-06-01,2015-06-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2015-06-01,2015-06-30,Q20a,benefit_at_exit_for_leavers,2
+Other Source,all_persons,2015-06-01,2015-06-30,Q20a,benefit_at_start,4
+Other Source,all_persons,2015-06-01,2015-06-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,13
+Other Source,all_persons,2015-06-01,2015-06-30,Q20a,benefit_at_exit_for_leavers,1
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2015-07-01,2015-07-31,Q20a,benefit_at_start,127
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2015-07-01,2015-07-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,14
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2015-07-01,2015-07-31,Q20a,benefit_at_exit_for_leavers,44
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2015-07-01,2015-07-31,Q20a,benefit_at_start,13
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2015-07-01,2015-07-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2015-07-01,2015-07-31,Q20a,benefit_at_exit_for_leavers,2
+TANF Child Care Services,all_persons,2015-07-01,2015-07-31,Q20a,benefit_at_start,2
+TANF Child Care Services,all_persons,2015-07-01,2015-07-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2015-07-01,2015-07-31,Q20a,benefit_at_exit_for_leavers,1
+TANF Transportation Services,all_persons,2015-07-01,2015-07-31,Q20a,benefit_at_start,2
+TANF Transportation Services,all_persons,2015-07-01,2015-07-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2015-07-01,2015-07-31,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2015-07-01,2015-07-31,Q20a,benefit_at_start,2
+Other TANF-Funded Services,all_persons,2015-07-01,2015-07-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2015-07-01,2015-07-31,Q20a,benefit_at_exit_for_leavers,0
+Other Source,all_persons,2015-07-01,2015-07-31,Q20a,benefit_at_start,5
+Other Source,all_persons,2015-07-01,2015-07-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,13
+Other Source,all_persons,2015-07-01,2015-07-31,Q20a,benefit_at_exit_for_leavers,1
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2015-08-01,2015-08-31,Q20a,benefit_at_start,117
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2015-08-01,2015-08-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,15
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2015-08-01,2015-08-31,Q20a,benefit_at_exit_for_leavers,17
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2015-08-01,2015-08-31,Q20a,benefit_at_start,12
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2015-08-01,2015-08-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2015-08-01,2015-08-31,Q20a,benefit_at_exit_for_leavers,2
+TANF Child Care Services,all_persons,2015-08-01,2015-08-31,Q20a,benefit_at_start,4
+TANF Child Care Services,all_persons,2015-08-01,2015-08-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2015-08-01,2015-08-31,Q20a,benefit_at_exit_for_leavers,0
+TANF Transportation Services,all_persons,2015-08-01,2015-08-31,Q20a,benefit_at_start,3
+TANF Transportation Services,all_persons,2015-08-01,2015-08-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2015-08-01,2015-08-31,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2015-08-01,2015-08-31,Q20a,benefit_at_start,3
+Other TANF-Funded Services,all_persons,2015-08-01,2015-08-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2015-08-01,2015-08-31,Q20a,benefit_at_exit_for_leavers,0
+Other Source,all_persons,2015-08-01,2015-08-31,Q20a,benefit_at_start,5
+Other Source,all_persons,2015-08-01,2015-08-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,13
+Other Source,all_persons,2015-08-01,2015-08-31,Q20a,benefit_at_exit_for_leavers,0
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2015-09-01,2015-09-30,Q20a,benefit_at_start,143
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2015-09-01,2015-09-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,16
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2015-09-01,2015-09-30,Q20a,benefit_at_exit_for_leavers,39
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2015-09-01,2015-09-30,Q20a,benefit_at_start,14
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2015-09-01,2015-09-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2015-09-01,2015-09-30,Q20a,benefit_at_exit_for_leavers,4
+TANF Child Care Services,all_persons,2015-09-01,2015-09-30,Q20a,benefit_at_start,4
+TANF Child Care Services,all_persons,2015-09-01,2015-09-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2015-09-01,2015-09-30,Q20a,benefit_at_exit_for_leavers,2
+TANF Transportation Services,all_persons,2015-09-01,2015-09-30,Q20a,benefit_at_start,3
+TANF Transportation Services,all_persons,2015-09-01,2015-09-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2015-09-01,2015-09-30,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2015-09-01,2015-09-30,Q20a,benefit_at_start,3
+Other TANF-Funded Services,all_persons,2015-09-01,2015-09-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2015-09-01,2015-09-30,Q20a,benefit_at_exit_for_leavers,1
+Other Source,all_persons,2015-09-01,2015-09-30,Q20a,benefit_at_start,5
+Other Source,all_persons,2015-09-01,2015-09-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,13
+Other Source,all_persons,2015-09-01,2015-09-30,Q20a,benefit_at_exit_for_leavers,0
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2015-10-01,2015-10-31,Q20a,benefit_at_start,145
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2015-10-01,2015-10-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,16
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2015-10-01,2015-10-31,Q20a,benefit_at_exit_for_leavers,36
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2015-10-01,2015-10-31,Q20a,benefit_at_start,14
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2015-10-01,2015-10-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2015-10-01,2015-10-31,Q20a,benefit_at_exit_for_leavers,5
+TANF Child Care Services,all_persons,2015-10-01,2015-10-31,Q20a,benefit_at_start,3
+TANF Child Care Services,all_persons,2015-10-01,2015-10-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2015-10-01,2015-10-31,Q20a,benefit_at_exit_for_leavers,1
+TANF Transportation Services,all_persons,2015-10-01,2015-10-31,Q20a,benefit_at_start,3
+TANF Transportation Services,all_persons,2015-10-01,2015-10-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2015-10-01,2015-10-31,Q20a,benefit_at_exit_for_leavers,1
+Other TANF-Funded Services,all_persons,2015-10-01,2015-10-31,Q20a,benefit_at_start,4
+Other TANF-Funded Services,all_persons,2015-10-01,2015-10-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2015-10-01,2015-10-31,Q20a,benefit_at_exit_for_leavers,1
+Other Source,all_persons,2015-10-01,2015-10-31,Q20a,benefit_at_start,5
+Other Source,all_persons,2015-10-01,2015-10-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,13
+Other Source,all_persons,2015-10-01,2015-10-31,Q20a,benefit_at_exit_for_leavers,0
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2015-11-01,2015-11-30,Q20a,benefit_at_start,154
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2015-11-01,2015-11-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,17
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2015-11-01,2015-11-30,Q20a,benefit_at_exit_for_leavers,37
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2015-11-01,2015-11-30,Q20a,benefit_at_start,15
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2015-11-01,2015-11-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2015-11-01,2015-11-30,Q20a,benefit_at_exit_for_leavers,1
+TANF Child Care Services,all_persons,2015-11-01,2015-11-30,Q20a,benefit_at_start,2
+TANF Child Care Services,all_persons,2015-11-01,2015-11-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2015-11-01,2015-11-30,Q20a,benefit_at_exit_for_leavers,0
+TANF Transportation Services,all_persons,2015-11-01,2015-11-30,Q20a,benefit_at_start,2
+TANF Transportation Services,all_persons,2015-11-01,2015-11-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2015-11-01,2015-11-30,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2015-11-01,2015-11-30,Q20a,benefit_at_start,3
+Other TANF-Funded Services,all_persons,2015-11-01,2015-11-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2015-11-01,2015-11-30,Q20a,benefit_at_exit_for_leavers,1
+Other Source,all_persons,2015-11-01,2015-11-30,Q20a,benefit_at_start,5
+Other Source,all_persons,2015-11-01,2015-11-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,14
+Other Source,all_persons,2015-11-01,2015-11-30,Q20a,benefit_at_exit_for_leavers,1
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2015-12-01,2015-12-31,Q20a,benefit_at_start,142
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2015-12-01,2015-12-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,17
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2015-12-01,2015-12-31,Q20a,benefit_at_exit_for_leavers,43
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2015-12-01,2015-12-31,Q20a,benefit_at_start,23
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2015-12-01,2015-12-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2015-12-01,2015-12-31,Q20a,benefit_at_exit_for_leavers,8
+TANF Child Care Services,all_persons,2015-12-01,2015-12-31,Q20a,benefit_at_start,3
+TANF Child Care Services,all_persons,2015-12-01,2015-12-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2015-12-01,2015-12-31,Q20a,benefit_at_exit_for_leavers,0
+TANF Transportation Services,all_persons,2015-12-01,2015-12-31,Q20a,benefit_at_start,2
+TANF Transportation Services,all_persons,2015-12-01,2015-12-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2015-12-01,2015-12-31,Q20a,benefit_at_exit_for_leavers,1
+Other TANF-Funded Services,all_persons,2015-12-01,2015-12-31,Q20a,benefit_at_start,2
+Other TANF-Funded Services,all_persons,2015-12-01,2015-12-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2015-12-01,2015-12-31,Q20a,benefit_at_exit_for_leavers,1
+Other Source,all_persons,2015-12-01,2015-12-31,Q20a,benefit_at_start,4
+Other Source,all_persons,2015-12-01,2015-12-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,14
+Other Source,all_persons,2015-12-01,2015-12-31,Q20a,benefit_at_exit_for_leavers,0
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2016-01-01,2016-01-31,Q20a,benefit_at_start,136
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2016-01-01,2016-01-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,17
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2016-01-01,2016-01-31,Q20a,benefit_at_exit_for_leavers,28
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2016-01-01,2016-01-31,Q20a,benefit_at_start,18
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2016-01-01,2016-01-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2016-01-01,2016-01-31,Q20a,benefit_at_exit_for_leavers,7
+TANF Child Care Services,all_persons,2016-01-01,2016-01-31,Q20a,benefit_at_start,2
+TANF Child Care Services,all_persons,2016-01-01,2016-01-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2016-01-01,2016-01-31,Q20a,benefit_at_exit_for_leavers,1
+TANF Transportation Services,all_persons,2016-01-01,2016-01-31,Q20a,benefit_at_start,1
+TANF Transportation Services,all_persons,2016-01-01,2016-01-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2016-01-01,2016-01-31,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2016-01-01,2016-01-31,Q20a,benefit_at_start,1
+Other TANF-Funded Services,all_persons,2016-01-01,2016-01-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2016-01-01,2016-01-31,Q20a,benefit_at_exit_for_leavers,0
+Other Source,all_persons,2016-01-01,2016-01-31,Q20a,benefit_at_start,5
+Other Source,all_persons,2016-01-01,2016-01-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,14
+Other Source,all_persons,2016-01-01,2016-01-31,Q20a,benefit_at_exit_for_leavers,1
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2016-02-01,2016-02-29,Q20a,benefit_at_start,131
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2016-02-01,2016-02-29,Q20a,benefit_at_latest_annual_assessment_for_stayers,16
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2016-02-01,2016-02-29,Q20a,benefit_at_exit_for_leavers,40
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2016-02-01,2016-02-29,Q20a,benefit_at_start,13
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2016-02-01,2016-02-29,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2016-02-01,2016-02-29,Q20a,benefit_at_exit_for_leavers,3
+TANF Child Care Services,all_persons,2016-02-01,2016-02-29,Q20a,benefit_at_start,1
+TANF Child Care Services,all_persons,2016-02-01,2016-02-29,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2016-02-01,2016-02-29,Q20a,benefit_at_exit_for_leavers,0
+TANF Transportation Services,all_persons,2016-02-01,2016-02-29,Q20a,benefit_at_start,1
+TANF Transportation Services,all_persons,2016-02-01,2016-02-29,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2016-02-01,2016-02-29,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2016-02-01,2016-02-29,Q20a,benefit_at_start,2
+Other TANF-Funded Services,all_persons,2016-02-01,2016-02-29,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2016-02-01,2016-02-29,Q20a,benefit_at_exit_for_leavers,0
+Other Source,all_persons,2016-02-01,2016-02-29,Q20a,benefit_at_start,4
+Other Source,all_persons,2016-02-01,2016-02-29,Q20a,benefit_at_latest_annual_assessment_for_stayers,13
+Other Source,all_persons,2016-02-01,2016-02-29,Q20a,benefit_at_exit_for_leavers,1
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2016-03-01,2016-03-31,Q20a,benefit_at_start,120
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2016-03-01,2016-03-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,17
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2016-03-01,2016-03-31,Q20a,benefit_at_exit_for_leavers,34
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2016-03-01,2016-03-31,Q20a,benefit_at_start,20
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2016-03-01,2016-03-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2016-03-01,2016-03-31,Q20a,benefit_at_exit_for_leavers,4
+TANF Child Care Services,all_persons,2016-03-01,2016-03-31,Q20a,benefit_at_start,1
+TANF Child Care Services,all_persons,2016-03-01,2016-03-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2016-03-01,2016-03-31,Q20a,benefit_at_exit_for_leavers,0
+TANF Transportation Services,all_persons,2016-03-01,2016-03-31,Q20a,benefit_at_start,1
+TANF Transportation Services,all_persons,2016-03-01,2016-03-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2016-03-01,2016-03-31,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2016-03-01,2016-03-31,Q20a,benefit_at_start,2
+Other TANF-Funded Services,all_persons,2016-03-01,2016-03-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2016-03-01,2016-03-31,Q20a,benefit_at_exit_for_leavers,0
+Other Source,all_persons,2016-03-01,2016-03-31,Q20a,benefit_at_start,4
+Other Source,all_persons,2016-03-01,2016-03-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,12
+Other Source,all_persons,2016-03-01,2016-03-31,Q20a,benefit_at_exit_for_leavers,0
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2016-04-01,2016-04-30,Q20a,benefit_at_start,115
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2016-04-01,2016-04-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,18
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2016-04-01,2016-04-30,Q20a,benefit_at_exit_for_leavers,27
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2016-04-01,2016-04-30,Q20a,benefit_at_start,23
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2016-04-01,2016-04-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2016-04-01,2016-04-30,Q20a,benefit_at_exit_for_leavers,9
+TANF Child Care Services,all_persons,2016-04-01,2016-04-30,Q20a,benefit_at_start,2
+TANF Child Care Services,all_persons,2016-04-01,2016-04-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2016-04-01,2016-04-30,Q20a,benefit_at_exit_for_leavers,1
+TANF Transportation Services,all_persons,2016-04-01,2016-04-30,Q20a,benefit_at_start,1
+TANF Transportation Services,all_persons,2016-04-01,2016-04-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2016-04-01,2016-04-30,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2016-04-01,2016-04-30,Q20a,benefit_at_start,3
+Other TANF-Funded Services,all_persons,2016-04-01,2016-04-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2016-04-01,2016-04-30,Q20a,benefit_at_exit_for_leavers,0
+Other Source,all_persons,2016-04-01,2016-04-30,Q20a,benefit_at_start,5
+Other Source,all_persons,2016-04-01,2016-04-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,13
+Other Source,all_persons,2016-04-01,2016-04-30,Q20a,benefit_at_exit_for_leavers,0
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2016-05-01,2016-05-31,Q20a,benefit_at_start,111
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2016-05-01,2016-05-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,18
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2016-05-01,2016-05-31,Q20a,benefit_at_exit_for_leavers,24
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2016-05-01,2016-05-31,Q20a,benefit_at_start,19
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2016-05-01,2016-05-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2016-05-01,2016-05-31,Q20a,benefit_at_exit_for_leavers,5
+TANF Child Care Services,all_persons,2016-05-01,2016-05-31,Q20a,benefit_at_start,1
+TANF Child Care Services,all_persons,2016-05-01,2016-05-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2016-05-01,2016-05-31,Q20a,benefit_at_exit_for_leavers,0
+TANF Transportation Services,all_persons,2016-05-01,2016-05-31,Q20a,benefit_at_start,1
+TANF Transportation Services,all_persons,2016-05-01,2016-05-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2016-05-01,2016-05-31,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2016-05-01,2016-05-31,Q20a,benefit_at_start,3
+Other TANF-Funded Services,all_persons,2016-05-01,2016-05-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2016-05-01,2016-05-31,Q20a,benefit_at_exit_for_leavers,1
+Other Source,all_persons,2016-05-01,2016-05-31,Q20a,benefit_at_start,10
+Other Source,all_persons,2016-05-01,2016-05-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,12
+Other Source,all_persons,2016-05-01,2016-05-31,Q20a,benefit_at_exit_for_leavers,4
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2016-06-01,2016-06-30,Q20a,benefit_at_start,116
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2016-06-01,2016-06-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,17
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2016-06-01,2016-06-30,Q20a,benefit_at_exit_for_leavers,33
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2016-06-01,2016-06-30,Q20a,benefit_at_start,18
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2016-06-01,2016-06-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2016-06-01,2016-06-30,Q20a,benefit_at_exit_for_leavers,4
+TANF Child Care Services,all_persons,2016-06-01,2016-06-30,Q20a,benefit_at_start,2
+TANF Child Care Services,all_persons,2016-06-01,2016-06-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2016-06-01,2016-06-30,Q20a,benefit_at_exit_for_leavers,0
+TANF Transportation Services,all_persons,2016-06-01,2016-06-30,Q20a,benefit_at_start,1
+TANF Transportation Services,all_persons,2016-06-01,2016-06-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2016-06-01,2016-06-30,Q20a,benefit_at_exit_for_leavers,1
+Other TANF-Funded Services,all_persons,2016-06-01,2016-06-30,Q20a,benefit_at_start,2
+Other TANF-Funded Services,all_persons,2016-06-01,2016-06-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2016-06-01,2016-06-30,Q20a,benefit_at_exit_for_leavers,1
+Other Source,all_persons,2016-06-01,2016-06-30,Q20a,benefit_at_start,8
+Other Source,all_persons,2016-06-01,2016-06-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,12
+Other Source,all_persons,2016-06-01,2016-06-30,Q20a,benefit_at_exit_for_leavers,4
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2016-07-01,2016-07-31,Q20a,benefit_at_start,124
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2016-07-01,2016-07-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,17
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2016-07-01,2016-07-31,Q20a,benefit_at_exit_for_leavers,18
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2016-07-01,2016-07-31,Q20a,benefit_at_start,19
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2016-07-01,2016-07-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2016-07-01,2016-07-31,Q20a,benefit_at_exit_for_leavers,6
+TANF Child Care Services,all_persons,2016-07-01,2016-07-31,Q20a,benefit_at_start,2
+TANF Child Care Services,all_persons,2016-07-01,2016-07-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2016-07-01,2016-07-31,Q20a,benefit_at_exit_for_leavers,1
+TANF Transportation Services,all_persons,2016-07-01,2016-07-31,Q20a,benefit_at_start,0
+TANF Transportation Services,all_persons,2016-07-01,2016-07-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2016-07-01,2016-07-31,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2016-07-01,2016-07-31,Q20a,benefit_at_start,1
+Other TANF-Funded Services,all_persons,2016-07-01,2016-07-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2016-07-01,2016-07-31,Q20a,benefit_at_exit_for_leavers,0
+Other Source,all_persons,2016-07-01,2016-07-31,Q20a,benefit_at_start,9
+Other Source,all_persons,2016-07-01,2016-07-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,12
+Other Source,all_persons,2016-07-01,2016-07-31,Q20a,benefit_at_exit_for_leavers,4
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2016-08-01,2016-08-31,Q20a,benefit_at_start,152
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2016-08-01,2016-08-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,15
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2016-08-01,2016-08-31,Q20a,benefit_at_exit_for_leavers,32
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2016-08-01,2016-08-31,Q20a,benefit_at_start,15
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2016-08-01,2016-08-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2016-08-01,2016-08-31,Q20a,benefit_at_exit_for_leavers,4
+TANF Child Care Services,all_persons,2016-08-01,2016-08-31,Q20a,benefit_at_start,1
+TANF Child Care Services,all_persons,2016-08-01,2016-08-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2016-08-01,2016-08-31,Q20a,benefit_at_exit_for_leavers,0
+TANF Transportation Services,all_persons,2016-08-01,2016-08-31,Q20a,benefit_at_start,0
+TANF Transportation Services,all_persons,2016-08-01,2016-08-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2016-08-01,2016-08-31,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2016-08-01,2016-08-31,Q20a,benefit_at_start,1
+Other TANF-Funded Services,all_persons,2016-08-01,2016-08-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2016-08-01,2016-08-31,Q20a,benefit_at_exit_for_leavers,0
+Other Source,all_persons,2016-08-01,2016-08-31,Q20a,benefit_at_start,6
+Other Source,all_persons,2016-08-01,2016-08-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,12
+Other Source,all_persons,2016-08-01,2016-08-31,Q20a,benefit_at_exit_for_leavers,1
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2016-09-01,2016-09-30,Q20a,benefit_at_start,156
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2016-09-01,2016-09-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,14
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2016-09-01,2016-09-30,Q20a,benefit_at_exit_for_leavers,52
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2016-09-01,2016-09-30,Q20a,benefit_at_start,14
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2016-09-01,2016-09-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2016-09-01,2016-09-30,Q20a,benefit_at_exit_for_leavers,5
+TANF Child Care Services,all_persons,2016-09-01,2016-09-30,Q20a,benefit_at_start,1
+TANF Child Care Services,all_persons,2016-09-01,2016-09-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2016-09-01,2016-09-30,Q20a,benefit_at_exit_for_leavers,0
+TANF Transportation Services,all_persons,2016-09-01,2016-09-30,Q20a,benefit_at_start,0
+TANF Transportation Services,all_persons,2016-09-01,2016-09-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2016-09-01,2016-09-30,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2016-09-01,2016-09-30,Q20a,benefit_at_start,1
+Other TANF-Funded Services,all_persons,2016-09-01,2016-09-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2016-09-01,2016-09-30,Q20a,benefit_at_exit_for_leavers,0
+Other Source,all_persons,2016-09-01,2016-09-30,Q20a,benefit_at_start,10
+Other Source,all_persons,2016-09-01,2016-09-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,12
+Other Source,all_persons,2016-09-01,2016-09-30,Q20a,benefit_at_exit_for_leavers,4
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2016-10-01,2016-10-31,Q20a,benefit_at_start,139
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2016-10-01,2016-10-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,15
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2016-10-01,2016-10-31,Q20a,benefit_at_exit_for_leavers,33
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2016-10-01,2016-10-31,Q20a,benefit_at_start,12
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2016-10-01,2016-10-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2016-10-01,2016-10-31,Q20a,benefit_at_exit_for_leavers,3
+TANF Child Care Services,all_persons,2016-10-01,2016-10-31,Q20a,benefit_at_start,1
+TANF Child Care Services,all_persons,2016-10-01,2016-10-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2016-10-01,2016-10-31,Q20a,benefit_at_exit_for_leavers,0
+TANF Transportation Services,all_persons,2016-10-01,2016-10-31,Q20a,benefit_at_start,0
+TANF Transportation Services,all_persons,2016-10-01,2016-10-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2016-10-01,2016-10-31,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2016-10-01,2016-10-31,Q20a,benefit_at_start,1
+Other TANF-Funded Services,all_persons,2016-10-01,2016-10-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2016-10-01,2016-10-31,Q20a,benefit_at_exit_for_leavers,1
+Other Source,all_persons,2016-10-01,2016-10-31,Q20a,benefit_at_start,7
+Other Source,all_persons,2016-10-01,2016-10-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,12
+Other Source,all_persons,2016-10-01,2016-10-31,Q20a,benefit_at_exit_for_leavers,0
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2016-11-01,2016-11-30,Q20a,benefit_at_start,146
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2016-11-01,2016-11-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,15
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2016-11-01,2016-11-30,Q20a,benefit_at_exit_for_leavers,32
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2016-11-01,2016-11-30,Q20a,benefit_at_start,12
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2016-11-01,2016-11-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2016-11-01,2016-11-30,Q20a,benefit_at_exit_for_leavers,1
+TANF Child Care Services,all_persons,2016-11-01,2016-11-30,Q20a,benefit_at_start,1
+TANF Child Care Services,all_persons,2016-11-01,2016-11-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2016-11-01,2016-11-30,Q20a,benefit_at_exit_for_leavers,0
+TANF Transportation Services,all_persons,2016-11-01,2016-11-30,Q20a,benefit_at_start,0
+TANF Transportation Services,all_persons,2016-11-01,2016-11-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2016-11-01,2016-11-30,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2016-11-01,2016-11-30,Q20a,benefit_at_start,2
+Other TANF-Funded Services,all_persons,2016-11-01,2016-11-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2016-11-01,2016-11-30,Q20a,benefit_at_exit_for_leavers,0
+Other Source,all_persons,2016-11-01,2016-11-30,Q20a,benefit_at_start,7
+Other Source,all_persons,2016-11-01,2016-11-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,12
+Other Source,all_persons,2016-11-01,2016-11-30,Q20a,benefit_at_exit_for_leavers,0
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2016-12-01,2016-12-31,Q20a,benefit_at_start,147
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2016-12-01,2016-12-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,14
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2016-12-01,2016-12-31,Q20a,benefit_at_exit_for_leavers,32
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2016-12-01,2016-12-31,Q20a,benefit_at_start,14
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2016-12-01,2016-12-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2016-12-01,2016-12-31,Q20a,benefit_at_exit_for_leavers,4
+TANF Child Care Services,all_persons,2016-12-01,2016-12-31,Q20a,benefit_at_start,1
+TANF Child Care Services,all_persons,2016-12-01,2016-12-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2016-12-01,2016-12-31,Q20a,benefit_at_exit_for_leavers,0
+TANF Transportation Services,all_persons,2016-12-01,2016-12-31,Q20a,benefit_at_start,0
+TANF Transportation Services,all_persons,2016-12-01,2016-12-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2016-12-01,2016-12-31,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2016-12-01,2016-12-31,Q20a,benefit_at_start,2
+Other TANF-Funded Services,all_persons,2016-12-01,2016-12-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2016-12-01,2016-12-31,Q20a,benefit_at_exit_for_leavers,1
+Other Source,all_persons,2016-12-01,2016-12-31,Q20a,benefit_at_start,8
+Other Source,all_persons,2016-12-01,2016-12-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,11
+Other Source,all_persons,2016-12-01,2016-12-31,Q20a,benefit_at_exit_for_leavers,2
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2017-01-01,2017-01-31,Q20a,benefit_at_start,148
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2017-01-01,2017-01-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,14
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2017-01-01,2017-01-31,Q20a,benefit_at_exit_for_leavers,46
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2017-01-01,2017-01-31,Q20a,benefit_at_start,18
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2017-01-01,2017-01-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2017-01-01,2017-01-31,Q20a,benefit_at_exit_for_leavers,6
+TANF Child Care Services,all_persons,2017-01-01,2017-01-31,Q20a,benefit_at_start,1
+TANF Child Care Services,all_persons,2017-01-01,2017-01-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2017-01-01,2017-01-31,Q20a,benefit_at_exit_for_leavers,0
+TANF Transportation Services,all_persons,2017-01-01,2017-01-31,Q20a,benefit_at_start,1
+TANF Transportation Services,all_persons,2017-01-01,2017-01-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2017-01-01,2017-01-31,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2017-01-01,2017-01-31,Q20a,benefit_at_start,1
+Other TANF-Funded Services,all_persons,2017-01-01,2017-01-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2017-01-01,2017-01-31,Q20a,benefit_at_exit_for_leavers,1
+Other Source,all_persons,2017-01-01,2017-01-31,Q20a,benefit_at_start,7
+Other Source,all_persons,2017-01-01,2017-01-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,12
+Other Source,all_persons,2017-01-01,2017-01-31,Q20a,benefit_at_exit_for_leavers,0
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2017-02-01,2017-02-28,Q20a,benefit_at_start,134
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2017-02-01,2017-02-28,Q20a,benefit_at_latest_annual_assessment_for_stayers,19
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2017-02-01,2017-02-28,Q20a,benefit_at_exit_for_leavers,36
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2017-02-01,2017-02-28,Q20a,benefit_at_start,16
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2017-02-01,2017-02-28,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2017-02-01,2017-02-28,Q20a,benefit_at_exit_for_leavers,8
+TANF Child Care Services,all_persons,2017-02-01,2017-02-28,Q20a,benefit_at_start,2
+TANF Child Care Services,all_persons,2017-02-01,2017-02-28,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2017-02-01,2017-02-28,Q20a,benefit_at_exit_for_leavers,0
+TANF Transportation Services,all_persons,2017-02-01,2017-02-28,Q20a,benefit_at_start,2
+TANF Transportation Services,all_persons,2017-02-01,2017-02-28,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2017-02-01,2017-02-28,Q20a,benefit_at_exit_for_leavers,1
+Other TANF-Funded Services,all_persons,2017-02-01,2017-02-28,Q20a,benefit_at_start,2
+Other TANF-Funded Services,all_persons,2017-02-01,2017-02-28,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2017-02-01,2017-02-28,Q20a,benefit_at_exit_for_leavers,0
+Other Source,all_persons,2017-02-01,2017-02-28,Q20a,benefit_at_start,8
+Other Source,all_persons,2017-02-01,2017-02-28,Q20a,benefit_at_latest_annual_assessment_for_stayers,12
+Other Source,all_persons,2017-02-01,2017-02-28,Q20a,benefit_at_exit_for_leavers,1
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2017-03-01,2017-03-31,Q20a,benefit_at_start,134
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2017-03-01,2017-03-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,18
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2017-03-01,2017-03-31,Q20a,benefit_at_exit_for_leavers,39
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2017-03-01,2017-03-31,Q20a,benefit_at_start,12
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2017-03-01,2017-03-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2017-03-01,2017-03-31,Q20a,benefit_at_exit_for_leavers,4
+TANF Child Care Services,all_persons,2017-03-01,2017-03-31,Q20a,benefit_at_start,2
+TANF Child Care Services,all_persons,2017-03-01,2017-03-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2017-03-01,2017-03-31,Q20a,benefit_at_exit_for_leavers,0
+TANF Transportation Services,all_persons,2017-03-01,2017-03-31,Q20a,benefit_at_start,1
+TANF Transportation Services,all_persons,2017-03-01,2017-03-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2017-03-01,2017-03-31,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2017-03-01,2017-03-31,Q20a,benefit_at_start,2
+Other TANF-Funded Services,all_persons,2017-03-01,2017-03-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2017-03-01,2017-03-31,Q20a,benefit_at_exit_for_leavers,1
+Other Source,all_persons,2017-03-01,2017-03-31,Q20a,benefit_at_start,9
+Other Source,all_persons,2017-03-01,2017-03-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,10
+Other Source,all_persons,2017-03-01,2017-03-31,Q20a,benefit_at_exit_for_leavers,2
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2017-04-01,2017-04-30,Q20a,benefit_at_start,127
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2017-04-01,2017-04-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,22
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2017-04-01,2017-04-30,Q20a,benefit_at_exit_for_leavers,39
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2017-04-01,2017-04-30,Q20a,benefit_at_start,9
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2017-04-01,2017-04-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2017-04-01,2017-04-30,Q20a,benefit_at_exit_for_leavers,3
+TANF Child Care Services,all_persons,2017-04-01,2017-04-30,Q20a,benefit_at_start,2
+TANF Child Care Services,all_persons,2017-04-01,2017-04-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2017-04-01,2017-04-30,Q20a,benefit_at_exit_for_leavers,0
+TANF Transportation Services,all_persons,2017-04-01,2017-04-30,Q20a,benefit_at_start,1
+TANF Transportation Services,all_persons,2017-04-01,2017-04-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2017-04-01,2017-04-30,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2017-04-01,2017-04-30,Q20a,benefit_at_start,1
+Other TANF-Funded Services,all_persons,2017-04-01,2017-04-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2017-04-01,2017-04-30,Q20a,benefit_at_exit_for_leavers,0
+Other Source,all_persons,2017-04-01,2017-04-30,Q20a,benefit_at_start,8
+Other Source,all_persons,2017-04-01,2017-04-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,13
+Other Source,all_persons,2017-04-01,2017-04-30,Q20a,benefit_at_exit_for_leavers,1
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2017-05-01,2017-05-31,Q20a,benefit_at_start,118
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2017-05-01,2017-05-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,21
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2017-05-01,2017-05-31,Q20a,benefit_at_exit_for_leavers,22
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2017-05-01,2017-05-31,Q20a,benefit_at_start,9
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2017-05-01,2017-05-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2017-05-01,2017-05-31,Q20a,benefit_at_exit_for_leavers,0
+TANF Child Care Services,all_persons,2017-05-01,2017-05-31,Q20a,benefit_at_start,2
+TANF Child Care Services,all_persons,2017-05-01,2017-05-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2017-05-01,2017-05-31,Q20a,benefit_at_exit_for_leavers,0
+TANF Transportation Services,all_persons,2017-05-01,2017-05-31,Q20a,benefit_at_start,1
+TANF Transportation Services,all_persons,2017-05-01,2017-05-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2017-05-01,2017-05-31,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2017-05-01,2017-05-31,Q20a,benefit_at_start,1
+Other TANF-Funded Services,all_persons,2017-05-01,2017-05-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2017-05-01,2017-05-31,Q20a,benefit_at_exit_for_leavers,0
+Other Source,all_persons,2017-05-01,2017-05-31,Q20a,benefit_at_start,7
+Other Source,all_persons,2017-05-01,2017-05-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,12
+Other Source,all_persons,2017-05-01,2017-05-31,Q20a,benefit_at_exit_for_leavers,1
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2017-06-01,2017-06-30,Q20a,benefit_at_start,121
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2017-06-01,2017-06-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,22
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2017-06-01,2017-06-30,Q20a,benefit_at_exit_for_leavers,11
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2017-06-01,2017-06-30,Q20a,benefit_at_start,14
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2017-06-01,2017-06-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2017-06-01,2017-06-30,Q20a,benefit_at_exit_for_leavers,2
+TANF Child Care Services,all_persons,2017-06-01,2017-06-30,Q20a,benefit_at_start,2
+TANF Child Care Services,all_persons,2017-06-01,2017-06-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2017-06-01,2017-06-30,Q20a,benefit_at_exit_for_leavers,0
+TANF Transportation Services,all_persons,2017-06-01,2017-06-30,Q20a,benefit_at_start,1
+TANF Transportation Services,all_persons,2017-06-01,2017-06-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2017-06-01,2017-06-30,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2017-06-01,2017-06-30,Q20a,benefit_at_start,1
+Other TANF-Funded Services,all_persons,2017-06-01,2017-06-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2017-06-01,2017-06-30,Q20a,benefit_at_exit_for_leavers,0
+Other Source,all_persons,2017-06-01,2017-06-30,Q20a,benefit_at_start,7
+Other Source,all_persons,2017-06-01,2017-06-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,12
+Other Source,all_persons,2017-06-01,2017-06-30,Q20a,benefit_at_exit_for_leavers,0
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2017-07-01,2017-07-31,Q20a,benefit_at_start,138
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2017-07-01,2017-07-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,20
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2017-07-01,2017-07-31,Q20a,benefit_at_exit_for_leavers,24
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2017-07-01,2017-07-31,Q20a,benefit_at_start,19
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2017-07-01,2017-07-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2017-07-01,2017-07-31,Q20a,benefit_at_exit_for_leavers,4
+TANF Child Care Services,all_persons,2017-07-01,2017-07-31,Q20a,benefit_at_start,2
+TANF Child Care Services,all_persons,2017-07-01,2017-07-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2017-07-01,2017-07-31,Q20a,benefit_at_exit_for_leavers,0
+TANF Transportation Services,all_persons,2017-07-01,2017-07-31,Q20a,benefit_at_start,1
+TANF Transportation Services,all_persons,2017-07-01,2017-07-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2017-07-01,2017-07-31,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2017-07-01,2017-07-31,Q20a,benefit_at_start,1
+Other TANF-Funded Services,all_persons,2017-07-01,2017-07-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2017-07-01,2017-07-31,Q20a,benefit_at_exit_for_leavers,0
+Other Source,all_persons,2017-07-01,2017-07-31,Q20a,benefit_at_start,7
+Other Source,all_persons,2017-07-01,2017-07-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,11
+Other Source,all_persons,2017-07-01,2017-07-31,Q20a,benefit_at_exit_for_leavers,0
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2017-08-01,2017-08-31,Q20a,benefit_at_start,142
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2017-08-01,2017-08-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,20
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2017-08-01,2017-08-31,Q20a,benefit_at_exit_for_leavers,42
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2017-08-01,2017-08-31,Q20a,benefit_at_start,17
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2017-08-01,2017-08-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2017-08-01,2017-08-31,Q20a,benefit_at_exit_for_leavers,8
+TANF Child Care Services,all_persons,2017-08-01,2017-08-31,Q20a,benefit_at_start,2
+TANF Child Care Services,all_persons,2017-08-01,2017-08-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2017-08-01,2017-08-31,Q20a,benefit_at_exit_for_leavers,1
+TANF Transportation Services,all_persons,2017-08-01,2017-08-31,Q20a,benefit_at_start,1
+TANF Transportation Services,all_persons,2017-08-01,2017-08-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2017-08-01,2017-08-31,Q20a,benefit_at_exit_for_leavers,1
+Other TANF-Funded Services,all_persons,2017-08-01,2017-08-31,Q20a,benefit_at_start,1
+Other TANF-Funded Services,all_persons,2017-08-01,2017-08-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2017-08-01,2017-08-31,Q20a,benefit_at_exit_for_leavers,1
+Other Source,all_persons,2017-08-01,2017-08-31,Q20a,benefit_at_start,7
+Other Source,all_persons,2017-08-01,2017-08-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,10
+Other Source,all_persons,2017-08-01,2017-08-31,Q20a,benefit_at_exit_for_leavers,2
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2017-09-01,2017-09-30,Q20a,benefit_at_start,117
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2017-09-01,2017-09-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,20
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2017-09-01,2017-09-30,Q20a,benefit_at_exit_for_leavers,38
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2017-09-01,2017-09-30,Q20a,benefit_at_start,10
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2017-09-01,2017-09-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2017-09-01,2017-09-30,Q20a,benefit_at_exit_for_leavers,5
+TANF Child Care Services,all_persons,2017-09-01,2017-09-30,Q20a,benefit_at_start,1
+TANF Child Care Services,all_persons,2017-09-01,2017-09-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2017-09-01,2017-09-30,Q20a,benefit_at_exit_for_leavers,0
+TANF Transportation Services,all_persons,2017-09-01,2017-09-30,Q20a,benefit_at_start,0
+TANF Transportation Services,all_persons,2017-09-01,2017-09-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2017-09-01,2017-09-30,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2017-09-01,2017-09-30,Q20a,benefit_at_start,1
+Other TANF-Funded Services,all_persons,2017-09-01,2017-09-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2017-09-01,2017-09-30,Q20a,benefit_at_exit_for_leavers,0
+Other Source,all_persons,2017-09-01,2017-09-30,Q20a,benefit_at_start,6
+Other Source,all_persons,2017-09-01,2017-09-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,10
+Other Source,all_persons,2017-09-01,2017-09-30,Q20a,benefit_at_exit_for_leavers,1
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2017-10-01,2017-10-31,Q20a,benefit_at_start,104
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2017-10-01,2017-10-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,20
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2017-10-01,2017-10-31,Q20a,benefit_at_exit_for_leavers,21
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2017-10-01,2017-10-31,Q20a,benefit_at_start,5
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2017-10-01,2017-10-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2017-10-01,2017-10-31,Q20a,benefit_at_exit_for_leavers,2
+TANF Child Care Services,all_persons,2017-10-01,2017-10-31,Q20a,benefit_at_start,1
+TANF Child Care Services,all_persons,2017-10-01,2017-10-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2017-10-01,2017-10-31,Q20a,benefit_at_exit_for_leavers,0
+TANF Transportation Services,all_persons,2017-10-01,2017-10-31,Q20a,benefit_at_start,0
+TANF Transportation Services,all_persons,2017-10-01,2017-10-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2017-10-01,2017-10-31,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2017-10-01,2017-10-31,Q20a,benefit_at_start,1
+Other TANF-Funded Services,all_persons,2017-10-01,2017-10-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2017-10-01,2017-10-31,Q20a,benefit_at_exit_for_leavers,1
+Other Source,all_persons,2017-10-01,2017-10-31,Q20a,benefit_at_start,6
+Other Source,all_persons,2017-10-01,2017-10-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,10
+Other Source,all_persons,2017-10-01,2017-10-31,Q20a,benefit_at_exit_for_leavers,1
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2017-11-01,2017-11-30,Q20a,benefit_at_start,126
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2017-11-01,2017-11-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,19
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2017-11-01,2017-11-30,Q20a,benefit_at_exit_for_leavers,34
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2017-11-01,2017-11-30,Q20a,benefit_at_start,3
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2017-11-01,2017-11-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2017-11-01,2017-11-30,Q20a,benefit_at_exit_for_leavers,1
+TANF Child Care Services,all_persons,2017-11-01,2017-11-30,Q20a,benefit_at_start,1
+TANF Child Care Services,all_persons,2017-11-01,2017-11-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2017-11-01,2017-11-30,Q20a,benefit_at_exit_for_leavers,0
+TANF Transportation Services,all_persons,2017-11-01,2017-11-30,Q20a,benefit_at_start,0
+TANF Transportation Services,all_persons,2017-11-01,2017-11-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2017-11-01,2017-11-30,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2017-11-01,2017-11-30,Q20a,benefit_at_start,0
+Other TANF-Funded Services,all_persons,2017-11-01,2017-11-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2017-11-01,2017-11-30,Q20a,benefit_at_exit_for_leavers,0
+Other Source,all_persons,2017-11-01,2017-11-30,Q20a,benefit_at_start,6
+Other Source,all_persons,2017-11-01,2017-11-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,10
+Other Source,all_persons,2017-11-01,2017-11-30,Q20a,benefit_at_exit_for_leavers,0
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2017-12-01,2017-12-31,Q20a,benefit_at_start,125
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2017-12-01,2017-12-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,19
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2017-12-01,2017-12-31,Q20a,benefit_at_exit_for_leavers,31
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2017-12-01,2017-12-31,Q20a,benefit_at_start,3
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2017-12-01,2017-12-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2017-12-01,2017-12-31,Q20a,benefit_at_exit_for_leavers,1
+TANF Child Care Services,all_persons,2017-12-01,2017-12-31,Q20a,benefit_at_start,2
+TANF Child Care Services,all_persons,2017-12-01,2017-12-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2017-12-01,2017-12-31,Q20a,benefit_at_exit_for_leavers,0
+TANF Transportation Services,all_persons,2017-12-01,2017-12-31,Q20a,benefit_at_start,0
+TANF Transportation Services,all_persons,2017-12-01,2017-12-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2017-12-01,2017-12-31,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2017-12-01,2017-12-31,Q20a,benefit_at_start,0
+Other TANF-Funded Services,all_persons,2017-12-01,2017-12-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2017-12-01,2017-12-31,Q20a,benefit_at_exit_for_leavers,0
+Other Source,all_persons,2017-12-01,2017-12-31,Q20a,benefit_at_start,6
+Other Source,all_persons,2017-12-01,2017-12-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,10
+Other Source,all_persons,2017-12-01,2017-12-31,Q20a,benefit_at_exit_for_leavers,1
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2018-01-01,2018-01-31,Q20a,benefit_at_start,132
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2018-01-01,2018-01-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,19
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2018-01-01,2018-01-31,Q20a,benefit_at_exit_for_leavers,31
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2018-01-01,2018-01-31,Q20a,benefit_at_start,6
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2018-01-01,2018-01-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2018-01-01,2018-01-31,Q20a,benefit_at_exit_for_leavers,3
+TANF Child Care Services,all_persons,2018-01-01,2018-01-31,Q20a,benefit_at_start,3
+TANF Child Care Services,all_persons,2018-01-01,2018-01-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2018-01-01,2018-01-31,Q20a,benefit_at_exit_for_leavers,0
+TANF Transportation Services,all_persons,2018-01-01,2018-01-31,Q20a,benefit_at_start,0
+TANF Transportation Services,all_persons,2018-01-01,2018-01-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2018-01-01,2018-01-31,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2018-01-01,2018-01-31,Q20a,benefit_at_start,0
+Other TANF-Funded Services,all_persons,2018-01-01,2018-01-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2018-01-01,2018-01-31,Q20a,benefit_at_exit_for_leavers,0
+Other Source,all_persons,2018-01-01,2018-01-31,Q20a,benefit_at_start,6
+Other Source,all_persons,2018-01-01,2018-01-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,11
+Other Source,all_persons,2018-01-01,2018-01-31,Q20a,benefit_at_exit_for_leavers,0
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2018-02-01,2018-02-28,Q20a,benefit_at_start,137
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2018-02-01,2018-02-28,Q20a,benefit_at_latest_annual_assessment_for_stayers,20
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2018-02-01,2018-02-28,Q20a,benefit_at_exit_for_leavers,29
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2018-02-01,2018-02-28,Q20a,benefit_at_start,7
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2018-02-01,2018-02-28,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2018-02-01,2018-02-28,Q20a,benefit_at_exit_for_leavers,0
+TANF Child Care Services,all_persons,2018-02-01,2018-02-28,Q20a,benefit_at_start,4
+TANF Child Care Services,all_persons,2018-02-01,2018-02-28,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2018-02-01,2018-02-28,Q20a,benefit_at_exit_for_leavers,2
+TANF Transportation Services,all_persons,2018-02-01,2018-02-28,Q20a,benefit_at_start,0
+TANF Transportation Services,all_persons,2018-02-01,2018-02-28,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2018-02-01,2018-02-28,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2018-02-01,2018-02-28,Q20a,benefit_at_start,1
+Other TANF-Funded Services,all_persons,2018-02-01,2018-02-28,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2018-02-01,2018-02-28,Q20a,benefit_at_exit_for_leavers,0
+Other Source,all_persons,2018-02-01,2018-02-28,Q20a,benefit_at_start,6
+Other Source,all_persons,2018-02-01,2018-02-28,Q20a,benefit_at_latest_annual_assessment_for_stayers,11
+Other Source,all_persons,2018-02-01,2018-02-28,Q20a,benefit_at_exit_for_leavers,0
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2018-03-01,2018-03-31,Q20a,benefit_at_start,136
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2018-03-01,2018-03-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,21
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2018-03-01,2018-03-31,Q20a,benefit_at_exit_for_leavers,43
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2018-03-01,2018-03-31,Q20a,benefit_at_start,7
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2018-03-01,2018-03-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2018-03-01,2018-03-31,Q20a,benefit_at_exit_for_leavers,2
+TANF Child Care Services,all_persons,2018-03-01,2018-03-31,Q20a,benefit_at_start,2
+TANF Child Care Services,all_persons,2018-03-01,2018-03-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2018-03-01,2018-03-31,Q20a,benefit_at_exit_for_leavers,0
+TANF Transportation Services,all_persons,2018-03-01,2018-03-31,Q20a,benefit_at_start,0
+TANF Transportation Services,all_persons,2018-03-01,2018-03-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2018-03-01,2018-03-31,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2018-03-01,2018-03-31,Q20a,benefit_at_start,1
+Other TANF-Funded Services,all_persons,2018-03-01,2018-03-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2018-03-01,2018-03-31,Q20a,benefit_at_exit_for_leavers,1
+Other Source,all_persons,2018-03-01,2018-03-31,Q20a,benefit_at_start,6
+Other Source,all_persons,2018-03-01,2018-03-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,11
+Other Source,all_persons,2018-03-01,2018-03-31,Q20a,benefit_at_exit_for_leavers,0
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2018-04-01,2018-04-30,Q20a,benefit_at_start,118
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2018-04-01,2018-04-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,22
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2018-04-01,2018-04-30,Q20a,benefit_at_exit_for_leavers,23
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2018-04-01,2018-04-30,Q20a,benefit_at_start,6
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2018-04-01,2018-04-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2018-04-01,2018-04-30,Q20a,benefit_at_exit_for_leavers,0
+TANF Child Care Services,all_persons,2018-04-01,2018-04-30,Q20a,benefit_at_start,2
+TANF Child Care Services,all_persons,2018-04-01,2018-04-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2018-04-01,2018-04-30,Q20a,benefit_at_exit_for_leavers,0
+TANF Transportation Services,all_persons,2018-04-01,2018-04-30,Q20a,benefit_at_start,0
+TANF Transportation Services,all_persons,2018-04-01,2018-04-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2018-04-01,2018-04-30,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2018-04-01,2018-04-30,Q20a,benefit_at_start,0
+Other TANF-Funded Services,all_persons,2018-04-01,2018-04-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2018-04-01,2018-04-30,Q20a,benefit_at_exit_for_leavers,0
+Other Source,all_persons,2018-04-01,2018-04-30,Q20a,benefit_at_start,8
+Other Source,all_persons,2018-04-01,2018-04-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,11
+Other Source,all_persons,2018-04-01,2018-04-30,Q20a,benefit_at_exit_for_leavers,0
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2018-05-01,2018-05-31,Q20a,benefit_at_start,142
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2018-05-01,2018-05-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,23
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2018-05-01,2018-05-31,Q20a,benefit_at_exit_for_leavers,32
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2018-05-01,2018-05-31,Q20a,benefit_at_start,12
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2018-05-01,2018-05-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2018-05-01,2018-05-31,Q20a,benefit_at_exit_for_leavers,3
+TANF Child Care Services,all_persons,2018-05-01,2018-05-31,Q20a,benefit_at_start,2
+TANF Child Care Services,all_persons,2018-05-01,2018-05-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2018-05-01,2018-05-31,Q20a,benefit_at_exit_for_leavers,0
+TANF Transportation Services,all_persons,2018-05-01,2018-05-31,Q20a,benefit_at_start,0
+TANF Transportation Services,all_persons,2018-05-01,2018-05-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2018-05-01,2018-05-31,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2018-05-01,2018-05-31,Q20a,benefit_at_start,0
+Other TANF-Funded Services,all_persons,2018-05-01,2018-05-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2018-05-01,2018-05-31,Q20a,benefit_at_exit_for_leavers,0
+Other Source,all_persons,2018-05-01,2018-05-31,Q20a,benefit_at_start,8
+Other Source,all_persons,2018-05-01,2018-05-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,11
+Other Source,all_persons,2018-05-01,2018-05-31,Q20a,benefit_at_exit_for_leavers,2
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2018-06-01,2018-06-30,Q20a,benefit_at_start,138
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2018-06-01,2018-06-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,24
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2018-06-01,2018-06-30,Q20a,benefit_at_exit_for_leavers,35
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2018-06-01,2018-06-30,Q20a,benefit_at_start,10
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2018-06-01,2018-06-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,1
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2018-06-01,2018-06-30,Q20a,benefit_at_exit_for_leavers,2
+TANF Child Care Services,all_persons,2018-06-01,2018-06-30,Q20a,benefit_at_start,3
+TANF Child Care Services,all_persons,2018-06-01,2018-06-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2018-06-01,2018-06-30,Q20a,benefit_at_exit_for_leavers,2
+TANF Transportation Services,all_persons,2018-06-01,2018-06-30,Q20a,benefit_at_start,0
+TANF Transportation Services,all_persons,2018-06-01,2018-06-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2018-06-01,2018-06-30,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2018-06-01,2018-06-30,Q20a,benefit_at_start,0
+Other TANF-Funded Services,all_persons,2018-06-01,2018-06-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2018-06-01,2018-06-30,Q20a,benefit_at_exit_for_leavers,0
+Other Source,all_persons,2018-06-01,2018-06-30,Q20a,benefit_at_start,6
+Other Source,all_persons,2018-06-01,2018-06-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,11
+Other Source,all_persons,2018-06-01,2018-06-30,Q20a,benefit_at_exit_for_leavers,1
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2018-07-01,2018-07-31,Q20a,benefit_at_start,135
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2018-07-01,2018-07-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,24
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2018-07-01,2018-07-31,Q20a,benefit_at_exit_for_leavers,15
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2018-07-01,2018-07-31,Q20a,benefit_at_start,12
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2018-07-01,2018-07-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,1
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2018-07-01,2018-07-31,Q20a,benefit_at_exit_for_leavers,1
+TANF Child Care Services,all_persons,2018-07-01,2018-07-31,Q20a,benefit_at_start,0
+TANF Child Care Services,all_persons,2018-07-01,2018-07-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2018-07-01,2018-07-31,Q20a,benefit_at_exit_for_leavers,0
+TANF Transportation Services,all_persons,2018-07-01,2018-07-31,Q20a,benefit_at_start,0
+TANF Transportation Services,all_persons,2018-07-01,2018-07-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2018-07-01,2018-07-31,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2018-07-01,2018-07-31,Q20a,benefit_at_start,1
+Other TANF-Funded Services,all_persons,2018-07-01,2018-07-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2018-07-01,2018-07-31,Q20a,benefit_at_exit_for_leavers,0
+Other Source,all_persons,2018-07-01,2018-07-31,Q20a,benefit_at_start,5
+Other Source,all_persons,2018-07-01,2018-07-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,11
+Other Source,all_persons,2018-07-01,2018-07-31,Q20a,benefit_at_exit_for_leavers,0
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2018-08-01,2018-08-31,Q20a,benefit_at_start,141
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2018-08-01,2018-08-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,25
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2018-08-01,2018-08-31,Q20a,benefit_at_exit_for_leavers,28
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2018-08-01,2018-08-31,Q20a,benefit_at_start,13
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2018-08-01,2018-08-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,1
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2018-08-01,2018-08-31,Q20a,benefit_at_exit_for_leavers,2
+TANF Child Care Services,all_persons,2018-08-01,2018-08-31,Q20a,benefit_at_start,0
+TANF Child Care Services,all_persons,2018-08-01,2018-08-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2018-08-01,2018-08-31,Q20a,benefit_at_exit_for_leavers,0
+TANF Transportation Services,all_persons,2018-08-01,2018-08-31,Q20a,benefit_at_start,0
+TANF Transportation Services,all_persons,2018-08-01,2018-08-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2018-08-01,2018-08-31,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2018-08-01,2018-08-31,Q20a,benefit_at_start,1
+Other TANF-Funded Services,all_persons,2018-08-01,2018-08-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2018-08-01,2018-08-31,Q20a,benefit_at_exit_for_leavers,0
+Other Source,all_persons,2018-08-01,2018-08-31,Q20a,benefit_at_start,5
+Other Source,all_persons,2018-08-01,2018-08-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,11
+Other Source,all_persons,2018-08-01,2018-08-31,Q20a,benefit_at_exit_for_leavers,0
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2018-09-01,2018-09-30,Q20a,benefit_at_start,146
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2018-09-01,2018-09-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,26
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2018-09-01,2018-09-30,Q20a,benefit_at_exit_for_leavers,24
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2018-09-01,2018-09-30,Q20a,benefit_at_start,14
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2018-09-01,2018-09-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,1
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2018-09-01,2018-09-30,Q20a,benefit_at_exit_for_leavers,4
+TANF Child Care Services,all_persons,2018-09-01,2018-09-30,Q20a,benefit_at_start,1
+TANF Child Care Services,all_persons,2018-09-01,2018-09-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2018-09-01,2018-09-30,Q20a,benefit_at_exit_for_leavers,0
+TANF Transportation Services,all_persons,2018-09-01,2018-09-30,Q20a,benefit_at_start,0
+TANF Transportation Services,all_persons,2018-09-01,2018-09-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2018-09-01,2018-09-30,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2018-09-01,2018-09-30,Q20a,benefit_at_start,1
+Other TANF-Funded Services,all_persons,2018-09-01,2018-09-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2018-09-01,2018-09-30,Q20a,benefit_at_exit_for_leavers,0
+Other Source,all_persons,2018-09-01,2018-09-30,Q20a,benefit_at_start,5
+Other Source,all_persons,2018-09-01,2018-09-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,10
+Other Source,all_persons,2018-09-01,2018-09-30,Q20a,benefit_at_exit_for_leavers,0
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2018-10-01,2018-10-31,Q20a,benefit_at_start,158
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2018-10-01,2018-10-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,26
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2018-10-01,2018-10-31,Q20a,benefit_at_exit_for_leavers,33
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2018-10-01,2018-10-31,Q20a,benefit_at_start,15
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2018-10-01,2018-10-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2018-10-01,2018-10-31,Q20a,benefit_at_exit_for_leavers,2
+TANF Child Care Services,all_persons,2018-10-01,2018-10-31,Q20a,benefit_at_start,2
+TANF Child Care Services,all_persons,2018-10-01,2018-10-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2018-10-01,2018-10-31,Q20a,benefit_at_exit_for_leavers,0
+TANF Transportation Services,all_persons,2018-10-01,2018-10-31,Q20a,benefit_at_start,0
+TANF Transportation Services,all_persons,2018-10-01,2018-10-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2018-10-01,2018-10-31,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2018-10-01,2018-10-31,Q20a,benefit_at_start,1
+Other TANF-Funded Services,all_persons,2018-10-01,2018-10-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2018-10-01,2018-10-31,Q20a,benefit_at_exit_for_leavers,0
+Other Source,all_persons,2018-10-01,2018-10-31,Q20a,benefit_at_start,5
+Other Source,all_persons,2018-10-01,2018-10-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,11
+Other Source,all_persons,2018-10-01,2018-10-31,Q20a,benefit_at_exit_for_leavers,0
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2018-11-01,2018-11-30,Q20a,benefit_at_start,163
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2018-11-01,2018-11-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,25
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2018-11-01,2018-11-30,Q20a,benefit_at_exit_for_leavers,34
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2018-11-01,2018-11-30,Q20a,benefit_at_start,15
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2018-11-01,2018-11-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2018-11-01,2018-11-30,Q20a,benefit_at_exit_for_leavers,3
+TANF Child Care Services,all_persons,2018-11-01,2018-11-30,Q20a,benefit_at_start,2
+TANF Child Care Services,all_persons,2018-11-01,2018-11-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2018-11-01,2018-11-30,Q20a,benefit_at_exit_for_leavers,0
+TANF Transportation Services,all_persons,2018-11-01,2018-11-30,Q20a,benefit_at_start,0
+TANF Transportation Services,all_persons,2018-11-01,2018-11-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2018-11-01,2018-11-30,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2018-11-01,2018-11-30,Q20a,benefit_at_start,1
+Other TANF-Funded Services,all_persons,2018-11-01,2018-11-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2018-11-01,2018-11-30,Q20a,benefit_at_exit_for_leavers,1
+Other Source,all_persons,2018-11-01,2018-11-30,Q20a,benefit_at_start,5
+Other Source,all_persons,2018-11-01,2018-11-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,11
+Other Source,all_persons,2018-11-01,2018-11-30,Q20a,benefit_at_exit_for_leavers,0
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2018-12-01,2018-12-31,Q20a,benefit_at_start,191
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2018-12-01,2018-12-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,26
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2018-12-01,2018-12-31,Q20a,benefit_at_exit_for_leavers,65
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2018-12-01,2018-12-31,Q20a,benefit_at_start,17
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2018-12-01,2018-12-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2018-12-01,2018-12-31,Q20a,benefit_at_exit_for_leavers,4
+TANF Child Care Services,all_persons,2018-12-01,2018-12-31,Q20a,benefit_at_start,3
+TANF Child Care Services,all_persons,2018-12-01,2018-12-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2018-12-01,2018-12-31,Q20a,benefit_at_exit_for_leavers,0
+TANF Transportation Services,all_persons,2018-12-01,2018-12-31,Q20a,benefit_at_start,0
+TANF Transportation Services,all_persons,2018-12-01,2018-12-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2018-12-01,2018-12-31,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2018-12-01,2018-12-31,Q20a,benefit_at_start,1
+Other TANF-Funded Services,all_persons,2018-12-01,2018-12-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2018-12-01,2018-12-31,Q20a,benefit_at_exit_for_leavers,1
+Other Source,all_persons,2018-12-01,2018-12-31,Q20a,benefit_at_start,6
+Other Source,all_persons,2018-12-01,2018-12-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,11
+Other Source,all_persons,2018-12-01,2018-12-31,Q20a,benefit_at_exit_for_leavers,0
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2019-01-01,2019-01-31,Q20a,benefit_at_start,238
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2019-01-01,2019-01-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,25
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2019-01-01,2019-01-31,Q20a,benefit_at_exit_for_leavers,84
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2019-01-01,2019-01-31,Q20a,benefit_at_start,17
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2019-01-01,2019-01-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2019-01-01,2019-01-31,Q20a,benefit_at_exit_for_leavers,7
+TANF Child Care Services,all_persons,2019-01-01,2019-01-31,Q20a,benefit_at_start,5
+TANF Child Care Services,all_persons,2019-01-01,2019-01-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2019-01-01,2019-01-31,Q20a,benefit_at_exit_for_leavers,2
+TANF Transportation Services,all_persons,2019-01-01,2019-01-31,Q20a,benefit_at_start,0
+TANF Transportation Services,all_persons,2019-01-01,2019-01-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2019-01-01,2019-01-31,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2019-01-01,2019-01-31,Q20a,benefit_at_start,4
+Other TANF-Funded Services,all_persons,2019-01-01,2019-01-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2019-01-01,2019-01-31,Q20a,benefit_at_exit_for_leavers,3
+Other Source,all_persons,2019-01-01,2019-01-31,Q20a,benefit_at_start,7
+Other Source,all_persons,2019-01-01,2019-01-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,10
+Other Source,all_persons,2019-01-01,2019-01-31,Q20a,benefit_at_exit_for_leavers,0
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2019-02-01,2019-02-28,Q20a,benefit_at_start,242
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2019-02-01,2019-02-28,Q20a,benefit_at_latest_annual_assessment_for_stayers,28
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2019-02-01,2019-02-28,Q20a,benefit_at_exit_for_leavers,97
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2019-02-01,2019-02-28,Q20a,benefit_at_start,16
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2019-02-01,2019-02-28,Q20a,benefit_at_latest_annual_assessment_for_stayers,1
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2019-02-01,2019-02-28,Q20a,benefit_at_exit_for_leavers,8
+TANF Child Care Services,all_persons,2019-02-01,2019-02-28,Q20a,benefit_at_start,4
+TANF Child Care Services,all_persons,2019-02-01,2019-02-28,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2019-02-01,2019-02-28,Q20a,benefit_at_exit_for_leavers,0
+TANF Transportation Services,all_persons,2019-02-01,2019-02-28,Q20a,benefit_at_start,0
+TANF Transportation Services,all_persons,2019-02-01,2019-02-28,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2019-02-01,2019-02-28,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2019-02-01,2019-02-28,Q20a,benefit_at_start,5
+Other TANF-Funded Services,all_persons,2019-02-01,2019-02-28,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2019-02-01,2019-02-28,Q20a,benefit_at_exit_for_leavers,3
+Other Source,all_persons,2019-02-01,2019-02-28,Q20a,benefit_at_start,10
+Other Source,all_persons,2019-02-01,2019-02-28,Q20a,benefit_at_latest_annual_assessment_for_stayers,11
+Other Source,all_persons,2019-02-01,2019-02-28,Q20a,benefit_at_exit_for_leavers,2
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2019-03-01,2019-03-31,Q20a,benefit_at_start,224
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2019-03-01,2019-03-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,28
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2019-03-01,2019-03-31,Q20a,benefit_at_exit_for_leavers,83
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2019-03-01,2019-03-31,Q20a,benefit_at_start,12
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2019-03-01,2019-03-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,1
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2019-03-01,2019-03-31,Q20a,benefit_at_exit_for_leavers,5
+TANF Child Care Services,all_persons,2019-03-01,2019-03-31,Q20a,benefit_at_start,6
+TANF Child Care Services,all_persons,2019-03-01,2019-03-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2019-03-01,2019-03-31,Q20a,benefit_at_exit_for_leavers,2
+TANF Transportation Services,all_persons,2019-03-01,2019-03-31,Q20a,benefit_at_start,1
+TANF Transportation Services,all_persons,2019-03-01,2019-03-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2019-03-01,2019-03-31,Q20a,benefit_at_exit_for_leavers,1
+Other TANF-Funded Services,all_persons,2019-03-01,2019-03-31,Q20a,benefit_at_start,5
+Other TANF-Funded Services,all_persons,2019-03-01,2019-03-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2019-03-01,2019-03-31,Q20a,benefit_at_exit_for_leavers,1
+Other Source,all_persons,2019-03-01,2019-03-31,Q20a,benefit_at_start,10
+Other Source,all_persons,2019-03-01,2019-03-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,12
+Other Source,all_persons,2019-03-01,2019-03-31,Q20a,benefit_at_exit_for_leavers,3
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2019-04-01,2019-04-30,Q20a,benefit_at_start,232
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2019-04-01,2019-04-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,27
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2019-04-01,2019-04-30,Q20a,benefit_at_exit_for_leavers,103
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2019-04-01,2019-04-30,Q20a,benefit_at_start,10
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2019-04-01,2019-04-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,1
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2019-04-01,2019-04-30,Q20a,benefit_at_exit_for_leavers,3
+TANF Child Care Services,all_persons,2019-04-01,2019-04-30,Q20a,benefit_at_start,5
+TANF Child Care Services,all_persons,2019-04-01,2019-04-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2019-04-01,2019-04-30,Q20a,benefit_at_exit_for_leavers,2
+TANF Transportation Services,all_persons,2019-04-01,2019-04-30,Q20a,benefit_at_start,1
+TANF Transportation Services,all_persons,2019-04-01,2019-04-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2019-04-01,2019-04-30,Q20a,benefit_at_exit_for_leavers,1
+Other TANF-Funded Services,all_persons,2019-04-01,2019-04-30,Q20a,benefit_at_start,8
+Other TANF-Funded Services,all_persons,2019-04-01,2019-04-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2019-04-01,2019-04-30,Q20a,benefit_at_exit_for_leavers,5
+Other Source,all_persons,2019-04-01,2019-04-30,Q20a,benefit_at_start,11
+Other Source,all_persons,2019-04-01,2019-04-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,11
+Other Source,all_persons,2019-04-01,2019-04-30,Q20a,benefit_at_exit_for_leavers,4
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2019-05-01,2019-05-31,Q20a,benefit_at_start,202
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2019-05-01,2019-05-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,30
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2019-05-01,2019-05-31,Q20a,benefit_at_exit_for_leavers,55
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2019-05-01,2019-05-31,Q20a,benefit_at_start,18
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2019-05-01,2019-05-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,1
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2019-05-01,2019-05-31,Q20a,benefit_at_exit_for_leavers,4
+TANF Child Care Services,all_persons,2019-05-01,2019-05-31,Q20a,benefit_at_start,3
+TANF Child Care Services,all_persons,2019-05-01,2019-05-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2019-05-01,2019-05-31,Q20a,benefit_at_exit_for_leavers,0
+TANF Transportation Services,all_persons,2019-05-01,2019-05-31,Q20a,benefit_at_start,0
+TANF Transportation Services,all_persons,2019-05-01,2019-05-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2019-05-01,2019-05-31,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2019-05-01,2019-05-31,Q20a,benefit_at_start,6
+Other TANF-Funded Services,all_persons,2019-05-01,2019-05-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2019-05-01,2019-05-31,Q20a,benefit_at_exit_for_leavers,4
+Other Source,all_persons,2019-05-01,2019-05-31,Q20a,benefit_at_start,8
+Other Source,all_persons,2019-05-01,2019-05-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,11
+Other Source,all_persons,2019-05-01,2019-05-31,Q20a,benefit_at_exit_for_leavers,0
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2019-06-01,2019-06-30,Q20a,benefit_at_start,204
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2019-06-01,2019-06-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,32
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2019-06-01,2019-06-30,Q20a,benefit_at_exit_for_leavers,62
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2019-06-01,2019-06-30,Q20a,benefit_at_start,21
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2019-06-01,2019-06-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,1
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2019-06-01,2019-06-30,Q20a,benefit_at_exit_for_leavers,10
+TANF Child Care Services,all_persons,2019-06-01,2019-06-30,Q20a,benefit_at_start,3
+TANF Child Care Services,all_persons,2019-06-01,2019-06-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2019-06-01,2019-06-30,Q20a,benefit_at_exit_for_leavers,0
+TANF Transportation Services,all_persons,2019-06-01,2019-06-30,Q20a,benefit_at_start,0
+TANF Transportation Services,all_persons,2019-06-01,2019-06-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2019-06-01,2019-06-30,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2019-06-01,2019-06-30,Q20a,benefit_at_start,3
+Other TANF-Funded Services,all_persons,2019-06-01,2019-06-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2019-06-01,2019-06-30,Q20a,benefit_at_exit_for_leavers,2
+Other Source,all_persons,2019-06-01,2019-06-30,Q20a,benefit_at_start,8
+Other Source,all_persons,2019-06-01,2019-06-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,12
+Other Source,all_persons,2019-06-01,2019-06-30,Q20a,benefit_at_exit_for_leavers,2
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2019-07-01,2019-07-31,Q20a,benefit_at_start,220
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2019-07-01,2019-07-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,32
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2019-07-01,2019-07-31,Q20a,benefit_at_exit_for_leavers,74
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2019-07-01,2019-07-31,Q20a,benefit_at_start,19
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2019-07-01,2019-07-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,1
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2019-07-01,2019-07-31,Q20a,benefit_at_exit_for_leavers,6
+TANF Child Care Services,all_persons,2019-07-01,2019-07-31,Q20a,benefit_at_start,4
+TANF Child Care Services,all_persons,2019-07-01,2019-07-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2019-07-01,2019-07-31,Q20a,benefit_at_exit_for_leavers,1
+TANF Transportation Services,all_persons,2019-07-01,2019-07-31,Q20a,benefit_at_start,0
+TANF Transportation Services,all_persons,2019-07-01,2019-07-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2019-07-01,2019-07-31,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2019-07-01,2019-07-31,Q20a,benefit_at_start,4
+Other TANF-Funded Services,all_persons,2019-07-01,2019-07-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2019-07-01,2019-07-31,Q20a,benefit_at_exit_for_leavers,1
+Other Source,all_persons,2019-07-01,2019-07-31,Q20a,benefit_at_start,8
+Other Source,all_persons,2019-07-01,2019-07-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,12
+Other Source,all_persons,2019-07-01,2019-07-31,Q20a,benefit_at_exit_for_leavers,0
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2019-08-01,2019-08-31,Q20a,benefit_at_start,234
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2019-08-01,2019-08-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,32
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2019-08-01,2019-08-31,Q20a,benefit_at_exit_for_leavers,72
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2019-08-01,2019-08-31,Q20a,benefit_at_start,20
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2019-08-01,2019-08-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,1
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2019-08-01,2019-08-31,Q20a,benefit_at_exit_for_leavers,8
+TANF Child Care Services,all_persons,2019-08-01,2019-08-31,Q20a,benefit_at_start,4
+TANF Child Care Services,all_persons,2019-08-01,2019-08-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2019-08-01,2019-08-31,Q20a,benefit_at_exit_for_leavers,1
+TANF Transportation Services,all_persons,2019-08-01,2019-08-31,Q20a,benefit_at_start,0
+TANF Transportation Services,all_persons,2019-08-01,2019-08-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2019-08-01,2019-08-31,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2019-08-01,2019-08-31,Q20a,benefit_at_start,4
+Other TANF-Funded Services,all_persons,2019-08-01,2019-08-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2019-08-01,2019-08-31,Q20a,benefit_at_exit_for_leavers,1
+Other Source,all_persons,2019-08-01,2019-08-31,Q20a,benefit_at_start,8
+Other Source,all_persons,2019-08-01,2019-08-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,11
+Other Source,all_persons,2019-08-01,2019-08-31,Q20a,benefit_at_exit_for_leavers,3
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2019-09-01,2019-09-30,Q20a,benefit_at_start,240
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2019-09-01,2019-09-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,30
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2019-09-01,2019-09-30,Q20a,benefit_at_exit_for_leavers,83
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2019-09-01,2019-09-30,Q20a,benefit_at_start,21
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2019-09-01,2019-09-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,1
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2019-09-01,2019-09-30,Q20a,benefit_at_exit_for_leavers,6
+TANF Child Care Services,all_persons,2019-09-01,2019-09-30,Q20a,benefit_at_start,3
+TANF Child Care Services,all_persons,2019-09-01,2019-09-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2019-09-01,2019-09-30,Q20a,benefit_at_exit_for_leavers,0
+TANF Transportation Services,all_persons,2019-09-01,2019-09-30,Q20a,benefit_at_start,0
+TANF Transportation Services,all_persons,2019-09-01,2019-09-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2019-09-01,2019-09-30,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2019-09-01,2019-09-30,Q20a,benefit_at_start,3
+Other TANF-Funded Services,all_persons,2019-09-01,2019-09-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2019-09-01,2019-09-30,Q20a,benefit_at_exit_for_leavers,1
+Other Source,all_persons,2019-09-01,2019-09-30,Q20a,benefit_at_start,7
+Other Source,all_persons,2019-09-01,2019-09-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,10
+Other Source,all_persons,2019-09-01,2019-09-30,Q20a,benefit_at_exit_for_leavers,0
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2019-10-01,2019-10-31,Q20a,benefit_at_start,226
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2019-10-01,2019-10-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,32
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2019-10-01,2019-10-31,Q20a,benefit_at_exit_for_leavers,68
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2019-10-01,2019-10-31,Q20a,benefit_at_start,22
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2019-10-01,2019-10-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,1
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2019-10-01,2019-10-31,Q20a,benefit_at_exit_for_leavers,3
+TANF Child Care Services,all_persons,2019-10-01,2019-10-31,Q20a,benefit_at_start,3
+TANF Child Care Services,all_persons,2019-10-01,2019-10-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2019-10-01,2019-10-31,Q20a,benefit_at_exit_for_leavers,0
+TANF Transportation Services,all_persons,2019-10-01,2019-10-31,Q20a,benefit_at_start,0
+TANF Transportation Services,all_persons,2019-10-01,2019-10-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2019-10-01,2019-10-31,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2019-10-01,2019-10-31,Q20a,benefit_at_start,4
+Other TANF-Funded Services,all_persons,2019-10-01,2019-10-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2019-10-01,2019-10-31,Q20a,benefit_at_exit_for_leavers,1
+Other Source,all_persons,2019-10-01,2019-10-31,Q20a,benefit_at_start,7
+Other Source,all_persons,2019-10-01,2019-10-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,10
+Other Source,all_persons,2019-10-01,2019-10-31,Q20a,benefit_at_exit_for_leavers,1
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2019-11-01,2019-11-30,Q20a,benefit_at_start,246
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2019-11-01,2019-11-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,33
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2019-11-01,2019-11-30,Q20a,benefit_at_exit_for_leavers,74
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2019-11-01,2019-11-30,Q20a,benefit_at_start,24
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2019-11-01,2019-11-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,1
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2019-11-01,2019-11-30,Q20a,benefit_at_exit_for_leavers,5
+TANF Child Care Services,all_persons,2019-11-01,2019-11-30,Q20a,benefit_at_start,6
+TANF Child Care Services,all_persons,2019-11-01,2019-11-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2019-11-01,2019-11-30,Q20a,benefit_at_exit_for_leavers,0
+TANF Transportation Services,all_persons,2019-11-01,2019-11-30,Q20a,benefit_at_start,0
+TANF Transportation Services,all_persons,2019-11-01,2019-11-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2019-11-01,2019-11-30,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2019-11-01,2019-11-30,Q20a,benefit_at_start,3
+Other TANF-Funded Services,all_persons,2019-11-01,2019-11-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2019-11-01,2019-11-30,Q20a,benefit_at_exit_for_leavers,0
+Other Source,all_persons,2019-11-01,2019-11-30,Q20a,benefit_at_start,7
+Other Source,all_persons,2019-11-01,2019-11-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,10
+Other Source,all_persons,2019-11-01,2019-11-30,Q20a,benefit_at_exit_for_leavers,1
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2019-12-01,2019-12-31,Q20a,benefit_at_start,253
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2019-12-01,2019-12-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,31
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2019-12-01,2019-12-31,Q20a,benefit_at_exit_for_leavers,75
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2019-12-01,2019-12-31,Q20a,benefit_at_start,29
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2019-12-01,2019-12-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,1
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2019-12-01,2019-12-31,Q20a,benefit_at_exit_for_leavers,5
+TANF Child Care Services,all_persons,2019-12-01,2019-12-31,Q20a,benefit_at_start,6
+TANF Child Care Services,all_persons,2019-12-01,2019-12-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2019-12-01,2019-12-31,Q20a,benefit_at_exit_for_leavers,1
+TANF Transportation Services,all_persons,2019-12-01,2019-12-31,Q20a,benefit_at_start,0
+TANF Transportation Services,all_persons,2019-12-01,2019-12-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2019-12-01,2019-12-31,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2019-12-01,2019-12-31,Q20a,benefit_at_start,6
+Other TANF-Funded Services,all_persons,2019-12-01,2019-12-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2019-12-01,2019-12-31,Q20a,benefit_at_exit_for_leavers,1
+Other Source,all_persons,2019-12-01,2019-12-31,Q20a,benefit_at_start,7
+Other Source,all_persons,2019-12-01,2019-12-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,9
+Other Source,all_persons,2019-12-01,2019-12-31,Q20a,benefit_at_exit_for_leavers,2
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2020-01-01,2020-01-31,Q20a,benefit_at_start,258
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2020-01-01,2020-01-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,29
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2020-01-01,2020-01-31,Q20a,benefit_at_exit_for_leavers,92
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2020-01-01,2020-01-31,Q20a,benefit_at_start,33
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2020-01-01,2020-01-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,1
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2020-01-01,2020-01-31,Q20a,benefit_at_exit_for_leavers,7
+TANF Child Care Services,all_persons,2020-01-01,2020-01-31,Q20a,benefit_at_start,6
+TANF Child Care Services,all_persons,2020-01-01,2020-01-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2020-01-01,2020-01-31,Q20a,benefit_at_exit_for_leavers,3
+TANF Transportation Services,all_persons,2020-01-01,2020-01-31,Q20a,benefit_at_start,0
+TANF Transportation Services,all_persons,2020-01-01,2020-01-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2020-01-01,2020-01-31,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2020-01-01,2020-01-31,Q20a,benefit_at_start,5
+Other TANF-Funded Services,all_persons,2020-01-01,2020-01-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2020-01-01,2020-01-31,Q20a,benefit_at_exit_for_leavers,0
+Other Source,all_persons,2020-01-01,2020-01-31,Q20a,benefit_at_start,6
+Other Source,all_persons,2020-01-01,2020-01-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,9
+Other Source,all_persons,2020-01-01,2020-01-31,Q20a,benefit_at_exit_for_leavers,0
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2020-02-01,2020-02-29,Q20a,benefit_at_start,245
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2020-02-01,2020-02-29,Q20a,benefit_at_latest_annual_assessment_for_stayers,30
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2020-02-01,2020-02-29,Q20a,benefit_at_exit_for_leavers,72
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2020-02-01,2020-02-29,Q20a,benefit_at_start,29
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2020-02-01,2020-02-29,Q20a,benefit_at_latest_annual_assessment_for_stayers,1
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2020-02-01,2020-02-29,Q20a,benefit_at_exit_for_leavers,10
+TANF Child Care Services,all_persons,2020-02-01,2020-02-29,Q20a,benefit_at_start,5
+TANF Child Care Services,all_persons,2020-02-01,2020-02-29,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2020-02-01,2020-02-29,Q20a,benefit_at_exit_for_leavers,2
+TANF Transportation Services,all_persons,2020-02-01,2020-02-29,Q20a,benefit_at_start,0
+TANF Transportation Services,all_persons,2020-02-01,2020-02-29,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2020-02-01,2020-02-29,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2020-02-01,2020-02-29,Q20a,benefit_at_start,6
+Other TANF-Funded Services,all_persons,2020-02-01,2020-02-29,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2020-02-01,2020-02-29,Q20a,benefit_at_exit_for_leavers,2
+Other Source,all_persons,2020-02-01,2020-02-29,Q20a,benefit_at_start,7
+Other Source,all_persons,2020-02-01,2020-02-29,Q20a,benefit_at_latest_annual_assessment_for_stayers,9
+Other Source,all_persons,2020-02-01,2020-02-29,Q20a,benefit_at_exit_for_leavers,1
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2020-03-01,2020-03-31,Q20a,benefit_at_start,232
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2020-03-01,2020-03-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,29
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2020-03-01,2020-03-31,Q20a,benefit_at_exit_for_leavers,65
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2020-03-01,2020-03-31,Q20a,benefit_at_start,17
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2020-03-01,2020-03-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,1
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2020-03-01,2020-03-31,Q20a,benefit_at_exit_for_leavers,3
+TANF Child Care Services,all_persons,2020-03-01,2020-03-31,Q20a,benefit_at_start,3
+TANF Child Care Services,all_persons,2020-03-01,2020-03-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2020-03-01,2020-03-31,Q20a,benefit_at_exit_for_leavers,0
+TANF Transportation Services,all_persons,2020-03-01,2020-03-31,Q20a,benefit_at_start,0
+TANF Transportation Services,all_persons,2020-03-01,2020-03-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2020-03-01,2020-03-31,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2020-03-01,2020-03-31,Q20a,benefit_at_start,4
+Other TANF-Funded Services,all_persons,2020-03-01,2020-03-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2020-03-01,2020-03-31,Q20a,benefit_at_exit_for_leavers,0
+Other Source,all_persons,2020-03-01,2020-03-31,Q20a,benefit_at_start,6
+Other Source,all_persons,2020-03-01,2020-03-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,9
+Other Source,all_persons,2020-03-01,2020-03-31,Q20a,benefit_at_exit_for_leavers,0
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2020-04-01,2020-04-30,Q20a,benefit_at_start,224
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2020-04-01,2020-04-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,29
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2020-04-01,2020-04-30,Q20a,benefit_at_exit_for_leavers,47
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2020-04-01,2020-04-30,Q20a,benefit_at_start,17
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2020-04-01,2020-04-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,1
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2020-04-01,2020-04-30,Q20a,benefit_at_exit_for_leavers,6
+TANF Child Care Services,all_persons,2020-04-01,2020-04-30,Q20a,benefit_at_start,3
+TANF Child Care Services,all_persons,2020-04-01,2020-04-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2020-04-01,2020-04-30,Q20a,benefit_at_exit_for_leavers,0
+TANF Transportation Services,all_persons,2020-04-01,2020-04-30,Q20a,benefit_at_start,0
+TANF Transportation Services,all_persons,2020-04-01,2020-04-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2020-04-01,2020-04-30,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2020-04-01,2020-04-30,Q20a,benefit_at_start,4
+Other TANF-Funded Services,all_persons,2020-04-01,2020-04-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2020-04-01,2020-04-30,Q20a,benefit_at_exit_for_leavers,0
+Other Source,all_persons,2020-04-01,2020-04-30,Q20a,benefit_at_start,7
+Other Source,all_persons,2020-04-01,2020-04-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,9
+Other Source,all_persons,2020-04-01,2020-04-30,Q20a,benefit_at_exit_for_leavers,1
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2020-05-01,2020-05-31,Q20a,benefit_at_start,232
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2020-05-01,2020-05-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,29
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2020-05-01,2020-05-31,Q20a,benefit_at_exit_for_leavers,50
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2020-05-01,2020-05-31,Q20a,benefit_at_start,17
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2020-05-01,2020-05-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,1
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2020-05-01,2020-05-31,Q20a,benefit_at_exit_for_leavers,5
+TANF Child Care Services,all_persons,2020-05-01,2020-05-31,Q20a,benefit_at_start,3
+TANF Child Care Services,all_persons,2020-05-01,2020-05-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2020-05-01,2020-05-31,Q20a,benefit_at_exit_for_leavers,1
+TANF Transportation Services,all_persons,2020-05-01,2020-05-31,Q20a,benefit_at_start,0
+TANF Transportation Services,all_persons,2020-05-01,2020-05-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2020-05-01,2020-05-31,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2020-05-01,2020-05-31,Q20a,benefit_at_start,5
+Other TANF-Funded Services,all_persons,2020-05-01,2020-05-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2020-05-01,2020-05-31,Q20a,benefit_at_exit_for_leavers,0
+Other Source,all_persons,2020-05-01,2020-05-31,Q20a,benefit_at_start,8
+Other Source,all_persons,2020-05-01,2020-05-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,9
+Other Source,all_persons,2020-05-01,2020-05-31,Q20a,benefit_at_exit_for_leavers,2
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2020-06-01,2020-06-30,Q20a,benefit_at_start,245
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2020-06-01,2020-06-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,29
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2020-06-01,2020-06-30,Q20a,benefit_at_exit_for_leavers,72
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2020-06-01,2020-06-30,Q20a,benefit_at_start,16
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2020-06-01,2020-06-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,1
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2020-06-01,2020-06-30,Q20a,benefit_at_exit_for_leavers,6
+TANF Child Care Services,all_persons,2020-06-01,2020-06-30,Q20a,benefit_at_start,3
+TANF Child Care Services,all_persons,2020-06-01,2020-06-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2020-06-01,2020-06-30,Q20a,benefit_at_exit_for_leavers,1
+TANF Transportation Services,all_persons,2020-06-01,2020-06-30,Q20a,benefit_at_start,0
+TANF Transportation Services,all_persons,2020-06-01,2020-06-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2020-06-01,2020-06-30,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2020-06-01,2020-06-30,Q20a,benefit_at_start,5
+Other TANF-Funded Services,all_persons,2020-06-01,2020-06-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2020-06-01,2020-06-30,Q20a,benefit_at_exit_for_leavers,0
+Other Source,all_persons,2020-06-01,2020-06-30,Q20a,benefit_at_start,8
+Other Source,all_persons,2020-06-01,2020-06-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,9
+Other Source,all_persons,2020-06-01,2020-06-30,Q20a,benefit_at_exit_for_leavers,1
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2020-07-01,2020-07-31,Q20a,benefit_at_start,221
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2020-07-01,2020-07-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,29
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2020-07-01,2020-07-31,Q20a,benefit_at_exit_for_leavers,54
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2020-07-01,2020-07-31,Q20a,benefit_at_start,14
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2020-07-01,2020-07-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,1
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2020-07-01,2020-07-31,Q20a,benefit_at_exit_for_leavers,5
+TANF Child Care Services,all_persons,2020-07-01,2020-07-31,Q20a,benefit_at_start,2
+TANF Child Care Services,all_persons,2020-07-01,2020-07-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2020-07-01,2020-07-31,Q20a,benefit_at_exit_for_leavers,0
+TANF Transportation Services,all_persons,2020-07-01,2020-07-31,Q20a,benefit_at_start,0
+TANF Transportation Services,all_persons,2020-07-01,2020-07-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2020-07-01,2020-07-31,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2020-07-01,2020-07-31,Q20a,benefit_at_start,6
+Other TANF-Funded Services,all_persons,2020-07-01,2020-07-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2020-07-01,2020-07-31,Q20a,benefit_at_exit_for_leavers,2
+Other Source,all_persons,2020-07-01,2020-07-31,Q20a,benefit_at_start,7
+Other Source,all_persons,2020-07-01,2020-07-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,9
+Other Source,all_persons,2020-07-01,2020-07-31,Q20a,benefit_at_exit_for_leavers,0
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2020-08-01,2020-08-31,Q20a,benefit_at_start,229
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2020-08-01,2020-08-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,29
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2020-08-01,2020-08-31,Q20a,benefit_at_exit_for_leavers,40
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2020-08-01,2020-08-31,Q20a,benefit_at_start,10
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2020-08-01,2020-08-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,1
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2020-08-01,2020-08-31,Q20a,benefit_at_exit_for_leavers,0
+TANF Child Care Services,all_persons,2020-08-01,2020-08-31,Q20a,benefit_at_start,2
+TANF Child Care Services,all_persons,2020-08-01,2020-08-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2020-08-01,2020-08-31,Q20a,benefit_at_exit_for_leavers,0
+TANF Transportation Services,all_persons,2020-08-01,2020-08-31,Q20a,benefit_at_start,0
+TANF Transportation Services,all_persons,2020-08-01,2020-08-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2020-08-01,2020-08-31,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2020-08-01,2020-08-31,Q20a,benefit_at_start,6
+Other TANF-Funded Services,all_persons,2020-08-01,2020-08-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2020-08-01,2020-08-31,Q20a,benefit_at_exit_for_leavers,2
+Other Source,all_persons,2020-08-01,2020-08-31,Q20a,benefit_at_start,7
+Other Source,all_persons,2020-08-01,2020-08-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,9
+Other Source,all_persons,2020-08-01,2020-08-31,Q20a,benefit_at_exit_for_leavers,0
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2020-09-01,2020-09-30,Q20a,benefit_at_start,238
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2020-09-01,2020-09-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,30
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2020-09-01,2020-09-30,Q20a,benefit_at_exit_for_leavers,39
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2020-09-01,2020-09-30,Q20a,benefit_at_start,13
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2020-09-01,2020-09-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,1
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2020-09-01,2020-09-30,Q20a,benefit_at_exit_for_leavers,4
+TANF Child Care Services,all_persons,2020-09-01,2020-09-30,Q20a,benefit_at_start,3
+TANF Child Care Services,all_persons,2020-09-01,2020-09-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2020-09-01,2020-09-30,Q20a,benefit_at_exit_for_leavers,1
+TANF Transportation Services,all_persons,2020-09-01,2020-09-30,Q20a,benefit_at_start,0
+TANF Transportation Services,all_persons,2020-09-01,2020-09-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2020-09-01,2020-09-30,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2020-09-01,2020-09-30,Q20a,benefit_at_start,5
+Other TANF-Funded Services,all_persons,2020-09-01,2020-09-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2020-09-01,2020-09-30,Q20a,benefit_at_exit_for_leavers,1
+Other Source,all_persons,2020-09-01,2020-09-30,Q20a,benefit_at_start,7
+Other Source,all_persons,2020-09-01,2020-09-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,9
+Other Source,all_persons,2020-09-01,2020-09-30,Q20a,benefit_at_exit_for_leavers,0
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2020-10-01,2020-10-31,Q20a,benefit_at_start,275
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2020-10-01,2020-10-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,31
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2020-10-01,2020-10-31,Q20a,benefit_at_exit_for_leavers,54
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2020-10-01,2020-10-31,Q20a,benefit_at_start,13
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2020-10-01,2020-10-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,1
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2020-10-01,2020-10-31,Q20a,benefit_at_exit_for_leavers,4
+TANF Child Care Services,all_persons,2020-10-01,2020-10-31,Q20a,benefit_at_start,3
+TANF Child Care Services,all_persons,2020-10-01,2020-10-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2020-10-01,2020-10-31,Q20a,benefit_at_exit_for_leavers,0
+TANF Transportation Services,all_persons,2020-10-01,2020-10-31,Q20a,benefit_at_start,1
+TANF Transportation Services,all_persons,2020-10-01,2020-10-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2020-10-01,2020-10-31,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2020-10-01,2020-10-31,Q20a,benefit_at_start,6
+Other TANF-Funded Services,all_persons,2020-10-01,2020-10-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2020-10-01,2020-10-31,Q20a,benefit_at_exit_for_leavers,2
+Other Source,all_persons,2020-10-01,2020-10-31,Q20a,benefit_at_start,7
+Other Source,all_persons,2020-10-01,2020-10-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,9
+Other Source,all_persons,2020-10-01,2020-10-31,Q20a,benefit_at_exit_for_leavers,0
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2020-11-01,2020-11-30,Q20a,benefit_at_start,281
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2020-11-01,2020-11-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,31
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2020-11-01,2020-11-30,Q20a,benefit_at_exit_for_leavers,44
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2020-11-01,2020-11-30,Q20a,benefit_at_start,13
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2020-11-01,2020-11-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,1
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2020-11-01,2020-11-30,Q20a,benefit_at_exit_for_leavers,1
+TANF Child Care Services,all_persons,2020-11-01,2020-11-30,Q20a,benefit_at_start,3
+TANF Child Care Services,all_persons,2020-11-01,2020-11-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2020-11-01,2020-11-30,Q20a,benefit_at_exit_for_leavers,0
+TANF Transportation Services,all_persons,2020-11-01,2020-11-30,Q20a,benefit_at_start,1
+TANF Transportation Services,all_persons,2020-11-01,2020-11-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2020-11-01,2020-11-30,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2020-11-01,2020-11-30,Q20a,benefit_at_start,5
+Other TANF-Funded Services,all_persons,2020-11-01,2020-11-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2020-11-01,2020-11-30,Q20a,benefit_at_exit_for_leavers,1
+Other Source,all_persons,2020-11-01,2020-11-30,Q20a,benefit_at_start,8
+Other Source,all_persons,2020-11-01,2020-11-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,9
+Other Source,all_persons,2020-11-01,2020-11-30,Q20a,benefit_at_exit_for_leavers,1
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2020-12-01,2020-12-31,Q20a,benefit_at_start,296
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2020-12-01,2020-12-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,31
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2020-12-01,2020-12-31,Q20a,benefit_at_exit_for_leavers,61
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2020-12-01,2020-12-31,Q20a,benefit_at_start,14
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2020-12-01,2020-12-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,1
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2020-12-01,2020-12-31,Q20a,benefit_at_exit_for_leavers,1
+TANF Child Care Services,all_persons,2020-12-01,2020-12-31,Q20a,benefit_at_start,3
+TANF Child Care Services,all_persons,2020-12-01,2020-12-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2020-12-01,2020-12-31,Q20a,benefit_at_exit_for_leavers,0
+TANF Transportation Services,all_persons,2020-12-01,2020-12-31,Q20a,benefit_at_start,1
+TANF Transportation Services,all_persons,2020-12-01,2020-12-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2020-12-01,2020-12-31,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2020-12-01,2020-12-31,Q20a,benefit_at_start,6
+Other TANF-Funded Services,all_persons,2020-12-01,2020-12-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2020-12-01,2020-12-31,Q20a,benefit_at_exit_for_leavers,1
+Other Source,all_persons,2020-12-01,2020-12-31,Q20a,benefit_at_start,8
+Other Source,all_persons,2020-12-01,2020-12-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,9
+Other Source,all_persons,2020-12-01,2020-12-31,Q20a,benefit_at_exit_for_leavers,1
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2021-01-01,2021-01-31,Q20a,benefit_at_start,291
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2021-01-01,2021-01-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,28
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2021-01-01,2021-01-31,Q20a,benefit_at_exit_for_leavers,50
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2021-01-01,2021-01-31,Q20a,benefit_at_start,19
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2021-01-01,2021-01-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,1
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2021-01-01,2021-01-31,Q20a,benefit_at_exit_for_leavers,3
+TANF Child Care Services,all_persons,2021-01-01,2021-01-31,Q20a,benefit_at_start,5
+TANF Child Care Services,all_persons,2021-01-01,2021-01-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2021-01-01,2021-01-31,Q20a,benefit_at_exit_for_leavers,2
+TANF Transportation Services,all_persons,2021-01-01,2021-01-31,Q20a,benefit_at_start,2
+TANF Transportation Services,all_persons,2021-01-01,2021-01-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2021-01-01,2021-01-31,Q20a,benefit_at_exit_for_leavers,1
+Other TANF-Funded Services,all_persons,2021-01-01,2021-01-31,Q20a,benefit_at_start,6
+Other TANF-Funded Services,all_persons,2021-01-01,2021-01-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2021-01-01,2021-01-31,Q20a,benefit_at_exit_for_leavers,0
+Other Source,all_persons,2021-01-01,2021-01-31,Q20a,benefit_at_start,10
+Other Source,all_persons,2021-01-01,2021-01-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,9
+Other Source,all_persons,2021-01-01,2021-01-31,Q20a,benefit_at_exit_for_leavers,1
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2021-02-01,2021-02-28,Q20a,benefit_at_start,287
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2021-02-01,2021-02-28,Q20a,benefit_at_latest_annual_assessment_for_stayers,28
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2021-02-01,2021-02-28,Q20a,benefit_at_exit_for_leavers,45
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2021-02-01,2021-02-28,Q20a,benefit_at_start,19
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2021-02-01,2021-02-28,Q20a,benefit_at_latest_annual_assessment_for_stayers,1
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2021-02-01,2021-02-28,Q20a,benefit_at_exit_for_leavers,1
+TANF Child Care Services,all_persons,2021-02-01,2021-02-28,Q20a,benefit_at_start,3
+TANF Child Care Services,all_persons,2021-02-01,2021-02-28,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2021-02-01,2021-02-28,Q20a,benefit_at_exit_for_leavers,0
+TANF Transportation Services,all_persons,2021-02-01,2021-02-28,Q20a,benefit_at_start,1
+TANF Transportation Services,all_persons,2021-02-01,2021-02-28,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2021-02-01,2021-02-28,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2021-02-01,2021-02-28,Q20a,benefit_at_start,6
+Other TANF-Funded Services,all_persons,2021-02-01,2021-02-28,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2021-02-01,2021-02-28,Q20a,benefit_at_exit_for_leavers,0
+Other Source,all_persons,2021-02-01,2021-02-28,Q20a,benefit_at_start,9
+Other Source,all_persons,2021-02-01,2021-02-28,Q20a,benefit_at_latest_annual_assessment_for_stayers,8
+Other Source,all_persons,2021-02-01,2021-02-28,Q20a,benefit_at_exit_for_leavers,0
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2021-03-01,2021-03-31,Q20a,benefit_at_start,285
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2021-03-01,2021-03-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,31
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2021-03-01,2021-03-31,Q20a,benefit_at_exit_for_leavers,51
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2021-03-01,2021-03-31,Q20a,benefit_at_start,20
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2021-03-01,2021-03-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,1
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2021-03-01,2021-03-31,Q20a,benefit_at_exit_for_leavers,6
+TANF Child Care Services,all_persons,2021-03-01,2021-03-31,Q20a,benefit_at_start,3
+TANF Child Care Services,all_persons,2021-03-01,2021-03-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2021-03-01,2021-03-31,Q20a,benefit_at_exit_for_leavers,0
+TANF Transportation Services,all_persons,2021-03-01,2021-03-31,Q20a,benefit_at_start,1
+TANF Transportation Services,all_persons,2021-03-01,2021-03-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2021-03-01,2021-03-31,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2021-03-01,2021-03-31,Q20a,benefit_at_start,6
+Other TANF-Funded Services,all_persons,2021-03-01,2021-03-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2021-03-01,2021-03-31,Q20a,benefit_at_exit_for_leavers,1
+Other Source,all_persons,2021-03-01,2021-03-31,Q20a,benefit_at_start,9
+Other Source,all_persons,2021-03-01,2021-03-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,9
+Other Source,all_persons,2021-03-01,2021-03-31,Q20a,benefit_at_exit_for_leavers,0
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2021-04-01,2021-04-30,Q20a,benefit_at_start,276
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2021-04-01,2021-04-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,31
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2021-04-01,2021-04-30,Q20a,benefit_at_exit_for_leavers,58
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2021-04-01,2021-04-30,Q20a,benefit_at_start,16
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2021-04-01,2021-04-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,1
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2021-04-01,2021-04-30,Q20a,benefit_at_exit_for_leavers,2
+TANF Child Care Services,all_persons,2021-04-01,2021-04-30,Q20a,benefit_at_start,3
+TANF Child Care Services,all_persons,2021-04-01,2021-04-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2021-04-01,2021-04-30,Q20a,benefit_at_exit_for_leavers,1
+TANF Transportation Services,all_persons,2021-04-01,2021-04-30,Q20a,benefit_at_start,1
+TANF Transportation Services,all_persons,2021-04-01,2021-04-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2021-04-01,2021-04-30,Q20a,benefit_at_exit_for_leavers,1
+Other TANF-Funded Services,all_persons,2021-04-01,2021-04-30,Q20a,benefit_at_start,7
+Other TANF-Funded Services,all_persons,2021-04-01,2021-04-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2021-04-01,2021-04-30,Q20a,benefit_at_exit_for_leavers,2
+Other Source,all_persons,2021-04-01,2021-04-30,Q20a,benefit_at_start,10
+Other Source,all_persons,2021-04-01,2021-04-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,9
+Other Source,all_persons,2021-04-01,2021-04-30,Q20a,benefit_at_exit_for_leavers,2
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2021-05-01,2021-05-31,Q20a,benefit_at_start,266
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2021-05-01,2021-05-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,30
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2021-05-01,2021-05-31,Q20a,benefit_at_exit_for_leavers,39
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2021-05-01,2021-05-31,Q20a,benefit_at_start,18
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2021-05-01,2021-05-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,1
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2021-05-01,2021-05-31,Q20a,benefit_at_exit_for_leavers,4
+TANF Child Care Services,all_persons,2021-05-01,2021-05-31,Q20a,benefit_at_start,2
+TANF Child Care Services,all_persons,2021-05-01,2021-05-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2021-05-01,2021-05-31,Q20a,benefit_at_exit_for_leavers,0
+TANF Transportation Services,all_persons,2021-05-01,2021-05-31,Q20a,benefit_at_start,0
+TANF Transportation Services,all_persons,2021-05-01,2021-05-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2021-05-01,2021-05-31,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2021-05-01,2021-05-31,Q20a,benefit_at_start,5
+Other TANF-Funded Services,all_persons,2021-05-01,2021-05-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2021-05-01,2021-05-31,Q20a,benefit_at_exit_for_leavers,0
+Other Source,all_persons,2021-05-01,2021-05-31,Q20a,benefit_at_start,8
+Other Source,all_persons,2021-05-01,2021-05-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,8
+Other Source,all_persons,2021-05-01,2021-05-31,Q20a,benefit_at_exit_for_leavers,0
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2021-06-01,2021-06-30,Q20a,benefit_at_start,273
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2021-06-01,2021-06-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,30
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2021-06-01,2021-06-30,Q20a,benefit_at_exit_for_leavers,56
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2021-06-01,2021-06-30,Q20a,benefit_at_start,15
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2021-06-01,2021-06-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,1
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2021-06-01,2021-06-30,Q20a,benefit_at_exit_for_leavers,3
+TANF Child Care Services,all_persons,2021-06-01,2021-06-30,Q20a,benefit_at_start,2
+TANF Child Care Services,all_persons,2021-06-01,2021-06-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2021-06-01,2021-06-30,Q20a,benefit_at_exit_for_leavers,1
+TANF Transportation Services,all_persons,2021-06-01,2021-06-30,Q20a,benefit_at_start,0
+TANF Transportation Services,all_persons,2021-06-01,2021-06-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2021-06-01,2021-06-30,Q20a,benefit_at_exit_for_leavers,1
+Other TANF-Funded Services,all_persons,2021-06-01,2021-06-30,Q20a,benefit_at_start,4
+Other TANF-Funded Services,all_persons,2021-06-01,2021-06-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2021-06-01,2021-06-30,Q20a,benefit_at_exit_for_leavers,1
+Other Source,all_persons,2021-06-01,2021-06-30,Q20a,benefit_at_start,8
+Other Source,all_persons,2021-06-01,2021-06-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,8
+Other Source,all_persons,2021-06-01,2021-06-30,Q20a,benefit_at_exit_for_leavers,0
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2021-07-01,2021-07-31,Q20a,benefit_at_start,289
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2021-07-01,2021-07-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,30
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2021-07-01,2021-07-31,Q20a,benefit_at_exit_for_leavers,42
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2021-07-01,2021-07-31,Q20a,benefit_at_start,14
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2021-07-01,2021-07-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,1
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2021-07-01,2021-07-31,Q20a,benefit_at_exit_for_leavers,0
+TANF Child Care Services,all_persons,2021-07-01,2021-07-31,Q20a,benefit_at_start,1
+TANF Child Care Services,all_persons,2021-07-01,2021-07-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2021-07-01,2021-07-31,Q20a,benefit_at_exit_for_leavers,0
+TANF Transportation Services,all_persons,2021-07-01,2021-07-31,Q20a,benefit_at_start,0
+TANF Transportation Services,all_persons,2021-07-01,2021-07-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2021-07-01,2021-07-31,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2021-07-01,2021-07-31,Q20a,benefit_at_start,4
+Other TANF-Funded Services,all_persons,2021-07-01,2021-07-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2021-07-01,2021-07-31,Q20a,benefit_at_exit_for_leavers,0
+Other Source,all_persons,2021-07-01,2021-07-31,Q20a,benefit_at_start,7
+Other Source,all_persons,2021-07-01,2021-07-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,8
+Other Source,all_persons,2021-07-01,2021-07-31,Q20a,benefit_at_exit_for_leavers,0
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2021-08-01,2021-08-31,Q20a,benefit_at_start,309
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2021-08-01,2021-08-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,32
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2021-08-01,2021-08-31,Q20a,benefit_at_exit_for_leavers,60
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2021-08-01,2021-08-31,Q20a,benefit_at_start,18
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2021-08-01,2021-08-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,2
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2021-08-01,2021-08-31,Q20a,benefit_at_exit_for_leavers,3
+TANF Child Care Services,all_persons,2021-08-01,2021-08-31,Q20a,benefit_at_start,1
+TANF Child Care Services,all_persons,2021-08-01,2021-08-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2021-08-01,2021-08-31,Q20a,benefit_at_exit_for_leavers,0
+TANF Transportation Services,all_persons,2021-08-01,2021-08-31,Q20a,benefit_at_start,0
+TANF Transportation Services,all_persons,2021-08-01,2021-08-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2021-08-01,2021-08-31,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2021-08-01,2021-08-31,Q20a,benefit_at_start,4
+Other TANF-Funded Services,all_persons,2021-08-01,2021-08-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2021-08-01,2021-08-31,Q20a,benefit_at_exit_for_leavers,0
+Other Source,all_persons,2021-08-01,2021-08-31,Q20a,benefit_at_start,7
+Other Source,all_persons,2021-08-01,2021-08-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,8
+Other Source,all_persons,2021-08-01,2021-08-31,Q20a,benefit_at_exit_for_leavers,0
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2021-09-01,2021-09-30,Q20a,benefit_at_start,329
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2021-09-01,2021-09-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,32
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2021-09-01,2021-09-30,Q20a,benefit_at_exit_for_leavers,52
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2021-09-01,2021-09-30,Q20a,benefit_at_start,16
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2021-09-01,2021-09-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,2
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2021-09-01,2021-09-30,Q20a,benefit_at_exit_for_leavers,2
+TANF Child Care Services,all_persons,2021-09-01,2021-09-30,Q20a,benefit_at_start,1
+TANF Child Care Services,all_persons,2021-09-01,2021-09-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2021-09-01,2021-09-30,Q20a,benefit_at_exit_for_leavers,0
+TANF Transportation Services,all_persons,2021-09-01,2021-09-30,Q20a,benefit_at_start,0
+TANF Transportation Services,all_persons,2021-09-01,2021-09-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2021-09-01,2021-09-30,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2021-09-01,2021-09-30,Q20a,benefit_at_start,5
+Other TANF-Funded Services,all_persons,2021-09-01,2021-09-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2021-09-01,2021-09-30,Q20a,benefit_at_exit_for_leavers,1
+Other Source,all_persons,2021-09-01,2021-09-30,Q20a,benefit_at_start,8
+Other Source,all_persons,2021-09-01,2021-09-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,8
+Other Source,all_persons,2021-09-01,2021-09-30,Q20a,benefit_at_exit_for_leavers,1
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2021-10-01,2021-10-31,Q20a,benefit_at_start,349
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2021-10-01,2021-10-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,33
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2021-10-01,2021-10-31,Q20a,benefit_at_exit_for_leavers,63
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2021-10-01,2021-10-31,Q20a,benefit_at_start,16
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2021-10-01,2021-10-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,2
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2021-10-01,2021-10-31,Q20a,benefit_at_exit_for_leavers,2
+TANF Child Care Services,all_persons,2021-10-01,2021-10-31,Q20a,benefit_at_start,2
+TANF Child Care Services,all_persons,2021-10-01,2021-10-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2021-10-01,2021-10-31,Q20a,benefit_at_exit_for_leavers,0
+TANF Transportation Services,all_persons,2021-10-01,2021-10-31,Q20a,benefit_at_start,0
+TANF Transportation Services,all_persons,2021-10-01,2021-10-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2021-10-01,2021-10-31,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2021-10-01,2021-10-31,Q20a,benefit_at_start,5
+Other TANF-Funded Services,all_persons,2021-10-01,2021-10-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2021-10-01,2021-10-31,Q20a,benefit_at_exit_for_leavers,1
+Other Source,all_persons,2021-10-01,2021-10-31,Q20a,benefit_at_start,10
+Other Source,all_persons,2021-10-01,2021-10-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,8
+Other Source,all_persons,2021-10-01,2021-10-31,Q20a,benefit_at_exit_for_leavers,2
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2021-11-01,2021-11-30,Q20a,benefit_at_start,380
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2021-11-01,2021-11-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,33
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2021-11-01,2021-11-30,Q20a,benefit_at_exit_for_leavers,57
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2021-11-01,2021-11-30,Q20a,benefit_at_start,20
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2021-11-01,2021-11-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,2
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2021-11-01,2021-11-30,Q20a,benefit_at_exit_for_leavers,1
+TANF Child Care Services,all_persons,2021-11-01,2021-11-30,Q20a,benefit_at_start,4
+TANF Child Care Services,all_persons,2021-11-01,2021-11-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2021-11-01,2021-11-30,Q20a,benefit_at_exit_for_leavers,0
+TANF Transportation Services,all_persons,2021-11-01,2021-11-30,Q20a,benefit_at_start,1
+TANF Transportation Services,all_persons,2021-11-01,2021-11-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2021-11-01,2021-11-30,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2021-11-01,2021-11-30,Q20a,benefit_at_start,6
+Other TANF-Funded Services,all_persons,2021-11-01,2021-11-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2021-11-01,2021-11-30,Q20a,benefit_at_exit_for_leavers,0
+Other Source,all_persons,2021-11-01,2021-11-30,Q20a,benefit_at_start,10
+Other Source,all_persons,2021-11-01,2021-11-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,8
+Other Source,all_persons,2021-11-01,2021-11-30,Q20a,benefit_at_exit_for_leavers,1
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2021-12-01,2021-12-31,Q20a,benefit_at_start,409
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2021-12-01,2021-12-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,33
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2021-12-01,2021-12-31,Q20a,benefit_at_exit_for_leavers,70
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2021-12-01,2021-12-31,Q20a,benefit_at_start,22
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2021-12-01,2021-12-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,2
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2021-12-01,2021-12-31,Q20a,benefit_at_exit_for_leavers,5
+TANF Child Care Services,all_persons,2021-12-01,2021-12-31,Q20a,benefit_at_start,4
+TANF Child Care Services,all_persons,2021-12-01,2021-12-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2021-12-01,2021-12-31,Q20a,benefit_at_exit_for_leavers,0
+TANF Transportation Services,all_persons,2021-12-01,2021-12-31,Q20a,benefit_at_start,1
+TANF Transportation Services,all_persons,2021-12-01,2021-12-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2021-12-01,2021-12-31,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2021-12-01,2021-12-31,Q20a,benefit_at_start,6
+Other TANF-Funded Services,all_persons,2021-12-01,2021-12-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2021-12-01,2021-12-31,Q20a,benefit_at_exit_for_leavers,0
+Other Source,all_persons,2021-12-01,2021-12-31,Q20a,benefit_at_start,10
+Other Source,all_persons,2021-12-01,2021-12-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,8
+Other Source,all_persons,2021-12-01,2021-12-31,Q20a,benefit_at_exit_for_leavers,0
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2022-01-01,2022-01-31,Q20a,benefit_at_start,418
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2022-01-01,2022-01-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,32
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2022-01-01,2022-01-31,Q20a,benefit_at_exit_for_leavers,61
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2022-01-01,2022-01-31,Q20a,benefit_at_start,20
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2022-01-01,2022-01-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,2
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2022-01-01,2022-01-31,Q20a,benefit_at_exit_for_leavers,3
+TANF Child Care Services,all_persons,2022-01-01,2022-01-31,Q20a,benefit_at_start,4
+TANF Child Care Services,all_persons,2022-01-01,2022-01-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2022-01-01,2022-01-31,Q20a,benefit_at_exit_for_leavers,0
+TANF Transportation Services,all_persons,2022-01-01,2022-01-31,Q20a,benefit_at_start,1
+TANF Transportation Services,all_persons,2022-01-01,2022-01-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2022-01-01,2022-01-31,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2022-01-01,2022-01-31,Q20a,benefit_at_start,7
+Other TANF-Funded Services,all_persons,2022-01-01,2022-01-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2022-01-01,2022-01-31,Q20a,benefit_at_exit_for_leavers,1
+Other Source,all_persons,2022-01-01,2022-01-31,Q20a,benefit_at_start,11
+Other Source,all_persons,2022-01-01,2022-01-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,7
+Other Source,all_persons,2022-01-01,2022-01-31,Q20a,benefit_at_exit_for_leavers,1
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2022-02-01,2022-02-28,Q20a,benefit_at_start,417
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2022-02-01,2022-02-28,Q20a,benefit_at_latest_annual_assessment_for_stayers,30
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2022-02-01,2022-02-28,Q20a,benefit_at_exit_for_leavers,45
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2022-02-01,2022-02-28,Q20a,benefit_at_start,19
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2022-02-01,2022-02-28,Q20a,benefit_at_latest_annual_assessment_for_stayers,2
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2022-02-01,2022-02-28,Q20a,benefit_at_exit_for_leavers,3
+TANF Child Care Services,all_persons,2022-02-01,2022-02-28,Q20a,benefit_at_start,6
+TANF Child Care Services,all_persons,2022-02-01,2022-02-28,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2022-02-01,2022-02-28,Q20a,benefit_at_exit_for_leavers,2
+TANF Transportation Services,all_persons,2022-02-01,2022-02-28,Q20a,benefit_at_start,2
+TANF Transportation Services,all_persons,2022-02-01,2022-02-28,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2022-02-01,2022-02-28,Q20a,benefit_at_exit_for_leavers,1
+Other TANF-Funded Services,all_persons,2022-02-01,2022-02-28,Q20a,benefit_at_start,6
+Other TANF-Funded Services,all_persons,2022-02-01,2022-02-28,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2022-02-01,2022-02-28,Q20a,benefit_at_exit_for_leavers,1
+Other Source,all_persons,2022-02-01,2022-02-28,Q20a,benefit_at_start,11
+Other Source,all_persons,2022-02-01,2022-02-28,Q20a,benefit_at_latest_annual_assessment_for_stayers,7
+Other Source,all_persons,2022-02-01,2022-02-28,Q20a,benefit_at_exit_for_leavers,1
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2022-03-01,2022-03-31,Q20a,benefit_at_start,447
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2022-03-01,2022-03-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,27
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2022-03-01,2022-03-31,Q20a,benefit_at_exit_for_leavers,58
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2022-03-01,2022-03-31,Q20a,benefit_at_start,24
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2022-03-01,2022-03-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,2
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2022-03-01,2022-03-31,Q20a,benefit_at_exit_for_leavers,5
+TANF Child Care Services,all_persons,2022-03-01,2022-03-31,Q20a,benefit_at_start,8
+TANF Child Care Services,all_persons,2022-03-01,2022-03-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2022-03-01,2022-03-31,Q20a,benefit_at_exit_for_leavers,2
+TANF Transportation Services,all_persons,2022-03-01,2022-03-31,Q20a,benefit_at_start,3
+TANF Transportation Services,all_persons,2022-03-01,2022-03-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2022-03-01,2022-03-31,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2022-03-01,2022-03-31,Q20a,benefit_at_start,9
+Other TANF-Funded Services,all_persons,2022-03-01,2022-03-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2022-03-01,2022-03-31,Q20a,benefit_at_exit_for_leavers,0
+Other Source,all_persons,2022-03-01,2022-03-31,Q20a,benefit_at_start,12
+Other Source,all_persons,2022-03-01,2022-03-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,7
+Other Source,all_persons,2022-03-01,2022-03-31,Q20a,benefit_at_exit_for_leavers,0
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2022-04-01,2022-04-30,Q20a,benefit_at_start,444
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2022-04-01,2022-04-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,26
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2022-04-01,2022-04-30,Q20a,benefit_at_exit_for_leavers,75
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2022-04-01,2022-04-30,Q20a,benefit_at_start,22
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2022-04-01,2022-04-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,1
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2022-04-01,2022-04-30,Q20a,benefit_at_exit_for_leavers,4
+TANF Child Care Services,all_persons,2022-04-01,2022-04-30,Q20a,benefit_at_start,7
+TANF Child Care Services,all_persons,2022-04-01,2022-04-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2022-04-01,2022-04-30,Q20a,benefit_at_exit_for_leavers,1
+TANF Transportation Services,all_persons,2022-04-01,2022-04-30,Q20a,benefit_at_start,3
+TANF Transportation Services,all_persons,2022-04-01,2022-04-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2022-04-01,2022-04-30,Q20a,benefit_at_exit_for_leavers,1
+Other TANF-Funded Services,all_persons,2022-04-01,2022-04-30,Q20a,benefit_at_start,10
+Other TANF-Funded Services,all_persons,2022-04-01,2022-04-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2022-04-01,2022-04-30,Q20a,benefit_at_exit_for_leavers,2
+Other Source,all_persons,2022-04-01,2022-04-30,Q20a,benefit_at_start,12
+Other Source,all_persons,2022-04-01,2022-04-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,7
+Other Source,all_persons,2022-04-01,2022-04-30,Q20a,benefit_at_exit_for_leavers,2
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2022-05-01,2022-05-31,Q20a,benefit_at_start,440
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2022-05-01,2022-05-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,26
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2022-05-01,2022-05-31,Q20a,benefit_at_exit_for_leavers,62
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2022-05-01,2022-05-31,Q20a,benefit_at_start,23
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2022-05-01,2022-05-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,1
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2022-05-01,2022-05-31,Q20a,benefit_at_exit_for_leavers,2
+TANF Child Care Services,all_persons,2022-05-01,2022-05-31,Q20a,benefit_at_start,7
+TANF Child Care Services,all_persons,2022-05-01,2022-05-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2022-05-01,2022-05-31,Q20a,benefit_at_exit_for_leavers,1
+TANF Transportation Services,all_persons,2022-05-01,2022-05-31,Q20a,benefit_at_start,3
+TANF Transportation Services,all_persons,2022-05-01,2022-05-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2022-05-01,2022-05-31,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2022-05-01,2022-05-31,Q20a,benefit_at_start,9
+Other TANF-Funded Services,all_persons,2022-05-01,2022-05-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2022-05-01,2022-05-31,Q20a,benefit_at_exit_for_leavers,0
+Other Source,all_persons,2022-05-01,2022-05-31,Q20a,benefit_at_start,12
+Other Source,all_persons,2022-05-01,2022-05-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,7
+Other Source,all_persons,2022-05-01,2022-05-31,Q20a,benefit_at_exit_for_leavers,0
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2022-06-01,2022-06-30,Q20a,benefit_at_start,453
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2022-06-01,2022-06-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,26
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2022-06-01,2022-06-30,Q20a,benefit_at_exit_for_leavers,70
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2022-06-01,2022-06-30,Q20a,benefit_at_start,28
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2022-06-01,2022-06-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,1
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2022-06-01,2022-06-30,Q20a,benefit_at_exit_for_leavers,8
+TANF Child Care Services,all_persons,2022-06-01,2022-06-30,Q20a,benefit_at_start,7
+TANF Child Care Services,all_persons,2022-06-01,2022-06-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2022-06-01,2022-06-30,Q20a,benefit_at_exit_for_leavers,0
+TANF Transportation Services,all_persons,2022-06-01,2022-06-30,Q20a,benefit_at_start,3
+TANF Transportation Services,all_persons,2022-06-01,2022-06-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2022-06-01,2022-06-30,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2022-06-01,2022-06-30,Q20a,benefit_at_start,9
+Other TANF-Funded Services,all_persons,2022-06-01,2022-06-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2022-06-01,2022-06-30,Q20a,benefit_at_exit_for_leavers,1
+Other Source,all_persons,2022-06-01,2022-06-30,Q20a,benefit_at_start,12
+Other Source,all_persons,2022-06-01,2022-06-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,7
+Other Source,all_persons,2022-06-01,2022-06-30,Q20a,benefit_at_exit_for_leavers,1
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2022-07-01,2022-07-31,Q20a,benefit_at_start,442
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2022-07-01,2022-07-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,26
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2022-07-01,2022-07-31,Q20a,benefit_at_exit_for_leavers,40
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2022-07-01,2022-07-31,Q20a,benefit_at_start,22
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2022-07-01,2022-07-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,1
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2022-07-01,2022-07-31,Q20a,benefit_at_exit_for_leavers,1
+TANF Child Care Services,all_persons,2022-07-01,2022-07-31,Q20a,benefit_at_start,7
+TANF Child Care Services,all_persons,2022-07-01,2022-07-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2022-07-01,2022-07-31,Q20a,benefit_at_exit_for_leavers,0
+TANF Transportation Services,all_persons,2022-07-01,2022-07-31,Q20a,benefit_at_start,3
+TANF Transportation Services,all_persons,2022-07-01,2022-07-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2022-07-01,2022-07-31,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2022-07-01,2022-07-31,Q20a,benefit_at_start,10
+Other TANF-Funded Services,all_persons,2022-07-01,2022-07-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2022-07-01,2022-07-31,Q20a,benefit_at_exit_for_leavers,0
+Other Source,all_persons,2022-07-01,2022-07-31,Q20a,benefit_at_start,12
+Other Source,all_persons,2022-07-01,2022-07-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,7
+Other Source,all_persons,2022-07-01,2022-07-31,Q20a,benefit_at_exit_for_leavers,0
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2022-08-01,2022-08-31,Q20a,benefit_at_start,448
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2022-08-01,2022-08-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,26
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2022-08-01,2022-08-31,Q20a,benefit_at_exit_for_leavers,29
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2022-08-01,2022-08-31,Q20a,benefit_at_start,23
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2022-08-01,2022-08-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,1
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2022-08-01,2022-08-31,Q20a,benefit_at_exit_for_leavers,2
+TANF Child Care Services,all_persons,2022-08-01,2022-08-31,Q20a,benefit_at_start,7
+TANF Child Care Services,all_persons,2022-08-01,2022-08-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2022-08-01,2022-08-31,Q20a,benefit_at_exit_for_leavers,0
+TANF Transportation Services,all_persons,2022-08-01,2022-08-31,Q20a,benefit_at_start,3
+TANF Transportation Services,all_persons,2022-08-01,2022-08-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2022-08-01,2022-08-31,Q20a,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,all_persons,2022-08-01,2022-08-31,Q20a,benefit_at_start,11
+Other TANF-Funded Services,all_persons,2022-08-01,2022-08-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2022-08-01,2022-08-31,Q20a,benefit_at_exit_for_leavers,1
+Other Source,all_persons,2022-08-01,2022-08-31,Q20a,benefit_at_start,12
+Other Source,all_persons,2022-08-01,2022-08-31,Q20a,benefit_at_latest_annual_assessment_for_stayers,7
+Other Source,all_persons,2022-08-01,2022-08-31,Q20a,benefit_at_exit_for_leavers,0

@@ -1,0 +1,7 @@
+number_of_persons_engaged,all_persons_contacted,first_contact_not_staying_on_the_streets_es_or_sh,first_contact_was_staying_on_the_streets_es_or_sh,first_contact_worker_unable_to_determine,population,start_date,end_date,question
+Once,0,0,0,0,CE,2016-01-01,2016-01-31,Q9b
+2-5 Contacts,0,0,0,0,CE,2016-01-01,2016-01-31,Q9b
+6-9 Contacts,0,0,0,0,CE,2016-01-01,2016-01-31,Q9b
+10+ Contacts,0,0,0,0,CE,2016-01-01,2016-01-31,Q9b
+Total Persons Engaged,0,0,0,0,CE,2016-01-01,2016-01-31,Q9b
+Rate of Engagement,0.0,0.0,0.0,0.0,CE,2016-01-01,2016-01-31,Q9b

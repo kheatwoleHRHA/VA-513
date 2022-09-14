@@ -1,0 +1,14 @@
+, "Income at Start" , "Income at Latest Annual Assessment for Stayers" , "Income at Exit for Leavers"
+"""No Income""",281,9,57
+"""$1 -  $150""",4,0,1
+"""$151 - $250""",7,0,2
+"""$251 - $500""",22,1,5
+"""$501 - $1000""",133,21,35
+"""$1001 - $1500""",80,11,21
+"""$1501 - $2000""",65,7,11
+"""$2001+""",62,4,10
+"""Client Doesn't Know/Client Refused""",0,0,0
+"""Data Not Collected""",151,6,74
+"""Number of Adult Stayers not yet Required to Have an Annual Assessment""",0,331,0
+"""Number of Adult Stayers without Required Annual Assessment""",0,199,0
+"""Total Adults""",805,589,216

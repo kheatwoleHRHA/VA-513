@@ -1,0 +1,17 @@
+report_validations,count,population,start_date,end_date,question
+Total Number of Persons Served,607,all_persons,2017-07-01,2017-07-31,Q5a
+Number of Adults (age 18 or over),412,all_persons,2017-07-01,2017-07-31,Q5a
+Number of Children (under age 18),193,all_persons,2017-07-01,2017-07-31,Q5a
+Number of Persons with Unknown Age,2,all_persons,2017-07-01,2017-07-31,Q5a
+Number of Leavers,99,all_persons,2017-07-01,2017-07-31,Q5a
+Number of Adult Leavers,59,all_persons,2017-07-01,2017-07-31,Q5a
+Number of Adult and Head of Household Leavers,59,all_persons,2017-07-01,2017-07-31,Q5a
+Number of Stayers,508,all_persons,2017-07-01,2017-07-31,Q5a
+Number of Adult Stayers,353,all_persons,2017-07-01,2017-07-31,Q5a
+Number of Veterans,20,all_persons,2017-07-01,2017-07-31,Q5a
+Number of Chronically Homeless Persons,49,all_persons,2017-07-01,2017-07-31,Q5a
+Number of Youth Under Age 25,19,all_persons,2017-07-01,2017-07-31,Q5a
+Number of Parenting Youth Under Age 25 with Children,5,all_persons,2017-07-01,2017-07-31,Q5a
+Number of Adult Heads of Household,334,all_persons,2017-07-01,2017-07-31,Q5a
+Number of Child and Unknown-Age Heads of Household,1,all_persons,2017-07-01,2017-07-31,Q5a
+Heads of Households and Adult Stayers in the Project 365 Days or More,132,all_persons,2017-07-01,2017-07-31,Q5a

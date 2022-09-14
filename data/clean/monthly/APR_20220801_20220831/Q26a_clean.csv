@@ -1,0 +1,17 @@
+ch_status_households,total,population,start_date,end_date,question,household_type,count
+Chronically Homeless ,195,all_households,2022-08-01,2022-08-31,Q26a,without_children,190
+Chronically Homeless ,195,all_households,2022-08-01,2022-08-31,Q26a,with_children_and_adults,4
+Chronically Homeless ,195,all_households,2022-08-01,2022-08-31,Q26a,with_only_children,0
+Chronically Homeless ,195,all_households,2022-08-01,2022-08-31,Q26a,unknown_household_type,1
+Not Chronically Homeless,925,all_households,2022-08-01,2022-08-31,Q26a,without_children,737
+Not Chronically Homeless,925,all_households,2022-08-01,2022-08-31,Q26a,with_children_and_adults,186
+Not Chronically Homeless,925,all_households,2022-08-01,2022-08-31,Q26a,with_only_children,0
+Not Chronically Homeless,925,all_households,2022-08-01,2022-08-31,Q26a,unknown_household_type,2
+Client Doesn't Know/Client Refused,27,all_households,2022-08-01,2022-08-31,Q26a,without_children,27
+Client Doesn't Know/Client Refused,27,all_households,2022-08-01,2022-08-31,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,27,all_households,2022-08-01,2022-08-31,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,27,all_households,2022-08-01,2022-08-31,Q26a,unknown_household_type,0
+Data Not Collected,63,all_households,2022-08-01,2022-08-31,Q26a,without_children,45
+Data Not Collected,63,all_households,2022-08-01,2022-08-31,Q26a,with_children_and_adults,13
+Data Not Collected,63,all_households,2022-08-01,2022-08-31,Q26a,with_only_children,0
+Data Not Collected,63,all_households,2022-08-01,2022-08-31,Q26a,unknown_household_type,5

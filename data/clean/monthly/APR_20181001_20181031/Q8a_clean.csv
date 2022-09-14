@@ -1,0 +1,9 @@
+households_served,total,population,start_date,end_date,question,household_type,count
+Total Households,313,all_households,2018-10-01,2018-10-31,Q8a,without_children,225
+Total Households,313,all_households,2018-10-01,2018-10-31,Q8a,with_children_and_adults,87
+Total Households,313,all_households,2018-10-01,2018-10-31,Q8a,with_only_children,1
+Total Households,313,all_households,2018-10-01,2018-10-31,Q8a,unknown_household_type,0
+For PSH and RRH - the total persons served who moved into housing,101,all_households,2018-10-01,2018-10-31,Q8a,without_children,83
+For PSH and RRH - the total persons served who moved into housing,101,all_households,2018-10-01,2018-10-31,Q8a,with_children_and_adults,18
+For PSH and RRH - the total persons served who moved into housing,101,all_households,2018-10-01,2018-10-31,Q8a,with_only_children,0
+For PSH and RRH - the total persons served who moved into housing,101,all_households,2018-10-01,2018-10-31,Q8a,unknown_household_type,0

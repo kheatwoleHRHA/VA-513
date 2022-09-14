@@ -1,0 +1,28 @@
+number_of_veterans_by_income_category,population,start_date,end_date,question,status,count
+"Veterans with Only Earned Income (i.e., Employment Income)",veterans,2017-10-01,2017-10-31,Q25f,number_of_veterans_at_start,4
+"Veterans with Only Earned Income (i.e., Employment Income)",veterans,2017-10-01,2017-10-31,Q25f,number_of_veterans_at_annual_assessment_stayers,1
+"Veterans with Only Earned Income (i.e., Employment Income)",veterans,2017-10-01,2017-10-31,Q25f,number_of_veterans_at_exit_leavers,1
+Veterans with Only Other Income,veterans,2017-10-01,2017-10-31,Q25f,number_of_veterans_at_start,17
+Veterans with Only Other Income,veterans,2017-10-01,2017-10-31,Q25f,number_of_veterans_at_annual_assessment_stayers,4
+Veterans with Only Other Income,veterans,2017-10-01,2017-10-31,Q25f,number_of_veterans_at_exit_leavers,0
+Veterans with Both Earned and Other Income,veterans,2017-10-01,2017-10-31,Q25f,number_of_veterans_at_start,1
+Veterans with Both Earned and Other Income,veterans,2017-10-01,2017-10-31,Q25f,number_of_veterans_at_annual_assessment_stayers,0
+Veterans with Both Earned and Other Income,veterans,2017-10-01,2017-10-31,Q25f,number_of_veterans_at_exit_leavers,1
+Veterans with No Income,veterans,2017-10-01,2017-10-31,Q25f,number_of_veterans_at_start,7
+Veterans with No Income,veterans,2017-10-01,2017-10-31,Q25f,number_of_veterans_at_annual_assessment_stayers,4
+Veterans with No Income,veterans,2017-10-01,2017-10-31,Q25f,number_of_veterans_at_exit_leavers,2
+Veterans with Client Doesn't Know/Client Refused Income Information,veterans,2017-10-01,2017-10-31,Q25f,number_of_veterans_at_start,0
+Veterans with Client Doesn't Know/Client Refused Income Information,veterans,2017-10-01,2017-10-31,Q25f,number_of_veterans_at_annual_assessment_stayers,0
+Veterans with Client Doesn't Know/Client Refused Income Information,veterans,2017-10-01,2017-10-31,Q25f,number_of_veterans_at_exit_leavers,0
+Veterans with Missing Income Information,veterans,2017-10-01,2017-10-31,Q25f,number_of_veterans_at_start,2
+Veterans with Missing Income Information,veterans,2017-10-01,2017-10-31,Q25f,number_of_veterans_at_annual_assessment_stayers,0
+Veterans with Missing Income Information,veterans,2017-10-01,2017-10-31,Q25f,number_of_veterans_at_exit_leavers,1
+Number of veterans not yet required to have an annual assessment,veterans,2017-10-01,2017-10-31,Q25f,number_of_veterans_at_start,0
+Number of veterans not yet required to have an annual assessment,veterans,2017-10-01,2017-10-31,Q25f,number_of_veterans_at_annual_assessment_stayers,15
+Number of veterans not yet required to have an annual assessment,veterans,2017-10-01,2017-10-31,Q25f,number_of_veterans_at_exit_leavers,0
+Number of veterans without required annual assessment,veterans,2017-10-01,2017-10-31,Q25f,number_of_veterans_at_start,0
+Number of veterans without required annual assessment,veterans,2017-10-01,2017-10-31,Q25f,number_of_veterans_at_annual_assessment_stayers,2
+Number of veterans without required annual assessment,veterans,2017-10-01,2017-10-31,Q25f,number_of_veterans_at_exit_leavers,0
+Total Veterans,veterans,2017-10-01,2017-10-31,Q25f,number_of_veterans_at_start,31
+Total Veterans,veterans,2017-10-01,2017-10-31,Q25f,number_of_veterans_at_annual_assessment_stayers,26
+Total Veterans,veterans,2017-10-01,2017-10-31,Q25f,number_of_veterans_at_exit_leavers,5

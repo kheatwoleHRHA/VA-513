@@ -1,0 +1,17 @@
+ch_status_households,total,population,start_date,end_date,question,household_type,count
+Chronically Homeless ,89,all_households,2019-10-01,2019-10-31,Q26a,without_children,84
+Chronically Homeless ,89,all_households,2019-10-01,2019-10-31,Q26a,with_children_and_adults,5
+Chronically Homeless ,89,all_households,2019-10-01,2019-10-31,Q26a,with_only_children,0
+Chronically Homeless ,89,all_households,2019-10-01,2019-10-31,Q26a,unknown_household_type,0
+Not Chronically Homeless,583,all_households,2019-10-01,2019-10-31,Q26a,without_children,458
+Not Chronically Homeless,583,all_households,2019-10-01,2019-10-31,Q26a,with_children_and_adults,122
+Not Chronically Homeless,583,all_households,2019-10-01,2019-10-31,Q26a,with_only_children,0
+Not Chronically Homeless,583,all_households,2019-10-01,2019-10-31,Q26a,unknown_household_type,3
+Client Doesn't Know/Client Refused,6,all_households,2019-10-01,2019-10-31,Q26a,without_children,6
+Client Doesn't Know/Client Refused,6,all_households,2019-10-01,2019-10-31,Q26a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,6,all_households,2019-10-01,2019-10-31,Q26a,with_only_children,0
+Client Doesn't Know/Client Refused,6,all_households,2019-10-01,2019-10-31,Q26a,unknown_household_type,0
+Data Not Collected,18,all_households,2019-10-01,2019-10-31,Q26a,without_children,11
+Data Not Collected,18,all_households,2019-10-01,2019-10-31,Q26a,with_children_and_adults,6
+Data Not Collected,18,all_households,2019-10-01,2019-10-31,Q26a,with_only_children,0
+Data Not Collected,18,all_households,2019-10-01,2019-10-31,Q26a,unknown_household_type,1

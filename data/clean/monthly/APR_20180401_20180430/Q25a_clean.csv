@@ -1,0 +1,16 @@
+veteran_status_persons,total,population,start_date,end_date,question,household_type,count
+Chronically Homeless Veteran,19,all_persons,2018-04-01,2018-04-30,Q25a,without_children,19
+Chronically Homeless Veteran,19,all_persons,2018-04-01,2018-04-30,Q25a,with_children_and_adults,0
+Chronically Homeless Veteran,19,all_persons,2018-04-01,2018-04-30,Q25a,unknown_household_type,0
+Non-Chronically Homeless Veteran,12,all_persons,2018-04-01,2018-04-30,Q25a,without_children,12
+Non-Chronically Homeless Veteran,12,all_persons,2018-04-01,2018-04-30,Q25a,with_children_and_adults,0
+Non-Chronically Homeless Veteran,12,all_persons,2018-04-01,2018-04-30,Q25a,unknown_household_type,0
+Not a Veteran,364,all_persons,2018-04-01,2018-04-30,Q25a,without_children,277
+Not a Veteran,364,all_persons,2018-04-01,2018-04-30,Q25a,with_children_and_adults,86
+Not a Veteran,364,all_persons,2018-04-01,2018-04-30,Q25a,unknown_household_type,1
+Client Doesn't Know/Client Refused,2,all_persons,2018-04-01,2018-04-30,Q25a,without_children,2
+Client Doesn't Know/Client Refused,2,all_persons,2018-04-01,2018-04-30,Q25a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,2,all_persons,2018-04-01,2018-04-30,Q25a,unknown_household_type,0
+Data Not Collected,6,all_persons,2018-04-01,2018-04-30,Q25a,without_children,5
+Data Not Collected,6,all_persons,2018-04-01,2018-04-30,Q25a,with_children_and_adults,1
+Data Not Collected,6,all_persons,2018-04-01,2018-04-30,Q25a,unknown_household_type,0

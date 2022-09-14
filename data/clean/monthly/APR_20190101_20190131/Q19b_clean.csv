@@ -1,0 +1,14 @@
+income_sources_exit,ao_adult_with_disabling_condition,ao_adult_without_disabling_condition,ao_total_adults,ao_percent_with_disabling_condition_by_source,ac_adult_with_disabling_condition,ac_adult_without_disabling_condition,ac_total_adults,ac_percent_with_disabling_condition_by_source,uk_adult_with_disabling_condition,uk_adult_without_disabling_condition,uk_total_adults,uk_percent_with_disabling_condition_by_source,population,start_date,end_date,question
+Earned Income,6,62,68,0.09,4,12,16,0.25,0,0,0,0.0,adults,2019-01-01,2019-01-31,Q19b
+Supplemental Security Income (SSI),21,5,26,0.81,3,0,3,1.0,0,0,0,0.0,adults,2019-01-01,2019-01-31,Q19b
+Social Security Disability Insurance (SSDI),22,3,25,0.88,1,0,1,1.0,0,0,0,0.0,adults,2019-01-01,2019-01-31,Q19b
+VA Service-Connected Disability Compensation,0,1,1,0.0,0,0,0,0.0,0,0,0,0.0,adults,2019-01-01,2019-01-31,Q19b
+Private Disability Insurance,0,0,0,0.0,0,0,0,0.0,0,0,0,0.0,adults,2019-01-01,2019-01-31,Q19b
+Worker's Compensation,0,0,0,0.0,0,0,0,0.0,0,0,0,0.0,adults,2019-01-01,2019-01-31,Q19b
+Temporary Assistance for Needy Families (TANF),2,5,7,0.29,0,0,0,0.0,0,0,0,0.0,adults,2019-01-01,2019-01-31,Q19b
+Retirement Income from Social Security,2,0,2,1.0,0,0,0,0.0,0,0,0,0.0,adults,2019-01-01,2019-01-31,Q19b
+Pension or retirement income from a former job,2,0,2,1.0,0,0,0,0.0,0,0,0,0.0,adults,2019-01-01,2019-01-31,Q19b
+Child Support,1,7,8,0.13,0,1,1,0.0,0,0,0,0.0,adults,2019-01-01,2019-01-31,Q19b
+Other source,1,4,5,0.2,0,0,0,0.0,0,0,0,0.0,adults,2019-01-01,2019-01-31,Q19b
+No Sources,12,44,56,0.21,0,5,5,0.0,0,0,0,0.0,adults,2019-01-01,2019-01-31,Q19b
+Unduplicated Total Adults,50,119,169,NA,8,17,25,NA,0,0,0,NA,adults,2019-01-01,2019-01-31,Q19b

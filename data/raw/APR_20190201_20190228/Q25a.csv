@@ -1,0 +1,7 @@
+, "Total" , "Without Children" , "With Children and Adults" , "Unknown Household Type"
+"""Chronically Homeless Veteran""",17,17,0,0
+"""Non-Chronically Homeless Veteran""",25,21,4,0
+"""Not a Veteran""",681,542,138,1
+"""Client Doesn't Know/Client Refused""",1,1,0,0
+"""Data Not Collected""",3,3,0,0
+"""Total""",727,584,142,1

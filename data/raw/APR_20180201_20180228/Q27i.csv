@@ -1,0 +1,14 @@
+, "AO: Youth with Disabling Condition" , "AO: Youth without Disabling Condition" , "AO: Total Youth" , "AO: % with Disabling Condition by Source" , "AC: Youth with Disabling Condition" , "AC: Youth without Disabling Condition" , "AC: Total Youth" , "AC: % with Disabling Condition by Source" , "CO: Youth with Disabling Condition" , "CO: Youth without Disabling Condition" , "CO: Total Youth" , "CO: % with Disabling Condition by Source", "UK: Youth with Disabling Condition" , "UK: Youth without Disabling Condition" , "UK: Total Youth" , "UK: % with Disabling Condition by Source"
+"""Earned Income""",1,0,1,1.0,1,0,1,1.0,0,0,0,0.0,0,0,0,0.0
+"""Supplemental Security Income (SSI)""",1,0,1,1.0,0,0,0,0.0,0,0,0,0.0,0,0,0,0.0
+"""Social Security Disability Insurance (SSDI)""",0,0,0,0.0,0,0,0,0.0,0,0,0,0.0,0,0,0,0.0
+"""VA Service-Connected Disability Compensation""",0,0,0,0.0,0,0,0,0.0,0,0,0,0.0,0,0,0,0.0
+"""Private Disability Insurance""",0,0,0,0.0,0,0,0,0.0,0,0,0,0.0,0,0,0,0.0
+"""Worker's Compensation""",0,0,0,0.0,0,0,0,0.0,0,0,0,0.0,0,0,0,0.0
+"""Temporary Assistance for Needy Families (TANF)""",0,0,0,0.0,1,0,1,1.0,0,0,0,0.0,0,0,0,0.0
+"""Retirement Income from Social Security""",0,0,0,0.0,0,0,0,0.0,0,0,0,0.0,0,0,0,0.0
+"""Pension or retirement income from a former job""",0,0,0,0.0,0,0,0,0.0,0,0,0,0.0,0,0,0,0.0
+"""Child Support""",0,0,0,0.0,1,0,1,1.0,0,0,0,0.0,0,0,0,0.0
+"""Other source""",0,0,0,0.0,0,0,0,0.0,0,0,0,0.0,0,0,0,0.0
+"""No Sources""",0,3,3,0.0,0,0,0,0.0,0,0,0,0.0,0,0,0,0.0
+"""Unduplicated Total Youth""",1,3,4,,1,0,1,,0,0,0,,0,0,0,

@@ -1,0 +1,53 @@
+time_prior_to_housing,total,population,start_date,end_date,question,household_type,count
+7 days or less,49,all_persons,2019-02-01,2019-02-28,Q22e,without_children,34
+7 days or less,49,all_persons,2019-02-01,2019-02-28,Q22e,with_children_and_adults,15
+7 days or less,49,all_persons,2019-02-01,2019-02-28,Q22e,with_only_children,0
+7 days or less,49,all_persons,2019-02-01,2019-02-28,Q22e,unknown_household_type,0
+8 to 14 days,8,all_persons,2019-02-01,2019-02-28,Q22e,without_children,6
+8 to 14 days,8,all_persons,2019-02-01,2019-02-28,Q22e,with_children_and_adults,2
+8 to 14 days,8,all_persons,2019-02-01,2019-02-28,Q22e,with_only_children,0
+8 to 14 days,8,all_persons,2019-02-01,2019-02-28,Q22e,unknown_household_type,0
+15 to 21 days,5,all_persons,2019-02-01,2019-02-28,Q22e,without_children,3
+15 to 21 days,5,all_persons,2019-02-01,2019-02-28,Q22e,with_children_and_adults,2
+15 to 21 days,5,all_persons,2019-02-01,2019-02-28,Q22e,with_only_children,0
+15 to 21 days,5,all_persons,2019-02-01,2019-02-28,Q22e,unknown_household_type,0
+22 to 30 days,13,all_persons,2019-02-01,2019-02-28,Q22e,without_children,4
+22 to 30 days,13,all_persons,2019-02-01,2019-02-28,Q22e,with_children_and_adults,9
+22 to 30 days,13,all_persons,2019-02-01,2019-02-28,Q22e,with_only_children,0
+22 to 30 days,13,all_persons,2019-02-01,2019-02-28,Q22e,unknown_household_type,0
+31 to 60 days,29,all_persons,2019-02-01,2019-02-28,Q22e,without_children,10
+31 to 60 days,29,all_persons,2019-02-01,2019-02-28,Q22e,with_children_and_adults,19
+31 to 60 days,29,all_persons,2019-02-01,2019-02-28,Q22e,with_only_children,0
+31 to 60 days,29,all_persons,2019-02-01,2019-02-28,Q22e,unknown_household_type,0
+61 to 180 days,77,all_persons,2019-02-01,2019-02-28,Q22e,without_children,32
+61 to 180 days,77,all_persons,2019-02-01,2019-02-28,Q22e,with_children_and_adults,45
+61 to 180 days,77,all_persons,2019-02-01,2019-02-28,Q22e,with_only_children,0
+61 to 180 days,77,all_persons,2019-02-01,2019-02-28,Q22e,unknown_household_type,0
+181 to 365 days,49,all_persons,2019-02-01,2019-02-28,Q22e,without_children,25
+181 to 365 days,49,all_persons,2019-02-01,2019-02-28,Q22e,with_children_and_adults,24
+181 to 365 days,49,all_persons,2019-02-01,2019-02-28,Q22e,with_only_children,0
+181 to 365 days,49,all_persons,2019-02-01,2019-02-28,Q22e,unknown_household_type,0
+366-730 days (1-2 years),39,all_persons,2019-02-01,2019-02-28,Q22e,without_children,39
+366-730 days (1-2 years),39,all_persons,2019-02-01,2019-02-28,Q22e,with_children_and_adults,0
+366-730 days (1-2 years),39,all_persons,2019-02-01,2019-02-28,Q22e,with_only_children,0
+366-730 days (1-2 years),39,all_persons,2019-02-01,2019-02-28,Q22e,unknown_household_type,0
+731 days or more,56,all_persons,2019-02-01,2019-02-28,Q22e,without_children,47
+731 days or more,56,all_persons,2019-02-01,2019-02-28,Q22e,with_children_and_adults,9
+731 days or more,56,all_persons,2019-02-01,2019-02-28,Q22e,with_only_children,0
+731 days or more,56,all_persons,2019-02-01,2019-02-28,Q22e,unknown_household_type,0
+Total (persons moved into housing),325,all_persons,2019-02-01,2019-02-28,Q22e,without_children,200
+Total (persons moved into housing),325,all_persons,2019-02-01,2019-02-28,Q22e,with_children_and_adults,125
+Total (persons moved into housing),325,all_persons,2019-02-01,2019-02-28,Q22e,with_only_children,0
+Total (persons moved into housing),325,all_persons,2019-02-01,2019-02-28,Q22e,unknown_household_type,0
+Not yet moved into housing,37,all_persons,2019-02-01,2019-02-28,Q22e,without_children,20
+Not yet moved into housing,37,all_persons,2019-02-01,2019-02-28,Q22e,with_children_and_adults,17
+Not yet moved into housing,37,all_persons,2019-02-01,2019-02-28,Q22e,with_only_children,0
+Not yet moved into housing,37,all_persons,2019-02-01,2019-02-28,Q22e,unknown_household_type,0
+Data not collected,19,all_persons,2019-02-01,2019-02-28,Q22e,without_children,10
+Data not collected,19,all_persons,2019-02-01,2019-02-28,Q22e,with_children_and_adults,9
+Data not collected,19,all_persons,2019-02-01,2019-02-28,Q22e,with_only_children,0
+Data not collected,19,all_persons,2019-02-01,2019-02-28,Q22e,unknown_household_type,0
+Total persons,381,all_persons,2019-02-01,2019-02-28,Q22e,without_children,230
+Total persons,381,all_persons,2019-02-01,2019-02-28,Q22e,with_children_and_adults,151
+Total persons,381,all_persons,2019-02-01,2019-02-28,Q22e,with_only_children,0
+Total persons,381,all_persons,2019-02-01,2019-02-28,Q22e,unknown_household_type,0

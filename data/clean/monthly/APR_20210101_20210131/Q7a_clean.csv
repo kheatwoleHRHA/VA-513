@@ -1,0 +1,21 @@
+persons_served,total,population,start_date,end_date,question,household_type,count
+Adults,981,all_persons,2021-01-01,2021-01-31,Q7a,without_children,806
+Adults,981,all_persons,2021-01-01,2021-01-31,Q7a,with_children_and_adults,171
+Adults,981,all_persons,2021-01-01,2021-01-31,Q7a,with_only_children,0
+Adults,981,all_persons,2021-01-01,2021-01-31,Q7a,unknown_household_type,4
+Children,257,all_persons,2021-01-01,2021-01-31,Q7a,without_children,0
+Children,257,all_persons,2021-01-01,2021-01-31,Q7a,with_children_and_adults,240
+Children,257,all_persons,2021-01-01,2021-01-31,Q7a,with_only_children,17
+Children,257,all_persons,2021-01-01,2021-01-31,Q7a,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_persons,2021-01-01,2021-01-31,Q7a,without_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2021-01-01,2021-01-31,Q7a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_persons,2021-01-01,2021-01-31,Q7a,with_only_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2021-01-01,2021-01-31,Q7a,unknown_household_type,1
+Data Not Collected,10,all_persons,2021-01-01,2021-01-31,Q7a,without_children,0
+Data Not Collected,10,all_persons,2021-01-01,2021-01-31,Q7a,with_children_and_adults,0
+Data Not Collected,10,all_persons,2021-01-01,2021-01-31,Q7a,with_only_children,0
+Data Not Collected,10,all_persons,2021-01-01,2021-01-31,Q7a,unknown_household_type,10
+For PSH and RRH - the total persons served who moved into housing,139,all_persons,2021-01-01,2021-01-31,Q7a,without_children,86
+For PSH and RRH - the total persons served who moved into housing,139,all_persons,2021-01-01,2021-01-31,Q7a,with_children_and_adults,53
+For PSH and RRH - the total persons served who moved into housing,139,all_persons,2021-01-01,2021-01-31,Q7a,with_only_children,0
+For PSH and RRH - the total persons served who moved into housing,139,all_persons,2021-01-01,2021-01-31,Q7a,unknown_household_type,0

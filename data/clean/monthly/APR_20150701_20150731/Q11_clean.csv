@@ -1,0 +1,45 @@
+age_group,total,population,start_date,end_date,question,household_type,count
+Under 5,64,all_persons,2015-07-01,2015-07-31,Q11,without_children,0
+Under 5,64,all_persons,2015-07-01,2015-07-31,Q11,with_children_and_adults,64
+Under 5,64,all_persons,2015-07-01,2015-07-31,Q11,with_only_children,0
+Under 5,64,all_persons,2015-07-01,2015-07-31,Q11,unknown_household_type,0
+5 -  12,76,all_persons,2015-07-01,2015-07-31,Q11,without_children,0
+5 -  12,76,all_persons,2015-07-01,2015-07-31,Q11,with_children_and_adults,74
+5 -  12,76,all_persons,2015-07-01,2015-07-31,Q11,with_only_children,2
+5 -  12,76,all_persons,2015-07-01,2015-07-31,Q11,unknown_household_type,0
+13 - 17,27,all_persons,2015-07-01,2015-07-31,Q11,without_children,0
+13 - 17,27,all_persons,2015-07-01,2015-07-31,Q11,with_children_and_adults,27
+13 - 17,27,all_persons,2015-07-01,2015-07-31,Q11,with_only_children,0
+13 - 17,27,all_persons,2015-07-01,2015-07-31,Q11,unknown_household_type,0
+18 - 24,47,all_persons,2015-07-01,2015-07-31,Q11,without_children,23
+18 - 24,47,all_persons,2015-07-01,2015-07-31,Q11,with_children_and_adults,24
+18 - 24,47,all_persons,2015-07-01,2015-07-31,Q11,with_only_children,0
+18 - 24,47,all_persons,2015-07-01,2015-07-31,Q11,unknown_household_type,0
+25 - 34,74,all_persons,2015-07-01,2015-07-31,Q11,without_children,33
+25 - 34,74,all_persons,2015-07-01,2015-07-31,Q11,with_children_and_adults,41
+25 - 34,74,all_persons,2015-07-01,2015-07-31,Q11,with_only_children,0
+25 - 34,74,all_persons,2015-07-01,2015-07-31,Q11,unknown_household_type,0
+35 - 44,84,all_persons,2015-07-01,2015-07-31,Q11,without_children,53
+35 - 44,84,all_persons,2015-07-01,2015-07-31,Q11,with_children_and_adults,30
+35 - 44,84,all_persons,2015-07-01,2015-07-31,Q11,with_only_children,0
+35 - 44,84,all_persons,2015-07-01,2015-07-31,Q11,unknown_household_type,1
+45 - 54,95,all_persons,2015-07-01,2015-07-31,Q11,without_children,84
+45 - 54,95,all_persons,2015-07-01,2015-07-31,Q11,with_children_and_adults,11
+45 - 54,95,all_persons,2015-07-01,2015-07-31,Q11,with_only_children,0
+45 - 54,95,all_persons,2015-07-01,2015-07-31,Q11,unknown_household_type,0
+55 - 61,45,all_persons,2015-07-01,2015-07-31,Q11,without_children,42
+55 - 61,45,all_persons,2015-07-01,2015-07-31,Q11,with_children_and_adults,3
+55 - 61,45,all_persons,2015-07-01,2015-07-31,Q11,with_only_children,0
+55 - 61,45,all_persons,2015-07-01,2015-07-31,Q11,unknown_household_type,0
+62 +,34,all_persons,2015-07-01,2015-07-31,Q11,without_children,34
+62 +,34,all_persons,2015-07-01,2015-07-31,Q11,with_children_and_adults,0
+62 +,34,all_persons,2015-07-01,2015-07-31,Q11,with_only_children,0
+62 +,34,all_persons,2015-07-01,2015-07-31,Q11,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,all_persons,2015-07-01,2015-07-31,Q11,without_children,0
+Client Doesn't Know/Client Refused,0,all_persons,2015-07-01,2015-07-31,Q11,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,all_persons,2015-07-01,2015-07-31,Q11,with_only_children,0
+Client Doesn't Know/Client Refused,0,all_persons,2015-07-01,2015-07-31,Q11,unknown_household_type,0
+Data Not Collected,1,all_persons,2015-07-01,2015-07-31,Q11,without_children,0
+Data Not Collected,1,all_persons,2015-07-01,2015-07-31,Q11,with_children_and_adults,0
+Data Not Collected,1,all_persons,2015-07-01,2015-07-31,Q11,with_only_children,0
+Data Not Collected,1,all_persons,2015-07-01,2015-07-31,Q11,unknown_household_type,1

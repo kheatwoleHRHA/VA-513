@@ -1,0 +1,5 @@
+summary,population,start_date,end_date,question,status,count
+Average Length,all_persons,2019-06-01,2019-06-30,Q22b,leavers,46
+Average Length,all_persons,2019-06-01,2019-06-30,Q22b,stayers,431
+Median Length,all_persons,2019-06-01,2019-06-30,Q22b,leavers,0
+Median Length,all_persons,2019-06-01,2019-06-30,Q22b,stayers,117

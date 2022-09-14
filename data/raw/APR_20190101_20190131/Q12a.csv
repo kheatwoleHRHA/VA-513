@@ -1,0 +1,10 @@
+, "Total" , "Without Children" , "With Children and Adults" , "With Only Children" , "Unknown Household Type"
+"""White""",597,387,201,9,0
+"""Black, African American, or African""",197,98,95,4,0
+"""Asian or Asian American""",2,1,1,0,0
+"""American Indian, Alaska Native, or Indigenous""",2,2,0,0,0
+"""Native Hawaiian or Pacific Islander""",1,1,0,0,0
+"""Multiple Races""",72,23,49,0,0
+"""Client Doesn't Know/Client Refused""",2,1,1,0,0
+"""Data Not Collected""",1,0,0,0,1
+"""Total""",874,513,347,13,1

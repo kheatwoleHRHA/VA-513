@@ -1,0 +1,377 @@
+data_element,error_count,percent_of_error_rate,population,start_date,end_date,question
+Destination (3.12),66,0.38,data_quality,2014-11-01,2014-11-30,Q6c
+Income and Sources (4.2) at Start,68,0.17,data_quality,2014-11-01,2014-11-30,Q6c
+Income and Sources (4.2) at Annual Assessment,85,0.96,data_quality,2014-11-01,2014-11-30,Q6c
+Income and Sources (4.2) at Exit,21,0.15,data_quality,2014-11-01,2014-11-30,Q6c
+Destination (3.12),70,0.39,data_quality,2014-12-01,2014-12-31,Q6c
+Income and Sources (4.2) at Start,61,0.15,data_quality,2014-12-01,2014-12-31,Q6c
+Income and Sources (4.2) at Annual Assessment,81,0.91,data_quality,2014-12-01,2014-12-31,Q6c
+Income and Sources (4.2) at Exit,19,0.14,data_quality,2014-12-01,2014-12-31,Q6c
+Destination (3.12),41,0.23,data_quality,2015-01-01,2015-01-31,Q6c
+Income and Sources (4.2) at Start,62,0.14,data_quality,2015-01-01,2015-01-31,Q6c
+Income and Sources (4.2) at Annual Assessment,81,0.88,data_quality,2015-01-01,2015-01-31,Q6c
+Income and Sources (4.2) at Exit,15,0.11,data_quality,2015-01-01,2015-01-31,Q6c
+Destination (3.12),49,0.28,data_quality,2015-02-01,2015-02-28,Q6c
+Income and Sources (4.2) at Start,64,0.14,data_quality,2015-02-01,2015-02-28,Q6c
+Income and Sources (4.2) at Annual Assessment,83,0.87,data_quality,2015-02-01,2015-02-28,Q6c
+Income and Sources (4.2) at Exit,11,0.08,data_quality,2015-02-01,2015-02-28,Q6c
+Destination (3.12),47,0.24,data_quality,2015-03-01,2015-03-31,Q6c
+Income and Sources (4.2) at Start,70,0.16,data_quality,2015-03-01,2015-03-31,Q6c
+Income and Sources (4.2) at Annual Assessment,83,0.87,data_quality,2015-03-01,2015-03-31,Q6c
+Income and Sources (4.2) at Exit,25,0.18,data_quality,2015-03-01,2015-03-31,Q6c
+Destination (3.12),34,0.19,data_quality,2015-04-01,2015-04-30,Q6c
+Income and Sources (4.2) at Start,65,0.15,data_quality,2015-04-01,2015-04-30,Q6c
+Income and Sources (4.2) at Annual Assessment,82,0.85,data_quality,2015-04-01,2015-04-30,Q6c
+Income and Sources (4.2) at Exit,26,0.18,data_quality,2015-04-01,2015-04-30,Q6c
+Destination (3.12),13,0.16,data_quality,2015-05-01,2015-05-31,Q6c
+Income and Sources (4.2) at Start,54,0.15,data_quality,2015-05-01,2015-05-31,Q6c
+Income and Sources (4.2) at Annual Assessment,80,0.8,data_quality,2015-05-01,2015-05-31,Q6c
+Income and Sources (4.2) at Exit,8,0.14,data_quality,2015-05-01,2015-05-31,Q6c
+Destination (3.12),14,0.08,data_quality,2015-06-01,2015-06-30,Q6c
+Income and Sources (4.2) at Start,59,0.15,data_quality,2015-06-01,2015-06-30,Q6c
+Income and Sources (4.2) at Annual Assessment,82,0.81,data_quality,2015-06-01,2015-06-30,Q6c
+Income and Sources (4.2) at Exit,11,0.09,data_quality,2015-06-01,2015-06-30,Q6c
+Destination (3.12),9,0.06,data_quality,2015-07-01,2015-07-31,Q6c
+Income and Sources (4.2) at Start,63,0.17,data_quality,2015-07-01,2015-07-31,Q6c
+Income and Sources (4.2) at Annual Assessment,79,0.8,data_quality,2015-07-01,2015-07-31,Q6c
+Income and Sources (4.2) at Exit,10,0.1,data_quality,2015-07-01,2015-07-31,Q6c
+Destination (3.12),9,0.12,data_quality,2015-08-01,2015-08-31,Q6c
+Income and Sources (4.2) at Start,63,0.18,data_quality,2015-08-01,2015-08-31,Q6c
+Income and Sources (4.2) at Annual Assessment,80,0.79,data_quality,2015-08-01,2015-08-31,Q6c
+Income and Sources (4.2) at Exit,8,0.17,data_quality,2015-08-01,2015-08-31,Q6c
+Destination (3.12),11,0.07,data_quality,2015-09-01,2015-09-30,Q6c
+Income and Sources (4.2) at Start,63,0.16,data_quality,2015-09-01,2015-09-30,Q6c
+Income and Sources (4.2) at Annual Assessment,75,0.77,data_quality,2015-09-01,2015-09-30,Q6c
+Income and Sources (4.2) at Exit,14,0.16,data_quality,2015-09-01,2015-09-30,Q6c
+Destination (3.12),19,0.12,data_quality,2015-10-01,2015-10-31,Q6c
+Income and Sources (4.2) at Start,64,0.15,data_quality,2015-10-01,2015-10-31,Q6c
+Income and Sources (4.2) at Annual Assessment,74,0.76,data_quality,2015-10-01,2015-10-31,Q6c
+Income and Sources (4.2) at Exit,11,0.12,data_quality,2015-10-01,2015-10-31,Q6c
+Destination (3.12),29,0.21,data_quality,2015-11-01,2015-11-30,Q6c
+Income and Sources (4.2) at Start,64,0.14,data_quality,2015-11-01,2015-11-30,Q6c
+Income and Sources (4.2) at Annual Assessment,69,0.7,data_quality,2015-11-01,2015-11-30,Q6c
+Income and Sources (4.2) at Exit,8,0.09,data_quality,2015-11-01,2015-11-30,Q6c
+Destination (3.12),36,0.21,data_quality,2015-12-01,2015-12-31,Q6c
+Income and Sources (4.2) at Start,55,0.12,data_quality,2015-12-01,2015-12-31,Q6c
+Income and Sources (4.2) at Annual Assessment,67,0.69,data_quality,2015-12-01,2015-12-31,Q6c
+Income and Sources (4.2) at Exit,7,0.06,data_quality,2015-12-01,2015-12-31,Q6c
+Destination (3.12),35,0.25,data_quality,2016-01-01,2016-01-31,Q6c
+Income and Sources (4.2) at Start,58,0.13,data_quality,2016-01-01,2016-01-31,Q6c
+Income and Sources (4.2) at Annual Assessment,70,0.69,data_quality,2016-01-01,2016-01-31,Q6c
+Income and Sources (4.2) at Exit,9,0.09,data_quality,2016-01-01,2016-01-31,Q6c
+Destination (3.12),52,0.29,data_quality,2016-02-01,2016-02-29,Q6c
+Income and Sources (4.2) at Start,55,0.13,data_quality,2016-02-01,2016-02-29,Q6c
+Income and Sources (4.2) at Annual Assessment,74,0.71,data_quality,2016-02-01,2016-02-29,Q6c
+Income and Sources (4.2) at Exit,12,0.09,data_quality,2016-02-01,2016-02-29,Q6c
+Destination (3.12),52,0.33,data_quality,2016-03-01,2016-03-31,Q6c
+Income and Sources (4.2) at Start,57,0.13,data_quality,2016-03-01,2016-03-31,Q6c
+Income and Sources (4.2) at Annual Assessment,76,0.72,data_quality,2016-03-01,2016-03-31,Q6c
+Income and Sources (4.2) at Exit,7,0.06,data_quality,2016-03-01,2016-03-31,Q6c
+Destination (3.12),33,0.29,data_quality,2016-04-01,2016-04-30,Q6c
+Income and Sources (4.2) at Start,53,0.13,data_quality,2016-04-01,2016-04-30,Q6c
+Income and Sources (4.2) at Annual Assessment,76,0.7,data_quality,2016-04-01,2016-04-30,Q6c
+Income and Sources (4.2) at Exit,9,0.1,data_quality,2016-04-01,2016-04-30,Q6c
+Destination (3.12),3,0.02,data_quality,2016-05-01,2016-05-31,Q6c
+Income and Sources (4.2) at Start,48,0.13,data_quality,2016-05-01,2016-05-31,Q6c
+Income and Sources (4.2) at Annual Assessment,76,0.7,data_quality,2016-05-01,2016-05-31,Q6c
+Income and Sources (4.2) at Exit,8,0.1,data_quality,2016-05-01,2016-05-31,Q6c
+Destination (3.12),2,0.02,data_quality,2016-06-01,2016-06-30,Q6c
+Income and Sources (4.2) at Start,45,0.12,data_quality,2016-06-01,2016-06-30,Q6c
+Income and Sources (4.2) at Annual Assessment,77,0.71,data_quality,2016-06-01,2016-06-30,Q6c
+Income and Sources (4.2) at Exit,8,0.11,data_quality,2016-06-01,2016-06-30,Q6c
+Destination (3.12),4,0.04,data_quality,2016-07-01,2016-07-31,Q6c
+Income and Sources (4.2) at Start,54,0.13,data_quality,2016-07-01,2016-07-31,Q6c
+Income and Sources (4.2) at Annual Assessment,81,0.74,data_quality,2016-07-01,2016-07-31,Q6c
+Income and Sources (4.2) at Exit,5,0.09,data_quality,2016-07-01,2016-07-31,Q6c
+Destination (3.12),7,0.05,data_quality,2016-08-01,2016-08-31,Q6c
+Income and Sources (4.2) at Start,58,0.12,data_quality,2016-08-01,2016-08-31,Q6c
+Income and Sources (4.2) at Annual Assessment,81,0.75,data_quality,2016-08-01,2016-08-31,Q6c
+Income and Sources (4.2) at Exit,7,0.07,data_quality,2016-08-01,2016-08-31,Q6c
+Destination (3.12),7,0.03,data_quality,2016-09-01,2016-09-30,Q6c
+Income and Sources (4.2) at Start,64,0.13,data_quality,2016-09-01,2016-09-30,Q6c
+Income and Sources (4.2) at Annual Assessment,83,0.76,data_quality,2016-09-01,2016-09-30,Q6c
+Income and Sources (4.2) at Exit,9,0.07,data_quality,2016-09-01,2016-09-30,Q6c
+Destination (3.12),10,0.06,data_quality,2016-10-01,2016-10-31,Q6c
+Income and Sources (4.2) at Start,57,0.13,data_quality,2016-10-01,2016-10-31,Q6c
+Income and Sources (4.2) at Annual Assessment,85,0.78,data_quality,2016-10-01,2016-10-31,Q6c
+Income and Sources (4.2) at Exit,15,0.16,data_quality,2016-10-01,2016-10-31,Q6c
+Destination (3.12),3,0.02,data_quality,2016-11-01,2016-11-30,Q6c
+Income and Sources (4.2) at Start,54,0.11,data_quality,2016-11-01,2016-11-30,Q6c
+Income and Sources (4.2) at Annual Assessment,87,0.8,data_quality,2016-11-01,2016-11-30,Q6c
+Income and Sources (4.2) at Exit,6,0.06,data_quality,2016-11-01,2016-11-30,Q6c
+Destination (3.12),2,0.01,data_quality,2016-12-01,2016-12-31,Q6c
+Income and Sources (4.2) at Start,57,0.11,data_quality,2016-12-01,2016-12-31,Q6c
+Income and Sources (4.2) at Annual Assessment,89,0.8,data_quality,2016-12-01,2016-12-31,Q6c
+Income and Sources (4.2) at Exit,19,0.15,data_quality,2016-12-01,2016-12-31,Q6c
+Destination (3.12),6,0.03,data_quality,2017-01-01,2017-01-31,Q6c
+Income and Sources (4.2) at Start,52,0.11,data_quality,2017-01-01,2017-01-31,Q6c
+Income and Sources (4.2) at Annual Assessment,96,0.83,data_quality,2017-01-01,2017-01-31,Q6c
+Income and Sources (4.2) at Exit,13,0.09,data_quality,2017-01-01,2017-01-31,Q6c
+Destination (3.12),13,0.07,data_quality,2017-02-01,2017-02-28,Q6c
+Income and Sources (4.2) at Start,56,0.12,data_quality,2017-02-01,2017-02-28,Q6c
+Income and Sources (4.2) at Annual Assessment,95,0.76,data_quality,2017-02-01,2017-02-28,Q6c
+Income and Sources (4.2) at Exit,19,0.16,data_quality,2017-02-01,2017-02-28,Q6c
+Destination (3.12),7,0.04,data_quality,2017-03-01,2017-03-31,Q6c
+Income and Sources (4.2) at Start,53,0.12,data_quality,2017-03-01,2017-03-31,Q6c
+Income and Sources (4.2) at Annual Assessment,94,0.75,data_quality,2017-03-01,2017-03-31,Q6c
+Income and Sources (4.2) at Exit,12,0.1,data_quality,2017-03-01,2017-03-31,Q6c
+Destination (3.12),37,0.27,data_quality,2017-04-01,2017-04-30,Q6c
+Income and Sources (4.2) at Start,51,0.13,data_quality,2017-04-01,2017-04-30,Q6c
+Income and Sources (4.2) at Annual Assessment,94,0.72,data_quality,2017-04-01,2017-04-30,Q6c
+Income and Sources (4.2) at Exit,8,0.08,data_quality,2017-04-01,2017-04-30,Q6c
+Destination (3.12),17,0.25,data_quality,2017-05-01,2017-05-31,Q6c
+Income and Sources (4.2) at Start,51,0.14,data_quality,2017-05-01,2017-05-31,Q6c
+Income and Sources (4.2) at Annual Assessment,95,0.71,data_quality,2017-05-01,2017-05-31,Q6c
+Income and Sources (4.2) at Exit,9,0.18,data_quality,2017-05-01,2017-05-31,Q6c
+Destination (3.12),5,0.08,data_quality,2017-06-01,2017-06-30,Q6c
+Income and Sources (4.2) at Start,55,0.14,data_quality,2017-06-01,2017-06-30,Q6c
+Income and Sources (4.2) at Annual Assessment,96,0.71,data_quality,2017-06-01,2017-06-30,Q6c
+Income and Sources (4.2) at Exit,14,0.33,data_quality,2017-06-01,2017-06-30,Q6c
+Destination (3.12),10,0.1,data_quality,2017-07-01,2017-07-31,Q6c
+Income and Sources (4.2) at Start,51,0.12,data_quality,2017-07-01,2017-07-31,Q6c
+Income and Sources (4.2) at Annual Assessment,93,0.7,data_quality,2017-07-01,2017-07-31,Q6c
+Income and Sources (4.2) at Exit,11,0.19,data_quality,2017-07-01,2017-07-31,Q6c
+Destination (3.12),11,0.06,data_quality,2017-08-01,2017-08-31,Q6c
+Income and Sources (4.2) at Start,57,0.13,data_quality,2017-08-01,2017-08-31,Q6c
+Income and Sources (4.2) at Annual Assessment,97,0.7,data_quality,2017-08-01,2017-08-31,Q6c
+Income and Sources (4.2) at Exit,19,0.19,data_quality,2017-08-01,2017-08-31,Q6c
+Destination (3.12),39,0.22,data_quality,2017-09-01,2017-09-30,Q6c
+Income and Sources (4.2) at Start,59,0.14,data_quality,2017-09-01,2017-09-30,Q6c
+Income and Sources (4.2) at Annual Assessment,75,0.66,data_quality,2017-09-01,2017-09-30,Q6c
+Income and Sources (4.2) at Exit,21,0.18,data_quality,2017-09-01,2017-09-30,Q6c
+Destination (3.12),10,0.1,data_quality,2017-10-01,2017-10-31,Q6c
+Income and Sources (4.2) at Start,51,0.14,data_quality,2017-10-01,2017-10-31,Q6c
+Income and Sources (4.2) at Annual Assessment,74,0.65,data_quality,2017-10-01,2017-10-31,Q6c
+Income and Sources (4.2) at Exit,9,0.15,data_quality,2017-10-01,2017-10-31,Q6c
+Destination (3.12),7,0.04,data_quality,2017-11-01,2017-11-30,Q6c
+Income and Sources (4.2) at Start,66,0.15,data_quality,2017-11-01,2017-11-30,Q6c
+Income and Sources (4.2) at Annual Assessment,74,0.66,data_quality,2017-11-01,2017-11-30,Q6c
+Income and Sources (4.2) at Exit,20,0.18,data_quality,2017-11-01,2017-11-30,Q6c
+Destination (3.12),6,0.04,data_quality,2017-12-01,2017-12-31,Q6c
+Income and Sources (4.2) at Start,54,0.13,data_quality,2017-12-01,2017-12-31,Q6c
+Income and Sources (4.2) at Annual Assessment,69,0.64,data_quality,2017-12-01,2017-12-31,Q6c
+Income and Sources (4.2) at Exit,12,0.1,data_quality,2017-12-01,2017-12-31,Q6c
+Destination (3.12),11,0.1,data_quality,2018-01-01,2018-01-31,Q6c
+Income and Sources (4.2) at Start,52,0.12,data_quality,2018-01-01,2018-01-31,Q6c
+Income and Sources (4.2) at Annual Assessment,69,0.63,data_quality,2018-01-01,2018-01-31,Q6c
+Income and Sources (4.2) at Exit,12,0.15,data_quality,2018-01-01,2018-01-31,Q6c
+Destination (3.12),4,0.04,data_quality,2018-02-01,2018-02-28,Q6c
+Income and Sources (4.2) at Start,55,0.13,data_quality,2018-02-01,2018-02-28,Q6c
+Income and Sources (4.2) at Annual Assessment,72,0.64,data_quality,2018-02-01,2018-02-28,Q6c
+Income and Sources (4.2) at Exit,12,0.14,data_quality,2018-02-01,2018-02-28,Q6c
+Destination (3.12),6,0.04,data_quality,2018-03-01,2018-03-31,Q6c
+Income and Sources (4.2) at Start,52,0.12,data_quality,2018-03-01,2018-03-31,Q6c
+Income and Sources (4.2) at Annual Assessment,75,0.66,data_quality,2018-03-01,2018-03-31,Q6c
+Income and Sources (4.2) at Exit,14,0.13,data_quality,2018-03-01,2018-03-31,Q6c
+Destination (3.12),2,0.02,data_quality,2018-04-01,2018-04-30,Q6c
+Income and Sources (4.2) at Start,44,0.11,data_quality,2018-04-01,2018-04-30,Q6c
+Income and Sources (4.2) at Annual Assessment,77,0.68,data_quality,2018-04-01,2018-04-30,Q6c
+Income and Sources (4.2) at Exit,7,0.08,data_quality,2018-04-01,2018-04-30,Q6c
+Destination (3.12),1,0.01,data_quality,2018-05-01,2018-05-31,Q6c
+Income and Sources (4.2) at Start,48,0.12,data_quality,2018-05-01,2018-05-31,Q6c
+Income and Sources (4.2) at Annual Assessment,76,0.67,data_quality,2018-05-01,2018-05-31,Q6c
+Income and Sources (4.2) at Exit,7,0.09,data_quality,2018-05-01,2018-05-31,Q6c
+Destination (3.12),16,0.1,data_quality,2018-06-01,2018-06-30,Q6c
+Income and Sources (4.2) at Start,49,0.13,data_quality,2018-06-01,2018-06-30,Q6c
+Income and Sources (4.2) at Annual Assessment,48,0.55,data_quality,2018-06-01,2018-06-30,Q6c
+Income and Sources (4.2) at Exit,15,0.14,data_quality,2018-06-01,2018-06-30,Q6c
+Destination (3.12),1,0.02,data_quality,2018-07-01,2018-07-31,Q6c
+Income and Sources (4.2) at Start,42,0.12,data_quality,2018-07-01,2018-07-31,Q6c
+Income and Sources (4.2) at Annual Assessment,49,0.56,data_quality,2018-07-01,2018-07-31,Q6c
+Income and Sources (4.2) at Exit,2,0.05,data_quality,2018-07-01,2018-07-31,Q6c
+Destination (3.12),2,0.02,data_quality,2018-08-01,2018-08-31,Q6c
+Income and Sources (4.2) at Start,45,0.12,data_quality,2018-08-01,2018-08-31,Q6c
+Income and Sources (4.2) at Annual Assessment,51,0.54,data_quality,2018-08-01,2018-08-31,Q6c
+Income and Sources (4.2) at Exit,3,0.05,data_quality,2018-08-01,2018-08-31,Q6c
+Destination (3.12),0,0,data_quality,2018-09-01,2018-09-30,Q6c
+Income and Sources (4.2) at Start,51,0.14,data_quality,2018-09-01,2018-09-30,Q6c
+Income and Sources (4.2) at Annual Assessment,59,0.58,data_quality,2018-09-01,2018-09-30,Q6c
+Income and Sources (4.2) at Exit,8,0.17,data_quality,2018-09-01,2018-09-30,Q6c
+Destination (3.12),5,0.04,data_quality,2018-10-01,2018-10-31,Q6c
+Income and Sources (4.2) at Start,52,0.13,data_quality,2018-10-01,2018-10-31,Q6c
+Income and Sources (4.2) at Annual Assessment,58,0.56,data_quality,2018-10-01,2018-10-31,Q6c
+Income and Sources (4.2) at Exit,13,0.19,data_quality,2018-10-01,2018-10-31,Q6c
+Destination (3.12),31,0.25,data_quality,2018-11-01,2018-11-30,Q6c
+Income and Sources (4.2) at Start,53,0.12,data_quality,2018-11-01,2018-11-30,Q6c
+Income and Sources (4.2) at Annual Assessment,61,0.57,data_quality,2018-11-01,2018-11-30,Q6c
+Income and Sources (4.2) at Exit,10,0.12,data_quality,2018-11-01,2018-11-30,Q6c
+Destination (3.12),67,0.3,data_quality,2018-12-01,2018-12-31,Q6c
+Income and Sources (4.2) at Start,93,0.17,data_quality,2018-12-01,2018-12-31,Q6c
+Income and Sources (4.2) at Annual Assessment,60,0.56,data_quality,2018-12-01,2018-12-31,Q6c
+Income and Sources (4.2) at Exit,41,0.24,data_quality,2018-12-01,2018-12-31,Q6c
+Destination (3.12),36,0.14,data_quality,2019-01-01,2019-01-31,Q6c
+Income and Sources (4.2) at Start,100,0.15,data_quality,2019-01-01,2019-01-31,Q6c
+Income and Sources (4.2) at Annual Assessment,67,0.58,data_quality,2019-01-01,2019-01-31,Q6c
+Income and Sources (4.2) at Exit,45,0.21,data_quality,2019-01-01,2019-01-31,Q6c
+Destination (3.12),45,0.13,data_quality,2019-02-01,2019-02-28,Q6c
+Income and Sources (4.2) at Start,156,0.21,data_quality,2019-02-01,2019-02-28,Q6c
+Income and Sources (4.2) at Annual Assessment,71,0.57,data_quality,2019-02-01,2019-02-28,Q6c
+Income and Sources (4.2) at Exit,98,0.34,data_quality,2019-02-01,2019-02-28,Q6c
+Destination (3.12),46,0.16,data_quality,2019-03-01,2019-03-31,Q6c
+Income and Sources (4.2) at Start,154,0.22,data_quality,2019-03-01,2019-03-31,Q6c
+Income and Sources (4.2) at Annual Assessment,67,0.55,data_quality,2019-03-01,2019-03-31,Q6c
+Income and Sources (4.2) at Exit,96,0.37,data_quality,2019-03-01,2019-03-31,Q6c
+Destination (3.12),40,0.12,data_quality,2019-04-01,2019-04-30,Q6c
+Income and Sources (4.2) at Start,157,0.22,data_quality,2019-04-01,2019-04-30,Q6c
+Income and Sources (4.2) at Annual Assessment,69,0.56,data_quality,2019-04-01,2019-04-30,Q6c
+Income and Sources (4.2) at Exit,106,0.35,data_quality,2019-04-01,2019-04-30,Q6c
+Destination (3.12),2,0.01,data_quality,2019-05-01,2019-05-31,Q6c
+Income and Sources (4.2) at Start,170,0.24,data_quality,2019-05-01,2019-05-31,Q6c
+Income and Sources (4.2) at Annual Assessment,73,0.56,data_quality,2019-05-01,2019-05-31,Q6c
+Income and Sources (4.2) at Exit,115,0.47,data_quality,2019-05-01,2019-05-31,Q6c
+Destination (3.12),4,0.01,data_quality,2019-06-01,2019-06-30,Q6c
+Income and Sources (4.2) at Start,179,0.25,data_quality,2019-06-01,2019-06-30,Q6c
+Income and Sources (4.2) at Annual Assessment,74,0.56,data_quality,2019-06-01,2019-06-30,Q6c
+Income and Sources (4.2) at Exit,137,0.51,data_quality,2019-06-01,2019-06-30,Q6c
+Destination (3.12),23,0.06,data_quality,2019-07-01,2019-07-31,Q6c
+Income and Sources (4.2) at Start,224,0.28,data_quality,2019-07-01,2019-07-31,Q6c
+Income and Sources (4.2) at Annual Assessment,79,0.57,data_quality,2019-07-01,2019-07-31,Q6c
+Income and Sources (4.2) at Exit,169,0.52,data_quality,2019-07-01,2019-07-31,Q6c
+Destination (3.12),17,0.04,data_quality,2019-08-01,2019-08-31,Q6c
+Income and Sources (4.2) at Start,219,0.27,data_quality,2019-08-01,2019-08-31,Q6c
+Income and Sources (4.2) at Annual Assessment,82,0.59,data_quality,2019-08-01,2019-08-31,Q6c
+Income and Sources (4.2) at Exit,166,0.54,data_quality,2019-08-01,2019-08-31,Q6c
+Destination (3.12),7,0.02,data_quality,2019-09-01,2019-09-30,Q6c
+Income and Sources (4.2) at Start,194,0.24,data_quality,2019-09-01,2019-09-30,Q6c
+Income and Sources (4.2) at Annual Assessment,94,0.63,data_quality,2019-09-01,2019-09-30,Q6c
+Income and Sources (4.2) at Exit,125,0.44,data_quality,2019-09-01,2019-09-30,Q6c
+Destination (3.12),14,0.04,data_quality,2019-10-01,2019-10-31,Q6c
+Income and Sources (4.2) at Start,219,0.26,data_quality,2019-10-01,2019-10-31,Q6c
+Income and Sources (4.2) at Annual Assessment,96,0.62,data_quality,2019-10-01,2019-10-31,Q6c
+Income and Sources (4.2) at Exit,147,0.51,data_quality,2019-10-01,2019-10-31,Q6c
+Destination (3.12),54,0.18,data_quality,2019-11-01,2019-11-30,Q6c
+Income and Sources (4.2) at Start,201,0.23,data_quality,2019-11-01,2019-11-30,Q6c
+Income and Sources (4.2) at Annual Assessment,102,0.63,data_quality,2019-11-01,2019-11-30,Q6c
+Income and Sources (4.2) at Exit,114,0.43,data_quality,2019-11-01,2019-11-30,Q6c
+Destination (3.12),49,0.14,data_quality,2019-12-01,2019-12-31,Q6c
+Income and Sources (4.2) at Start,184,0.21,data_quality,2019-12-01,2019-12-31,Q6c
+Income and Sources (4.2) at Annual Assessment,110,0.65,data_quality,2019-12-01,2019-12-31,Q6c
+Income and Sources (4.2) at Exit,103,0.38,data_quality,2019-12-01,2019-12-31,Q6c
+Destination (3.12),53,0.14,data_quality,2020-01-01,2020-01-31,Q6c
+Income and Sources (4.2) at Start,220,0.23,data_quality,2020-01-01,2020-01-31,Q6c
+Income and Sources (4.2) at Annual Assessment,123,0.69,data_quality,2020-01-01,2020-01-31,Q6c
+Income and Sources (4.2) at Exit,134,0.42,data_quality,2020-01-01,2020-01-31,Q6c
+Destination (3.12),50,0.15,data_quality,2020-02-01,2020-02-29,Q6c
+Income and Sources (4.2) at Start,205,0.23,data_quality,2020-02-01,2020-02-29,Q6c
+Income and Sources (4.2) at Annual Assessment,133,0.71,data_quality,2020-02-01,2020-02-29,Q6c
+Income and Sources (4.2) at Exit,112,0.4,data_quality,2020-02-01,2020-02-29,Q6c
+Destination (3.12),45,0.16,data_quality,2020-03-01,2020-03-31,Q6c
+Income and Sources (4.2) at Start,182,0.21,data_quality,2020-03-01,2020-03-31,Q6c
+Income and Sources (4.2) at Annual Assessment,151,0.74,data_quality,2020-03-01,2020-03-31,Q6c
+Income and Sources (4.2) at Exit,92,0.38,data_quality,2020-03-01,2020-03-31,Q6c
+Destination (3.12),43,0.2,data_quality,2020-04-01,2020-04-30,Q6c
+Income and Sources (4.2) at Start,166,0.2,data_quality,2020-04-01,2020-04-30,Q6c
+Income and Sources (4.2) at Annual Assessment,159,0.74,data_quality,2020-04-01,2020-04-30,Q6c
+Income and Sources (4.2) at Exit,61,0.33,data_quality,2020-04-01,2020-04-30,Q6c
+Destination (3.12),26,0.12,data_quality,2020-05-01,2020-05-31,Q6c
+Income and Sources (4.2) at Start,174,0.21,data_quality,2020-05-01,2020-05-31,Q6c
+Income and Sources (4.2) at Annual Assessment,172,0.76,data_quality,2020-05-01,2020-05-31,Q6c
+Income and Sources (4.2) at Exit,71,0.36,data_quality,2020-05-01,2020-05-31,Q6c
+Destination (3.12),37,0.14,data_quality,2020-06-01,2020-06-30,Q6c
+Income and Sources (4.2) at Start,198,0.24,data_quality,2020-06-01,2020-06-30,Q6c
+Income and Sources (4.2) at Annual Assessment,180,0.77,data_quality,2020-06-01,2020-06-30,Q6c
+Income and Sources (4.2) at Exit,101,0.41,data_quality,2020-06-01,2020-06-30,Q6c
+Destination (3.12),11,0.04,data_quality,2020-07-01,2020-07-31,Q6c
+Income and Sources (4.2) at Start,191,0.24,data_quality,2020-07-01,2020-07-31,Q6c
+Income and Sources (4.2) at Annual Assessment,202,0.78,data_quality,2020-07-01,2020-07-31,Q6c
+Income and Sources (4.2) at Exit,98,0.45,data_quality,2020-07-01,2020-07-31,Q6c
+Destination (3.12),2,0.01,data_quality,2020-08-01,2020-08-31,Q6c
+Income and Sources (4.2) at Start,175,0.22,data_quality,2020-08-01,2020-08-31,Q6c
+Income and Sources (4.2) at Annual Assessment,221,0.8,data_quality,2020-08-01,2020-08-31,Q6c
+Income and Sources (4.2) at Exit,77,0.49,data_quality,2020-08-01,2020-08-31,Q6c
+Destination (3.12),14,0.06,data_quality,2020-09-01,2020-09-30,Q6c
+Income and Sources (4.2) at Start,203,0.24,data_quality,2020-09-01,2020-09-30,Q6c
+Income and Sources (4.2) at Annual Assessment,226,0.8,data_quality,2020-09-01,2020-09-30,Q6c
+Income and Sources (4.2) at Exit,111,0.56,data_quality,2020-09-01,2020-09-30,Q6c
+Destination (3.12),19,0.08,data_quality,2020-10-01,2020-10-31,Q6c
+Income and Sources (4.2) at Start,193,0.22,data_quality,2020-10-01,2020-10-31,Q6c
+Income and Sources (4.2) at Annual Assessment,237,0.8,data_quality,2020-10-01,2020-10-31,Q6c
+Income and Sources (4.2) at Exit,92,0.49,data_quality,2020-10-01,2020-10-31,Q6c
+Destination (3.12),27,0.13,data_quality,2020-11-01,2020-11-30,Q6c
+Income and Sources (4.2) at Start,210,0.22,data_quality,2020-11-01,2020-11-30,Q6c
+Income and Sources (4.2) at Annual Assessment,242,0.8,data_quality,2020-11-01,2020-11-30,Q6c
+Income and Sources (4.2) at Exit,94,0.52,data_quality,2020-11-01,2020-11-30,Q6c
+Destination (3.12),45,0.21,data_quality,2020-12-01,2020-12-31,Q6c
+Income and Sources (4.2) at Start,173,0.18,data_quality,2020-12-01,2020-12-31,Q6c
+Income and Sources (4.2) at Annual Assessment,243,0.81,data_quality,2020-12-01,2020-12-31,Q6c
+Income and Sources (4.2) at Exit,58,0.3,data_quality,2020-12-01,2020-12-31,Q6c
+Destination (3.12),31,0.13,data_quality,2021-01-01,2021-01-31,Q6c
+Income and Sources (4.2) at Start,199,0.2,data_quality,2021-01-01,2021-01-31,Q6c
+Income and Sources (4.2) at Annual Assessment,260,0.82,data_quality,2021-01-01,2021-01-31,Q6c
+Income and Sources (4.2) at Exit,90,0.43,data_quality,2021-01-01,2021-01-31,Q6c
+Destination (3.12),37,0.18,data_quality,2021-02-01,2021-02-28,Q6c
+Income and Sources (4.2) at Start,170,0.18,data_quality,2021-02-01,2021-02-28,Q6c
+Income and Sources (4.2) at Annual Assessment,262,0.82,data_quality,2021-02-01,2021-02-28,Q6c
+Income and Sources (4.2) at Exit,60,0.34,data_quality,2021-02-01,2021-02-28,Q6c
+Destination (3.12),39,0.19,data_quality,2021-03-01,2021-03-31,Q6c
+Income and Sources (4.2) at Start,183,0.2,data_quality,2021-03-01,2021-03-31,Q6c
+Income and Sources (4.2) at Annual Assessment,273,0.82,data_quality,2021-03-01,2021-03-31,Q6c
+Income and Sources (4.2) at Exit,67,0.37,data_quality,2021-03-01,2021-03-31,Q6c
+Destination (3.12),38,0.18,data_quality,2021-04-01,2021-04-30,Q6c
+Income and Sources (4.2) at Start,171,0.19,data_quality,2021-04-01,2021-04-30,Q6c
+Income and Sources (4.2) at Annual Assessment,281,0.82,data_quality,2021-04-01,2021-04-30,Q6c
+Income and Sources (4.2) at Exit,64,0.34,data_quality,2021-04-01,2021-04-30,Q6c
+Destination (3.12),48,0.28,data_quality,2021-05-01,2021-05-31,Q6c
+Income and Sources (4.2) at Start,159,0.18,data_quality,2021-05-01,2021-05-31,Q6c
+Income and Sources (4.2) at Annual Assessment,292,0.82,data_quality,2021-05-01,2021-05-31,Q6c
+Income and Sources (4.2) at Exit,44,0.31,data_quality,2021-05-01,2021-05-31,Q6c
+Destination (3.12),34,0.14,data_quality,2021-06-01,2021-06-30,Q6c
+Income and Sources (4.2) at Start,188,0.21,data_quality,2021-06-01,2021-06-30,Q6c
+Income and Sources (4.2) at Annual Assessment,297,0.83,data_quality,2021-06-01,2021-06-30,Q6c
+Income and Sources (4.2) at Exit,79,0.41,data_quality,2021-06-01,2021-06-30,Q6c
+Destination (3.12),9,0.05,data_quality,2021-07-01,2021-07-31,Q6c
+Income and Sources (4.2) at Start,195,0.21,data_quality,2021-07-01,2021-07-31,Q6c
+Income and Sources (4.2) at Annual Assessment,309,0.82,data_quality,2021-07-01,2021-07-31,Q6c
+Income and Sources (4.2) at Exit,72,0.5,data_quality,2021-07-01,2021-07-31,Q6c
+Destination (3.12),19,0.06,data_quality,2021-08-01,2021-08-31,Q6c
+Income and Sources (4.2) at Start,247,0.24,data_quality,2021-08-01,2021-08-31,Q6c
+Income and Sources (4.2) at Annual Assessment,327,0.81,data_quality,2021-08-01,2021-08-31,Q6c
+Income and Sources (4.2) at Exit,110,0.47,data_quality,2021-08-01,2021-08-31,Q6c
+Destination (3.12),10,0.03,data_quality,2021-09-01,2021-09-30,Q6c
+Income and Sources (4.2) at Start,270,0.25,data_quality,2021-09-01,2021-09-30,Q6c
+Income and Sources (4.2) at Annual Assessment,341,0.81,data_quality,2021-09-01,2021-09-30,Q6c
+Income and Sources (4.2) at Exit,107,0.49,data_quality,2021-09-01,2021-09-30,Q6c
+Destination (3.12),13,0.05,data_quality,2021-10-01,2021-10-31,Q6c
+Income and Sources (4.2) at Start,287,0.25,data_quality,2021-10-01,2021-10-31,Q6c
+Income and Sources (4.2) at Annual Assessment,344,0.8,data_quality,2021-10-01,2021-10-31,Q6c
+Income and Sources (4.2) at Exit,106,0.5,data_quality,2021-10-01,2021-10-31,Q6c
+Destination (3.12),18,0.09,data_quality,2021-11-01,2021-11-30,Q6c
+Income and Sources (4.2) at Start,279,0.23,data_quality,2021-11-01,2021-11-30,Q6c
+Income and Sources (4.2) at Annual Assessment,349,0.79,data_quality,2021-11-01,2021-11-30,Q6c
+Income and Sources (4.2) at Exit,75,0.44,data_quality,2021-11-01,2021-11-30,Q6c
+Destination (3.12),24,0.09,data_quality,2021-12-01,2021-12-31,Q6c
+Income and Sources (4.2) at Start,296,0.23,data_quality,2021-12-01,2021-12-31,Q6c
+Income and Sources (4.2) at Annual Assessment,348,0.79,data_quality,2021-12-01,2021-12-31,Q6c
+Income and Sources (4.2) at Exit,74,0.36,data_quality,2021-12-01,2021-12-31,Q6c
+Destination (3.12),37,0.17,data_quality,2022-01-01,2022-01-31,Q6c
+Income and Sources (4.2) at Start,287,0.22,data_quality,2022-01-01,2022-01-31,Q6c
+Income and Sources (4.2) at Annual Assessment,344,0.77,data_quality,2022-01-01,2022-01-31,Q6c
+Income and Sources (4.2) at Exit,66,0.35,data_quality,2022-01-01,2022-01-31,Q6c
+Destination (3.12),5,0.02,data_quality,2022-02-01,2022-02-28,Q6c
+Income and Sources (4.2) at Start,297,0.22,data_quality,2022-02-01,2022-02-28,Q6c
+Income and Sources (4.2) at Annual Assessment,355,0.77,data_quality,2022-02-01,2022-02-28,Q6c
+Income and Sources (4.2) at Exit,66,0.43,data_quality,2022-02-01,2022-02-28,Q6c
+Destination (3.12),19,0.06,data_quality,2022-03-01,2022-03-31,Q6c
+Income and Sources (4.2) at Start,361,0.25,data_quality,2022-03-01,2022-03-31,Q6c
+Income and Sources (4.2) at Annual Assessment,358,0.77,data_quality,2022-03-01,2022-03-31,Q6c
+Income and Sources (4.2) at Exit,97,0.45,data_quality,2022-03-01,2022-03-31,Q6c
+Destination (3.12),22,0.07,data_quality,2022-04-01,2022-04-30,Q6c
+Income and Sources (4.2) at Start,359,0.25,data_quality,2022-04-01,2022-04-30,Q6c
+Income and Sources (4.2) at Annual Assessment,360,0.77,data_quality,2022-04-01,2022-04-30,Q6c
+Income and Sources (4.2) at Exit,89,0.39,data_quality,2022-04-01,2022-04-30,Q6c
+Destination (3.12),13,0.05,data_quality,2022-05-01,2022-05-31,Q6c
+Income and Sources (4.2) at Start,382,0.27,data_quality,2022-05-01,2022-05-31,Q6c
+Income and Sources (4.2) at Annual Assessment,368,0.77,data_quality,2022-05-01,2022-05-31,Q6c
+Income and Sources (4.2) at Exit,102,0.49,data_quality,2022-05-01,2022-05-31,Q6c
+Destination (3.12),15,0.05,data_quality,2022-06-01,2022-06-30,Q6c
+Income and Sources (4.2) at Start,393,0.26,data_quality,2022-06-01,2022-06-30,Q6c
+Income and Sources (4.2) at Annual Assessment,374,0.78,data_quality,2022-06-01,2022-06-30,Q6c
+Income and Sources (4.2) at Exit,96,0.44,data_quality,2022-06-01,2022-06-30,Q6c
+Destination (3.12),3,0.01,data_quality,2022-07-01,2022-07-31,Q6c
+Income and Sources (4.2) at Start,385,0.27,data_quality,2022-07-01,2022-07-31,Q6c
+Income and Sources (4.2) at Annual Assessment,424,0.79,data_quality,2022-07-01,2022-07-31,Q6c
+Income and Sources (4.2) at Exit,83,0.52,data_quality,2022-07-01,2022-07-31,Q6c
+Destination (3.12),0,0,data_quality,2022-08-01,2022-08-31,Q6c
+Income and Sources (4.2) at Start,438,0.29,data_quality,2022-08-01,2022-08-31,Q6c
+Income and Sources (4.2) at Annual Assessment,481,0.8,data_quality,2022-08-01,2022-08-31,Q6c
+Income and Sources (4.2) at Exit,126,0.75,data_quality,2022-08-01,2022-08-31,Q6c

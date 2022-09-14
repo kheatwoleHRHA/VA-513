@@ -1,0 +1,29 @@
+gender_identity,total,population,start_date,end_date,question,household_type,count
+Male,5,unknown_age,2021-05-01,2021-05-31,Q10c,without_children,0
+Male,5,unknown_age,2021-05-01,2021-05-31,Q10c,with_children_and_adults,0
+Male,5,unknown_age,2021-05-01,2021-05-31,Q10c,with_only_children,0
+Male,5,unknown_age,2021-05-01,2021-05-31,Q10c,unknown_household_type,5
+Female,2,unknown_age,2021-05-01,2021-05-31,Q10c,without_children,0
+Female,2,unknown_age,2021-05-01,2021-05-31,Q10c,with_children_and_adults,0
+Female,2,unknown_age,2021-05-01,2021-05-31,Q10c,with_only_children,0
+Female,2,unknown_age,2021-05-01,2021-05-31,Q10c,unknown_household_type,2
+No Single Gender,0,unknown_age,2021-05-01,2021-05-31,Q10c,without_children,0
+No Single Gender,0,unknown_age,2021-05-01,2021-05-31,Q10c,with_children_and_adults,0
+No Single Gender,0,unknown_age,2021-05-01,2021-05-31,Q10c,with_only_children,0
+No Single Gender,0,unknown_age,2021-05-01,2021-05-31,Q10c,unknown_household_type,0
+Questioning,0,unknown_age,2021-05-01,2021-05-31,Q10c,without_children,0
+Questioning,0,unknown_age,2021-05-01,2021-05-31,Q10c,with_children_and_adults,0
+Questioning,0,unknown_age,2021-05-01,2021-05-31,Q10c,with_only_children,0
+Questioning,0,unknown_age,2021-05-01,2021-05-31,Q10c,unknown_household_type,0
+Transgender,0,unknown_age,2021-05-01,2021-05-31,Q10c,without_children,0
+Transgender,0,unknown_age,2021-05-01,2021-05-31,Q10c,with_children_and_adults,0
+Transgender,0,unknown_age,2021-05-01,2021-05-31,Q10c,with_only_children,0
+Transgender,0,unknown_age,2021-05-01,2021-05-31,Q10c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,unknown_age,2021-05-01,2021-05-31,Q10c,without_children,0
+Client Doesn't Know/Client Refused,0,unknown_age,2021-05-01,2021-05-31,Q10c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,unknown_age,2021-05-01,2021-05-31,Q10c,with_only_children,0
+Client Doesn't Know/Client Refused,0,unknown_age,2021-05-01,2021-05-31,Q10c,unknown_household_type,0
+Data Not Collected,3,unknown_age,2021-05-01,2021-05-31,Q10c,without_children,0
+Data Not Collected,3,unknown_age,2021-05-01,2021-05-31,Q10c,with_children_and_adults,0
+Data Not Collected,3,unknown_age,2021-05-01,2021-05-31,Q10c,with_only_children,0
+Data Not Collected,3,unknown_age,2021-05-01,2021-05-31,Q10c,unknown_household_type,3

@@ -1,0 +1,5 @@
+"""Data Element""", "Error Count" , "% of Error Rate"
+"""Destination (3.12)""",10,0.1
+"""Income and Sources (4.2) at Start""",51,0.14
+"""Income and Sources (4.2) at Annual Assessment""",74,0.65
+"""Income and Sources (4.2) at Exit""",9,0.15

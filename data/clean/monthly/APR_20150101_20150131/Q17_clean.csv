@@ -1,0 +1,49 @@
+income_sources,population,start_date,end_date,question,status,count
+Earned Income,adults,2015-01-01,2015-01-31,Q17,income_at_start,108
+Earned Income,adults,2015-01-01,2015-01-31,Q17,income_at_latest_annual_assessment_for_stayers,2
+Earned Income,adults,2015-01-01,2015-01-31,Q17,income_at_exit_for_leavers,36
+Unemployment Insurance,adults,2015-01-01,2015-01-31,Q17,income_at_start,7
+Unemployment Insurance,adults,2015-01-01,2015-01-31,Q17,income_at_latest_annual_assessment_for_stayers,1
+Unemployment Insurance,adults,2015-01-01,2015-01-31,Q17,income_at_exit_for_leavers,2
+Supplemental Security Income (SSI),adults,2015-01-01,2015-01-31,Q17,income_at_start,50
+Supplemental Security Income (SSI),adults,2015-01-01,2015-01-31,Q17,income_at_latest_annual_assessment_for_stayers,5
+Supplemental Security Income (SSI),adults,2015-01-01,2015-01-31,Q17,income_at_exit_for_leavers,13
+Social Security Disability Insurance (SSDI),adults,2015-01-01,2015-01-31,Q17,income_at_start,59
+Social Security Disability Insurance (SSDI),adults,2015-01-01,2015-01-31,Q17,income_at_latest_annual_assessment_for_stayers,4
+Social Security Disability Insurance (SSDI),adults,2015-01-01,2015-01-31,Q17,income_at_exit_for_leavers,13
+VA Service - Connected Disability Compensation,adults,2015-01-01,2015-01-31,Q17,income_at_start,3
+VA Service - Connected Disability Compensation,adults,2015-01-01,2015-01-31,Q17,income_at_latest_annual_assessment_for_stayers,0
+VA Service - Connected Disability Compensation,adults,2015-01-01,2015-01-31,Q17,income_at_exit_for_leavers,2
+VA Non-Service Connected Disability Pension,adults,2015-01-01,2015-01-31,Q17,income_at_start,3
+VA Non-Service Connected Disability Pension,adults,2015-01-01,2015-01-31,Q17,income_at_latest_annual_assessment_for_stayers,0
+VA Non-Service Connected Disability Pension,adults,2015-01-01,2015-01-31,Q17,income_at_exit_for_leavers,1
+Private Disability Insurance,adults,2015-01-01,2015-01-31,Q17,income_at_start,1
+Private Disability Insurance,adults,2015-01-01,2015-01-31,Q17,income_at_latest_annual_assessment_for_stayers,0
+Private Disability Insurance,adults,2015-01-01,2015-01-31,Q17,income_at_exit_for_leavers,0
+Worker's Compensation,adults,2015-01-01,2015-01-31,Q17,income_at_start,0
+Worker's Compensation,adults,2015-01-01,2015-01-31,Q17,income_at_latest_annual_assessment_for_stayers,0
+Worker's Compensation,adults,2015-01-01,2015-01-31,Q17,income_at_exit_for_leavers,0
+Temporary Assistance for Needy Families (TANF),adults,2015-01-01,2015-01-31,Q17,income_at_start,6
+Temporary Assistance for Needy Families (TANF),adults,2015-01-01,2015-01-31,Q17,income_at_latest_annual_assessment_for_stayers,0
+Temporary Assistance for Needy Families (TANF),adults,2015-01-01,2015-01-31,Q17,income_at_exit_for_leavers,1
+General Assistance (GA),adults,2015-01-01,2015-01-31,Q17,income_at_start,0
+General Assistance (GA),adults,2015-01-01,2015-01-31,Q17,income_at_latest_annual_assessment_for_stayers,0
+General Assistance (GA),adults,2015-01-01,2015-01-31,Q17,income_at_exit_for_leavers,0
+Retirement Income from Social Security,adults,2015-01-01,2015-01-31,Q17,income_at_start,9
+Retirement Income from Social Security,adults,2015-01-01,2015-01-31,Q17,income_at_latest_annual_assessment_for_stayers,0
+Retirement Income from Social Security,adults,2015-01-01,2015-01-31,Q17,income_at_exit_for_leavers,6
+Pension or retirement income from a former job,adults,2015-01-01,2015-01-31,Q17,income_at_start,0
+Pension or retirement income from a former job,adults,2015-01-01,2015-01-31,Q17,income_at_latest_annual_assessment_for_stayers,0
+Pension or retirement income from a former job,adults,2015-01-01,2015-01-31,Q17,income_at_exit_for_leavers,0
+Child Support,adults,2015-01-01,2015-01-31,Q17,income_at_start,16
+Child Support,adults,2015-01-01,2015-01-31,Q17,income_at_latest_annual_assessment_for_stayers,0
+Child Support,adults,2015-01-01,2015-01-31,Q17,income_at_exit_for_leavers,2
+Alimony and other spousal support,adults,2015-01-01,2015-01-31,Q17,income_at_start,0
+Alimony and other spousal support,adults,2015-01-01,2015-01-31,Q17,income_at_latest_annual_assessment_for_stayers,0
+Alimony and other spousal support,adults,2015-01-01,2015-01-31,Q17,income_at_exit_for_leavers,0
+Other Source,adults,2015-01-01,2015-01-31,Q17,income_at_start,6
+Other Source,adults,2015-01-01,2015-01-31,Q17,income_at_latest_annual_assessment_for_stayers,0
+Other Source,adults,2015-01-01,2015-01-31,Q17,income_at_exit_for_leavers,2
+Adults with Income Information at Start and Annual Assessment/Exit,adults,2015-01-01,2015-01-31,Q17,income_at_start,0
+Adults with Income Information at Start and Annual Assessment/Exit,adults,2015-01-01,2015-01-31,Q17,income_at_latest_annual_assessment_for_stayers,11
+Adults with Income Information at Start and Annual Assessment/Exit,adults,2015-01-01,2015-01-31,Q17,income_at_exit_for_leavers,0

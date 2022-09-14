@@ -1,0 +1,16 @@
+veteran_status_persons,total,population,start_date,end_date,question,household_type,count
+Chronically Homeless Veteran,4,all_persons,2015-02-01,2015-02-28,Q25a,without_children,4
+Chronically Homeless Veteran,4,all_persons,2015-02-01,2015-02-28,Q25a,with_children_and_adults,0
+Chronically Homeless Veteran,4,all_persons,2015-02-01,2015-02-28,Q25a,unknown_household_type,0
+Non-Chronically Homeless Veteran,12,all_persons,2015-02-01,2015-02-28,Q25a,without_children,12
+Non-Chronically Homeless Veteran,12,all_persons,2015-02-01,2015-02-28,Q25a,with_children_and_adults,0
+Non-Chronically Homeless Veteran,12,all_persons,2015-02-01,2015-02-28,Q25a,unknown_household_type,0
+Not a Veteran,424,all_persons,2015-02-01,2015-02-28,Q25a,without_children,311
+Not a Veteran,424,all_persons,2015-02-01,2015-02-28,Q25a,with_children_and_adults,112
+Not a Veteran,424,all_persons,2015-02-01,2015-02-28,Q25a,unknown_household_type,1
+Client Doesn't Know/Client Refused,2,all_persons,2015-02-01,2015-02-28,Q25a,without_children,2
+Client Doesn't Know/Client Refused,2,all_persons,2015-02-01,2015-02-28,Q25a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,2,all_persons,2015-02-01,2015-02-28,Q25a,unknown_household_type,0
+Data Not Collected,6,all_persons,2015-02-01,2015-02-28,Q25a,without_children,5
+Data Not Collected,6,all_persons,2015-02-01,2015-02-28,Q25a,with_children_and_adults,1
+Data Not Collected,6,all_persons,2015-02-01,2015-02-28,Q25a,unknown_household_type,0

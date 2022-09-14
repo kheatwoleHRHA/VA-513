@@ -1,0 +1,6 @@
+, "Total" , "Without Children" , "With Children and Adults" , "With Only Children" , "Unknown Household Type"
+"""Yes""",35,27,8,0,0
+"""No""",208,168,39,0,1
+"""Client Doesn't Know/Client Refused""",2,2,0,0,0
+"""Data Not Collected""",14,13,1,0,0
+"""Total""",259,210,48,0,1

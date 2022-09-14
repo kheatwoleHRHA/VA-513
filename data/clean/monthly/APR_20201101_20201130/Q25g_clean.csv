@@ -1,0 +1,49 @@
+income_sources,population,start_date,end_date,question,status,count
+Earned Income,veterans,2020-11-01,2020-11-30,Q25g,income_at_start,5
+Earned Income,veterans,2020-11-01,2020-11-30,Q25g,income_at_latest_annual_assessment_for_stayers,1
+Earned Income,veterans,2020-11-01,2020-11-30,Q25g,income_at_exit_for_leavers,0
+Unemployment Insurance,veterans,2020-11-01,2020-11-30,Q25g,income_at_start,0
+Unemployment Insurance,veterans,2020-11-01,2020-11-30,Q25g,income_at_latest_annual_assessment_for_stayers,0
+Unemployment Insurance,veterans,2020-11-01,2020-11-30,Q25g,income_at_exit_for_leavers,0
+Supplemental Security Income (SSI),veterans,2020-11-01,2020-11-30,Q25g,income_at_start,7
+Supplemental Security Income (SSI),veterans,2020-11-01,2020-11-30,Q25g,income_at_latest_annual_assessment_for_stayers,3
+Supplemental Security Income (SSI),veterans,2020-11-01,2020-11-30,Q25g,income_at_exit_for_leavers,0
+Social Security Disability Insurance (SSDI),veterans,2020-11-01,2020-11-30,Q25g,income_at_start,11
+Social Security Disability Insurance (SSDI),veterans,2020-11-01,2020-11-30,Q25g,income_at_latest_annual_assessment_for_stayers,2
+Social Security Disability Insurance (SSDI),veterans,2020-11-01,2020-11-30,Q25g,income_at_exit_for_leavers,2
+VA Service - Connected Disability Compensation,veterans,2020-11-01,2020-11-30,Q25g,income_at_start,5
+VA Service - Connected Disability Compensation,veterans,2020-11-01,2020-11-30,Q25g,income_at_latest_annual_assessment_for_stayers,3
+VA Service - Connected Disability Compensation,veterans,2020-11-01,2020-11-30,Q25g,income_at_exit_for_leavers,0
+VA Non-Service Connected Disability Pension,veterans,2020-11-01,2020-11-30,Q25g,income_at_start,2
+VA Non-Service Connected Disability Pension,veterans,2020-11-01,2020-11-30,Q25g,income_at_latest_annual_assessment_for_stayers,1
+VA Non-Service Connected Disability Pension,veterans,2020-11-01,2020-11-30,Q25g,income_at_exit_for_leavers,0
+Private Disability Insurance,veterans,2020-11-01,2020-11-30,Q25g,income_at_start,0
+Private Disability Insurance,veterans,2020-11-01,2020-11-30,Q25g,income_at_latest_annual_assessment_for_stayers,0
+Private Disability Insurance,veterans,2020-11-01,2020-11-30,Q25g,income_at_exit_for_leavers,0
+Worker's Compensation,veterans,2020-11-01,2020-11-30,Q25g,income_at_start,0
+Worker's Compensation,veterans,2020-11-01,2020-11-30,Q25g,income_at_latest_annual_assessment_for_stayers,0
+Worker's Compensation,veterans,2020-11-01,2020-11-30,Q25g,income_at_exit_for_leavers,0
+Temporary Assistance for Needy Families (TANF),veterans,2020-11-01,2020-11-30,Q25g,income_at_start,0
+Temporary Assistance for Needy Families (TANF),veterans,2020-11-01,2020-11-30,Q25g,income_at_latest_annual_assessment_for_stayers,0
+Temporary Assistance for Needy Families (TANF),veterans,2020-11-01,2020-11-30,Q25g,income_at_exit_for_leavers,0
+General Assistance (GA),veterans,2020-11-01,2020-11-30,Q25g,income_at_start,0
+General Assistance (GA),veterans,2020-11-01,2020-11-30,Q25g,income_at_latest_annual_assessment_for_stayers,0
+General Assistance (GA),veterans,2020-11-01,2020-11-30,Q25g,income_at_exit_for_leavers,0
+Retirement Income from Social Security,veterans,2020-11-01,2020-11-30,Q25g,income_at_start,4
+Retirement Income from Social Security,veterans,2020-11-01,2020-11-30,Q25g,income_at_latest_annual_assessment_for_stayers,4
+Retirement Income from Social Security,veterans,2020-11-01,2020-11-30,Q25g,income_at_exit_for_leavers,1
+Pension or retirement income from a former job,veterans,2020-11-01,2020-11-30,Q25g,income_at_start,1
+Pension or retirement income from a former job,veterans,2020-11-01,2020-11-30,Q25g,income_at_latest_annual_assessment_for_stayers,1
+Pension or retirement income from a former job,veterans,2020-11-01,2020-11-30,Q25g,income_at_exit_for_leavers,0
+Child Support,veterans,2020-11-01,2020-11-30,Q25g,income_at_start,1
+Child Support,veterans,2020-11-01,2020-11-30,Q25g,income_at_latest_annual_assessment_for_stayers,0
+Child Support,veterans,2020-11-01,2020-11-30,Q25g,income_at_exit_for_leavers,1
+Alimony and other spousal support,veterans,2020-11-01,2020-11-30,Q25g,income_at_start,0
+Alimony and other spousal support,veterans,2020-11-01,2020-11-30,Q25g,income_at_latest_annual_assessment_for_stayers,0
+Alimony and other spousal support,veterans,2020-11-01,2020-11-30,Q25g,income_at_exit_for_leavers,0
+Other Source,veterans,2020-11-01,2020-11-30,Q25g,income_at_start,0
+Other Source,veterans,2020-11-01,2020-11-30,Q25g,income_at_latest_annual_assessment_for_stayers,0
+Other Source,veterans,2020-11-01,2020-11-30,Q25g,income_at_exit_for_leavers,0
+Veterans with Income Information at Start and Annual Assessment/Exit,veterans,2020-11-01,2020-11-30,Q25g,income_at_start,0
+Veterans with Income Information at Start and Annual Assessment/Exit,veterans,2020-11-01,2020-11-30,Q25g,income_at_latest_annual_assessment_for_stayers,14
+Veterans with Income Information at Start and Annual Assessment/Exit,veterans,2020-11-01,2020-11-30,Q25g,income_at_exit_for_leavers,0

@@ -1,0 +1,45 @@
+time_from_start_to_housing,total,population,start_date,end_date,question,household_type,count
+7 days or less,6,all_persons,2021-07-01,2021-07-31,Q22c,without_children,1
+7 days or less,6,all_persons,2021-07-01,2021-07-31,Q22c,with_children_and_adults,5
+7 days or less,6,all_persons,2021-07-01,2021-07-31,Q22c,with_only_children,0
+7 days or less,6,all_persons,2021-07-01,2021-07-31,Q22c,unknown_household_type,0
+8 to 14 days,4,all_persons,2021-07-01,2021-07-31,Q22c,without_children,0
+8 to 14 days,4,all_persons,2021-07-01,2021-07-31,Q22c,with_children_and_adults,4
+8 to 14 days,4,all_persons,2021-07-01,2021-07-31,Q22c,with_only_children,0
+8 to 14 days,4,all_persons,2021-07-01,2021-07-31,Q22c,unknown_household_type,0
+15 to 21 days,0,all_persons,2021-07-01,2021-07-31,Q22c,without_children,0
+15 to 21 days,0,all_persons,2021-07-01,2021-07-31,Q22c,with_children_and_adults,0
+15 to 21 days,0,all_persons,2021-07-01,2021-07-31,Q22c,with_only_children,0
+15 to 21 days,0,all_persons,2021-07-01,2021-07-31,Q22c,unknown_household_type,0
+22 to 30 days,0,all_persons,2021-07-01,2021-07-31,Q22c,without_children,0
+22 to 30 days,0,all_persons,2021-07-01,2021-07-31,Q22c,with_children_and_adults,0
+22 to 30 days,0,all_persons,2021-07-01,2021-07-31,Q22c,with_only_children,0
+22 to 30 days,0,all_persons,2021-07-01,2021-07-31,Q22c,unknown_household_type,0
+31 to 60 days,0,all_persons,2021-07-01,2021-07-31,Q22c,without_children,0
+31 to 60 days,0,all_persons,2021-07-01,2021-07-31,Q22c,with_children_and_adults,0
+31 to 60 days,0,all_persons,2021-07-01,2021-07-31,Q22c,with_only_children,0
+31 to 60 days,0,all_persons,2021-07-01,2021-07-31,Q22c,unknown_household_type,0
+61 to 180 days,0,all_persons,2021-07-01,2021-07-31,Q22c,without_children,0
+61 to 180 days,0,all_persons,2021-07-01,2021-07-31,Q22c,with_children_and_adults,0
+61 to 180 days,0,all_persons,2021-07-01,2021-07-31,Q22c,with_only_children,0
+61 to 180 days,0,all_persons,2021-07-01,2021-07-31,Q22c,unknown_household_type,0
+181 to 365 days,0,all_persons,2021-07-01,2021-07-31,Q22c,without_children,0
+181 to 365 days,0,all_persons,2021-07-01,2021-07-31,Q22c,with_children_and_adults,0
+181 to 365 days,0,all_persons,2021-07-01,2021-07-31,Q22c,with_only_children,0
+181 to 365 days,0,all_persons,2021-07-01,2021-07-31,Q22c,unknown_household_type,0
+366 to 730 days (1-2 Yrs),0,all_persons,2021-07-01,2021-07-31,Q22c,without_children,0
+366 to 730 days (1-2 Yrs),0,all_persons,2021-07-01,2021-07-31,Q22c,with_children_and_adults,0
+366 to 730 days (1-2 Yrs),0,all_persons,2021-07-01,2021-07-31,Q22c,with_only_children,0
+366 to 730 days (1-2 Yrs),0,all_persons,2021-07-01,2021-07-31,Q22c,unknown_household_type,0
+Total (persons moved into housing),10,all_persons,2021-07-01,2021-07-31,Q22c,without_children,1
+Total (persons moved into housing),10,all_persons,2021-07-01,2021-07-31,Q22c,with_children_and_adults,9
+Total (persons moved into housing),10,all_persons,2021-07-01,2021-07-31,Q22c,with_only_children,0
+Total (persons moved into housing),10,all_persons,2021-07-01,2021-07-31,Q22c,unknown_household_type,0
+Average length of time to housing,6,all_persons,2021-07-01,2021-07-31,Q22c,without_children,3
+Average length of time to housing,6,all_persons,2021-07-01,2021-07-31,Q22c,with_children_and_adults,6
+Average length of time to housing,6,all_persons,2021-07-01,2021-07-31,Q22c,with_only_children,0
+Average length of time to housing,6,all_persons,2021-07-01,2021-07-31,Q22c,unknown_household_type,0
+Persons who were exited without move-in,1,all_persons,2021-07-01,2021-07-31,Q22c,without_children,1
+Persons who were exited without move-in,1,all_persons,2021-07-01,2021-07-31,Q22c,with_children_and_adults,0
+Persons who were exited without move-in,1,all_persons,2021-07-01,2021-07-31,Q22c,with_only_children,0
+Persons who were exited without move-in,1,all_persons,2021-07-01,2021-07-31,Q22c,unknown_household_type,0

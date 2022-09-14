@@ -1,0 +1,17 @@
+ch_status_persons,total,population,start_date,end_date,question,household_type,count
+Chronically Homeless ,102,all_persons,2019-04-01,2019-04-30,Q26b,without_children,88
+Chronically Homeless ,102,all_persons,2019-04-01,2019-04-30,Q26b,with_children_and_adults,14
+Chronically Homeless ,102,all_persons,2019-04-01,2019-04-30,Q26b,with_only_children,0
+Chronically Homeless ,102,all_persons,2019-04-01,2019-04-30,Q26b,unknown_household_type,0
+Not Chronically Homeless,789,all_persons,2019-04-01,2019-04-30,Q26b,without_children,479
+Not Chronically Homeless,789,all_persons,2019-04-01,2019-04-30,Q26b,with_children_and_adults,291
+Not Chronically Homeless,789,all_persons,2019-04-01,2019-04-30,Q26b,with_only_children,11
+Not Chronically Homeless,789,all_persons,2019-04-01,2019-04-30,Q26b,unknown_household_type,8
+Client Doesn't Know/Client Refused,7,all_persons,2019-04-01,2019-04-30,Q26b,without_children,7
+Client Doesn't Know/Client Refused,7,all_persons,2019-04-01,2019-04-30,Q26b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,7,all_persons,2019-04-01,2019-04-30,Q26b,with_only_children,0
+Client Doesn't Know/Client Refused,7,all_persons,2019-04-01,2019-04-30,Q26b,unknown_household_type,0
+Data Not Collected,21,all_persons,2019-04-01,2019-04-30,Q26b,without_children,20
+Data Not Collected,21,all_persons,2019-04-01,2019-04-30,Q26b,with_children_and_adults,1
+Data Not Collected,21,all_persons,2019-04-01,2019-04-30,Q26b,with_only_children,0
+Data Not Collected,21,all_persons,2019-04-01,2019-04-30,Q26b,unknown_household_type,0

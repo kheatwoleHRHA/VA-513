@@ -1,0 +1,19 @@
+non_cash_benefits,population,start_date,end_date,question,status,count
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2021-04-01,2021-04-30,Q20a,benefit_at_start,276
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2021-04-01,2021-04-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,31
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),all_persons,2021-04-01,2021-04-30,Q20a,benefit_at_exit_for_leavers,58
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2021-04-01,2021-04-30,Q20a,benefit_at_start,16
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2021-04-01,2021-04-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,1
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",all_persons,2021-04-01,2021-04-30,Q20a,benefit_at_exit_for_leavers,2
+TANF Child Care Services,all_persons,2021-04-01,2021-04-30,Q20a,benefit_at_start,3
+TANF Child Care Services,all_persons,2021-04-01,2021-04-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,all_persons,2021-04-01,2021-04-30,Q20a,benefit_at_exit_for_leavers,1
+TANF Transportation Services,all_persons,2021-04-01,2021-04-30,Q20a,benefit_at_start,1
+TANF Transportation Services,all_persons,2021-04-01,2021-04-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,all_persons,2021-04-01,2021-04-30,Q20a,benefit_at_exit_for_leavers,1
+Other TANF-Funded Services,all_persons,2021-04-01,2021-04-30,Q20a,benefit_at_start,7
+Other TANF-Funded Services,all_persons,2021-04-01,2021-04-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,all_persons,2021-04-01,2021-04-30,Q20a,benefit_at_exit_for_leavers,2
+Other Source,all_persons,2021-04-01,2021-04-30,Q20a,benefit_at_start,10
+Other Source,all_persons,2021-04-01,2021-04-30,Q20a,benefit_at_latest_annual_assessment_for_stayers,9
+Other Source,all_persons,2021-04-01,2021-04-30,Q20a,benefit_at_exit_for_leavers,2

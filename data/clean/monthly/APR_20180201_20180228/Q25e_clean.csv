@@ -1,0 +1,25 @@
+conditions,population,start_date,end_date,question,status,count
+Mental Health Disorder,veterans,2018-02-01,2018-02-28,Q25e,conditions_at_start,15
+Mental Health Disorder,veterans,2018-02-01,2018-02-28,Q25e,conditions_at_latest_assessment_for_stayers,13
+Mental Health Disorder,veterans,2018-02-01,2018-02-28,Q25e,conditions_at_exit_for_leavers,2
+Alcohol Use Disorder,veterans,2018-02-01,2018-02-28,Q25e,conditions_at_start,4
+Alcohol Use Disorder,veterans,2018-02-01,2018-02-28,Q25e,conditions_at_latest_assessment_for_stayers,4
+Alcohol Use Disorder,veterans,2018-02-01,2018-02-28,Q25e,conditions_at_exit_for_leavers,0
+Drug Use Disorder,veterans,2018-02-01,2018-02-28,Q25e,conditions_at_start,3
+Drug Use Disorder,veterans,2018-02-01,2018-02-28,Q25e,conditions_at_latest_assessment_for_stayers,3
+Drug Use Disorder,veterans,2018-02-01,2018-02-28,Q25e,conditions_at_exit_for_leavers,0
+Both Alcohol and Drug Use Disorders,veterans,2018-02-01,2018-02-28,Q25e,conditions_at_start,2
+Both Alcohol and Drug Use Disorders,veterans,2018-02-01,2018-02-28,Q25e,conditions_at_latest_assessment_for_stayers,1
+Both Alcohol and Drug Use Disorders,veterans,2018-02-01,2018-02-28,Q25e,conditions_at_exit_for_leavers,1
+Chronic Health Condition,veterans,2018-02-01,2018-02-28,Q25e,conditions_at_start,8
+Chronic Health Condition,veterans,2018-02-01,2018-02-28,Q25e,conditions_at_latest_assessment_for_stayers,8
+Chronic Health Condition,veterans,2018-02-01,2018-02-28,Q25e,conditions_at_exit_for_leavers,0
+HIV/AIDS,veterans,2018-02-01,2018-02-28,Q25e,conditions_at_start,2
+HIV/AIDS,veterans,2018-02-01,2018-02-28,Q25e,conditions_at_latest_assessment_for_stayers,2
+HIV/AIDS,veterans,2018-02-01,2018-02-28,Q25e,conditions_at_exit_for_leavers,0
+Development Disability,veterans,2018-02-01,2018-02-28,Q25e,conditions_at_start,2
+Development Disability,veterans,2018-02-01,2018-02-28,Q25e,conditions_at_latest_assessment_for_stayers,2
+Development Disability,veterans,2018-02-01,2018-02-28,Q25e,conditions_at_exit_for_leavers,0
+Physical Disability,veterans,2018-02-01,2018-02-28,Q25e,conditions_at_start,10
+Physical Disability,veterans,2018-02-01,2018-02-28,Q25e,conditions_at_latest_assessment_for_stayers,9
+Physical Disability,veterans,2018-02-01,2018-02-28,Q25e,conditions_at_exit_for_leavers,1

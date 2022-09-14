@@ -1,0 +1,35 @@
+, "Total" , "Without Children" , "With Children and Adults" , "With Only Children" , "Unknown Household Type"
+"""Homeless Situations"""
+"""Emergency shelter, including hotel or motel paid for with emergency shelter voucher""",140,118,22,0,0
+"""Transitional housing for homeless persons (including homeless youth)""",4,4,0,0,0
+"""Place not meant for human habitation""",248,233,15,0,0
+"""Safe Haven""",5,4,1,0,0
+"""Host Home""",0,0,0,0,0
+"""Subtotal""",397,359,38,0,0
+"""Institutional Settings"""
+"""Psychiatric hospital or other psychiatric facility""",10,10,0,0,0
+"""Substance abuse treatment facility or detox center""",7,7,0,0,0
+"""Hospital or other residential non-psychiatric medical facility""",23,23,0,0,0
+"""Jail, prison or juvenile detention facility""",28,28,0,0,0
+"""Foster care home or foster care group home""",1,1,0,0,0
+"""Long-term care facility or nursing home""",1,1,0,0,0
+"""Residential project or halfway house with no homeless criteria""",1,1,0,0,0
+"""Subtotal""",71,71,0,0,0
+"""Other Locations"""
+"""Permanent housing (other than RRH) for formerly homeless persons""",3,3,0,0,0
+"""Owned by client, no ongoing housing subsidy""",8,8,0,0,0
+"""Owned by client, with ongoing housing subsidy""",4,3,1,0,0
+"""Rental by client, with RRH or equivalent subsidy""",0,0,0,0,0
+"""Rental by client, with HCV voucher (tenant or project based)""",2,0,2,0,0
+"""Rental by client in a public housing unit""",1,1,0,0,0
+"""Rental by client, no ongoing housing subsidy""",207,146,59,0,2
+"""Rental by client, with VASH housing subsidy""",0,0,0,0,0
+"""Rental by client, with GPD TIP housing subsidy""",2,1,1,0,0
+"""Rental by client, with other housing subsidy (including RRH)""",11,7,4,0,0
+"""Hotel or motel paid for without emergency shelter voucher""",117,88,28,0,1
+"""Staying or living in a friend''s room, apartment or house""",86,72,14,0,0
+"""Staying or living in a family member''s room, apartment or house""",106,66,40,0,0
+"""Client Doesn''t Know/Client Refused""",8,8,0,0,0
+"""Data not collected""",22,16,6,0,0
+"""Subtotal""",577,419,155,0,3
+"""Total""",1045,849,193,0,3

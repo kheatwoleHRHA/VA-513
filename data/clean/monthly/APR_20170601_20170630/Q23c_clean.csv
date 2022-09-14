@@ -1,0 +1,141 @@
+exit_destination,total,population,start_date,end_date,question,category,household_type,count
+Moved from one HOPWA funded project to HOPWA PH,0,all_persons,2017-06-01,2017-06-30,Q23c,Permanent Destinations,without_children,0
+Moved from one HOPWA funded project to HOPWA PH,0,all_persons,2017-06-01,2017-06-30,Q23c,Permanent Destinations,with_children_and_adults,0
+Moved from one HOPWA funded project to HOPWA PH,0,all_persons,2017-06-01,2017-06-30,Q23c,Permanent Destinations,with_only_children,0
+Moved from one HOPWA funded project to HOPWA PH,0,all_persons,2017-06-01,2017-06-30,Q23c,Permanent Destinations,unknown_household_type,0
+"Owned by client, no ongoing subsidy",0,all_persons,2017-06-01,2017-06-30,Q23c,NA,without_children,0
+"Owned by client, no ongoing subsidy",0,all_persons,2017-06-01,2017-06-30,Q23c,NA,with_children_and_adults,0
+"Owned by client, no ongoing subsidy",0,all_persons,2017-06-01,2017-06-30,Q23c,NA,with_only_children,0
+"Owned by client, no ongoing subsidy",0,all_persons,2017-06-01,2017-06-30,Q23c,NA,unknown_household_type,0
+"Owned by client, with ongoing subsidy",0,all_persons,2017-06-01,2017-06-30,Q23c,NA,without_children,0
+"Owned by client, with ongoing subsidy",0,all_persons,2017-06-01,2017-06-30,Q23c,NA,with_children_and_adults,0
+"Owned by client, with ongoing subsidy",0,all_persons,2017-06-01,2017-06-30,Q23c,NA,with_only_children,0
+"Owned by client, with ongoing subsidy",0,all_persons,2017-06-01,2017-06-30,Q23c,NA,unknown_household_type,0
+"Rental by client, no ongoing subsidy",41,all_persons,2017-06-01,2017-06-30,Q23c,NA,without_children,16
+"Rental by client, no ongoing subsidy",41,all_persons,2017-06-01,2017-06-30,Q23c,NA,with_children_and_adults,25
+"Rental by client, no ongoing subsidy",41,all_persons,2017-06-01,2017-06-30,Q23c,NA,with_only_children,0
+"Rental by client, no ongoing subsidy",41,all_persons,2017-06-01,2017-06-30,Q23c,NA,unknown_household_type,0
+"Rental by client, with VASH subsidy",0,all_persons,2017-06-01,2017-06-30,Q23c,NA,without_children,0
+"Rental by client, with VASH subsidy",0,all_persons,2017-06-01,2017-06-30,Q23c,NA,with_children_and_adults,0
+"Rental by client, with VASH subsidy",0,all_persons,2017-06-01,2017-06-30,Q23c,NA,with_only_children,0
+"Rental by client, with VASH subsidy",0,all_persons,2017-06-01,2017-06-30,Q23c,NA,unknown_household_type,0
+"Rental by client, with GPD TIP subsidy",0,all_persons,2017-06-01,2017-06-30,Q23c,NA,without_children,0
+"Rental by client, with GPD TIP subsidy",0,all_persons,2017-06-01,2017-06-30,Q23c,NA,with_children_and_adults,0
+"Rental by client, with GPD TIP subsidy",0,all_persons,2017-06-01,2017-06-30,Q23c,NA,with_only_children,0
+"Rental by client, with GPD TIP subsidy",0,all_persons,2017-06-01,2017-06-30,Q23c,NA,unknown_household_type,0
+"Rental by client, other ongoing subsidy",2,all_persons,2017-06-01,2017-06-30,Q23c,NA,without_children,2
+"Rental by client, other ongoing subsidy",2,all_persons,2017-06-01,2017-06-30,Q23c,NA,with_children_and_adults,0
+"Rental by client, other ongoing subsidy",2,all_persons,2017-06-01,2017-06-30,Q23c,NA,with_only_children,0
+"Rental by client, other ongoing subsidy",2,all_persons,2017-06-01,2017-06-30,Q23c,NA,unknown_household_type,0
+Permanent housing (other than RRH) for formerly homeless persons,1,all_persons,2017-06-01,2017-06-30,Q23c,NA,without_children,0
+Permanent housing (other than RRH) for formerly homeless persons,1,all_persons,2017-06-01,2017-06-30,Q23c,NA,with_children_and_adults,1
+Permanent housing (other than RRH) for formerly homeless persons,1,all_persons,2017-06-01,2017-06-30,Q23c,NA,with_only_children,0
+Permanent housing (other than RRH) for formerly homeless persons,1,all_persons,2017-06-01,2017-06-30,Q23c,NA,unknown_household_type,0
+"Staying or living with family, permanent tenure",3,all_persons,2017-06-01,2017-06-30,Q23c,NA,without_children,0
+"Staying or living with family, permanent tenure",3,all_persons,2017-06-01,2017-06-30,Q23c,NA,with_children_and_adults,3
+"Staying or living with family, permanent tenure",3,all_persons,2017-06-01,2017-06-30,Q23c,NA,with_only_children,0
+"Staying or living with family, permanent tenure",3,all_persons,2017-06-01,2017-06-30,Q23c,NA,unknown_household_type,0
+"Staying or living with friends, permanent tenure",8,all_persons,2017-06-01,2017-06-30,Q23c,NA,without_children,2
+"Staying or living with friends, permanent tenure",8,all_persons,2017-06-01,2017-06-30,Q23c,NA,with_children_and_adults,6
+"Staying or living with friends, permanent tenure",8,all_persons,2017-06-01,2017-06-30,Q23c,NA,with_only_children,0
+"Staying or living with friends, permanent tenure",8,all_persons,2017-06-01,2017-06-30,Q23c,NA,unknown_household_type,0
+"Rental by client, with RRH or equivalent subsidy",0,all_persons,2017-06-01,2017-06-30,Q23c,NA,without_children,0
+"Rental by client, with RRH or equivalent subsidy",0,all_persons,2017-06-01,2017-06-30,Q23c,NA,with_children_and_adults,0
+"Rental by client, with RRH or equivalent subsidy",0,all_persons,2017-06-01,2017-06-30,Q23c,NA,with_only_children,0
+"Rental by client, with RRH or equivalent subsidy",0,all_persons,2017-06-01,2017-06-30,Q23c,NA,unknown_household_type,0
+"Rental by client, with HCV voucher (tenant or project based)",0,all_persons,2017-06-01,2017-06-30,Q23c,NA,without_children,0
+"Rental by client, with HCV voucher (tenant or project based)",0,all_persons,2017-06-01,2017-06-30,Q23c,NA,with_children_and_adults,0
+"Rental by client, with HCV voucher (tenant or project based)",0,all_persons,2017-06-01,2017-06-30,Q23c,NA,with_only_children,0
+"Rental by client, with HCV voucher (tenant or project based)",0,all_persons,2017-06-01,2017-06-30,Q23c,NA,unknown_household_type,0
+Rental by client in a public housing unit,0,all_persons,2017-06-01,2017-06-30,Q23c,NA,without_children,0
+Rental by client in a public housing unit,0,all_persons,2017-06-01,2017-06-30,Q23c,NA,with_children_and_adults,0
+Rental by client in a public housing unit,0,all_persons,2017-06-01,2017-06-30,Q23c,NA,with_only_children,0
+Rental by client in a public housing unit,0,all_persons,2017-06-01,2017-06-30,Q23c,NA,unknown_household_type,0
+"Emergency shelter, including hotel or motel paid for with emergency shelter voucher",0,all_persons,2017-06-01,2017-06-30,Q23c,Temporary Destinations,without_children,0
+"Emergency shelter, including hotel or motel paid for with emergency shelter voucher",0,all_persons,2017-06-01,2017-06-30,Q23c,Temporary Destinations,with_children_and_adults,0
+"Emergency shelter, including hotel or motel paid for with emergency shelter voucher",0,all_persons,2017-06-01,2017-06-30,Q23c,Temporary Destinations,with_only_children,0
+"Emergency shelter, including hotel or motel paid for with emergency shelter voucher",0,all_persons,2017-06-01,2017-06-30,Q23c,Temporary Destinations,unknown_household_type,0
+Moved from one HOPWA funded project to HOPWA TH,0,all_persons,2017-06-01,2017-06-30,Q23c,NA,without_children,0
+Moved from one HOPWA funded project to HOPWA TH,0,all_persons,2017-06-01,2017-06-30,Q23c,NA,with_children_and_adults,0
+Moved from one HOPWA funded project to HOPWA TH,0,all_persons,2017-06-01,2017-06-30,Q23c,NA,with_only_children,0
+Moved from one HOPWA funded project to HOPWA TH,0,all_persons,2017-06-01,2017-06-30,Q23c,NA,unknown_household_type,0
+Transitional housing for homeless persons (including homeless youth),0,all_persons,2017-06-01,2017-06-30,Q23c,NA,without_children,0
+Transitional housing for homeless persons (including homeless youth),0,all_persons,2017-06-01,2017-06-30,Q23c,NA,with_children_and_adults,0
+Transitional housing for homeless persons (including homeless youth),0,all_persons,2017-06-01,2017-06-30,Q23c,NA,with_only_children,0
+Transitional housing for homeless persons (including homeless youth),0,all_persons,2017-06-01,2017-06-30,Q23c,NA,unknown_household_type,0
+"Staying or living with family, temporary tenure",0,all_persons,2017-06-01,2017-06-30,Q23c,NA,without_children,0
+"Staying or living with family, temporary tenure",0,all_persons,2017-06-01,2017-06-30,Q23c,NA,with_children_and_adults,0
+"Staying or living with family, temporary tenure",0,all_persons,2017-06-01,2017-06-30,Q23c,NA,with_only_children,0
+"Staying or living with family, temporary tenure",0,all_persons,2017-06-01,2017-06-30,Q23c,NA,unknown_household_type,0
+"Staying or living with friends, temporary tenure",1,all_persons,2017-06-01,2017-06-30,Q23c,NA,without_children,1
+"Staying or living with friends, temporary tenure",1,all_persons,2017-06-01,2017-06-30,Q23c,NA,with_children_and_adults,0
+"Staying or living with friends, temporary tenure",1,all_persons,2017-06-01,2017-06-30,Q23c,NA,with_only_children,0
+"Staying or living with friends, temporary tenure",1,all_persons,2017-06-01,2017-06-30,Q23c,NA,unknown_household_type,0
+Place not meant for human habitation,0,all_persons,2017-06-01,2017-06-30,Q23c,NA,without_children,0
+Place not meant for human habitation,0,all_persons,2017-06-01,2017-06-30,Q23c,NA,with_children_and_adults,0
+Place not meant for human habitation,0,all_persons,2017-06-01,2017-06-30,Q23c,NA,with_only_children,0
+Place not meant for human habitation,0,all_persons,2017-06-01,2017-06-30,Q23c,NA,unknown_household_type,0
+Safe Haven,0,all_persons,2017-06-01,2017-06-30,Q23c,NA,without_children,0
+Safe Haven,0,all_persons,2017-06-01,2017-06-30,Q23c,NA,with_children_and_adults,0
+Safe Haven,0,all_persons,2017-06-01,2017-06-30,Q23c,NA,with_only_children,0
+Safe Haven,0,all_persons,2017-06-01,2017-06-30,Q23c,NA,unknown_household_type,0
+"Hotel or motel, paid by client",1,all_persons,2017-06-01,2017-06-30,Q23c,NA,without_children,1
+"Hotel or motel, paid by client",1,all_persons,2017-06-01,2017-06-30,Q23c,NA,with_children_and_adults,0
+"Hotel or motel, paid by client",1,all_persons,2017-06-01,2017-06-30,Q23c,NA,with_only_children,0
+"Hotel or motel, paid by client",1,all_persons,2017-06-01,2017-06-30,Q23c,NA,unknown_household_type,0
+Host Home (non-crisis) ,0,all_persons,2017-06-01,2017-06-30,Q23c,NA,without_children,0
+Host Home (non-crisis) ,0,all_persons,2017-06-01,2017-06-30,Q23c,NA,with_children_and_adults,0
+Host Home (non-crisis) ,0,all_persons,2017-06-01,2017-06-30,Q23c,NA,with_only_children,0
+Host Home (non-crisis) ,0,all_persons,2017-06-01,2017-06-30,Q23c,NA,unknown_household_type,0
+Foster care home or group foster care home,0,all_persons,2017-06-01,2017-06-30,Q23c,Institutional Settings,without_children,0
+Foster care home or group foster care home,0,all_persons,2017-06-01,2017-06-30,Q23c,Institutional Settings,with_children_and_adults,0
+Foster care home or group foster care home,0,all_persons,2017-06-01,2017-06-30,Q23c,Institutional Settings,with_only_children,0
+Foster care home or group foster care home,0,all_persons,2017-06-01,2017-06-30,Q23c,Institutional Settings,unknown_household_type,0
+Psychiatric hospital or other psychiatric facility,0,all_persons,2017-06-01,2017-06-30,Q23c,NA,without_children,0
+Psychiatric hospital or other psychiatric facility,0,all_persons,2017-06-01,2017-06-30,Q23c,NA,with_children_and_adults,0
+Psychiatric hospital or other psychiatric facility,0,all_persons,2017-06-01,2017-06-30,Q23c,NA,with_only_children,0
+Psychiatric hospital or other psychiatric facility,0,all_persons,2017-06-01,2017-06-30,Q23c,NA,unknown_household_type,0
+Substance abuse treatment facility or detox center,0,all_persons,2017-06-01,2017-06-30,Q23c,NA,without_children,0
+Substance abuse treatment facility or detox center,0,all_persons,2017-06-01,2017-06-30,Q23c,NA,with_children_and_adults,0
+Substance abuse treatment facility or detox center,0,all_persons,2017-06-01,2017-06-30,Q23c,NA,with_only_children,0
+Substance abuse treatment facility or detox center,0,all_persons,2017-06-01,2017-06-30,Q23c,NA,unknown_household_type,0
+Hospital  or other residential non-psychiatric medical facility,0,all_persons,2017-06-01,2017-06-30,Q23c,NA,without_children,0
+Hospital  or other residential non-psychiatric medical facility,0,all_persons,2017-06-01,2017-06-30,Q23c,NA,with_children_and_adults,0
+Hospital  or other residential non-psychiatric medical facility,0,all_persons,2017-06-01,2017-06-30,Q23c,NA,with_only_children,0
+Hospital  or other residential non-psychiatric medical facility,0,all_persons,2017-06-01,2017-06-30,Q23c,NA,unknown_household_type,0
+"Jail, prison, or juvenile detention facility",0,all_persons,2017-06-01,2017-06-30,Q23c,NA,without_children,0
+"Jail, prison, or juvenile detention facility",0,all_persons,2017-06-01,2017-06-30,Q23c,NA,with_children_and_adults,0
+"Jail, prison, or juvenile detention facility",0,all_persons,2017-06-01,2017-06-30,Q23c,NA,with_only_children,0
+"Jail, prison, or juvenile detention facility",0,all_persons,2017-06-01,2017-06-30,Q23c,NA,unknown_household_type,0
+Long-term care facility or nursing home,0,all_persons,2017-06-01,2017-06-30,Q23c,NA,without_children,0
+Long-term care facility or nursing home,0,all_persons,2017-06-01,2017-06-30,Q23c,NA,with_children_and_adults,0
+Long-term care facility or nursing home,0,all_persons,2017-06-01,2017-06-30,Q23c,NA,with_only_children,0
+Long-term care facility or nursing home,0,all_persons,2017-06-01,2017-06-30,Q23c,NA,unknown_household_type,0
+Residential project or halfway house with no homeless criteria,0,all_persons,2017-06-01,2017-06-30,Q23c,Other Destinations,without_children,0
+Residential project or halfway house with no homeless criteria,0,all_persons,2017-06-01,2017-06-30,Q23c,Other Destinations,with_children_and_adults,0
+Residential project or halfway house with no homeless criteria,0,all_persons,2017-06-01,2017-06-30,Q23c,Other Destinations,with_only_children,0
+Residential project or halfway house with no homeless criteria,0,all_persons,2017-06-01,2017-06-30,Q23c,Other Destinations,unknown_household_type,0
+Deceased,0,all_persons,2017-06-01,2017-06-30,Q23c,NA,without_children,0
+Deceased,0,all_persons,2017-06-01,2017-06-30,Q23c,NA,with_children_and_adults,0
+Deceased,0,all_persons,2017-06-01,2017-06-30,Q23c,NA,with_only_children,0
+Deceased,0,all_persons,2017-06-01,2017-06-30,Q23c,NA,unknown_household_type,0
+Other,0,all_persons,2017-06-01,2017-06-30,Q23c,NA,without_children,0
+Other,0,all_persons,2017-06-01,2017-06-30,Q23c,NA,with_children_and_adults,0
+Other,0,all_persons,2017-06-01,2017-06-30,Q23c,NA,with_only_children,0
+Other,0,all_persons,2017-06-01,2017-06-30,Q23c,NA,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,all_persons,2017-06-01,2017-06-30,Q23c,NA,without_children,0
+Client Doesn't Know/Client Refused,0,all_persons,2017-06-01,2017-06-30,Q23c,NA,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,all_persons,2017-06-01,2017-06-30,Q23c,NA,with_only_children,0
+Client Doesn't Know/Client Refused,0,all_persons,2017-06-01,2017-06-30,Q23c,NA,unknown_household_type,0
+Data Not Collected (no exit interview completed),5,all_persons,2017-06-01,2017-06-30,Q23c,NA,without_children,5
+Data Not Collected (no exit interview completed),5,all_persons,2017-06-01,2017-06-30,Q23c,NA,with_children_and_adults,0
+Data Not Collected (no exit interview completed),5,all_persons,2017-06-01,2017-06-30,Q23c,NA,with_only_children,0
+Data Not Collected (no exit interview completed),5,all_persons,2017-06-01,2017-06-30,Q23c,NA,unknown_household_type,0
+Total persons exiting to positive housing destinations,15,all_persons,2017-06-01,2017-06-30,Q23c,NA,without_children,5
+Total persons exiting to positive housing destinations,15,all_persons,2017-06-01,2017-06-30,Q23c,NA,with_children_and_adults,10
+Total persons exiting to positive housing destinations,15,all_persons,2017-06-01,2017-06-30,Q23c,NA,with_only_children,0
+Total persons exiting to positive housing destinations,15,all_persons,2017-06-01,2017-06-30,Q23c,NA,unknown_household_type,0
+Total persons whose destinations excluded them from the calculation,0,all_persons,2017-06-01,2017-06-30,Q23c,NA,without_children,0
+Total persons whose destinations excluded them from the calculation,0,all_persons,2017-06-01,2017-06-30,Q23c,NA,with_children_and_adults,0
+Total persons whose destinations excluded them from the calculation,0,all_persons,2017-06-01,2017-06-30,Q23c,NA,with_only_children,0
+Total persons whose destinations excluded them from the calculation,0,all_persons,2017-06-01,2017-06-30,Q23c,NA,unknown_household_type,0

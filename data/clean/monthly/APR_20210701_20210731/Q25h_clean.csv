@@ -1,0 +1,19 @@
+non_cash_benefits,population,start_date,end_date,question,status,count
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),veterans,2021-07-01,2021-07-31,Q25h,benefit_at_start,14
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),veterans,2021-07-01,2021-07-31,Q25h,benefit_at_latest_annual_assessment_for_stayers,5
+Supplemental Nutrition Assistance Program (SNAP) (Previously known as Food Stamps),veterans,2021-07-01,2021-07-31,Q25h,benefit_at_exit_for_leavers,3
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",veterans,2021-07-01,2021-07-31,Q25h,benefit_at_start,1
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",veterans,2021-07-01,2021-07-31,Q25h,benefit_at_latest_annual_assessment_for_stayers,0
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",veterans,2021-07-01,2021-07-31,Q25h,benefit_at_exit_for_leavers,0
+TANF Child Care Services,veterans,2021-07-01,2021-07-31,Q25h,benefit_at_start,0
+TANF Child Care Services,veterans,2021-07-01,2021-07-31,Q25h,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Child Care Services,veterans,2021-07-01,2021-07-31,Q25h,benefit_at_exit_for_leavers,0
+TANF Transportation Services,veterans,2021-07-01,2021-07-31,Q25h,benefit_at_start,0
+TANF Transportation Services,veterans,2021-07-01,2021-07-31,Q25h,benefit_at_latest_annual_assessment_for_stayers,0
+TANF Transportation Services,veterans,2021-07-01,2021-07-31,Q25h,benefit_at_exit_for_leavers,0
+Other TANF-Funded Services,veterans,2021-07-01,2021-07-31,Q25h,benefit_at_start,0
+Other TANF-Funded Services,veterans,2021-07-01,2021-07-31,Q25h,benefit_at_latest_annual_assessment_for_stayers,0
+Other TANF-Funded Services,veterans,2021-07-01,2021-07-31,Q25h,benefit_at_exit_for_leavers,0
+Other Source,veterans,2021-07-01,2021-07-31,Q25h,benefit_at_start,1
+Other Source,veterans,2021-07-01,2021-07-31,Q25h,benefit_at_latest_annual_assessment_for_stayers,1
+Other Source,veterans,2021-07-01,2021-07-31,Q25h,benefit_at_exit_for_leavers,0

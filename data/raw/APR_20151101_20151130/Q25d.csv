@@ -1,0 +1,10 @@
+, "Total" , "Without Children" , "With Children and Adults" , "Unknown Household Type"
+"""18 - 24""",1,0,1,0
+"""25 - 34""",1,0,1,0
+"""35 - 44""",1,1,0,0
+"""45 - 54""",4,4,0,0
+"""55 - 61""",6,5,1,0
+"""62 +""",3,3,0,0
+"""Client Doesn't Know/Client Refused""",0,0,0,0
+"""Data Not Collected""",0,0,0,0
+"""Total""",16,13,3,0

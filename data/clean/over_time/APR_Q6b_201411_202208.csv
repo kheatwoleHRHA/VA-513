@@ -1,0 +1,471 @@
+data_element,error_count,percent_of_error_rate,population,start_date,end_date,question
+Veteran Status (3.7),8,0.02,data_quality,2014-11-01,2014-11-30,Q6b
+Project Start Date (3.10),0,0,data_quality,2014-11-01,2014-11-30,Q6b
+Relationship to Head of Household (3.15),98,0.18,data_quality,2014-11-01,2014-11-30,Q6b
+Client Location (3.16),0,0,data_quality,2014-11-01,2014-11-30,Q6b
+Disabling Condition (3.8),14,0.03,data_quality,2014-11-01,2014-11-30,Q6b
+Veteran Status (3.7),8,0.02,data_quality,2014-12-01,2014-12-31,Q6b
+Project Start Date (3.10),0,0,data_quality,2014-12-01,2014-12-31,Q6b
+Relationship to Head of Household (3.15),83,0.14,data_quality,2014-12-01,2014-12-31,Q6b
+Client Location (3.16),0,0,data_quality,2014-12-01,2014-12-31,Q6b
+Disabling Condition (3.8),14,0.02,data_quality,2014-12-01,2014-12-31,Q6b
+Veteran Status (3.7),8,0.02,data_quality,2015-01-01,2015-01-31,Q6b
+Project Start Date (3.10),0,0,data_quality,2015-01-01,2015-01-31,Q6b
+Relationship to Head of Household (3.15),70,0.12,data_quality,2015-01-01,2015-01-31,Q6b
+Client Location (3.16),1,0,data_quality,2015-01-01,2015-01-31,Q6b
+Disabling Condition (3.8),13,0.02,data_quality,2015-01-01,2015-01-31,Q6b
+Veteran Status (3.7),8,0.02,data_quality,2015-02-01,2015-02-28,Q6b
+Project Start Date (3.10),0,0,data_quality,2015-02-01,2015-02-28,Q6b
+Relationship to Head of Household (3.15),62,0.1,data_quality,2015-02-01,2015-02-28,Q6b
+Client Location (3.16),1,0,data_quality,2015-02-01,2015-02-28,Q6b
+Disabling Condition (3.8),16,0.03,data_quality,2015-02-01,2015-02-28,Q6b
+Veteran Status (3.7),9,0.02,data_quality,2015-03-01,2015-03-31,Q6b
+Project Start Date (3.10),0,0,data_quality,2015-03-01,2015-03-31,Q6b
+Relationship to Head of Household (3.15),64,0.11,data_quality,2015-03-01,2015-03-31,Q6b
+Client Location (3.16),1,0,data_quality,2015-03-01,2015-03-31,Q6b
+Disabling Condition (3.8),22,0.04,data_quality,2015-03-01,2015-03-31,Q6b
+Veteran Status (3.7),8,0.02,data_quality,2015-04-01,2015-04-30,Q6b
+Project Start Date (3.10),0,0,data_quality,2015-04-01,2015-04-30,Q6b
+Relationship to Head of Household (3.15),56,0.11,data_quality,2015-04-01,2015-04-30,Q6b
+Client Location (3.16),1,0,data_quality,2015-04-01,2015-04-30,Q6b
+Disabling Condition (3.8),33,0.06,data_quality,2015-04-01,2015-04-30,Q6b
+Veteran Status (3.7),9,0.03,data_quality,2015-05-01,2015-05-31,Q6b
+Project Start Date (3.10),0,0,data_quality,2015-05-01,2015-05-31,Q6b
+Relationship to Head of Household (3.15),52,0.11,data_quality,2015-05-01,2015-05-31,Q6b
+Client Location (3.16),1,0,data_quality,2015-05-01,2015-05-31,Q6b
+Disabling Condition (3.8),16,0.03,data_quality,2015-05-01,2015-05-31,Q6b
+Veteran Status (3.7),9,0.02,data_quality,2015-06-01,2015-06-30,Q6b
+Project Start Date (3.10),0,0,data_quality,2015-06-01,2015-06-30,Q6b
+Relationship to Head of Household (3.15),56,0.1,data_quality,2015-06-01,2015-06-30,Q6b
+Client Location (3.16),1,0,data_quality,2015-06-01,2015-06-30,Q6b
+Disabling Condition (3.8),17,0.03,data_quality,2015-06-01,2015-06-30,Q6b
+Veteran Status (3.7),8,0.02,data_quality,2015-07-01,2015-07-31,Q6b
+Project Start Date (3.10),0,0,data_quality,2015-07-01,2015-07-31,Q6b
+Relationship to Head of Household (3.15),54,0.1,data_quality,2015-07-01,2015-07-31,Q6b
+Client Location (3.16),1,0,data_quality,2015-07-01,2015-07-31,Q6b
+Disabling Condition (3.8),15,0.03,data_quality,2015-07-01,2015-07-31,Q6b
+Veteran Status (3.7),7,0.02,data_quality,2015-08-01,2015-08-31,Q6b
+Project Start Date (3.10),0,0,data_quality,2015-08-01,2015-08-31,Q6b
+Relationship to Head of Household (3.15),58,0.11,data_quality,2015-08-01,2015-08-31,Q6b
+Client Location (3.16),1,0,data_quality,2015-08-01,2015-08-31,Q6b
+Disabling Condition (3.8),13,0.03,data_quality,2015-08-01,2015-08-31,Q6b
+Veteran Status (3.7),8,0.02,data_quality,2015-09-01,2015-09-30,Q6b
+Project Start Date (3.10),0,0,data_quality,2015-09-01,2015-09-30,Q6b
+Relationship to Head of Household (3.15),56,0.09,data_quality,2015-09-01,2015-09-30,Q6b
+Client Location (3.16),1,0,data_quality,2015-09-01,2015-09-30,Q6b
+Disabling Condition (3.8),14,0.02,data_quality,2015-09-01,2015-09-30,Q6b
+Veteran Status (3.7),8,0.02,data_quality,2015-10-01,2015-10-31,Q6b
+Project Start Date (3.10),0,0,data_quality,2015-10-01,2015-10-31,Q6b
+Relationship to Head of Household (3.15),52,0.08,data_quality,2015-10-01,2015-10-31,Q6b
+Client Location (3.16),1,0,data_quality,2015-10-01,2015-10-31,Q6b
+Disabling Condition (3.8),18,0.03,data_quality,2015-10-01,2015-10-31,Q6b
+Veteran Status (3.7),8,0.02,data_quality,2015-11-01,2015-11-30,Q6b
+Project Start Date (3.10),0,0,data_quality,2015-11-01,2015-11-30,Q6b
+Relationship to Head of Household (3.15),51,0.08,data_quality,2015-11-01,2015-11-30,Q6b
+Client Location (3.16),1,0,data_quality,2015-11-01,2015-11-30,Q6b
+Disabling Condition (3.8),23,0.04,data_quality,2015-11-01,2015-11-30,Q6b
+Veteran Status (3.7),8,0.02,data_quality,2015-12-01,2015-12-31,Q6b
+Project Start Date (3.10),0,0,data_quality,2015-12-01,2015-12-31,Q6b
+Relationship to Head of Household (3.15),42,0.07,data_quality,2015-12-01,2015-12-31,Q6b
+Client Location (3.16),1,0,data_quality,2015-12-01,2015-12-31,Q6b
+Disabling Condition (3.8),22,0.04,data_quality,2015-12-01,2015-12-31,Q6b
+Veteran Status (3.7),8,0.02,data_quality,2016-01-01,2016-01-31,Q6b
+Project Start Date (3.10),0,0,data_quality,2016-01-01,2016-01-31,Q6b
+Relationship to Head of Household (3.15),36,0.06,data_quality,2016-01-01,2016-01-31,Q6b
+Client Location (3.16),1,0,data_quality,2016-01-01,2016-01-31,Q6b
+Disabling Condition (3.8),29,0.05,data_quality,2016-01-01,2016-01-31,Q6b
+Veteran Status (3.7),8,0.02,data_quality,2016-02-01,2016-02-29,Q6b
+Project Start Date (3.10),0,0,data_quality,2016-02-01,2016-02-29,Q6b
+Relationship to Head of Household (3.15),35,0.06,data_quality,2016-02-01,2016-02-29,Q6b
+Client Location (3.16),1,0,data_quality,2016-02-01,2016-02-29,Q6b
+Disabling Condition (3.8),25,0.04,data_quality,2016-02-01,2016-02-29,Q6b
+Veteran Status (3.7),10,0.02,data_quality,2016-03-01,2016-03-31,Q6b
+Project Start Date (3.10),0,0,data_quality,2016-03-01,2016-03-31,Q6b
+Relationship to Head of Household (3.15),28,0.05,data_quality,2016-03-01,2016-03-31,Q6b
+Client Location (3.16),1,0,data_quality,2016-03-01,2016-03-31,Q6b
+Disabling Condition (3.8),26,0.05,data_quality,2016-03-01,2016-03-31,Q6b
+Veteran Status (3.7),12,0.03,data_quality,2016-04-01,2016-04-30,Q6b
+Project Start Date (3.10),0,0,data_quality,2016-04-01,2016-04-30,Q6b
+Relationship to Head of Household (3.15),33,0.06,data_quality,2016-04-01,2016-04-30,Q6b
+Client Location (3.16),1,0,data_quality,2016-04-01,2016-04-30,Q6b
+Disabling Condition (3.8),21,0.04,data_quality,2016-04-01,2016-04-30,Q6b
+Veteran Status (3.7),9,0.02,data_quality,2016-05-01,2016-05-31,Q6b
+Project Start Date (3.10),0,0,data_quality,2016-05-01,2016-05-31,Q6b
+Relationship to Head of Household (3.15),19,0.04,data_quality,2016-05-01,2016-05-31,Q6b
+Client Location (3.16),1,0,data_quality,2016-05-01,2016-05-31,Q6b
+Disabling Condition (3.8),18,0.03,data_quality,2016-05-01,2016-05-31,Q6b
+Veteran Status (3.7),10,0.03,data_quality,2016-06-01,2016-06-30,Q6b
+Project Start Date (3.10),0,0,data_quality,2016-06-01,2016-06-30,Q6b
+Relationship to Head of Household (3.15),19,0.04,data_quality,2016-06-01,2016-06-30,Q6b
+Client Location (3.16),1,0,data_quality,2016-06-01,2016-06-30,Q6b
+Disabling Condition (3.8),15,0.03,data_quality,2016-06-01,2016-06-30,Q6b
+Veteran Status (3.7),9,0.02,data_quality,2016-07-01,2016-07-31,Q6b
+Project Start Date (3.10),0,0,data_quality,2016-07-01,2016-07-31,Q6b
+Relationship to Head of Household (3.15),26,0.05,data_quality,2016-07-01,2016-07-31,Q6b
+Client Location (3.16),1,0,data_quality,2016-07-01,2016-07-31,Q6b
+Disabling Condition (3.8),19,0.03,data_quality,2016-07-01,2016-07-31,Q6b
+Veteran Status (3.7),9,0.02,data_quality,2016-08-01,2016-08-31,Q6b
+Project Start Date (3.10),0,0,data_quality,2016-08-01,2016-08-31,Q6b
+Relationship to Head of Household (3.15),42,0.06,data_quality,2016-08-01,2016-08-31,Q6b
+Client Location (3.16),1,0,data_quality,2016-08-01,2016-08-31,Q6b
+Disabling Condition (3.8),20,0.03,data_quality,2016-08-01,2016-08-31,Q6b
+Veteran Status (3.7),9,0.02,data_quality,2016-09-01,2016-09-30,Q6b
+Project Start Date (3.10),0,0,data_quality,2016-09-01,2016-09-30,Q6b
+Relationship to Head of Household (3.15),49,0.07,data_quality,2016-09-01,2016-09-30,Q6b
+Client Location (3.16),1,0,data_quality,2016-09-01,2016-09-30,Q6b
+Disabling Condition (3.8),25,0.03,data_quality,2016-09-01,2016-09-30,Q6b
+Veteran Status (3.7),11,0.02,data_quality,2016-10-01,2016-10-31,Q6b
+Project Start Date (3.10),0,0,data_quality,2016-10-01,2016-10-31,Q6b
+Relationship to Head of Household (3.15),44,0.07,data_quality,2016-10-01,2016-10-31,Q6b
+Client Location (3.16),1,0,data_quality,2016-10-01,2016-10-31,Q6b
+Disabling Condition (3.8),22,0.03,data_quality,2016-10-01,2016-10-31,Q6b
+Veteran Status (3.7),13,0.03,data_quality,2016-11-01,2016-11-30,Q6b
+Project Start Date (3.10),0,0,data_quality,2016-11-01,2016-11-30,Q6b
+Relationship to Head of Household (3.15),53,0.07,data_quality,2016-11-01,2016-11-30,Q6b
+Client Location (3.16),1,0,data_quality,2016-11-01,2016-11-30,Q6b
+Disabling Condition (3.8),15,0.02,data_quality,2016-11-01,2016-11-30,Q6b
+Veteran Status (3.7),14,0.03,data_quality,2016-12-01,2016-12-31,Q6b
+Project Start Date (3.10),0,0,data_quality,2016-12-01,2016-12-31,Q6b
+Relationship to Head of Household (3.15),44,0.06,data_quality,2016-12-01,2016-12-31,Q6b
+Client Location (3.16),1,0,data_quality,2016-12-01,2016-12-31,Q6b
+Disabling Condition (3.8),15,0.02,data_quality,2016-12-01,2016-12-31,Q6b
+Veteran Status (3.7),15,0.03,data_quality,2017-01-01,2017-01-31,Q6b
+Project Start Date (3.10),0,0,data_quality,2017-01-01,2017-01-31,Q6b
+Relationship to Head of Household (3.15),40,0.06,data_quality,2017-01-01,2017-01-31,Q6b
+Client Location (3.16),2,0,data_quality,2017-01-01,2017-01-31,Q6b
+Disabling Condition (3.8),19,0.03,data_quality,2017-01-01,2017-01-31,Q6b
+Veteran Status (3.7),18,0.04,data_quality,2017-02-01,2017-02-28,Q6b
+Project Start Date (3.10),0,0,data_quality,2017-02-01,2017-02-28,Q6b
+Relationship to Head of Household (3.15),43,0.07,data_quality,2017-02-01,2017-02-28,Q6b
+Client Location (3.16),3,0.01,data_quality,2017-02-01,2017-02-28,Q6b
+Disabling Condition (3.8),26,0.04,data_quality,2017-02-01,2017-02-28,Q6b
+Veteran Status (3.7),18,0.04,data_quality,2017-03-01,2017-03-31,Q6b
+Project Start Date (3.10),0,0,data_quality,2017-03-01,2017-03-31,Q6b
+Relationship to Head of Household (3.15),26,0.05,data_quality,2017-03-01,2017-03-31,Q6b
+Client Location (3.16),2,0.01,data_quality,2017-03-01,2017-03-31,Q6b
+Disabling Condition (3.8),20,0.04,data_quality,2017-03-01,2017-03-31,Q6b
+Veteran Status (3.7),16,0.04,data_quality,2017-04-01,2017-04-30,Q6b
+Project Start Date (3.10),0,0,data_quality,2017-04-01,2017-04-30,Q6b
+Relationship to Head of Household (3.15),34,0.06,data_quality,2017-04-01,2017-04-30,Q6b
+Client Location (3.16),1,0,data_quality,2017-04-01,2017-04-30,Q6b
+Disabling Condition (3.8),25,0.05,data_quality,2017-04-01,2017-04-30,Q6b
+Veteran Status (3.7),15,0.04,data_quality,2017-05-01,2017-05-31,Q6b
+Project Start Date (3.10),0,0,data_quality,2017-05-01,2017-05-31,Q6b
+Relationship to Head of Household (3.15),41,0.08,data_quality,2017-05-01,2017-05-31,Q6b
+Client Location (3.16),2,0.01,data_quality,2017-05-01,2017-05-31,Q6b
+Disabling Condition (3.8),24,0.05,data_quality,2017-05-01,2017-05-31,Q6b
+Veteran Status (3.7),13,0.03,data_quality,2017-06-01,2017-06-30,Q6b
+Project Start Date (3.10),0,0,data_quality,2017-06-01,2017-06-30,Q6b
+Relationship to Head of Household (3.15),58,0.11,data_quality,2017-06-01,2017-06-30,Q6b
+Client Location (3.16),1,0,data_quality,2017-06-01,2017-06-30,Q6b
+Disabling Condition (3.8),36,0.07,data_quality,2017-06-01,2017-06-30,Q6b
+Veteran Status (3.7),14,0.03,data_quality,2017-07-01,2017-07-31,Q6b
+Project Start Date (3.10),0,0,data_quality,2017-07-01,2017-07-31,Q6b
+Relationship to Head of Household (3.15),47,0.08,data_quality,2017-07-01,2017-07-31,Q6b
+Client Location (3.16),1,0,data_quality,2017-07-01,2017-07-31,Q6b
+Disabling Condition (3.8),33,0.05,data_quality,2017-07-01,2017-07-31,Q6b
+Veteran Status (3.7),16,0.04,data_quality,2017-08-01,2017-08-31,Q6b
+Project Start Date (3.10),0,0,data_quality,2017-08-01,2017-08-31,Q6b
+Relationship to Head of Household (3.15),47,0.07,data_quality,2017-08-01,2017-08-31,Q6b
+Client Location (3.16),1,0,data_quality,2017-08-01,2017-08-31,Q6b
+Disabling Condition (3.8),36,0.06,data_quality,2017-08-01,2017-08-31,Q6b
+Veteran Status (3.7),12,0.03,data_quality,2017-09-01,2017-09-30,Q6b
+Project Start Date (3.10),0,0,data_quality,2017-09-01,2017-09-30,Q6b
+Relationship to Head of Household (3.15),45,0.08,data_quality,2017-09-01,2017-09-30,Q6b
+Client Location (3.16),1,0,data_quality,2017-09-01,2017-09-30,Q6b
+Disabling Condition (3.8),28,0.05,data_quality,2017-09-01,2017-09-30,Q6b
+Veteran Status (3.7),12,0.03,data_quality,2017-10-01,2017-10-31,Q6b
+Project Start Date (3.10),0,0,data_quality,2017-10-01,2017-10-31,Q6b
+Relationship to Head of Household (3.15),39,0.08,data_quality,2017-10-01,2017-10-31,Q6b
+Client Location (3.16),0,0,data_quality,2017-10-01,2017-10-31,Q6b
+Disabling Condition (3.8),18,0.03,data_quality,2017-10-01,2017-10-31,Q6b
+Veteran Status (3.7),11,0.03,data_quality,2017-11-01,2017-11-30,Q6b
+Project Start Date (3.10),0,0,data_quality,2017-11-01,2017-11-30,Q6b
+Relationship to Head of Household (3.15),47,0.08,data_quality,2017-11-01,2017-11-30,Q6b
+Client Location (3.16),1,0,data_quality,2017-11-01,2017-11-30,Q6b
+Disabling Condition (3.8),27,0.05,data_quality,2017-11-01,2017-11-30,Q6b
+Veteran Status (3.7),10,0.02,data_quality,2017-12-01,2017-12-31,Q6b
+Project Start Date (3.10),0,0,data_quality,2017-12-01,2017-12-31,Q6b
+Relationship to Head of Household (3.15),46,0.08,data_quality,2017-12-01,2017-12-31,Q6b
+Client Location (3.16),0,0,data_quality,2017-12-01,2017-12-31,Q6b
+Disabling Condition (3.8),25,0.04,data_quality,2017-12-01,2017-12-31,Q6b
+Veteran Status (3.7),9,0.02,data_quality,2018-01-01,2018-01-31,Q6b
+Project Start Date (3.10),0,0,data_quality,2018-01-01,2018-01-31,Q6b
+Relationship to Head of Household (3.15),37,0.07,data_quality,2018-01-01,2018-01-31,Q6b
+Client Location (3.16),0,0,data_quality,2018-01-01,2018-01-31,Q6b
+Disabling Condition (3.8),19,0.03,data_quality,2018-01-01,2018-01-31,Q6b
+Veteran Status (3.7),8,0.02,data_quality,2018-02-01,2018-02-28,Q6b
+Project Start Date (3.10),0,0,data_quality,2018-02-01,2018-02-28,Q6b
+Relationship to Head of Household (3.15),34,0.06,data_quality,2018-02-01,2018-02-28,Q6b
+Client Location (3.16),0,0,data_quality,2018-02-01,2018-02-28,Q6b
+Disabling Condition (3.8),18,0.03,data_quality,2018-02-01,2018-02-28,Q6b
+Veteran Status (3.7),9,0.02,data_quality,2018-03-01,2018-03-31,Q6b
+Project Start Date (3.10),0,0,data_quality,2018-03-01,2018-03-31,Q6b
+Relationship to Head of Household (3.15),39,0.07,data_quality,2018-03-01,2018-03-31,Q6b
+Client Location (3.16),0,0,data_quality,2018-03-01,2018-03-31,Q6b
+Disabling Condition (3.8),20,0.03,data_quality,2018-03-01,2018-03-31,Q6b
+Veteran Status (3.7),8,0.02,data_quality,2018-04-01,2018-04-30,Q6b
+Project Start Date (3.10),0,0,data_quality,2018-04-01,2018-04-30,Q6b
+Relationship to Head of Household (3.15),37,0.07,data_quality,2018-04-01,2018-04-30,Q6b
+Client Location (3.16),0,0,data_quality,2018-04-01,2018-04-30,Q6b
+Disabling Condition (3.8),15,0.03,data_quality,2018-04-01,2018-04-30,Q6b
+Veteran Status (3.7),8,0.02,data_quality,2018-05-01,2018-05-31,Q6b
+Project Start Date (3.10),0,0,data_quality,2018-05-01,2018-05-31,Q6b
+Relationship to Head of Household (3.15),40,0.07,data_quality,2018-05-01,2018-05-31,Q6b
+Client Location (3.16),0,0,data_quality,2018-05-01,2018-05-31,Q6b
+Disabling Condition (3.8),17,0.03,data_quality,2018-05-01,2018-05-31,Q6b
+Veteran Status (3.7),6,0.02,data_quality,2018-06-01,2018-06-30,Q6b
+Project Start Date (3.10),0,0,data_quality,2018-06-01,2018-06-30,Q6b
+Relationship to Head of Household (3.15),35,0.07,data_quality,2018-06-01,2018-06-30,Q6b
+Client Location (3.16),0,0,data_quality,2018-06-01,2018-06-30,Q6b
+Disabling Condition (3.8),15,0.03,data_quality,2018-06-01,2018-06-30,Q6b
+Veteran Status (3.7),4,0.01,data_quality,2018-07-01,2018-07-31,Q6b
+Project Start Date (3.10),0,0,data_quality,2018-07-01,2018-07-31,Q6b
+Relationship to Head of Household (3.15),35,0.07,data_quality,2018-07-01,2018-07-31,Q6b
+Client Location (3.16),0,0,data_quality,2018-07-01,2018-07-31,Q6b
+Disabling Condition (3.8),12,0.02,data_quality,2018-07-01,2018-07-31,Q6b
+Veteran Status (3.7),4,0.01,data_quality,2018-08-01,2018-08-31,Q6b
+Project Start Date (3.10),0,0,data_quality,2018-08-01,2018-08-31,Q6b
+Relationship to Head of Household (3.15),48,0.09,data_quality,2018-08-01,2018-08-31,Q6b
+Client Location (3.16),0,0,data_quality,2018-08-01,2018-08-31,Q6b
+Disabling Condition (3.8),17,0.03,data_quality,2018-08-01,2018-08-31,Q6b
+Veteran Status (3.7),3,0.01,data_quality,2018-09-01,2018-09-30,Q6b
+Project Start Date (3.10),0,0,data_quality,2018-09-01,2018-09-30,Q6b
+Relationship to Head of Household (3.15),46,0.08,data_quality,2018-09-01,2018-09-30,Q6b
+Client Location (3.16),0,0,data_quality,2018-09-01,2018-09-30,Q6b
+Disabling Condition (3.8),16,0.03,data_quality,2018-09-01,2018-09-30,Q6b
+Veteran Status (3.7),4,0.01,data_quality,2018-10-01,2018-10-31,Q6b
+Project Start Date (3.10),0,0,data_quality,2018-10-01,2018-10-31,Q6b
+Relationship to Head of Household (3.15),63,0.1,data_quality,2018-10-01,2018-10-31,Q6b
+Client Location (3.16),0,0,data_quality,2018-10-01,2018-10-31,Q6b
+Disabling Condition (3.8),27,0.04,data_quality,2018-10-01,2018-10-31,Q6b
+Veteran Status (3.7),3,0.01,data_quality,2018-11-01,2018-11-30,Q6b
+Project Start Date (3.10),0,0,data_quality,2018-11-01,2018-11-30,Q6b
+Relationship to Head of Household (3.15),48,0.07,data_quality,2018-11-01,2018-11-30,Q6b
+Client Location (3.16),0,0,data_quality,2018-11-01,2018-11-30,Q6b
+Disabling Condition (3.8),16,0.02,data_quality,2018-11-01,2018-11-30,Q6b
+Veteran Status (3.7),3,0.01,data_quality,2018-12-01,2018-12-31,Q6b
+Project Start Date (3.10),0,0,data_quality,2018-12-01,2018-12-31,Q6b
+Relationship to Head of Household (3.15),61,0.08,data_quality,2018-12-01,2018-12-31,Q6b
+Client Location (3.16),0,0,data_quality,2018-12-01,2018-12-31,Q6b
+Disabling Condition (3.8),20,0.03,data_quality,2018-12-01,2018-12-31,Q6b
+Veteran Status (3.7),3,0,data_quality,2019-01-01,2019-01-31,Q6b
+Project Start Date (3.10),0,0,data_quality,2019-01-01,2019-01-31,Q6b
+Relationship to Head of Household (3.15),66,0.08,data_quality,2019-01-01,2019-01-31,Q6b
+Client Location (3.16),0,0,data_quality,2019-01-01,2019-01-31,Q6b
+Disabling Condition (3.8),22,0.03,data_quality,2019-01-01,2019-01-31,Q6b
+Veteran Status (3.7),4,0.01,data_quality,2019-02-01,2019-02-28,Q6b
+Project Start Date (3.10),0,0,data_quality,2019-02-01,2019-02-28,Q6b
+Relationship to Head of Household (3.15),80,0.08,data_quality,2019-02-01,2019-02-28,Q6b
+Client Location (3.16),0,0,data_quality,2019-02-01,2019-02-28,Q6b
+Disabling Condition (3.8),24,0.03,data_quality,2019-02-01,2019-02-28,Q6b
+Veteran Status (3.7),3,0,data_quality,2019-03-01,2019-03-31,Q6b
+Project Start Date (3.10),0,0,data_quality,2019-03-01,2019-03-31,Q6b
+Relationship to Head of Household (3.15),74,0.08,data_quality,2019-03-01,2019-03-31,Q6b
+Client Location (3.16),1,0,data_quality,2019-03-01,2019-03-31,Q6b
+Disabling Condition (3.8),24,0.03,data_quality,2019-03-01,2019-03-31,Q6b
+Veteran Status (3.7),4,0.01,data_quality,2019-04-01,2019-04-30,Q6b
+Project Start Date (3.10),0,0,data_quality,2019-04-01,2019-04-30,Q6b
+Relationship to Head of Household (3.15),75,0.08,data_quality,2019-04-01,2019-04-30,Q6b
+Client Location (3.16),1,0,data_quality,2019-04-01,2019-04-30,Q6b
+Disabling Condition (3.8),24,0.03,data_quality,2019-04-01,2019-04-30,Q6b
+Veteran Status (3.7),7,0.01,data_quality,2019-05-01,2019-05-31,Q6b
+Project Start Date (3.10),0,0,data_quality,2019-05-01,2019-05-31,Q6b
+Relationship to Head of Household (3.15),83,0.09,data_quality,2019-05-01,2019-05-31,Q6b
+Client Location (3.16),0,0,data_quality,2019-05-01,2019-05-31,Q6b
+Disabling Condition (3.8),28,0.03,data_quality,2019-05-01,2019-05-31,Q6b
+Veteran Status (3.7),5,0.01,data_quality,2019-06-01,2019-06-30,Q6b
+Project Start Date (3.10),0,0,data_quality,2019-06-01,2019-06-30,Q6b
+Relationship to Head of Household (3.15),74,0.08,data_quality,2019-06-01,2019-06-30,Q6b
+Client Location (3.16),1,0,data_quality,2019-06-01,2019-06-30,Q6b
+Disabling Condition (3.8),29,0.03,data_quality,2019-06-01,2019-06-30,Q6b
+Veteran Status (3.7),7,0.01,data_quality,2019-07-01,2019-07-31,Q6b
+Project Start Date (3.10),0,0,data_quality,2019-07-01,2019-07-31,Q6b
+Relationship to Head of Household (3.15),108,0.1,data_quality,2019-07-01,2019-07-31,Q6b
+Client Location (3.16),1,0,data_quality,2019-07-01,2019-07-31,Q6b
+Disabling Condition (3.8),45,0.04,data_quality,2019-07-01,2019-07-31,Q6b
+Veteran Status (3.7),7,0.01,data_quality,2019-08-01,2019-08-31,Q6b
+Project Start Date (3.10),0,0,data_quality,2019-08-01,2019-08-31,Q6b
+Relationship to Head of Household (3.15),131,0.11,data_quality,2019-08-01,2019-08-31,Q6b
+Client Location (3.16),0,0,data_quality,2019-08-01,2019-08-31,Q6b
+Disabling Condition (3.8),52,0.04,data_quality,2019-08-01,2019-08-31,Q6b
+Veteran Status (3.7),7,0.01,data_quality,2019-09-01,2019-09-30,Q6b
+Project Start Date (3.10),0,0,data_quality,2019-09-01,2019-09-30,Q6b
+Relationship to Head of Household (3.15),137,0.12,data_quality,2019-09-01,2019-09-30,Q6b
+Client Location (3.16),0,0,data_quality,2019-09-01,2019-09-30,Q6b
+Disabling Condition (3.8),65,0.06,data_quality,2019-09-01,2019-09-30,Q6b
+Veteran Status (3.7),6,0.01,data_quality,2019-10-01,2019-10-31,Q6b
+Project Start Date (3.10),0,0,data_quality,2019-10-01,2019-10-31,Q6b
+Relationship to Head of Household (3.15),150,0.13,data_quality,2019-10-01,2019-10-31,Q6b
+Client Location (3.16),0,0,data_quality,2019-10-01,2019-10-31,Q6b
+Disabling Condition (3.8),82,0.07,data_quality,2019-10-01,2019-10-31,Q6b
+Veteran Status (3.7),14,0.02,data_quality,2019-11-01,2019-11-30,Q6b
+Project Start Date (3.10),0,0,data_quality,2019-11-01,2019-11-30,Q6b
+Relationship to Head of Household (3.15),158,0.13,data_quality,2019-11-01,2019-11-30,Q6b
+Client Location (3.16),0,0,data_quality,2019-11-01,2019-11-30,Q6b
+Disabling Condition (3.8),90,0.08,data_quality,2019-11-01,2019-11-30,Q6b
+Veteran Status (3.7),12,0.01,data_quality,2019-12-01,2019-12-31,Q6b
+Project Start Date (3.10),0,0,data_quality,2019-12-01,2019-12-31,Q6b
+Relationship to Head of Household (3.15),154,0.13,data_quality,2019-12-01,2019-12-31,Q6b
+Client Location (3.16),0,0,data_quality,2019-12-01,2019-12-31,Q6b
+Disabling Condition (3.8),81,0.07,data_quality,2019-12-01,2019-12-31,Q6b
+Veteran Status (3.7),16,0.02,data_quality,2020-01-01,2020-01-31,Q6b
+Project Start Date (3.10),0,0,data_quality,2020-01-01,2020-01-31,Q6b
+Relationship to Head of Household (3.15),155,0.12,data_quality,2020-01-01,2020-01-31,Q6b
+Client Location (3.16),0,0,data_quality,2020-01-01,2020-01-31,Q6b
+Disabling Condition (3.8),79,0.06,data_quality,2020-01-01,2020-01-31,Q6b
+Veteran Status (3.7),13,0.01,data_quality,2020-02-01,2020-02-29,Q6b
+Project Start Date (3.10),0,0,data_quality,2020-02-01,2020-02-29,Q6b
+Relationship to Head of Household (3.15),141,0.12,data_quality,2020-02-01,2020-02-29,Q6b
+Client Location (3.16),0,0,data_quality,2020-02-01,2020-02-29,Q6b
+Disabling Condition (3.8),73,0.06,data_quality,2020-02-01,2020-02-29,Q6b
+Veteran Status (3.7),10,0.01,data_quality,2020-03-01,2020-03-31,Q6b
+Project Start Date (3.10),0,0,data_quality,2020-03-01,2020-03-31,Q6b
+Relationship to Head of Household (3.15),131,0.12,data_quality,2020-03-01,2020-03-31,Q6b
+Client Location (3.16),0,0,data_quality,2020-03-01,2020-03-31,Q6b
+Disabling Condition (3.8),69,0.06,data_quality,2020-03-01,2020-03-31,Q6b
+Veteran Status (3.7),12,0.01,data_quality,2020-04-01,2020-04-30,Q6b
+Project Start Date (3.10),0,0,data_quality,2020-04-01,2020-04-30,Q6b
+Relationship to Head of Household (3.15),127,0.12,data_quality,2020-04-01,2020-04-30,Q6b
+Client Location (3.16),0,0,data_quality,2020-04-01,2020-04-30,Q6b
+Disabling Condition (3.8),72,0.07,data_quality,2020-04-01,2020-04-30,Q6b
+Veteran Status (3.7),11,0.01,data_quality,2020-05-01,2020-05-31,Q6b
+Project Start Date (3.10),0,0,data_quality,2020-05-01,2020-05-31,Q6b
+Relationship to Head of Household (3.15),126,0.12,data_quality,2020-05-01,2020-05-31,Q6b
+Client Location (3.16),0,0,data_quality,2020-05-01,2020-05-31,Q6b
+Disabling Condition (3.8),67,0.06,data_quality,2020-05-01,2020-05-31,Q6b
+Veteran Status (3.7),11,0.01,data_quality,2020-06-01,2020-06-30,Q6b
+Project Start Date (3.10),0,0,data_quality,2020-06-01,2020-06-30,Q6b
+Relationship to Head of Household (3.15),129,0.12,data_quality,2020-06-01,2020-06-30,Q6b
+Client Location (3.16),0,0,data_quality,2020-06-01,2020-06-30,Q6b
+Disabling Condition (3.8),69,0.06,data_quality,2020-06-01,2020-06-30,Q6b
+Veteran Status (3.7),10,0.01,data_quality,2020-07-01,2020-07-31,Q6b
+Project Start Date (3.10),0,0,data_quality,2020-07-01,2020-07-31,Q6b
+Relationship to Head of Household (3.15),131,0.12,data_quality,2020-07-01,2020-07-31,Q6b
+Client Location (3.16),0,0,data_quality,2020-07-01,2020-07-31,Q6b
+Disabling Condition (3.8),57,0.05,data_quality,2020-07-01,2020-07-31,Q6b
+Veteran Status (3.7),11,0.01,data_quality,2020-08-01,2020-08-31,Q6b
+Project Start Date (3.10),0,0,data_quality,2020-08-01,2020-08-31,Q6b
+Relationship to Head of Household (3.15),130,0.12,data_quality,2020-08-01,2020-08-31,Q6b
+Client Location (3.16),0,0,data_quality,2020-08-01,2020-08-31,Q6b
+Disabling Condition (3.8),50,0.05,data_quality,2020-08-01,2020-08-31,Q6b
+Veteran Status (3.7),12,0.01,data_quality,2020-09-01,2020-09-30,Q6b
+Project Start Date (3.10),0,0,data_quality,2020-09-01,2020-09-30,Q6b
+Relationship to Head of Household (3.15),136,0.12,data_quality,2020-09-01,2020-09-30,Q6b
+Client Location (3.16),0,0,data_quality,2020-09-01,2020-09-30,Q6b
+Disabling Condition (3.8),62,0.06,data_quality,2020-09-01,2020-09-30,Q6b
+Veteran Status (3.7),11,0.01,data_quality,2020-10-01,2020-10-31,Q6b
+Project Start Date (3.10),0,0,data_quality,2020-10-01,2020-10-31,Q6b
+Relationship to Head of Household (3.15),137,0.12,data_quality,2020-10-01,2020-10-31,Q6b
+Client Location (3.16),0,0,data_quality,2020-10-01,2020-10-31,Q6b
+Disabling Condition (3.8),60,0.05,data_quality,2020-10-01,2020-10-31,Q6b
+Veteran Status (3.7),14,0.01,data_quality,2020-11-01,2020-11-30,Q6b
+Project Start Date (3.10),0,0,data_quality,2020-11-01,2020-11-30,Q6b
+Relationship to Head of Household (3.15),145,0.12,data_quality,2020-11-01,2020-11-30,Q6b
+Client Location (3.16),0,0,data_quality,2020-11-01,2020-11-30,Q6b
+Disabling Condition (3.8),67,0.06,data_quality,2020-11-01,2020-11-30,Q6b
+Veteran Status (3.7),18,0.02,data_quality,2020-12-01,2020-12-31,Q6b
+Project Start Date (3.10),0,0,data_quality,2020-12-01,2020-12-31,Q6b
+Relationship to Head of Household (3.15),149,0.12,data_quality,2020-12-01,2020-12-31,Q6b
+Client Location (3.16),0,0,data_quality,2020-12-01,2020-12-31,Q6b
+Disabling Condition (3.8),70,0.06,data_quality,2020-12-01,2020-12-31,Q6b
+Veteran Status (3.7),16,0.02,data_quality,2021-01-01,2021-01-31,Q6b
+Project Start Date (3.10),0,0,data_quality,2021-01-01,2021-01-31,Q6b
+Relationship to Head of Household (3.15),145,0.12,data_quality,2021-01-01,2021-01-31,Q6b
+Client Location (3.16),0,0,data_quality,2021-01-01,2021-01-31,Q6b
+Disabling Condition (3.8),65,0.05,data_quality,2021-01-01,2021-01-31,Q6b
+Veteran Status (3.7),20,0.02,data_quality,2021-02-01,2021-02-28,Q6b
+Project Start Date (3.10),0,0,data_quality,2021-02-01,2021-02-28,Q6b
+Relationship to Head of Household (3.15),152,0.13,data_quality,2021-02-01,2021-02-28,Q6b
+Client Location (3.16),0,0,data_quality,2021-02-01,2021-02-28,Q6b
+Disabling Condition (3.8),69,0.06,data_quality,2021-02-01,2021-02-28,Q6b
+Veteran Status (3.7),18,0.02,data_quality,2021-03-01,2021-03-31,Q6b
+Project Start Date (3.10),0,0,data_quality,2021-03-01,2021-03-31,Q6b
+Relationship to Head of Household (3.15),140,0.12,data_quality,2021-03-01,2021-03-31,Q6b
+Client Location (3.16),0,0,data_quality,2021-03-01,2021-03-31,Q6b
+Disabling Condition (3.8),73,0.06,data_quality,2021-03-01,2021-03-31,Q6b
+Veteran Status (3.7),16,0.02,data_quality,2021-04-01,2021-04-30,Q6b
+Project Start Date (3.10),0,0,data_quality,2021-04-01,2021-04-30,Q6b
+Relationship to Head of Household (3.15),149,0.13,data_quality,2021-04-01,2021-04-30,Q6b
+Client Location (3.16),0,0,data_quality,2021-04-01,2021-04-30,Q6b
+Disabling Condition (3.8),80,0.07,data_quality,2021-04-01,2021-04-30,Q6b
+Veteran Status (3.7),19,0.02,data_quality,2021-05-01,2021-05-31,Q6b
+Project Start Date (3.10),0,0,data_quality,2021-05-01,2021-05-31,Q6b
+Relationship to Head of Household (3.15),159,0.14,data_quality,2021-05-01,2021-05-31,Q6b
+Client Location (3.16),0,0,data_quality,2021-05-01,2021-05-31,Q6b
+Disabling Condition (3.8),87,0.08,data_quality,2021-05-01,2021-05-31,Q6b
+Veteran Status (3.7),18,0.02,data_quality,2021-06-01,2021-06-30,Q6b
+Project Start Date (3.10),0,0,data_quality,2021-06-01,2021-06-30,Q6b
+Relationship to Head of Household (3.15),159,0.14,data_quality,2021-06-01,2021-06-30,Q6b
+Client Location (3.16),0,0,data_quality,2021-06-01,2021-06-30,Q6b
+Disabling Condition (3.8),83,0.07,data_quality,2021-06-01,2021-06-30,Q6b
+Veteran Status (3.7),18,0.02,data_quality,2021-07-01,2021-07-31,Q6b
+Project Start Date (3.10),0,0,data_quality,2021-07-01,2021-07-31,Q6b
+Relationship to Head of Household (3.15),154,0.13,data_quality,2021-07-01,2021-07-31,Q6b
+Client Location (3.16),0,0,data_quality,2021-07-01,2021-07-31,Q6b
+Disabling Condition (3.8),78,0.07,data_quality,2021-07-01,2021-07-31,Q6b
+Veteran Status (3.7),19,0.02,data_quality,2021-08-01,2021-08-31,Q6b
+Project Start Date (3.10),0,0,data_quality,2021-08-01,2021-08-31,Q6b
+Relationship to Head of Household (3.15),174,0.13,data_quality,2021-08-01,2021-08-31,Q6b
+Client Location (3.16),0,0,data_quality,2021-08-01,2021-08-31,Q6b
+Disabling Condition (3.8),92,0.07,data_quality,2021-08-01,2021-08-31,Q6b
+Veteran Status (3.7),20,0.02,data_quality,2021-09-01,2021-09-30,Q6b
+Project Start Date (3.10),0,0,data_quality,2021-09-01,2021-09-30,Q6b
+Relationship to Head of Household (3.15),234,0.16,data_quality,2021-09-01,2021-09-30,Q6b
+Client Location (3.16),0,0,data_quality,2021-09-01,2021-09-30,Q6b
+Disabling Condition (3.8),110,0.08,data_quality,2021-09-01,2021-09-30,Q6b
+Veteran Status (3.7),21,0.02,data_quality,2021-10-01,2021-10-31,Q6b
+Project Start Date (3.10),0,0,data_quality,2021-10-01,2021-10-31,Q6b
+Relationship to Head of Household (3.15),234,0.16,data_quality,2021-10-01,2021-10-31,Q6b
+Client Location (3.16),0,0,data_quality,2021-10-01,2021-10-31,Q6b
+Disabling Condition (3.8),126,0.09,data_quality,2021-10-01,2021-10-31,Q6b
+Veteran Status (3.7),25,0.02,data_quality,2021-11-01,2021-11-30,Q6b
+Project Start Date (3.10),0,0,data_quality,2021-11-01,2021-11-30,Q6b
+Relationship to Head of Household (3.15),247,0.16,data_quality,2021-11-01,2021-11-30,Q6b
+Client Location (3.16),0,0,data_quality,2021-11-01,2021-11-30,Q6b
+Disabling Condition (3.8),147,0.09,data_quality,2021-11-01,2021-11-30,Q6b
+Veteran Status (3.7),26,0.02,data_quality,2021-12-01,2021-12-31,Q6b
+Project Start Date (3.10),0,0,data_quality,2021-12-01,2021-12-31,Q6b
+Relationship to Head of Household (3.15),288,0.17,data_quality,2021-12-01,2021-12-31,Q6b
+Client Location (3.16),0,0,data_quality,2021-12-01,2021-12-31,Q6b
+Disabling Condition (3.8),167,0.1,data_quality,2021-12-01,2021-12-31,Q6b
+Veteran Status (3.7),25,0.02,data_quality,2022-01-01,2022-01-31,Q6b
+Project Start Date (3.10),0,0,data_quality,2022-01-01,2022-01-31,Q6b
+Relationship to Head of Household (3.15),265,0.16,data_quality,2022-01-01,2022-01-31,Q6b
+Client Location (3.16),0,0,data_quality,2022-01-01,2022-01-31,Q6b
+Disabling Condition (3.8),149,0.09,data_quality,2022-01-01,2022-01-31,Q6b
+Veteran Status (3.7),27,0.02,data_quality,2022-02-01,2022-02-28,Q6b
+Project Start Date (3.10),0,0,data_quality,2022-02-01,2022-02-28,Q6b
+Relationship to Head of Household (3.15),269,0.16,data_quality,2022-02-01,2022-02-28,Q6b
+Client Location (3.16),1,0,data_quality,2022-02-01,2022-02-28,Q6b
+Disabling Condition (3.8),166,0.1,data_quality,2022-02-01,2022-02-28,Q6b
+Veteran Status (3.7),29,0.02,data_quality,2022-03-01,2022-03-31,Q6b
+Project Start Date (3.10),0,0,data_quality,2022-03-01,2022-03-31,Q6b
+Relationship to Head of Household (3.15),349,0.19,data_quality,2022-03-01,2022-03-31,Q6b
+Client Location (3.16),1,0,data_quality,2022-03-01,2022-03-31,Q6b
+Disabling Condition (3.8),214,0.12,data_quality,2022-03-01,2022-03-31,Q6b
+Veteran Status (3.7),27,0.02,data_quality,2022-04-01,2022-04-30,Q6b
+Project Start Date (3.10),0,0,data_quality,2022-04-01,2022-04-30,Q6b
+Relationship to Head of Household (3.15),370,0.2,data_quality,2022-04-01,2022-04-30,Q6b
+Client Location (3.16),1,0,data_quality,2022-04-01,2022-04-30,Q6b
+Disabling Condition (3.8),236,0.13,data_quality,2022-04-01,2022-04-30,Q6b
+Veteran Status (3.7),31,0.02,data_quality,2022-05-01,2022-05-31,Q6b
+Project Start Date (3.10),0,0,data_quality,2022-05-01,2022-05-31,Q6b
+Relationship to Head of Household (3.15),400,0.21,data_quality,2022-05-01,2022-05-31,Q6b
+Client Location (3.16),1,0,data_quality,2022-05-01,2022-05-31,Q6b
+Disabling Condition (3.8),262,0.14,data_quality,2022-05-01,2022-05-31,Q6b
+Veteran Status (3.7),34,0.02,data_quality,2022-06-01,2022-06-30,Q6b
+Project Start Date (3.10),0,0,data_quality,2022-06-01,2022-06-30,Q6b
+Relationship to Head of Household (3.15),420,0.21,data_quality,2022-06-01,2022-06-30,Q6b
+Client Location (3.16),1,0,data_quality,2022-06-01,2022-06-30,Q6b
+Disabling Condition (3.8),279,0.14,data_quality,2022-06-01,2022-06-30,Q6b
+Veteran Status (3.7),34,0.02,data_quality,2022-07-01,2022-07-31,Q6b
+Project Start Date (3.10),0,0,data_quality,2022-07-01,2022-07-31,Q6b
+Relationship to Head of Household (3.15),405,0.21,data_quality,2022-07-01,2022-07-31,Q6b
+Client Location (3.16),1,0,data_quality,2022-07-01,2022-07-31,Q6b
+Disabling Condition (3.8),275,0.14,data_quality,2022-07-01,2022-07-31,Q6b
+Veteran Status (3.7),36,0.02,data_quality,2022-08-01,2022-08-31,Q6b
+Project Start Date (3.10),0,0,data_quality,2022-08-01,2022-08-31,Q6b
+Relationship to Head of Household (3.15),429,0.21,data_quality,2022-08-01,2022-08-31,Q6b
+Client Location (3.16),1,0,data_quality,2022-08-01,2022-08-31,Q6b
+Disabling Condition (3.8),304,0.15,data_quality,2022-08-01,2022-08-31,Q6b

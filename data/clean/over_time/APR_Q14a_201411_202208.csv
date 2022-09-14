@@ -1,0 +1,1505 @@
+dv_history,total,population,start_date,end_date,question,household_type,count
+Yes,53,all_persons,2014-11-01,2014-11-30,Q14a,without_children,35
+Yes,53,all_persons,2014-11-01,2014-11-30,Q14a,with_children_and_adults,18
+Yes,53,all_persons,2014-11-01,2014-11-30,Q14a,with_only_children,0
+Yes,53,all_persons,2014-11-01,2014-11-30,Q14a,unknown_household_type,0
+No,343,all_persons,2014-11-01,2014-11-30,Q14a,without_children,258
+No,343,all_persons,2014-11-01,2014-11-30,Q14a,with_children_and_adults,85
+No,343,all_persons,2014-11-01,2014-11-30,Q14a,with_only_children,0
+No,343,all_persons,2014-11-01,2014-11-30,Q14a,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_persons,2014-11-01,2014-11-30,Q14a,without_children,1
+Client Doesn't Know/Client Refused,1,all_persons,2014-11-01,2014-11-30,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_persons,2014-11-01,2014-11-30,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2014-11-01,2014-11-30,Q14a,unknown_household_type,0
+Data Not Collected,13,all_persons,2014-11-01,2014-11-30,Q14a,without_children,13
+Data Not Collected,13,all_persons,2014-11-01,2014-11-30,Q14a,with_children_and_adults,0
+Data Not Collected,13,all_persons,2014-11-01,2014-11-30,Q14a,with_only_children,0
+Data Not Collected,13,all_persons,2014-11-01,2014-11-30,Q14a,unknown_household_type,0
+Yes,37,all_persons,2014-12-01,2014-12-31,Q14a,without_children,22
+Yes,37,all_persons,2014-12-01,2014-12-31,Q14a,with_children_and_adults,15
+Yes,37,all_persons,2014-12-01,2014-12-31,Q14a,with_only_children,0
+Yes,37,all_persons,2014-12-01,2014-12-31,Q14a,unknown_household_type,0
+No,369,all_persons,2014-12-01,2014-12-31,Q14a,without_children,270
+No,369,all_persons,2014-12-01,2014-12-31,Q14a,with_children_and_adults,99
+No,369,all_persons,2014-12-01,2014-12-31,Q14a,with_only_children,0
+No,369,all_persons,2014-12-01,2014-12-31,Q14a,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_persons,2014-12-01,2014-12-31,Q14a,without_children,1
+Client Doesn't Know/Client Refused,1,all_persons,2014-12-01,2014-12-31,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_persons,2014-12-01,2014-12-31,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2014-12-01,2014-12-31,Q14a,unknown_household_type,0
+Data Not Collected,12,all_persons,2014-12-01,2014-12-31,Q14a,without_children,12
+Data Not Collected,12,all_persons,2014-12-01,2014-12-31,Q14a,with_children_and_adults,0
+Data Not Collected,12,all_persons,2014-12-01,2014-12-31,Q14a,with_only_children,0
+Data Not Collected,12,all_persons,2014-12-01,2014-12-31,Q14a,unknown_household_type,0
+Yes,38,all_persons,2015-01-01,2015-01-31,Q14a,without_children,23
+Yes,38,all_persons,2015-01-01,2015-01-31,Q14a,with_children_and_adults,15
+Yes,38,all_persons,2015-01-01,2015-01-31,Q14a,with_only_children,0
+Yes,38,all_persons,2015-01-01,2015-01-31,Q14a,unknown_household_type,0
+No,391,all_persons,2015-01-01,2015-01-31,Q14a,without_children,284
+No,391,all_persons,2015-01-01,2015-01-31,Q14a,with_children_and_adults,107
+No,391,all_persons,2015-01-01,2015-01-31,Q14a,with_only_children,0
+No,391,all_persons,2015-01-01,2015-01-31,Q14a,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_persons,2015-01-01,2015-01-31,Q14a,without_children,1
+Client Doesn't Know/Client Refused,1,all_persons,2015-01-01,2015-01-31,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_persons,2015-01-01,2015-01-31,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2015-01-01,2015-01-31,Q14a,unknown_household_type,0
+Data Not Collected,14,all_persons,2015-01-01,2015-01-31,Q14a,without_children,13
+Data Not Collected,14,all_persons,2015-01-01,2015-01-31,Q14a,with_children_and_adults,1
+Data Not Collected,14,all_persons,2015-01-01,2015-01-31,Q14a,with_only_children,0
+Data Not Collected,14,all_persons,2015-01-01,2015-01-31,Q14a,unknown_household_type,0
+Yes,47,all_persons,2015-02-01,2015-02-28,Q14a,without_children,28
+Yes,47,all_persons,2015-02-01,2015-02-28,Q14a,with_children_and_adults,19
+Yes,47,all_persons,2015-02-01,2015-02-28,Q14a,with_only_children,0
+Yes,47,all_persons,2015-02-01,2015-02-28,Q14a,unknown_household_type,0
+No,386,all_persons,2015-02-01,2015-02-28,Q14a,without_children,292
+No,386,all_persons,2015-02-01,2015-02-28,Q14a,with_children_and_adults,94
+No,386,all_persons,2015-02-01,2015-02-28,Q14a,with_only_children,0
+No,386,all_persons,2015-02-01,2015-02-28,Q14a,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_persons,2015-02-01,2015-02-28,Q14a,without_children,1
+Client Doesn't Know/Client Refused,1,all_persons,2015-02-01,2015-02-28,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_persons,2015-02-01,2015-02-28,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2015-02-01,2015-02-28,Q14a,unknown_household_type,0
+Data Not Collected,14,all_persons,2015-02-01,2015-02-28,Q14a,without_children,13
+Data Not Collected,14,all_persons,2015-02-01,2015-02-28,Q14a,with_children_and_adults,0
+Data Not Collected,14,all_persons,2015-02-01,2015-02-28,Q14a,with_only_children,0
+Data Not Collected,14,all_persons,2015-02-01,2015-02-28,Q14a,unknown_household_type,1
+Yes,44,all_persons,2015-03-01,2015-03-31,Q14a,without_children,26
+Yes,44,all_persons,2015-03-01,2015-03-31,Q14a,with_children_and_adults,18
+Yes,44,all_persons,2015-03-01,2015-03-31,Q14a,with_only_children,0
+Yes,44,all_persons,2015-03-01,2015-03-31,Q14a,unknown_household_type,0
+No,376,all_persons,2015-03-01,2015-03-31,Q14a,without_children,296
+No,376,all_persons,2015-03-01,2015-03-31,Q14a,with_children_and_adults,80
+No,376,all_persons,2015-03-01,2015-03-31,Q14a,with_only_children,0
+No,376,all_persons,2015-03-01,2015-03-31,Q14a,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_persons,2015-03-01,2015-03-31,Q14a,without_children,1
+Client Doesn't Know/Client Refused,1,all_persons,2015-03-01,2015-03-31,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_persons,2015-03-01,2015-03-31,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2015-03-01,2015-03-31,Q14a,unknown_household_type,0
+Data Not Collected,19,all_persons,2015-03-01,2015-03-31,Q14a,without_children,18
+Data Not Collected,19,all_persons,2015-03-01,2015-03-31,Q14a,with_children_and_adults,0
+Data Not Collected,19,all_persons,2015-03-01,2015-03-31,Q14a,with_only_children,0
+Data Not Collected,19,all_persons,2015-03-01,2015-03-31,Q14a,unknown_household_type,1
+Yes,48,all_persons,2015-04-01,2015-04-30,Q14a,without_children,34
+Yes,48,all_persons,2015-04-01,2015-04-30,Q14a,with_children_and_adults,14
+Yes,48,all_persons,2015-04-01,2015-04-30,Q14a,with_only_children,0
+Yes,48,all_persons,2015-04-01,2015-04-30,Q14a,unknown_household_type,0
+No,349,all_persons,2015-04-01,2015-04-30,Q14a,without_children,282
+No,349,all_persons,2015-04-01,2015-04-30,Q14a,with_children_and_adults,67
+No,349,all_persons,2015-04-01,2015-04-30,Q14a,with_only_children,0
+No,349,all_persons,2015-04-01,2015-04-30,Q14a,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_persons,2015-04-01,2015-04-30,Q14a,without_children,1
+Client Doesn't Know/Client Refused,1,all_persons,2015-04-01,2015-04-30,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_persons,2015-04-01,2015-04-30,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2015-04-01,2015-04-30,Q14a,unknown_household_type,0
+Data Not Collected,22,all_persons,2015-04-01,2015-04-30,Q14a,without_children,21
+Data Not Collected,22,all_persons,2015-04-01,2015-04-30,Q14a,with_children_and_adults,0
+Data Not Collected,22,all_persons,2015-04-01,2015-04-30,Q14a,with_only_children,0
+Data Not Collected,22,all_persons,2015-04-01,2015-04-30,Q14a,unknown_household_type,1
+Yes,37,all_persons,2015-05-01,2015-05-31,Q14a,without_children,23
+Yes,37,all_persons,2015-05-01,2015-05-31,Q14a,with_children_and_adults,14
+Yes,37,all_persons,2015-05-01,2015-05-31,Q14a,with_only_children,0
+Yes,37,all_persons,2015-05-01,2015-05-31,Q14a,unknown_household_type,0
+No,299,all_persons,2015-05-01,2015-05-31,Q14a,without_children,230
+No,299,all_persons,2015-05-01,2015-05-31,Q14a,with_children_and_adults,69
+No,299,all_persons,2015-05-01,2015-05-31,Q14a,with_only_children,0
+No,299,all_persons,2015-05-01,2015-05-31,Q14a,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_persons,2015-05-01,2015-05-31,Q14a,without_children,1
+Client Doesn't Know/Client Refused,1,all_persons,2015-05-01,2015-05-31,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_persons,2015-05-01,2015-05-31,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2015-05-01,2015-05-31,Q14a,unknown_household_type,0
+Data Not Collected,16,all_persons,2015-05-01,2015-05-31,Q14a,without_children,15
+Data Not Collected,16,all_persons,2015-05-01,2015-05-31,Q14a,with_children_and_adults,0
+Data Not Collected,16,all_persons,2015-05-01,2015-05-31,Q14a,with_only_children,0
+Data Not Collected,16,all_persons,2015-05-01,2015-05-31,Q14a,unknown_household_type,1
+Yes,39,all_persons,2015-06-01,2015-06-30,Q14a,without_children,21
+Yes,39,all_persons,2015-06-01,2015-06-30,Q14a,with_children_and_adults,18
+Yes,39,all_persons,2015-06-01,2015-06-30,Q14a,with_only_children,0
+Yes,39,all_persons,2015-06-01,2015-06-30,Q14a,unknown_household_type,0
+No,327,all_persons,2015-06-01,2015-06-30,Q14a,without_children,238
+No,327,all_persons,2015-06-01,2015-06-30,Q14a,with_children_and_adults,89
+No,327,all_persons,2015-06-01,2015-06-30,Q14a,with_only_children,0
+No,327,all_persons,2015-06-01,2015-06-30,Q14a,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_persons,2015-06-01,2015-06-30,Q14a,without_children,1
+Client Doesn't Know/Client Refused,1,all_persons,2015-06-01,2015-06-30,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_persons,2015-06-01,2015-06-30,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2015-06-01,2015-06-30,Q14a,unknown_household_type,0
+Data Not Collected,15,all_persons,2015-06-01,2015-06-30,Q14a,without_children,14
+Data Not Collected,15,all_persons,2015-06-01,2015-06-30,Q14a,with_children_and_adults,0
+Data Not Collected,15,all_persons,2015-06-01,2015-06-30,Q14a,with_only_children,0
+Data Not Collected,15,all_persons,2015-06-01,2015-06-30,Q14a,unknown_household_type,1
+Yes,38,all_persons,2015-07-01,2015-07-31,Q14a,without_children,22
+Yes,38,all_persons,2015-07-01,2015-07-31,Q14a,with_children_and_adults,16
+Yes,38,all_persons,2015-07-01,2015-07-31,Q14a,with_only_children,0
+Yes,38,all_persons,2015-07-01,2015-07-31,Q14a,unknown_household_type,0
+No,325,all_persons,2015-07-01,2015-07-31,Q14a,without_children,231
+No,325,all_persons,2015-07-01,2015-07-31,Q14a,with_children_and_adults,94
+No,325,all_persons,2015-07-01,2015-07-31,Q14a,with_only_children,0
+No,325,all_persons,2015-07-01,2015-07-31,Q14a,unknown_household_type,0
+Client Doesn't Know/Client Refused,2,all_persons,2015-07-01,2015-07-31,Q14a,without_children,2
+Client Doesn't Know/Client Refused,2,all_persons,2015-07-01,2015-07-31,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,2,all_persons,2015-07-01,2015-07-31,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,2,all_persons,2015-07-01,2015-07-31,Q14a,unknown_household_type,0
+Data Not Collected,15,all_persons,2015-07-01,2015-07-31,Q14a,without_children,14
+Data Not Collected,15,all_persons,2015-07-01,2015-07-31,Q14a,with_children_and_adults,0
+Data Not Collected,15,all_persons,2015-07-01,2015-07-31,Q14a,with_only_children,0
+Data Not Collected,15,all_persons,2015-07-01,2015-07-31,Q14a,unknown_household_type,1
+Yes,37,all_persons,2015-08-01,2015-08-31,Q14a,without_children,16
+Yes,37,all_persons,2015-08-01,2015-08-31,Q14a,with_children_and_adults,21
+Yes,37,all_persons,2015-08-01,2015-08-31,Q14a,with_only_children,0
+Yes,37,all_persons,2015-08-01,2015-08-31,Q14a,unknown_household_type,0
+No,302,all_persons,2015-08-01,2015-08-31,Q14a,without_children,216
+No,302,all_persons,2015-08-01,2015-08-31,Q14a,with_children_and_adults,86
+No,302,all_persons,2015-08-01,2015-08-31,Q14a,with_only_children,0
+No,302,all_persons,2015-08-01,2015-08-31,Q14a,unknown_household_type,0
+Client Doesn't Know/Client Refused,2,all_persons,2015-08-01,2015-08-31,Q14a,without_children,2
+Client Doesn't Know/Client Refused,2,all_persons,2015-08-01,2015-08-31,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,2,all_persons,2015-08-01,2015-08-31,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,2,all_persons,2015-08-01,2015-08-31,Q14a,unknown_household_type,0
+Data Not Collected,19,all_persons,2015-08-01,2015-08-31,Q14a,without_children,18
+Data Not Collected,19,all_persons,2015-08-01,2015-08-31,Q14a,with_children_and_adults,0
+Data Not Collected,19,all_persons,2015-08-01,2015-08-31,Q14a,with_only_children,0
+Data Not Collected,19,all_persons,2015-08-01,2015-08-31,Q14a,unknown_household_type,1
+Yes,52,all_persons,2015-09-01,2015-09-30,Q14a,without_children,16
+Yes,52,all_persons,2015-09-01,2015-09-30,Q14a,with_children_and_adults,36
+Yes,52,all_persons,2015-09-01,2015-09-30,Q14a,with_only_children,0
+Yes,52,all_persons,2015-09-01,2015-09-30,Q14a,unknown_household_type,0
+No,335,all_persons,2015-09-01,2015-09-30,Q14a,without_children,221
+No,335,all_persons,2015-09-01,2015-09-30,Q14a,with_children_and_adults,114
+No,335,all_persons,2015-09-01,2015-09-30,Q14a,with_only_children,0
+No,335,all_persons,2015-09-01,2015-09-30,Q14a,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_persons,2015-09-01,2015-09-30,Q14a,without_children,1
+Client Doesn't Know/Client Refused,1,all_persons,2015-09-01,2015-09-30,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_persons,2015-09-01,2015-09-30,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2015-09-01,2015-09-30,Q14a,unknown_household_type,0
+Data Not Collected,18,all_persons,2015-09-01,2015-09-30,Q14a,without_children,17
+Data Not Collected,18,all_persons,2015-09-01,2015-09-30,Q14a,with_children_and_adults,0
+Data Not Collected,18,all_persons,2015-09-01,2015-09-30,Q14a,with_only_children,0
+Data Not Collected,18,all_persons,2015-09-01,2015-09-30,Q14a,unknown_household_type,1
+Yes,56,all_persons,2015-10-01,2015-10-31,Q14a,without_children,21
+Yes,56,all_persons,2015-10-01,2015-10-31,Q14a,with_children_and_adults,35
+Yes,56,all_persons,2015-10-01,2015-10-31,Q14a,with_only_children,0
+Yes,56,all_persons,2015-10-01,2015-10-31,Q14a,unknown_household_type,0
+No,346,all_persons,2015-10-01,2015-10-31,Q14a,without_children,227
+No,346,all_persons,2015-10-01,2015-10-31,Q14a,with_children_and_adults,119
+No,346,all_persons,2015-10-01,2015-10-31,Q14a,with_only_children,0
+No,346,all_persons,2015-10-01,2015-10-31,Q14a,unknown_household_type,0
+Client Doesn't Know/Client Refused,3,all_persons,2015-10-01,2015-10-31,Q14a,without_children,1
+Client Doesn't Know/Client Refused,3,all_persons,2015-10-01,2015-10-31,Q14a,with_children_and_adults,2
+Client Doesn't Know/Client Refused,3,all_persons,2015-10-01,2015-10-31,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,3,all_persons,2015-10-01,2015-10-31,Q14a,unknown_household_type,0
+Data Not Collected,19,all_persons,2015-10-01,2015-10-31,Q14a,without_children,18
+Data Not Collected,19,all_persons,2015-10-01,2015-10-31,Q14a,with_children_and_adults,0
+Data Not Collected,19,all_persons,2015-10-01,2015-10-31,Q14a,with_only_children,0
+Data Not Collected,19,all_persons,2015-10-01,2015-10-31,Q14a,unknown_household_type,1
+Yes,60,all_persons,2015-11-01,2015-11-30,Q14a,without_children,32
+Yes,60,all_persons,2015-11-01,2015-11-30,Q14a,with_children_and_adults,28
+Yes,60,all_persons,2015-11-01,2015-11-30,Q14a,with_only_children,0
+Yes,60,all_persons,2015-11-01,2015-11-30,Q14a,unknown_household_type,0
+No,374,all_persons,2015-11-01,2015-11-30,Q14a,without_children,266
+No,374,all_persons,2015-11-01,2015-11-30,Q14a,with_children_and_adults,108
+No,374,all_persons,2015-11-01,2015-11-30,Q14a,with_only_children,0
+No,374,all_persons,2015-11-01,2015-11-30,Q14a,unknown_household_type,0
+Client Doesn't Know/Client Refused,3,all_persons,2015-11-01,2015-11-30,Q14a,without_children,1
+Client Doesn't Know/Client Refused,3,all_persons,2015-11-01,2015-11-30,Q14a,with_children_and_adults,2
+Client Doesn't Know/Client Refused,3,all_persons,2015-11-01,2015-11-30,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,3,all_persons,2015-11-01,2015-11-30,Q14a,unknown_household_type,0
+Data Not Collected,18,all_persons,2015-11-01,2015-11-30,Q14a,without_children,17
+Data Not Collected,18,all_persons,2015-11-01,2015-11-30,Q14a,with_children_and_adults,0
+Data Not Collected,18,all_persons,2015-11-01,2015-11-30,Q14a,with_only_children,0
+Data Not Collected,18,all_persons,2015-11-01,2015-11-30,Q14a,unknown_household_type,1
+Yes,59,all_persons,2015-12-01,2015-12-31,Q14a,without_children,36
+Yes,59,all_persons,2015-12-01,2015-12-31,Q14a,with_children_and_adults,23
+Yes,59,all_persons,2015-12-01,2015-12-31,Q14a,with_only_children,0
+Yes,59,all_persons,2015-12-01,2015-12-31,Q14a,unknown_household_type,0
+No,370,all_persons,2015-12-01,2015-12-31,Q14a,without_children,261
+No,370,all_persons,2015-12-01,2015-12-31,Q14a,with_children_and_adults,109
+No,370,all_persons,2015-12-01,2015-12-31,Q14a,with_only_children,0
+No,370,all_persons,2015-12-01,2015-12-31,Q14a,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_persons,2015-12-01,2015-12-31,Q14a,without_children,1
+Client Doesn't Know/Client Refused,1,all_persons,2015-12-01,2015-12-31,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_persons,2015-12-01,2015-12-31,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2015-12-01,2015-12-31,Q14a,unknown_household_type,0
+Data Not Collected,18,all_persons,2015-12-01,2015-12-31,Q14a,without_children,17
+Data Not Collected,18,all_persons,2015-12-01,2015-12-31,Q14a,with_children_and_adults,0
+Data Not Collected,18,all_persons,2015-12-01,2015-12-31,Q14a,with_only_children,0
+Data Not Collected,18,all_persons,2015-12-01,2015-12-31,Q14a,unknown_household_type,1
+Yes,67,all_persons,2016-01-01,2016-01-31,Q14a,without_children,42
+Yes,67,all_persons,2016-01-01,2016-01-31,Q14a,with_children_and_adults,25
+Yes,67,all_persons,2016-01-01,2016-01-31,Q14a,with_only_children,0
+Yes,67,all_persons,2016-01-01,2016-01-31,Q14a,unknown_household_type,0
+No,363,all_persons,2016-01-01,2016-01-31,Q14a,without_children,268
+No,363,all_persons,2016-01-01,2016-01-31,Q14a,with_children_and_adults,95
+No,363,all_persons,2016-01-01,2016-01-31,Q14a,with_only_children,0
+No,363,all_persons,2016-01-01,2016-01-31,Q14a,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_persons,2016-01-01,2016-01-31,Q14a,without_children,1
+Client Doesn't Know/Client Refused,1,all_persons,2016-01-01,2016-01-31,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_persons,2016-01-01,2016-01-31,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2016-01-01,2016-01-31,Q14a,unknown_household_type,0
+Data Not Collected,18,all_persons,2016-01-01,2016-01-31,Q14a,without_children,17
+Data Not Collected,18,all_persons,2016-01-01,2016-01-31,Q14a,with_children_and_adults,0
+Data Not Collected,18,all_persons,2016-01-01,2016-01-31,Q14a,with_only_children,0
+Data Not Collected,18,all_persons,2016-01-01,2016-01-31,Q14a,unknown_household_type,1
+Yes,66,all_persons,2016-02-01,2016-02-29,Q14a,without_children,46
+Yes,66,all_persons,2016-02-01,2016-02-29,Q14a,with_children_and_adults,20
+Yes,66,all_persons,2016-02-01,2016-02-29,Q14a,with_only_children,0
+Yes,66,all_persons,2016-02-01,2016-02-29,Q14a,unknown_household_type,0
+No,353,all_persons,2016-02-01,2016-02-29,Q14a,without_children,270
+No,353,all_persons,2016-02-01,2016-02-29,Q14a,with_children_and_adults,82
+No,353,all_persons,2016-02-01,2016-02-29,Q14a,with_only_children,1
+No,353,all_persons,2016-02-01,2016-02-29,Q14a,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_persons,2016-02-01,2016-02-29,Q14a,without_children,1
+Client Doesn't Know/Client Refused,1,all_persons,2016-02-01,2016-02-29,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_persons,2016-02-01,2016-02-29,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2016-02-01,2016-02-29,Q14a,unknown_household_type,0
+Data Not Collected,18,all_persons,2016-02-01,2016-02-29,Q14a,without_children,17
+Data Not Collected,18,all_persons,2016-02-01,2016-02-29,Q14a,with_children_and_adults,0
+Data Not Collected,18,all_persons,2016-02-01,2016-02-29,Q14a,with_only_children,0
+Data Not Collected,18,all_persons,2016-02-01,2016-02-29,Q14a,unknown_household_type,1
+Yes,65,all_persons,2016-03-01,2016-03-31,Q14a,without_children,46
+Yes,65,all_persons,2016-03-01,2016-03-31,Q14a,with_children_and_adults,19
+Yes,65,all_persons,2016-03-01,2016-03-31,Q14a,with_only_children,0
+Yes,65,all_persons,2016-03-01,2016-03-31,Q14a,unknown_household_type,0
+No,365,all_persons,2016-03-01,2016-03-31,Q14a,without_children,278
+No,365,all_persons,2016-03-01,2016-03-31,Q14a,with_children_and_adults,87
+No,365,all_persons,2016-03-01,2016-03-31,Q14a,with_only_children,0
+No,365,all_persons,2016-03-01,2016-03-31,Q14a,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_persons,2016-03-01,2016-03-31,Q14a,without_children,1
+Client Doesn't Know/Client Refused,1,all_persons,2016-03-01,2016-03-31,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_persons,2016-03-01,2016-03-31,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2016-03-01,2016-03-31,Q14a,unknown_household_type,0
+Data Not Collected,19,all_persons,2016-03-01,2016-03-31,Q14a,without_children,18
+Data Not Collected,19,all_persons,2016-03-01,2016-03-31,Q14a,with_children_and_adults,0
+Data Not Collected,19,all_persons,2016-03-01,2016-03-31,Q14a,with_only_children,0
+Data Not Collected,19,all_persons,2016-03-01,2016-03-31,Q14a,unknown_household_type,1
+Yes,51,all_persons,2016-04-01,2016-04-30,Q14a,without_children,28
+Yes,51,all_persons,2016-04-01,2016-04-30,Q14a,with_children_and_adults,23
+Yes,51,all_persons,2016-04-01,2016-04-30,Q14a,with_only_children,0
+Yes,51,all_persons,2016-04-01,2016-04-30,Q14a,unknown_household_type,0
+No,333,all_persons,2016-04-01,2016-04-30,Q14a,without_children,246
+No,333,all_persons,2016-04-01,2016-04-30,Q14a,with_children_and_adults,87
+No,333,all_persons,2016-04-01,2016-04-30,Q14a,with_only_children,0
+No,333,all_persons,2016-04-01,2016-04-30,Q14a,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_persons,2016-04-01,2016-04-30,Q14a,without_children,1
+Client Doesn't Know/Client Refused,1,all_persons,2016-04-01,2016-04-30,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_persons,2016-04-01,2016-04-30,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2016-04-01,2016-04-30,Q14a,unknown_household_type,0
+Data Not Collected,20,all_persons,2016-04-01,2016-04-30,Q14a,without_children,19
+Data Not Collected,20,all_persons,2016-04-01,2016-04-30,Q14a,with_children_and_adults,0
+Data Not Collected,20,all_persons,2016-04-01,2016-04-30,Q14a,with_only_children,0
+Data Not Collected,20,all_persons,2016-04-01,2016-04-30,Q14a,unknown_household_type,1
+Yes,35,all_persons,2016-05-01,2016-05-31,Q14a,without_children,14
+Yes,35,all_persons,2016-05-01,2016-05-31,Q14a,with_children_and_adults,21
+Yes,35,all_persons,2016-05-01,2016-05-31,Q14a,with_only_children,0
+Yes,35,all_persons,2016-05-01,2016-05-31,Q14a,unknown_household_type,0
+No,328,all_persons,2016-05-01,2016-05-31,Q14a,without_children,232
+No,328,all_persons,2016-05-01,2016-05-31,Q14a,with_children_and_adults,93
+No,328,all_persons,2016-05-01,2016-05-31,Q14a,with_only_children,1
+No,328,all_persons,2016-05-01,2016-05-31,Q14a,unknown_household_type,2
+Client Doesn't Know/Client Refused,1,all_persons,2016-05-01,2016-05-31,Q14a,without_children,1
+Client Doesn't Know/Client Refused,1,all_persons,2016-05-01,2016-05-31,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_persons,2016-05-01,2016-05-31,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2016-05-01,2016-05-31,Q14a,unknown_household_type,0
+Data Not Collected,20,all_persons,2016-05-01,2016-05-31,Q14a,without_children,19
+Data Not Collected,20,all_persons,2016-05-01,2016-05-31,Q14a,with_children_and_adults,0
+Data Not Collected,20,all_persons,2016-05-01,2016-05-31,Q14a,with_only_children,0
+Data Not Collected,20,all_persons,2016-05-01,2016-05-31,Q14a,unknown_household_type,1
+Yes,34,all_persons,2016-06-01,2016-06-30,Q14a,without_children,12
+Yes,34,all_persons,2016-06-01,2016-06-30,Q14a,with_children_and_adults,22
+Yes,34,all_persons,2016-06-01,2016-06-30,Q14a,with_only_children,0
+Yes,34,all_persons,2016-06-01,2016-06-30,Q14a,unknown_household_type,0
+No,321,all_persons,2016-06-01,2016-06-30,Q14a,without_children,230
+No,321,all_persons,2016-06-01,2016-06-30,Q14a,with_children_and_adults,88
+No,321,all_persons,2016-06-01,2016-06-30,Q14a,with_only_children,1
+No,321,all_persons,2016-06-01,2016-06-30,Q14a,unknown_household_type,2
+Client Doesn't Know/Client Refused,1,all_persons,2016-06-01,2016-06-30,Q14a,without_children,1
+Client Doesn't Know/Client Refused,1,all_persons,2016-06-01,2016-06-30,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_persons,2016-06-01,2016-06-30,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2016-06-01,2016-06-30,Q14a,unknown_household_type,0
+Data Not Collected,23,all_persons,2016-06-01,2016-06-30,Q14a,without_children,22
+Data Not Collected,23,all_persons,2016-06-01,2016-06-30,Q14a,with_children_and_adults,0
+Data Not Collected,23,all_persons,2016-06-01,2016-06-30,Q14a,with_only_children,0
+Data Not Collected,23,all_persons,2016-06-01,2016-06-30,Q14a,unknown_household_type,1
+Yes,38,all_persons,2016-07-01,2016-07-31,Q14a,without_children,16
+Yes,38,all_persons,2016-07-01,2016-07-31,Q14a,with_children_and_adults,22
+Yes,38,all_persons,2016-07-01,2016-07-31,Q14a,with_only_children,0
+Yes,38,all_persons,2016-07-01,2016-07-31,Q14a,unknown_household_type,0
+No,338,all_persons,2016-07-01,2016-07-31,Q14a,without_children,234
+No,338,all_persons,2016-07-01,2016-07-31,Q14a,with_children_and_adults,104
+No,338,all_persons,2016-07-01,2016-07-31,Q14a,with_only_children,0
+No,338,all_persons,2016-07-01,2016-07-31,Q14a,unknown_household_type,0
+Client Doesn't Know/Client Refused,2,all_persons,2016-07-01,2016-07-31,Q14a,without_children,2
+Client Doesn't Know/Client Refused,2,all_persons,2016-07-01,2016-07-31,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,2,all_persons,2016-07-01,2016-07-31,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,2,all_persons,2016-07-01,2016-07-31,Q14a,unknown_household_type,0
+Data Not Collected,28,all_persons,2016-07-01,2016-07-31,Q14a,without_children,27
+Data Not Collected,28,all_persons,2016-07-01,2016-07-31,Q14a,with_children_and_adults,0
+Data Not Collected,28,all_persons,2016-07-01,2016-07-31,Q14a,with_only_children,0
+Data Not Collected,28,all_persons,2016-07-01,2016-07-31,Q14a,unknown_household_type,1
+Yes,55,all_persons,2016-08-01,2016-08-31,Q14a,without_children,25
+Yes,55,all_persons,2016-08-01,2016-08-31,Q14a,with_children_and_adults,30
+Yes,55,all_persons,2016-08-01,2016-08-31,Q14a,with_only_children,0
+Yes,55,all_persons,2016-08-01,2016-08-31,Q14a,unknown_household_type,0
+No,389,all_persons,2016-08-01,2016-08-31,Q14a,without_children,244
+No,389,all_persons,2016-08-01,2016-08-31,Q14a,with_children_and_adults,145
+No,389,all_persons,2016-08-01,2016-08-31,Q14a,with_only_children,0
+No,389,all_persons,2016-08-01,2016-08-31,Q14a,unknown_household_type,0
+Client Doesn't Know/Client Refused,3,all_persons,2016-08-01,2016-08-31,Q14a,without_children,3
+Client Doesn't Know/Client Refused,3,all_persons,2016-08-01,2016-08-31,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,3,all_persons,2016-08-01,2016-08-31,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,3,all_persons,2016-08-01,2016-08-31,Q14a,unknown_household_type,0
+Data Not Collected,32,all_persons,2016-08-01,2016-08-31,Q14a,without_children,30
+Data Not Collected,32,all_persons,2016-08-01,2016-08-31,Q14a,with_children_and_adults,1
+Data Not Collected,32,all_persons,2016-08-01,2016-08-31,Q14a,with_only_children,0
+Data Not Collected,32,all_persons,2016-08-01,2016-08-31,Q14a,unknown_household_type,1
+Yes,63,all_persons,2016-09-01,2016-09-30,Q14a,without_children,26
+Yes,63,all_persons,2016-09-01,2016-09-30,Q14a,with_children_and_adults,37
+Yes,63,all_persons,2016-09-01,2016-09-30,Q14a,with_only_children,0
+Yes,63,all_persons,2016-09-01,2016-09-30,Q14a,unknown_household_type,0
+No,380,all_persons,2016-09-01,2016-09-30,Q14a,without_children,236
+No,380,all_persons,2016-09-01,2016-09-30,Q14a,with_children_and_adults,144
+No,380,all_persons,2016-09-01,2016-09-30,Q14a,with_only_children,0
+No,380,all_persons,2016-09-01,2016-09-30,Q14a,unknown_household_type,0
+Client Doesn't Know/Client Refused,2,all_persons,2016-09-01,2016-09-30,Q14a,without_children,2
+Client Doesn't Know/Client Refused,2,all_persons,2016-09-01,2016-09-30,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,2,all_persons,2016-09-01,2016-09-30,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,2,all_persons,2016-09-01,2016-09-30,Q14a,unknown_household_type,0
+Data Not Collected,33,all_persons,2016-09-01,2016-09-30,Q14a,without_children,29
+Data Not Collected,33,all_persons,2016-09-01,2016-09-30,Q14a,with_children_and_adults,3
+Data Not Collected,33,all_persons,2016-09-01,2016-09-30,Q14a,with_only_children,0
+Data Not Collected,33,all_persons,2016-09-01,2016-09-30,Q14a,unknown_household_type,1
+Yes,52,all_persons,2016-10-01,2016-10-31,Q14a,without_children,22
+Yes,52,all_persons,2016-10-01,2016-10-31,Q14a,with_children_and_adults,30
+Yes,52,all_persons,2016-10-01,2016-10-31,Q14a,with_only_children,0
+Yes,52,all_persons,2016-10-01,2016-10-31,Q14a,unknown_household_type,0
+No,363,all_persons,2016-10-01,2016-10-31,Q14a,without_children,239
+No,363,all_persons,2016-10-01,2016-10-31,Q14a,with_children_and_adults,124
+No,363,all_persons,2016-10-01,2016-10-31,Q14a,with_only_children,0
+No,363,all_persons,2016-10-01,2016-10-31,Q14a,unknown_household_type,0
+Client Doesn't Know/Client Refused,3,all_persons,2016-10-01,2016-10-31,Q14a,without_children,3
+Client Doesn't Know/Client Refused,3,all_persons,2016-10-01,2016-10-31,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,3,all_persons,2016-10-01,2016-10-31,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,3,all_persons,2016-10-01,2016-10-31,Q14a,unknown_household_type,0
+Data Not Collected,27,all_persons,2016-10-01,2016-10-31,Q14a,without_children,25
+Data Not Collected,27,all_persons,2016-10-01,2016-10-31,Q14a,with_children_and_adults,1
+Data Not Collected,27,all_persons,2016-10-01,2016-10-31,Q14a,with_only_children,0
+Data Not Collected,27,all_persons,2016-10-01,2016-10-31,Q14a,unknown_household_type,1
+Yes,66,all_persons,2016-11-01,2016-11-30,Q14a,without_children,36
+Yes,66,all_persons,2016-11-01,2016-11-30,Q14a,with_children_and_adults,30
+Yes,66,all_persons,2016-11-01,2016-11-30,Q14a,with_only_children,0
+Yes,66,all_persons,2016-11-01,2016-11-30,Q14a,unknown_household_type,0
+No,393,all_persons,2016-11-01,2016-11-30,Q14a,without_children,273
+No,393,all_persons,2016-11-01,2016-11-30,Q14a,with_children_and_adults,120
+No,393,all_persons,2016-11-01,2016-11-30,Q14a,with_only_children,0
+No,393,all_persons,2016-11-01,2016-11-30,Q14a,unknown_household_type,0
+Client Doesn't Know/Client Refused,5,all_persons,2016-11-01,2016-11-30,Q14a,without_children,5
+Client Doesn't Know/Client Refused,5,all_persons,2016-11-01,2016-11-30,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,5,all_persons,2016-11-01,2016-11-30,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,5,all_persons,2016-11-01,2016-11-30,Q14a,unknown_household_type,0
+Data Not Collected,27,all_persons,2016-11-01,2016-11-30,Q14a,without_children,25
+Data Not Collected,27,all_persons,2016-11-01,2016-11-30,Q14a,with_children_and_adults,1
+Data Not Collected,27,all_persons,2016-11-01,2016-11-30,Q14a,with_only_children,0
+Data Not Collected,27,all_persons,2016-11-01,2016-11-30,Q14a,unknown_household_type,1
+Yes,70,all_persons,2016-12-01,2016-12-31,Q14a,without_children,38
+Yes,70,all_persons,2016-12-01,2016-12-31,Q14a,with_children_and_adults,32
+Yes,70,all_persons,2016-12-01,2016-12-31,Q14a,with_only_children,0
+Yes,70,all_persons,2016-12-01,2016-12-31,Q14a,unknown_household_type,0
+No,393,all_persons,2016-12-01,2016-12-31,Q14a,without_children,274
+No,393,all_persons,2016-12-01,2016-12-31,Q14a,with_children_and_adults,119
+No,393,all_persons,2016-12-01,2016-12-31,Q14a,with_only_children,0
+No,393,all_persons,2016-12-01,2016-12-31,Q14a,unknown_household_type,0
+Client Doesn't Know/Client Refused,4,all_persons,2016-12-01,2016-12-31,Q14a,without_children,4
+Client Doesn't Know/Client Refused,4,all_persons,2016-12-01,2016-12-31,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,4,all_persons,2016-12-01,2016-12-31,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,4,all_persons,2016-12-01,2016-12-31,Q14a,unknown_household_type,0
+Data Not Collected,29,all_persons,2016-12-01,2016-12-31,Q14a,without_children,27
+Data Not Collected,29,all_persons,2016-12-01,2016-12-31,Q14a,with_children_and_adults,1
+Data Not Collected,29,all_persons,2016-12-01,2016-12-31,Q14a,with_only_children,0
+Data Not Collected,29,all_persons,2016-12-01,2016-12-31,Q14a,unknown_household_type,1
+Yes,72,all_persons,2017-01-01,2017-01-31,Q14a,without_children,42
+Yes,72,all_persons,2017-01-01,2017-01-31,Q14a,with_children_and_adults,30
+Yes,72,all_persons,2017-01-01,2017-01-31,Q14a,with_only_children,0
+Yes,72,all_persons,2017-01-01,2017-01-31,Q14a,unknown_household_type,0
+No,380,all_persons,2017-01-01,2017-01-31,Q14a,without_children,268
+No,380,all_persons,2017-01-01,2017-01-31,Q14a,with_children_and_adults,112
+No,380,all_persons,2017-01-01,2017-01-31,Q14a,with_only_children,0
+No,380,all_persons,2017-01-01,2017-01-31,Q14a,unknown_household_type,0
+Client Doesn't Know/Client Refused,4,all_persons,2017-01-01,2017-01-31,Q14a,without_children,4
+Client Doesn't Know/Client Refused,4,all_persons,2017-01-01,2017-01-31,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,4,all_persons,2017-01-01,2017-01-31,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,4,all_persons,2017-01-01,2017-01-31,Q14a,unknown_household_type,0
+Data Not Collected,35,all_persons,2017-01-01,2017-01-31,Q14a,without_children,33
+Data Not Collected,35,all_persons,2017-01-01,2017-01-31,Q14a,with_children_and_adults,1
+Data Not Collected,35,all_persons,2017-01-01,2017-01-31,Q14a,with_only_children,0
+Data Not Collected,35,all_persons,2017-01-01,2017-01-31,Q14a,unknown_household_type,1
+Yes,66,all_persons,2017-02-01,2017-02-28,Q14a,without_children,41
+Yes,66,all_persons,2017-02-01,2017-02-28,Q14a,with_children_and_adults,25
+Yes,66,all_persons,2017-02-01,2017-02-28,Q14a,with_only_children,0
+Yes,66,all_persons,2017-02-01,2017-02-28,Q14a,unknown_household_type,0
+No,348,all_persons,2017-02-01,2017-02-28,Q14a,without_children,269
+No,348,all_persons,2017-02-01,2017-02-28,Q14a,with_children_and_adults,78
+No,348,all_persons,2017-02-01,2017-02-28,Q14a,with_only_children,1
+No,348,all_persons,2017-02-01,2017-02-28,Q14a,unknown_household_type,0
+Client Doesn't Know/Client Refused,5,all_persons,2017-02-01,2017-02-28,Q14a,without_children,5
+Client Doesn't Know/Client Refused,5,all_persons,2017-02-01,2017-02-28,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,5,all_persons,2017-02-01,2017-02-28,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,5,all_persons,2017-02-01,2017-02-28,Q14a,unknown_household_type,0
+Data Not Collected,30,all_persons,2017-02-01,2017-02-28,Q14a,without_children,29
+Data Not Collected,30,all_persons,2017-02-01,2017-02-28,Q14a,with_children_and_adults,0
+Data Not Collected,30,all_persons,2017-02-01,2017-02-28,Q14a,with_only_children,0
+Data Not Collected,30,all_persons,2017-02-01,2017-02-28,Q14a,unknown_household_type,1
+Yes,63,all_persons,2017-03-01,2017-03-31,Q14a,without_children,41
+Yes,63,all_persons,2017-03-01,2017-03-31,Q14a,with_children_and_adults,22
+Yes,63,all_persons,2017-03-01,2017-03-31,Q14a,with_only_children,0
+Yes,63,all_persons,2017-03-01,2017-03-31,Q14a,unknown_household_type,0
+No,349,all_persons,2017-03-01,2017-03-31,Q14a,without_children,282
+No,349,all_persons,2017-03-01,2017-03-31,Q14a,with_children_and_adults,66
+No,349,all_persons,2017-03-01,2017-03-31,Q14a,with_only_children,1
+No,349,all_persons,2017-03-01,2017-03-31,Q14a,unknown_household_type,0
+Client Doesn't Know/Client Refused,3,all_persons,2017-03-01,2017-03-31,Q14a,without_children,3
+Client Doesn't Know/Client Refused,3,all_persons,2017-03-01,2017-03-31,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,3,all_persons,2017-03-01,2017-03-31,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,3,all_persons,2017-03-01,2017-03-31,Q14a,unknown_household_type,0
+Data Not Collected,25,all_persons,2017-03-01,2017-03-31,Q14a,without_children,24
+Data Not Collected,25,all_persons,2017-03-01,2017-03-31,Q14a,with_children_and_adults,0
+Data Not Collected,25,all_persons,2017-03-01,2017-03-31,Q14a,with_only_children,0
+Data Not Collected,25,all_persons,2017-03-01,2017-03-31,Q14a,unknown_household_type,1
+Yes,56,all_persons,2017-04-01,2017-04-30,Q14a,without_children,35
+Yes,56,all_persons,2017-04-01,2017-04-30,Q14a,with_children_and_adults,21
+Yes,56,all_persons,2017-04-01,2017-04-30,Q14a,with_only_children,0
+Yes,56,all_persons,2017-04-01,2017-04-30,Q14a,unknown_household_type,0
+No,319,all_persons,2017-04-01,2017-04-30,Q14a,without_children,252
+No,319,all_persons,2017-04-01,2017-04-30,Q14a,with_children_and_adults,67
+No,319,all_persons,2017-04-01,2017-04-30,Q14a,with_only_children,0
+No,319,all_persons,2017-04-01,2017-04-30,Q14a,unknown_household_type,0
+Client Doesn't Know/Client Refused,2,all_persons,2017-04-01,2017-04-30,Q14a,without_children,2
+Client Doesn't Know/Client Refused,2,all_persons,2017-04-01,2017-04-30,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,2,all_persons,2017-04-01,2017-04-30,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,2,all_persons,2017-04-01,2017-04-30,Q14a,unknown_household_type,0
+Data Not Collected,29,all_persons,2017-04-01,2017-04-30,Q14a,without_children,28
+Data Not Collected,29,all_persons,2017-04-01,2017-04-30,Q14a,with_children_and_adults,0
+Data Not Collected,29,all_persons,2017-04-01,2017-04-30,Q14a,with_only_children,0
+Data Not Collected,29,all_persons,2017-04-01,2017-04-30,Q14a,unknown_household_type,1
+Yes,51,all_persons,2017-05-01,2017-05-31,Q14a,without_children,29
+Yes,51,all_persons,2017-05-01,2017-05-31,Q14a,with_children_and_adults,22
+Yes,51,all_persons,2017-05-01,2017-05-31,Q14a,with_only_children,0
+Yes,51,all_persons,2017-05-01,2017-05-31,Q14a,unknown_household_type,0
+No,289,all_persons,2017-05-01,2017-05-31,Q14a,without_children,215
+No,289,all_persons,2017-05-01,2017-05-31,Q14a,with_children_and_adults,73
+No,289,all_persons,2017-05-01,2017-05-31,Q14a,with_only_children,1
+No,289,all_persons,2017-05-01,2017-05-31,Q14a,unknown_household_type,0
+Client Doesn't Know/Client Refused,2,all_persons,2017-05-01,2017-05-31,Q14a,without_children,2
+Client Doesn't Know/Client Refused,2,all_persons,2017-05-01,2017-05-31,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,2,all_persons,2017-05-01,2017-05-31,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,2,all_persons,2017-05-01,2017-05-31,Q14a,unknown_household_type,0
+Data Not Collected,29,all_persons,2017-05-01,2017-05-31,Q14a,without_children,27
+Data Not Collected,29,all_persons,2017-05-01,2017-05-31,Q14a,with_children_and_adults,1
+Data Not Collected,29,all_persons,2017-05-01,2017-05-31,Q14a,with_only_children,0
+Data Not Collected,29,all_persons,2017-05-01,2017-05-31,Q14a,unknown_household_type,1
+Yes,58,all_persons,2017-06-01,2017-06-30,Q14a,without_children,31
+Yes,58,all_persons,2017-06-01,2017-06-30,Q14a,with_children_and_adults,27
+Yes,58,all_persons,2017-06-01,2017-06-30,Q14a,with_only_children,0
+Yes,58,all_persons,2017-06-01,2017-06-30,Q14a,unknown_household_type,0
+No,296,all_persons,2017-06-01,2017-06-30,Q14a,without_children,212
+No,296,all_persons,2017-06-01,2017-06-30,Q14a,with_children_and_adults,83
+No,296,all_persons,2017-06-01,2017-06-30,Q14a,with_only_children,1
+No,296,all_persons,2017-06-01,2017-06-30,Q14a,unknown_household_type,0
+Client Doesn't Know/Client Refused,2,all_persons,2017-06-01,2017-06-30,Q14a,without_children,2
+Client Doesn't Know/Client Refused,2,all_persons,2017-06-01,2017-06-30,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,2,all_persons,2017-06-01,2017-06-30,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,2,all_persons,2017-06-01,2017-06-30,Q14a,unknown_household_type,0
+Data Not Collected,31,all_persons,2017-06-01,2017-06-30,Q14a,without_children,26
+Data Not Collected,31,all_persons,2017-06-01,2017-06-30,Q14a,with_children_and_adults,4
+Data Not Collected,31,all_persons,2017-06-01,2017-06-30,Q14a,with_only_children,0
+Data Not Collected,31,all_persons,2017-06-01,2017-06-30,Q14a,unknown_household_type,1
+Yes,58,all_persons,2017-07-01,2017-07-31,Q14a,without_children,27
+Yes,58,all_persons,2017-07-01,2017-07-31,Q14a,with_children_and_adults,31
+Yes,58,all_persons,2017-07-01,2017-07-31,Q14a,with_only_children,0
+Yes,58,all_persons,2017-07-01,2017-07-31,Q14a,unknown_household_type,0
+No,320,all_persons,2017-07-01,2017-07-31,Q14a,without_children,218
+No,320,all_persons,2017-07-01,2017-07-31,Q14a,with_children_and_adults,101
+No,320,all_persons,2017-07-01,2017-07-31,Q14a,with_only_children,1
+No,320,all_persons,2017-07-01,2017-07-31,Q14a,unknown_household_type,0
+Client Doesn't Know/Client Refused,3,all_persons,2017-07-01,2017-07-31,Q14a,without_children,3
+Client Doesn't Know/Client Refused,3,all_persons,2017-07-01,2017-07-31,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,3,all_persons,2017-07-01,2017-07-31,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,3,all_persons,2017-07-01,2017-07-31,Q14a,unknown_household_type,0
+Data Not Collected,32,all_persons,2017-07-01,2017-07-31,Q14a,without_children,28
+Data Not Collected,32,all_persons,2017-07-01,2017-07-31,Q14a,with_children_and_adults,3
+Data Not Collected,32,all_persons,2017-07-01,2017-07-31,Q14a,with_only_children,0
+Data Not Collected,32,all_persons,2017-07-01,2017-07-31,Q14a,unknown_household_type,1
+Yes,65,all_persons,2017-08-01,2017-08-31,Q14a,without_children,32
+Yes,65,all_persons,2017-08-01,2017-08-31,Q14a,with_children_and_adults,33
+Yes,65,all_persons,2017-08-01,2017-08-31,Q14a,with_only_children,0
+Yes,65,all_persons,2017-08-01,2017-08-31,Q14a,unknown_household_type,0
+No,342,all_persons,2017-08-01,2017-08-31,Q14a,without_children,234
+No,342,all_persons,2017-08-01,2017-08-31,Q14a,with_children_and_adults,107
+No,342,all_persons,2017-08-01,2017-08-31,Q14a,with_only_children,1
+No,342,all_persons,2017-08-01,2017-08-31,Q14a,unknown_household_type,0
+Client Doesn't Know/Client Refused,2,all_persons,2017-08-01,2017-08-31,Q14a,without_children,2
+Client Doesn't Know/Client Refused,2,all_persons,2017-08-01,2017-08-31,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,2,all_persons,2017-08-01,2017-08-31,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,2,all_persons,2017-08-01,2017-08-31,Q14a,unknown_household_type,0
+Data Not Collected,34,all_persons,2017-08-01,2017-08-31,Q14a,without_children,29
+Data Not Collected,34,all_persons,2017-08-01,2017-08-31,Q14a,with_children_and_adults,4
+Data Not Collected,34,all_persons,2017-08-01,2017-08-31,Q14a,with_only_children,0
+Data Not Collected,34,all_persons,2017-08-01,2017-08-31,Q14a,unknown_household_type,1
+Yes,51,all_persons,2017-09-01,2017-09-30,Q14a,without_children,31
+Yes,51,all_persons,2017-09-01,2017-09-30,Q14a,with_children_and_adults,20
+Yes,51,all_persons,2017-09-01,2017-09-30,Q14a,with_only_children,0
+Yes,51,all_persons,2017-09-01,2017-09-30,Q14a,unknown_household_type,0
+No,327,all_persons,2017-09-01,2017-09-30,Q14a,without_children,232
+No,327,all_persons,2017-09-01,2017-09-30,Q14a,with_children_and_adults,94
+No,327,all_persons,2017-09-01,2017-09-30,Q14a,with_only_children,1
+No,327,all_persons,2017-09-01,2017-09-30,Q14a,unknown_household_type,0
+Client Doesn't Know/Client Refused,3,all_persons,2017-09-01,2017-09-30,Q14a,without_children,3
+Client Doesn't Know/Client Refused,3,all_persons,2017-09-01,2017-09-30,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,3,all_persons,2017-09-01,2017-09-30,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,3,all_persons,2017-09-01,2017-09-30,Q14a,unknown_household_type,0
+Data Not Collected,30,all_persons,2017-09-01,2017-09-30,Q14a,without_children,27
+Data Not Collected,30,all_persons,2017-09-01,2017-09-30,Q14a,with_children_and_adults,2
+Data Not Collected,30,all_persons,2017-09-01,2017-09-30,Q14a,with_only_children,0
+Data Not Collected,30,all_persons,2017-09-01,2017-09-30,Q14a,unknown_household_type,1
+Yes,55,all_persons,2017-10-01,2017-10-31,Q14a,without_children,33
+Yes,55,all_persons,2017-10-01,2017-10-31,Q14a,with_children_and_adults,22
+Yes,55,all_persons,2017-10-01,2017-10-31,Q14a,with_only_children,0
+Yes,55,all_persons,2017-10-01,2017-10-31,Q14a,unknown_household_type,0
+No,277,all_persons,2017-10-01,2017-10-31,Q14a,without_children,197
+No,277,all_persons,2017-10-01,2017-10-31,Q14a,with_children_and_adults,80
+No,277,all_persons,2017-10-01,2017-10-31,Q14a,with_only_children,0
+No,277,all_persons,2017-10-01,2017-10-31,Q14a,unknown_household_type,0
+Client Doesn't Know/Client Refused,2,all_persons,2017-10-01,2017-10-31,Q14a,without_children,2
+Client Doesn't Know/Client Refused,2,all_persons,2017-10-01,2017-10-31,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,2,all_persons,2017-10-01,2017-10-31,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,2,all_persons,2017-10-01,2017-10-31,Q14a,unknown_household_type,0
+Data Not Collected,22,all_persons,2017-10-01,2017-10-31,Q14a,without_children,19
+Data Not Collected,22,all_persons,2017-10-01,2017-10-31,Q14a,with_children_and_adults,2
+Data Not Collected,22,all_persons,2017-10-01,2017-10-31,Q14a,with_only_children,0
+Data Not Collected,22,all_persons,2017-10-01,2017-10-31,Q14a,unknown_household_type,1
+Yes,69,all_persons,2017-11-01,2017-11-30,Q14a,without_children,48
+Yes,69,all_persons,2017-11-01,2017-11-30,Q14a,with_children_and_adults,21
+Yes,69,all_persons,2017-11-01,2017-11-30,Q14a,with_only_children,0
+Yes,69,all_persons,2017-11-01,2017-11-30,Q14a,unknown_household_type,0
+No,334,all_persons,2017-11-01,2017-11-30,Q14a,without_children,254
+No,334,all_persons,2017-11-01,2017-11-30,Q14a,with_children_and_adults,79
+No,334,all_persons,2017-11-01,2017-11-30,Q14a,with_only_children,1
+No,334,all_persons,2017-11-01,2017-11-30,Q14a,unknown_household_type,0
+Client Doesn't Know/Client Refused,2,all_persons,2017-11-01,2017-11-30,Q14a,without_children,2
+Client Doesn't Know/Client Refused,2,all_persons,2017-11-01,2017-11-30,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,2,all_persons,2017-11-01,2017-11-30,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,2,all_persons,2017-11-01,2017-11-30,Q14a,unknown_household_type,0
+Data Not Collected,27,all_persons,2017-11-01,2017-11-30,Q14a,without_children,23
+Data Not Collected,27,all_persons,2017-11-01,2017-11-30,Q14a,with_children_and_adults,3
+Data Not Collected,27,all_persons,2017-11-01,2017-11-30,Q14a,with_only_children,0
+Data Not Collected,27,all_persons,2017-11-01,2017-11-30,Q14a,unknown_household_type,1
+Yes,67,all_persons,2017-12-01,2017-12-31,Q14a,without_children,42
+Yes,67,all_persons,2017-12-01,2017-12-31,Q14a,with_children_and_adults,25
+Yes,67,all_persons,2017-12-01,2017-12-31,Q14a,with_only_children,0
+Yes,67,all_persons,2017-12-01,2017-12-31,Q14a,unknown_household_type,0
+No,333,all_persons,2017-12-01,2017-12-31,Q14a,without_children,267
+No,333,all_persons,2017-12-01,2017-12-31,Q14a,with_children_and_adults,65
+No,333,all_persons,2017-12-01,2017-12-31,Q14a,with_only_children,1
+No,333,all_persons,2017-12-01,2017-12-31,Q14a,unknown_household_type,0
+Client Doesn't Know/Client Refused,2,all_persons,2017-12-01,2017-12-31,Q14a,without_children,2
+Client Doesn't Know/Client Refused,2,all_persons,2017-12-01,2017-12-31,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,2,all_persons,2017-12-01,2017-12-31,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,2,all_persons,2017-12-01,2017-12-31,Q14a,unknown_household_type,0
+Data Not Collected,25,all_persons,2017-12-01,2017-12-31,Q14a,without_children,22
+Data Not Collected,25,all_persons,2017-12-01,2017-12-31,Q14a,with_children_and_adults,2
+Data Not Collected,25,all_persons,2017-12-01,2017-12-31,Q14a,with_only_children,0
+Data Not Collected,25,all_persons,2017-12-01,2017-12-31,Q14a,unknown_household_type,1
+Yes,60,all_persons,2018-01-01,2018-01-31,Q14a,without_children,37
+Yes,60,all_persons,2018-01-01,2018-01-31,Q14a,with_children_and_adults,23
+Yes,60,all_persons,2018-01-01,2018-01-31,Q14a,with_only_children,0
+Yes,60,all_persons,2018-01-01,2018-01-31,Q14a,unknown_household_type,0
+No,337,all_persons,2018-01-01,2018-01-31,Q14a,without_children,272
+No,337,all_persons,2018-01-01,2018-01-31,Q14a,with_children_and_adults,64
+No,337,all_persons,2018-01-01,2018-01-31,Q14a,with_only_children,1
+No,337,all_persons,2018-01-01,2018-01-31,Q14a,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_persons,2018-01-01,2018-01-31,Q14a,without_children,1
+Client Doesn't Know/Client Refused,1,all_persons,2018-01-01,2018-01-31,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_persons,2018-01-01,2018-01-31,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2018-01-01,2018-01-31,Q14a,unknown_household_type,0
+Data Not Collected,20,all_persons,2018-01-01,2018-01-31,Q14a,without_children,18
+Data Not Collected,20,all_persons,2018-01-01,2018-01-31,Q14a,with_children_and_adults,1
+Data Not Collected,20,all_persons,2018-01-01,2018-01-31,Q14a,with_only_children,0
+Data Not Collected,20,all_persons,2018-01-01,2018-01-31,Q14a,unknown_household_type,1
+Yes,61,all_persons,2018-02-01,2018-02-28,Q14a,without_children,38
+Yes,61,all_persons,2018-02-01,2018-02-28,Q14a,with_children_and_adults,23
+Yes,61,all_persons,2018-02-01,2018-02-28,Q14a,with_only_children,0
+Yes,61,all_persons,2018-02-01,2018-02-28,Q14a,unknown_household_type,0
+No,354,all_persons,2018-02-01,2018-02-28,Q14a,without_children,280
+No,354,all_persons,2018-02-01,2018-02-28,Q14a,with_children_and_adults,72
+No,354,all_persons,2018-02-01,2018-02-28,Q14a,with_only_children,2
+No,354,all_persons,2018-02-01,2018-02-28,Q14a,unknown_household_type,0
+Client Doesn't Know/Client Refused,2,all_persons,2018-02-01,2018-02-28,Q14a,without_children,2
+Client Doesn't Know/Client Refused,2,all_persons,2018-02-01,2018-02-28,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,2,all_persons,2018-02-01,2018-02-28,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,2,all_persons,2018-02-01,2018-02-28,Q14a,unknown_household_type,0
+Data Not Collected,20,all_persons,2018-02-01,2018-02-28,Q14a,without_children,18
+Data Not Collected,20,all_persons,2018-02-01,2018-02-28,Q14a,with_children_and_adults,1
+Data Not Collected,20,all_persons,2018-02-01,2018-02-28,Q14a,with_only_children,0
+Data Not Collected,20,all_persons,2018-02-01,2018-02-28,Q14a,unknown_household_type,1
+Yes,58,all_persons,2018-03-01,2018-03-31,Q14a,without_children,37
+Yes,58,all_persons,2018-03-01,2018-03-31,Q14a,with_children_and_adults,21
+Yes,58,all_persons,2018-03-01,2018-03-31,Q14a,with_only_children,0
+Yes,58,all_persons,2018-03-01,2018-03-31,Q14a,unknown_household_type,0
+No,358,all_persons,2018-03-01,2018-03-31,Q14a,without_children,285
+No,358,all_persons,2018-03-01,2018-03-31,Q14a,with_children_and_adults,71
+No,358,all_persons,2018-03-01,2018-03-31,Q14a,with_only_children,2
+No,358,all_persons,2018-03-01,2018-03-31,Q14a,unknown_household_type,0
+Client Doesn't Know/Client Refused,4,all_persons,2018-03-01,2018-03-31,Q14a,without_children,4
+Client Doesn't Know/Client Refused,4,all_persons,2018-03-01,2018-03-31,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,4,all_persons,2018-03-01,2018-03-31,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,4,all_persons,2018-03-01,2018-03-31,Q14a,unknown_household_type,0
+Data Not Collected,18,all_persons,2018-03-01,2018-03-31,Q14a,without_children,15
+Data Not Collected,18,all_persons,2018-03-01,2018-03-31,Q14a,with_children_and_adults,2
+Data Not Collected,18,all_persons,2018-03-01,2018-03-31,Q14a,with_only_children,0
+Data Not Collected,18,all_persons,2018-03-01,2018-03-31,Q14a,unknown_household_type,1
+Yes,54,all_persons,2018-04-01,2018-04-30,Q14a,without_children,33
+Yes,54,all_persons,2018-04-01,2018-04-30,Q14a,with_children_and_adults,21
+Yes,54,all_persons,2018-04-01,2018-04-30,Q14a,with_only_children,0
+Yes,54,all_persons,2018-04-01,2018-04-30,Q14a,unknown_household_type,0
+No,329,all_persons,2018-04-01,2018-04-30,Q14a,without_children,263
+No,329,all_persons,2018-04-01,2018-04-30,Q14a,with_children_and_adults,65
+No,329,all_persons,2018-04-01,2018-04-30,Q14a,with_only_children,1
+No,329,all_persons,2018-04-01,2018-04-30,Q14a,unknown_household_type,0
+Client Doesn't Know/Client Refused,4,all_persons,2018-04-01,2018-04-30,Q14a,without_children,4
+Client Doesn't Know/Client Refused,4,all_persons,2018-04-01,2018-04-30,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,4,all_persons,2018-04-01,2018-04-30,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,4,all_persons,2018-04-01,2018-04-30,Q14a,unknown_household_type,0
+Data Not Collected,17,all_persons,2018-04-01,2018-04-30,Q14a,without_children,15
+Data Not Collected,17,all_persons,2018-04-01,2018-04-30,Q14a,with_children_and_adults,1
+Data Not Collected,17,all_persons,2018-04-01,2018-04-30,Q14a,with_only_children,0
+Data Not Collected,17,all_persons,2018-04-01,2018-04-30,Q14a,unknown_household_type,1
+Yes,51,all_persons,2018-05-01,2018-05-31,Q14a,without_children,21
+Yes,51,all_persons,2018-05-01,2018-05-31,Q14a,with_children_and_adults,30
+Yes,51,all_persons,2018-05-01,2018-05-31,Q14a,with_only_children,0
+Yes,51,all_persons,2018-05-01,2018-05-31,Q14a,unknown_household_type,0
+No,329,all_persons,2018-05-01,2018-05-31,Q14a,without_children,235
+No,329,all_persons,2018-05-01,2018-05-31,Q14a,with_children_and_adults,93
+No,329,all_persons,2018-05-01,2018-05-31,Q14a,with_only_children,1
+No,329,all_persons,2018-05-01,2018-05-31,Q14a,unknown_household_type,0
+Client Doesn't Know/Client Refused,2,all_persons,2018-05-01,2018-05-31,Q14a,without_children,2
+Client Doesn't Know/Client Refused,2,all_persons,2018-05-01,2018-05-31,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,2,all_persons,2018-05-01,2018-05-31,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,2,all_persons,2018-05-01,2018-05-31,Q14a,unknown_household_type,0
+Data Not Collected,18,all_persons,2018-05-01,2018-05-31,Q14a,without_children,14
+Data Not Collected,18,all_persons,2018-05-01,2018-05-31,Q14a,with_children_and_adults,3
+Data Not Collected,18,all_persons,2018-05-01,2018-05-31,Q14a,with_only_children,0
+Data Not Collected,18,all_persons,2018-05-01,2018-05-31,Q14a,unknown_household_type,1
+Yes,50,all_persons,2018-06-01,2018-06-30,Q14a,without_children,25
+Yes,50,all_persons,2018-06-01,2018-06-30,Q14a,with_children_and_adults,25
+Yes,50,all_persons,2018-06-01,2018-06-30,Q14a,with_only_children,0
+Yes,50,all_persons,2018-06-01,2018-06-30,Q14a,unknown_household_type,0
+No,310,all_persons,2018-06-01,2018-06-30,Q14a,without_children,222
+No,310,all_persons,2018-06-01,2018-06-30,Q14a,with_children_and_adults,87
+No,310,all_persons,2018-06-01,2018-06-30,Q14a,with_only_children,1
+No,310,all_persons,2018-06-01,2018-06-30,Q14a,unknown_household_type,0
+Client Doesn't Know/Client Refused,2,all_persons,2018-06-01,2018-06-30,Q14a,without_children,2
+Client Doesn't Know/Client Refused,2,all_persons,2018-06-01,2018-06-30,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,2,all_persons,2018-06-01,2018-06-30,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,2,all_persons,2018-06-01,2018-06-30,Q14a,unknown_household_type,0
+Data Not Collected,12,all_persons,2018-06-01,2018-06-30,Q14a,without_children,10
+Data Not Collected,12,all_persons,2018-06-01,2018-06-30,Q14a,with_children_and_adults,1
+Data Not Collected,12,all_persons,2018-06-01,2018-06-30,Q14a,with_only_children,0
+Data Not Collected,12,all_persons,2018-06-01,2018-06-30,Q14a,unknown_household_type,1
+Yes,45,all_persons,2018-07-01,2018-07-31,Q14a,without_children,25
+Yes,45,all_persons,2018-07-01,2018-07-31,Q14a,with_children_and_adults,20
+Yes,45,all_persons,2018-07-01,2018-07-31,Q14a,with_only_children,0
+Yes,45,all_persons,2018-07-01,2018-07-31,Q14a,unknown_household_type,0
+No,291,all_persons,2018-07-01,2018-07-31,Q14a,without_children,203
+No,291,all_persons,2018-07-01,2018-07-31,Q14a,with_children_and_adults,87
+No,291,all_persons,2018-07-01,2018-07-31,Q14a,with_only_children,1
+No,291,all_persons,2018-07-01,2018-07-31,Q14a,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_persons,2018-07-01,2018-07-31,Q14a,without_children,1
+Client Doesn't Know/Client Refused,1,all_persons,2018-07-01,2018-07-31,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_persons,2018-07-01,2018-07-31,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2018-07-01,2018-07-31,Q14a,unknown_household_type,0
+Data Not Collected,3,all_persons,2018-07-01,2018-07-31,Q14a,without_children,2
+Data Not Collected,3,all_persons,2018-07-01,2018-07-31,Q14a,with_children_and_adults,1
+Data Not Collected,3,all_persons,2018-07-01,2018-07-31,Q14a,with_only_children,0
+Data Not Collected,3,all_persons,2018-07-01,2018-07-31,Q14a,unknown_household_type,0
+Yes,49,all_persons,2018-08-01,2018-08-31,Q14a,without_children,26
+Yes,49,all_persons,2018-08-01,2018-08-31,Q14a,with_children_and_adults,23
+Yes,49,all_persons,2018-08-01,2018-08-31,Q14a,with_only_children,0
+Yes,49,all_persons,2018-08-01,2018-08-31,Q14a,unknown_household_type,0
+No,307,all_persons,2018-08-01,2018-08-31,Q14a,without_children,215
+No,307,all_persons,2018-08-01,2018-08-31,Q14a,with_children_and_adults,91
+No,307,all_persons,2018-08-01,2018-08-31,Q14a,with_only_children,1
+No,307,all_persons,2018-08-01,2018-08-31,Q14a,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_persons,2018-08-01,2018-08-31,Q14a,without_children,1
+Client Doesn't Know/Client Refused,1,all_persons,2018-08-01,2018-08-31,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_persons,2018-08-01,2018-08-31,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2018-08-01,2018-08-31,Q14a,unknown_household_type,0
+Data Not Collected,4,all_persons,2018-08-01,2018-08-31,Q14a,without_children,3
+Data Not Collected,4,all_persons,2018-08-01,2018-08-31,Q14a,with_children_and_adults,1
+Data Not Collected,4,all_persons,2018-08-01,2018-08-31,Q14a,with_only_children,0
+Data Not Collected,4,all_persons,2018-08-01,2018-08-31,Q14a,unknown_household_type,0
+Yes,52,all_persons,2018-09-01,2018-09-30,Q14a,without_children,23
+Yes,52,all_persons,2018-09-01,2018-09-30,Q14a,with_children_and_adults,29
+Yes,52,all_persons,2018-09-01,2018-09-30,Q14a,with_only_children,0
+Yes,52,all_persons,2018-09-01,2018-09-30,Q14a,unknown_household_type,0
+No,305,all_persons,2018-09-01,2018-09-30,Q14a,without_children,209
+No,305,all_persons,2018-09-01,2018-09-30,Q14a,with_children_and_adults,95
+No,305,all_persons,2018-09-01,2018-09-30,Q14a,with_only_children,1
+No,305,all_persons,2018-09-01,2018-09-30,Q14a,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_persons,2018-09-01,2018-09-30,Q14a,without_children,1
+Client Doesn't Know/Client Refused,1,all_persons,2018-09-01,2018-09-30,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_persons,2018-09-01,2018-09-30,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2018-09-01,2018-09-30,Q14a,unknown_household_type,0
+Data Not Collected,6,all_persons,2018-09-01,2018-09-30,Q14a,without_children,5
+Data Not Collected,6,all_persons,2018-09-01,2018-09-30,Q14a,with_children_and_adults,1
+Data Not Collected,6,all_persons,2018-09-01,2018-09-30,Q14a,with_only_children,0
+Data Not Collected,6,all_persons,2018-09-01,2018-09-30,Q14a,unknown_household_type,0
+Yes,62,all_persons,2018-10-01,2018-10-31,Q14a,without_children,28
+Yes,62,all_persons,2018-10-01,2018-10-31,Q14a,with_children_and_adults,34
+Yes,62,all_persons,2018-10-01,2018-10-31,Q14a,with_only_children,0
+Yes,62,all_persons,2018-10-01,2018-10-31,Q14a,unknown_household_type,0
+No,323,all_persons,2018-10-01,2018-10-31,Q14a,without_children,222
+No,323,all_persons,2018-10-01,2018-10-31,Q14a,with_children_and_adults,100
+No,323,all_persons,2018-10-01,2018-10-31,Q14a,with_only_children,1
+No,323,all_persons,2018-10-01,2018-10-31,Q14a,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_persons,2018-10-01,2018-10-31,Q14a,without_children,1
+Client Doesn't Know/Client Refused,1,all_persons,2018-10-01,2018-10-31,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_persons,2018-10-01,2018-10-31,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2018-10-01,2018-10-31,Q14a,unknown_household_type,0
+Data Not Collected,10,all_persons,2018-10-01,2018-10-31,Q14a,without_children,6
+Data Not Collected,10,all_persons,2018-10-01,2018-10-31,Q14a,with_children_and_adults,4
+Data Not Collected,10,all_persons,2018-10-01,2018-10-31,Q14a,with_only_children,0
+Data Not Collected,10,all_persons,2018-10-01,2018-10-31,Q14a,unknown_household_type,0
+Yes,80,all_persons,2018-11-01,2018-11-30,Q14a,without_children,48
+Yes,80,all_persons,2018-11-01,2018-11-30,Q14a,with_children_and_adults,32
+Yes,80,all_persons,2018-11-01,2018-11-30,Q14a,with_only_children,0
+Yes,80,all_persons,2018-11-01,2018-11-30,Q14a,unknown_household_type,0
+No,360,all_persons,2018-11-01,2018-11-30,Q14a,without_children,263
+No,360,all_persons,2018-11-01,2018-11-30,Q14a,with_children_and_adults,97
+No,360,all_persons,2018-11-01,2018-11-30,Q14a,with_only_children,0
+No,360,all_persons,2018-11-01,2018-11-30,Q14a,unknown_household_type,0
+Client Doesn't Know/Client Refused,4,all_persons,2018-11-01,2018-11-30,Q14a,without_children,4
+Client Doesn't Know/Client Refused,4,all_persons,2018-11-01,2018-11-30,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,4,all_persons,2018-11-01,2018-11-30,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,4,all_persons,2018-11-01,2018-11-30,Q14a,unknown_household_type,0
+Data Not Collected,5,all_persons,2018-11-01,2018-11-30,Q14a,without_children,4
+Data Not Collected,5,all_persons,2018-11-01,2018-11-30,Q14a,with_children_and_adults,1
+Data Not Collected,5,all_persons,2018-11-01,2018-11-30,Q14a,with_only_children,0
+Data Not Collected,5,all_persons,2018-11-01,2018-11-30,Q14a,unknown_household_type,0
+Yes,109,all_persons,2018-12-01,2018-12-31,Q14a,without_children,76
+Yes,109,all_persons,2018-12-01,2018-12-31,Q14a,with_children_and_adults,33
+Yes,109,all_persons,2018-12-01,2018-12-31,Q14a,with_only_children,0
+Yes,109,all_persons,2018-12-01,2018-12-31,Q14a,unknown_household_type,0
+No,419,all_persons,2018-12-01,2018-12-31,Q14a,without_children,315
+No,419,all_persons,2018-12-01,2018-12-31,Q14a,with_children_and_adults,104
+No,419,all_persons,2018-12-01,2018-12-31,Q14a,with_only_children,0
+No,419,all_persons,2018-12-01,2018-12-31,Q14a,unknown_household_type,0
+Client Doesn't Know/Client Refused,3,all_persons,2018-12-01,2018-12-31,Q14a,without_children,3
+Client Doesn't Know/Client Refused,3,all_persons,2018-12-01,2018-12-31,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,3,all_persons,2018-12-01,2018-12-31,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,3,all_persons,2018-12-01,2018-12-31,Q14a,unknown_household_type,0
+Data Not Collected,6,all_persons,2018-12-01,2018-12-31,Q14a,without_children,5
+Data Not Collected,6,all_persons,2018-12-01,2018-12-31,Q14a,with_children_and_adults,1
+Data Not Collected,6,all_persons,2018-12-01,2018-12-31,Q14a,with_only_children,0
+Data Not Collected,6,all_persons,2018-12-01,2018-12-31,Q14a,unknown_household_type,0
+Yes,151,all_persons,2019-01-01,2019-01-31,Q14a,without_children,117
+Yes,151,all_persons,2019-01-01,2019-01-31,Q14a,with_children_and_adults,34
+Yes,151,all_persons,2019-01-01,2019-01-31,Q14a,with_only_children,0
+Yes,151,all_persons,2019-01-01,2019-01-31,Q14a,unknown_household_type,0
+No,485,all_persons,2019-01-01,2019-01-31,Q14a,without_children,383
+No,485,all_persons,2019-01-01,2019-01-31,Q14a,with_children_and_adults,102
+No,485,all_persons,2019-01-01,2019-01-31,Q14a,with_only_children,0
+No,485,all_persons,2019-01-01,2019-01-31,Q14a,unknown_household_type,0
+Client Doesn't Know/Client Refused,3,all_persons,2019-01-01,2019-01-31,Q14a,without_children,3
+Client Doesn't Know/Client Refused,3,all_persons,2019-01-01,2019-01-31,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,3,all_persons,2019-01-01,2019-01-31,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,3,all_persons,2019-01-01,2019-01-31,Q14a,unknown_household_type,0
+Data Not Collected,11,all_persons,2019-01-01,2019-01-31,Q14a,without_children,10
+Data Not Collected,11,all_persons,2019-01-01,2019-01-31,Q14a,with_children_and_adults,1
+Data Not Collected,11,all_persons,2019-01-01,2019-01-31,Q14a,with_only_children,0
+Data Not Collected,11,all_persons,2019-01-01,2019-01-31,Q14a,unknown_household_type,0
+Yes,197,all_persons,2019-02-01,2019-02-28,Q14a,without_children,151
+Yes,197,all_persons,2019-02-01,2019-02-28,Q14a,with_children_and_adults,46
+Yes,197,all_persons,2019-02-01,2019-02-28,Q14a,with_only_children,0
+Yes,197,all_persons,2019-02-01,2019-02-28,Q14a,unknown_household_type,0
+No,514,all_persons,2019-02-01,2019-02-28,Q14a,without_children,417
+No,514,all_persons,2019-02-01,2019-02-28,Q14a,with_children_and_adults,96
+No,514,all_persons,2019-02-01,2019-02-28,Q14a,with_only_children,0
+No,514,all_persons,2019-02-01,2019-02-28,Q14a,unknown_household_type,1
+Client Doesn't Know/Client Refused,4,all_persons,2019-02-01,2019-02-28,Q14a,without_children,4
+Client Doesn't Know/Client Refused,4,all_persons,2019-02-01,2019-02-28,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,4,all_persons,2019-02-01,2019-02-28,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,4,all_persons,2019-02-01,2019-02-28,Q14a,unknown_household_type,0
+Data Not Collected,13,all_persons,2019-02-01,2019-02-28,Q14a,without_children,12
+Data Not Collected,13,all_persons,2019-02-01,2019-02-28,Q14a,with_children_and_adults,1
+Data Not Collected,13,all_persons,2019-02-01,2019-02-28,Q14a,with_only_children,0
+Data Not Collected,13,all_persons,2019-02-01,2019-02-28,Q14a,unknown_household_type,0
+Yes,183,all_persons,2019-03-01,2019-03-31,Q14a,without_children,141
+Yes,183,all_persons,2019-03-01,2019-03-31,Q14a,with_children_and_adults,42
+Yes,183,all_persons,2019-03-01,2019-03-31,Q14a,with_only_children,0
+Yes,183,all_persons,2019-03-01,2019-03-31,Q14a,unknown_household_type,0
+No,506,all_persons,2019-03-01,2019-03-31,Q14a,without_children,413
+No,506,all_persons,2019-03-01,2019-03-31,Q14a,with_children_and_adults,91
+No,506,all_persons,2019-03-01,2019-03-31,Q14a,with_only_children,0
+No,506,all_persons,2019-03-01,2019-03-31,Q14a,unknown_household_type,2
+Client Doesn't Know/Client Refused,2,all_persons,2019-03-01,2019-03-31,Q14a,without_children,2
+Client Doesn't Know/Client Refused,2,all_persons,2019-03-01,2019-03-31,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,2,all_persons,2019-03-01,2019-03-31,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,2,all_persons,2019-03-01,2019-03-31,Q14a,unknown_household_type,0
+Data Not Collected,16,all_persons,2019-03-01,2019-03-31,Q14a,without_children,15
+Data Not Collected,16,all_persons,2019-03-01,2019-03-31,Q14a,with_children_and_adults,1
+Data Not Collected,16,all_persons,2019-03-01,2019-03-31,Q14a,with_only_children,0
+Data Not Collected,16,all_persons,2019-03-01,2019-03-31,Q14a,unknown_household_type,0
+Yes,213,all_persons,2019-04-01,2019-04-30,Q14a,without_children,171
+Yes,213,all_persons,2019-04-01,2019-04-30,Q14a,with_children_and_adults,42
+Yes,213,all_persons,2019-04-01,2019-04-30,Q14a,with_only_children,0
+Yes,213,all_persons,2019-04-01,2019-04-30,Q14a,unknown_household_type,0
+No,494,all_persons,2019-04-01,2019-04-30,Q14a,without_children,407
+No,494,all_persons,2019-04-01,2019-04-30,Q14a,with_children_and_adults,85
+No,494,all_persons,2019-04-01,2019-04-30,Q14a,with_only_children,0
+No,494,all_persons,2019-04-01,2019-04-30,Q14a,unknown_household_type,2
+Client Doesn't Know/Client Refused,2,all_persons,2019-04-01,2019-04-30,Q14a,without_children,2
+Client Doesn't Know/Client Refused,2,all_persons,2019-04-01,2019-04-30,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,2,all_persons,2019-04-01,2019-04-30,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,2,all_persons,2019-04-01,2019-04-30,Q14a,unknown_household_type,0
+Data Not Collected,15,all_persons,2019-04-01,2019-04-30,Q14a,without_children,14
+Data Not Collected,15,all_persons,2019-04-01,2019-04-30,Q14a,with_children_and_adults,1
+Data Not Collected,15,all_persons,2019-04-01,2019-04-30,Q14a,with_only_children,0
+Data Not Collected,15,all_persons,2019-04-01,2019-04-30,Q14a,unknown_household_type,0
+Yes,185,all_persons,2019-05-01,2019-05-31,Q14a,without_children,144
+Yes,185,all_persons,2019-05-01,2019-05-31,Q14a,with_children_and_adults,41
+Yes,185,all_persons,2019-05-01,2019-05-31,Q14a,with_only_children,0
+Yes,185,all_persons,2019-05-01,2019-05-31,Q14a,unknown_household_type,0
+No,513,all_persons,2019-05-01,2019-05-31,Q14a,without_children,414
+No,513,all_persons,2019-05-01,2019-05-31,Q14a,with_children_and_adults,97
+No,513,all_persons,2019-05-01,2019-05-31,Q14a,with_only_children,0
+No,513,all_persons,2019-05-01,2019-05-31,Q14a,unknown_household_type,2
+Client Doesn't Know/Client Refused,1,all_persons,2019-05-01,2019-05-31,Q14a,without_children,1
+Client Doesn't Know/Client Refused,1,all_persons,2019-05-01,2019-05-31,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_persons,2019-05-01,2019-05-31,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2019-05-01,2019-05-31,Q14a,unknown_household_type,0
+Data Not Collected,13,all_persons,2019-05-01,2019-05-31,Q14a,without_children,12
+Data Not Collected,13,all_persons,2019-05-01,2019-05-31,Q14a,with_children_and_adults,1
+Data Not Collected,13,all_persons,2019-05-01,2019-05-31,Q14a,with_only_children,0
+Data Not Collected,13,all_persons,2019-05-01,2019-05-31,Q14a,unknown_household_type,0
+Yes,207,all_persons,2019-06-01,2019-06-30,Q14a,without_children,161
+Yes,207,all_persons,2019-06-01,2019-06-30,Q14a,with_children_and_adults,46
+Yes,207,all_persons,2019-06-01,2019-06-30,Q14a,with_only_children,0
+Yes,207,all_persons,2019-06-01,2019-06-30,Q14a,unknown_household_type,0
+No,488,all_persons,2019-06-01,2019-06-30,Q14a,without_children,394
+No,488,all_persons,2019-06-01,2019-06-30,Q14a,with_children_and_adults,94
+No,488,all_persons,2019-06-01,2019-06-30,Q14a,with_only_children,0
+No,488,all_persons,2019-06-01,2019-06-30,Q14a,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,all_persons,2019-06-01,2019-06-30,Q14a,without_children,1
+Client Doesn't Know/Client Refused,1,all_persons,2019-06-01,2019-06-30,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_persons,2019-06-01,2019-06-30,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2019-06-01,2019-06-30,Q14a,unknown_household_type,0
+Data Not Collected,13,all_persons,2019-06-01,2019-06-30,Q14a,without_children,12
+Data Not Collected,13,all_persons,2019-06-01,2019-06-30,Q14a,with_children_and_adults,1
+Data Not Collected,13,all_persons,2019-06-01,2019-06-30,Q14a,with_only_children,0
+Data Not Collected,13,all_persons,2019-06-01,2019-06-30,Q14a,unknown_household_type,0
+Yes,188,all_persons,2019-07-01,2019-07-31,Q14a,without_children,130
+Yes,188,all_persons,2019-07-01,2019-07-31,Q14a,with_children_and_adults,58
+Yes,188,all_persons,2019-07-01,2019-07-31,Q14a,with_only_children,0
+Yes,188,all_persons,2019-07-01,2019-07-31,Q14a,unknown_household_type,0
+No,593,all_persons,2019-07-01,2019-07-31,Q14a,without_children,451
+No,593,all_persons,2019-07-01,2019-07-31,Q14a,with_children_and_adults,141
+No,593,all_persons,2019-07-01,2019-07-31,Q14a,with_only_children,0
+No,593,all_persons,2019-07-01,2019-07-31,Q14a,unknown_household_type,1
+Client Doesn't Know/Client Refused,1,all_persons,2019-07-01,2019-07-31,Q14a,without_children,1
+Client Doesn't Know/Client Refused,1,all_persons,2019-07-01,2019-07-31,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_persons,2019-07-01,2019-07-31,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2019-07-01,2019-07-31,Q14a,unknown_household_type,0
+Data Not Collected,20,all_persons,2019-07-01,2019-07-31,Q14a,without_children,18
+Data Not Collected,20,all_persons,2019-07-01,2019-07-31,Q14a,with_children_and_adults,2
+Data Not Collected,20,all_persons,2019-07-01,2019-07-31,Q14a,with_only_children,0
+Data Not Collected,20,all_persons,2019-07-01,2019-07-31,Q14a,unknown_household_type,0
+Yes,208,all_persons,2019-08-01,2019-08-31,Q14a,without_children,142
+Yes,208,all_persons,2019-08-01,2019-08-31,Q14a,with_children_and_adults,66
+Yes,208,all_persons,2019-08-01,2019-08-31,Q14a,with_only_children,0
+Yes,208,all_persons,2019-08-01,2019-08-31,Q14a,unknown_household_type,0
+No,603,all_persons,2019-08-01,2019-08-31,Q14a,without_children,427
+No,603,all_persons,2019-08-01,2019-08-31,Q14a,with_children_and_adults,175
+No,603,all_persons,2019-08-01,2019-08-31,Q14a,with_only_children,0
+No,603,all_persons,2019-08-01,2019-08-31,Q14a,unknown_household_type,1
+Client Doesn't Know/Client Refused,1,all_persons,2019-08-01,2019-08-31,Q14a,without_children,1
+Client Doesn't Know/Client Refused,1,all_persons,2019-08-01,2019-08-31,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_persons,2019-08-01,2019-08-31,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2019-08-01,2019-08-31,Q14a,unknown_household_type,0
+Data Not Collected,13,all_persons,2019-08-01,2019-08-31,Q14a,without_children,9
+Data Not Collected,13,all_persons,2019-08-01,2019-08-31,Q14a,with_children_and_adults,4
+Data Not Collected,13,all_persons,2019-08-01,2019-08-31,Q14a,with_only_children,0
+Data Not Collected,13,all_persons,2019-08-01,2019-08-31,Q14a,unknown_household_type,0
+Yes,212,all_persons,2019-09-01,2019-09-30,Q14a,without_children,153
+Yes,212,all_persons,2019-09-01,2019-09-30,Q14a,with_children_and_adults,59
+Yes,212,all_persons,2019-09-01,2019-09-30,Q14a,with_only_children,0
+Yes,212,all_persons,2019-09-01,2019-09-30,Q14a,unknown_household_type,0
+No,596,all_persons,2019-09-01,2019-09-30,Q14a,without_children,440
+No,596,all_persons,2019-09-01,2019-09-30,Q14a,with_children_and_adults,155
+No,596,all_persons,2019-09-01,2019-09-30,Q14a,with_only_children,0
+No,596,all_persons,2019-09-01,2019-09-30,Q14a,unknown_household_type,1
+Client Doesn't Know/Client Refused,1,all_persons,2019-09-01,2019-09-30,Q14a,without_children,1
+Client Doesn't Know/Client Refused,1,all_persons,2019-09-01,2019-09-30,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_persons,2019-09-01,2019-09-30,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2019-09-01,2019-09-30,Q14a,unknown_household_type,0
+Data Not Collected,13,all_persons,2019-09-01,2019-09-30,Q14a,without_children,9
+Data Not Collected,13,all_persons,2019-09-01,2019-09-30,Q14a,with_children_and_adults,4
+Data Not Collected,13,all_persons,2019-09-01,2019-09-30,Q14a,with_only_children,0
+Data Not Collected,13,all_persons,2019-09-01,2019-09-30,Q14a,unknown_household_type,0
+Yes,220,all_persons,2019-10-01,2019-10-31,Q14a,without_children,159
+Yes,220,all_persons,2019-10-01,2019-10-31,Q14a,with_children_and_adults,61
+Yes,220,all_persons,2019-10-01,2019-10-31,Q14a,with_only_children,0
+Yes,220,all_persons,2019-10-01,2019-10-31,Q14a,unknown_household_type,0
+No,604,all_persons,2019-10-01,2019-10-31,Q14a,without_children,463
+No,604,all_persons,2019-10-01,2019-10-31,Q14a,with_children_and_adults,136
+No,604,all_persons,2019-10-01,2019-10-31,Q14a,with_only_children,0
+No,604,all_persons,2019-10-01,2019-10-31,Q14a,unknown_household_type,5
+Client Doesn't Know/Client Refused,3,all_persons,2019-10-01,2019-10-31,Q14a,without_children,3
+Client Doesn't Know/Client Refused,3,all_persons,2019-10-01,2019-10-31,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,3,all_persons,2019-10-01,2019-10-31,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,3,all_persons,2019-10-01,2019-10-31,Q14a,unknown_household_type,0
+Data Not Collected,18,all_persons,2019-10-01,2019-10-31,Q14a,without_children,10
+Data Not Collected,18,all_persons,2019-10-01,2019-10-31,Q14a,with_children_and_adults,8
+Data Not Collected,18,all_persons,2019-10-01,2019-10-31,Q14a,with_only_children,0
+Data Not Collected,18,all_persons,2019-10-01,2019-10-31,Q14a,unknown_household_type,0
+Yes,214,all_persons,2019-11-01,2019-11-30,Q14a,without_children,155
+Yes,214,all_persons,2019-11-01,2019-11-30,Q14a,with_children_and_adults,59
+Yes,214,all_persons,2019-11-01,2019-11-30,Q14a,with_only_children,0
+Yes,214,all_persons,2019-11-01,2019-11-30,Q14a,unknown_household_type,0
+No,626,all_persons,2019-11-01,2019-11-30,Q14a,without_children,494
+No,626,all_persons,2019-11-01,2019-11-30,Q14a,with_children_and_adults,128
+No,626,all_persons,2019-11-01,2019-11-30,Q14a,with_only_children,0
+No,626,all_persons,2019-11-01,2019-11-30,Q14a,unknown_household_type,4
+Client Doesn't Know/Client Refused,4,all_persons,2019-11-01,2019-11-30,Q14a,without_children,3
+Client Doesn't Know/Client Refused,4,all_persons,2019-11-01,2019-11-30,Q14a,with_children_and_adults,1
+Client Doesn't Know/Client Refused,4,all_persons,2019-11-01,2019-11-30,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,4,all_persons,2019-11-01,2019-11-30,Q14a,unknown_household_type,0
+Data Not Collected,23,all_persons,2019-11-01,2019-11-30,Q14a,without_children,14
+Data Not Collected,23,all_persons,2019-11-01,2019-11-30,Q14a,with_children_and_adults,9
+Data Not Collected,23,all_persons,2019-11-01,2019-11-30,Q14a,with_only_children,0
+Data Not Collected,23,all_persons,2019-11-01,2019-11-30,Q14a,unknown_household_type,0
+Yes,222,all_persons,2019-12-01,2019-12-31,Q14a,without_children,155
+Yes,222,all_persons,2019-12-01,2019-12-31,Q14a,with_children_and_adults,67
+Yes,222,all_persons,2019-12-01,2019-12-31,Q14a,with_only_children,0
+Yes,222,all_persons,2019-12-01,2019-12-31,Q14a,unknown_household_type,0
+No,643,all_persons,2019-12-01,2019-12-31,Q14a,without_children,496
+No,643,all_persons,2019-12-01,2019-12-31,Q14a,with_children_and_adults,143
+No,643,all_persons,2019-12-01,2019-12-31,Q14a,with_only_children,0
+No,643,all_persons,2019-12-01,2019-12-31,Q14a,unknown_household_type,4
+Client Doesn't Know/Client Refused,4,all_persons,2019-12-01,2019-12-31,Q14a,without_children,3
+Client Doesn't Know/Client Refused,4,all_persons,2019-12-01,2019-12-31,Q14a,with_children_and_adults,1
+Client Doesn't Know/Client Refused,4,all_persons,2019-12-01,2019-12-31,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,4,all_persons,2019-12-01,2019-12-31,Q14a,unknown_household_type,0
+Data Not Collected,23,all_persons,2019-12-01,2019-12-31,Q14a,without_children,15
+Data Not Collected,23,all_persons,2019-12-01,2019-12-31,Q14a,with_children_and_adults,8
+Data Not Collected,23,all_persons,2019-12-01,2019-12-31,Q14a,with_only_children,0
+Data Not Collected,23,all_persons,2019-12-01,2019-12-31,Q14a,unknown_household_type,0
+Yes,233,all_persons,2020-01-01,2020-01-31,Q14a,without_children,170
+Yes,233,all_persons,2020-01-01,2020-01-31,Q14a,with_children_and_adults,63
+Yes,233,all_persons,2020-01-01,2020-01-31,Q14a,with_only_children,0
+Yes,233,all_persons,2020-01-01,2020-01-31,Q14a,unknown_household_type,0
+No,676,all_persons,2020-01-01,2020-01-31,Q14a,without_children,539
+No,676,all_persons,2020-01-01,2020-01-31,Q14a,with_children_and_adults,133
+No,676,all_persons,2020-01-01,2020-01-31,Q14a,with_only_children,0
+No,676,all_persons,2020-01-01,2020-01-31,Q14a,unknown_household_type,4
+Client Doesn't Know/Client Refused,6,all_persons,2020-01-01,2020-01-31,Q14a,without_children,6
+Client Doesn't Know/Client Refused,6,all_persons,2020-01-01,2020-01-31,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,6,all_persons,2020-01-01,2020-01-31,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,6,all_persons,2020-01-01,2020-01-31,Q14a,unknown_household_type,0
+Data Not Collected,22,all_persons,2020-01-01,2020-01-31,Q14a,without_children,14
+Data Not Collected,22,all_persons,2020-01-01,2020-01-31,Q14a,with_children_and_adults,8
+Data Not Collected,22,all_persons,2020-01-01,2020-01-31,Q14a,with_only_children,0
+Data Not Collected,22,all_persons,2020-01-01,2020-01-31,Q14a,unknown_household_type,0
+Yes,225,all_persons,2020-02-01,2020-02-29,Q14a,without_children,164
+Yes,225,all_persons,2020-02-01,2020-02-29,Q14a,with_children_and_adults,61
+Yes,225,all_persons,2020-02-01,2020-02-29,Q14a,with_only_children,0
+Yes,225,all_persons,2020-02-01,2020-02-29,Q14a,unknown_household_type,0
+No,657,all_persons,2020-02-01,2020-02-29,Q14a,without_children,522
+No,657,all_persons,2020-02-01,2020-02-29,Q14a,with_children_and_adults,131
+No,657,all_persons,2020-02-01,2020-02-29,Q14a,with_only_children,0
+No,657,all_persons,2020-02-01,2020-02-29,Q14a,unknown_household_type,4
+Client Doesn't Know/Client Refused,5,all_persons,2020-02-01,2020-02-29,Q14a,without_children,5
+Client Doesn't Know/Client Refused,5,all_persons,2020-02-01,2020-02-29,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,5,all_persons,2020-02-01,2020-02-29,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,5,all_persons,2020-02-01,2020-02-29,Q14a,unknown_household_type,0
+Data Not Collected,19,all_persons,2020-02-01,2020-02-29,Q14a,without_children,14
+Data Not Collected,19,all_persons,2020-02-01,2020-02-29,Q14a,with_children_and_adults,5
+Data Not Collected,19,all_persons,2020-02-01,2020-02-29,Q14a,with_only_children,0
+Data Not Collected,19,all_persons,2020-02-01,2020-02-29,Q14a,unknown_household_type,0
+Yes,206,all_persons,2020-03-01,2020-03-31,Q14a,without_children,155
+Yes,206,all_persons,2020-03-01,2020-03-31,Q14a,with_children_and_adults,51
+Yes,206,all_persons,2020-03-01,2020-03-31,Q14a,with_only_children,0
+Yes,206,all_persons,2020-03-01,2020-03-31,Q14a,unknown_household_type,0
+No,622,all_persons,2020-03-01,2020-03-31,Q14a,without_children,506
+No,622,all_persons,2020-03-01,2020-03-31,Q14a,with_children_and_adults,112
+No,622,all_persons,2020-03-01,2020-03-31,Q14a,with_only_children,0
+No,622,all_persons,2020-03-01,2020-03-31,Q14a,unknown_household_type,4
+Client Doesn't Know/Client Refused,6,all_persons,2020-03-01,2020-03-31,Q14a,without_children,6
+Client Doesn't Know/Client Refused,6,all_persons,2020-03-01,2020-03-31,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,6,all_persons,2020-03-01,2020-03-31,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,6,all_persons,2020-03-01,2020-03-31,Q14a,unknown_household_type,0
+Data Not Collected,18,all_persons,2020-03-01,2020-03-31,Q14a,without_children,13
+Data Not Collected,18,all_persons,2020-03-01,2020-03-31,Q14a,with_children_and_adults,5
+Data Not Collected,18,all_persons,2020-03-01,2020-03-31,Q14a,with_only_children,0
+Data Not Collected,18,all_persons,2020-03-01,2020-03-31,Q14a,unknown_household_type,0
+Yes,189,all_persons,2020-04-01,2020-04-30,Q14a,without_children,147
+Yes,189,all_persons,2020-04-01,2020-04-30,Q14a,with_children_and_adults,42
+Yes,189,all_persons,2020-04-01,2020-04-30,Q14a,with_only_children,0
+Yes,189,all_persons,2020-04-01,2020-04-30,Q14a,unknown_household_type,0
+No,619,all_persons,2020-04-01,2020-04-30,Q14a,without_children,504
+No,619,all_persons,2020-04-01,2020-04-30,Q14a,with_children_and_adults,111
+No,619,all_persons,2020-04-01,2020-04-30,Q14a,with_only_children,0
+No,619,all_persons,2020-04-01,2020-04-30,Q14a,unknown_household_type,4
+Client Doesn't Know/Client Refused,9,all_persons,2020-04-01,2020-04-30,Q14a,without_children,9
+Client Doesn't Know/Client Refused,9,all_persons,2020-04-01,2020-04-30,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,9,all_persons,2020-04-01,2020-04-30,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,9,all_persons,2020-04-01,2020-04-30,Q14a,unknown_household_type,0
+Data Not Collected,20,all_persons,2020-04-01,2020-04-30,Q14a,without_children,15
+Data Not Collected,20,all_persons,2020-04-01,2020-04-30,Q14a,with_children_and_adults,5
+Data Not Collected,20,all_persons,2020-04-01,2020-04-30,Q14a,with_only_children,0
+Data Not Collected,20,all_persons,2020-04-01,2020-04-30,Q14a,unknown_household_type,0
+Yes,203,all_persons,2020-05-01,2020-05-31,Q14a,without_children,160
+Yes,203,all_persons,2020-05-01,2020-05-31,Q14a,with_children_and_adults,43
+Yes,203,all_persons,2020-05-01,2020-05-31,Q14a,with_only_children,0
+Yes,203,all_persons,2020-05-01,2020-05-31,Q14a,unknown_household_type,0
+No,605,all_persons,2020-05-01,2020-05-31,Q14a,without_children,500
+No,605,all_persons,2020-05-01,2020-05-31,Q14a,with_children_and_adults,102
+No,605,all_persons,2020-05-01,2020-05-31,Q14a,with_only_children,0
+No,605,all_persons,2020-05-01,2020-05-31,Q14a,unknown_household_type,3
+Client Doesn't Know/Client Refused,7,all_persons,2020-05-01,2020-05-31,Q14a,without_children,7
+Client Doesn't Know/Client Refused,7,all_persons,2020-05-01,2020-05-31,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,7,all_persons,2020-05-01,2020-05-31,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,7,all_persons,2020-05-01,2020-05-31,Q14a,unknown_household_type,0
+Data Not Collected,16,all_persons,2020-05-01,2020-05-31,Q14a,without_children,11
+Data Not Collected,16,all_persons,2020-05-01,2020-05-31,Q14a,with_children_and_adults,5
+Data Not Collected,16,all_persons,2020-05-01,2020-05-31,Q14a,with_only_children,0
+Data Not Collected,16,all_persons,2020-05-01,2020-05-31,Q14a,unknown_household_type,0
+Yes,225,all_persons,2020-06-01,2020-06-30,Q14a,without_children,177
+Yes,225,all_persons,2020-06-01,2020-06-30,Q14a,with_children_and_adults,48
+Yes,225,all_persons,2020-06-01,2020-06-30,Q14a,with_only_children,0
+Yes,225,all_persons,2020-06-01,2020-06-30,Q14a,unknown_household_type,0
+No,597,all_persons,2020-06-01,2020-06-30,Q14a,without_children,496
+No,597,all_persons,2020-06-01,2020-06-30,Q14a,with_children_and_adults,98
+No,597,all_persons,2020-06-01,2020-06-30,Q14a,with_only_children,0
+No,597,all_persons,2020-06-01,2020-06-30,Q14a,unknown_household_type,3
+Client Doesn't Know/Client Refused,4,all_persons,2020-06-01,2020-06-30,Q14a,without_children,4
+Client Doesn't Know/Client Refused,4,all_persons,2020-06-01,2020-06-30,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,4,all_persons,2020-06-01,2020-06-30,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,4,all_persons,2020-06-01,2020-06-30,Q14a,unknown_household_type,0
+Data Not Collected,14,all_persons,2020-06-01,2020-06-30,Q14a,without_children,9
+Data Not Collected,14,all_persons,2020-06-01,2020-06-30,Q14a,with_children_and_adults,5
+Data Not Collected,14,all_persons,2020-06-01,2020-06-30,Q14a,with_only_children,0
+Data Not Collected,14,all_persons,2020-06-01,2020-06-30,Q14a,unknown_household_type,0
+Yes,211,all_persons,2020-07-01,2020-07-31,Q14a,without_children,159
+Yes,211,all_persons,2020-07-01,2020-07-31,Q14a,with_children_and_adults,52
+Yes,211,all_persons,2020-07-01,2020-07-31,Q14a,with_only_children,0
+Yes,211,all_persons,2020-07-01,2020-07-31,Q14a,unknown_household_type,0
+No,578,all_persons,2020-07-01,2020-07-31,Q14a,without_children,479
+No,578,all_persons,2020-07-01,2020-07-31,Q14a,with_children_and_adults,96
+No,578,all_persons,2020-07-01,2020-07-31,Q14a,with_only_children,0
+No,578,all_persons,2020-07-01,2020-07-31,Q14a,unknown_household_type,3
+Client Doesn't Know/Client Refused,1,all_persons,2020-07-01,2020-07-31,Q14a,without_children,1
+Client Doesn't Know/Client Refused,1,all_persons,2020-07-01,2020-07-31,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,1,all_persons,2020-07-01,2020-07-31,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,1,all_persons,2020-07-01,2020-07-31,Q14a,unknown_household_type,0
+Data Not Collected,15,all_persons,2020-07-01,2020-07-31,Q14a,without_children,10
+Data Not Collected,15,all_persons,2020-07-01,2020-07-31,Q14a,with_children_and_adults,5
+Data Not Collected,15,all_persons,2020-07-01,2020-07-31,Q14a,with_only_children,0
+Data Not Collected,15,all_persons,2020-07-01,2020-07-31,Q14a,unknown_household_type,0
+Yes,209,all_persons,2020-08-01,2020-08-31,Q14a,without_children,159
+Yes,209,all_persons,2020-08-01,2020-08-31,Q14a,with_children_and_adults,50
+Yes,209,all_persons,2020-08-01,2020-08-31,Q14a,with_only_children,0
+Yes,209,all_persons,2020-08-01,2020-08-31,Q14a,unknown_household_type,0
+No,577,all_persons,2020-08-01,2020-08-31,Q14a,without_children,480
+No,577,all_persons,2020-08-01,2020-08-31,Q14a,with_children_and_adults,94
+No,577,all_persons,2020-08-01,2020-08-31,Q14a,with_only_children,0
+No,577,all_persons,2020-08-01,2020-08-31,Q14a,unknown_household_type,3
+Client Doesn't Know/Client Refused,3,all_persons,2020-08-01,2020-08-31,Q14a,without_children,3
+Client Doesn't Know/Client Refused,3,all_persons,2020-08-01,2020-08-31,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,3,all_persons,2020-08-01,2020-08-31,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,3,all_persons,2020-08-01,2020-08-31,Q14a,unknown_household_type,0
+Data Not Collected,13,all_persons,2020-08-01,2020-08-31,Q14a,without_children,9
+Data Not Collected,13,all_persons,2020-08-01,2020-08-31,Q14a,with_children_and_adults,4
+Data Not Collected,13,all_persons,2020-08-01,2020-08-31,Q14a,with_only_children,0
+Data Not Collected,13,all_persons,2020-08-01,2020-08-31,Q14a,unknown_household_type,0
+Yes,230,all_persons,2020-09-01,2020-09-30,Q14a,without_children,174
+Yes,230,all_persons,2020-09-01,2020-09-30,Q14a,with_children_and_adults,56
+Yes,230,all_persons,2020-09-01,2020-09-30,Q14a,with_only_children,0
+Yes,230,all_persons,2020-09-01,2020-09-30,Q14a,unknown_household_type,0
+No,587,all_persons,2020-09-01,2020-09-30,Q14a,without_children,487
+No,587,all_persons,2020-09-01,2020-09-30,Q14a,with_children_and_adults,97
+No,587,all_persons,2020-09-01,2020-09-30,Q14a,with_only_children,0
+No,587,all_persons,2020-09-01,2020-09-30,Q14a,unknown_household_type,3
+Client Doesn't Know/Client Refused,3,all_persons,2020-09-01,2020-09-30,Q14a,without_children,3
+Client Doesn't Know/Client Refused,3,all_persons,2020-09-01,2020-09-30,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,3,all_persons,2020-09-01,2020-09-30,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,3,all_persons,2020-09-01,2020-09-30,Q14a,unknown_household_type,0
+Data Not Collected,17,all_persons,2020-09-01,2020-09-30,Q14a,without_children,12
+Data Not Collected,17,all_persons,2020-09-01,2020-09-30,Q14a,with_children_and_adults,5
+Data Not Collected,17,all_persons,2020-09-01,2020-09-30,Q14a,with_only_children,0
+Data Not Collected,17,all_persons,2020-09-01,2020-09-30,Q14a,unknown_household_type,0
+Yes,231,all_persons,2020-10-01,2020-10-31,Q14a,without_children,177
+Yes,231,all_persons,2020-10-01,2020-10-31,Q14a,with_children_and_adults,54
+Yes,231,all_persons,2020-10-01,2020-10-31,Q14a,with_only_children,0
+Yes,231,all_persons,2020-10-01,2020-10-31,Q14a,unknown_household_type,0
+No,619,all_persons,2020-10-01,2020-10-31,Q14a,without_children,515
+No,619,all_persons,2020-10-01,2020-10-31,Q14a,with_children_and_adults,100
+No,619,all_persons,2020-10-01,2020-10-31,Q14a,with_only_children,0
+No,619,all_persons,2020-10-01,2020-10-31,Q14a,unknown_household_type,4
+Client Doesn't Know/Client Refused,4,all_persons,2020-10-01,2020-10-31,Q14a,without_children,4
+Client Doesn't Know/Client Refused,4,all_persons,2020-10-01,2020-10-31,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,4,all_persons,2020-10-01,2020-10-31,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,4,all_persons,2020-10-01,2020-10-31,Q14a,unknown_household_type,0
+Data Not Collected,14,all_persons,2020-10-01,2020-10-31,Q14a,without_children,10
+Data Not Collected,14,all_persons,2020-10-01,2020-10-31,Q14a,with_children_and_adults,4
+Data Not Collected,14,all_persons,2020-10-01,2020-10-31,Q14a,with_only_children,0
+Data Not Collected,14,all_persons,2020-10-01,2020-10-31,Q14a,unknown_household_type,0
+Yes,259,all_persons,2020-11-01,2020-11-30,Q14a,without_children,211
+Yes,259,all_persons,2020-11-01,2020-11-30,Q14a,with_children_and_adults,48
+Yes,259,all_persons,2020-11-01,2020-11-30,Q14a,with_only_children,0
+Yes,259,all_persons,2020-11-01,2020-11-30,Q14a,unknown_household_type,0
+No,656,all_persons,2020-11-01,2020-11-30,Q14a,without_children,543
+No,656,all_persons,2020-11-01,2020-11-30,Q14a,with_children_and_adults,109
+No,656,all_persons,2020-11-01,2020-11-30,Q14a,with_only_children,0
+No,656,all_persons,2020-11-01,2020-11-30,Q14a,unknown_household_type,4
+Client Doesn't Know/Client Refused,4,all_persons,2020-11-01,2020-11-30,Q14a,without_children,3
+Client Doesn't Know/Client Refused,4,all_persons,2020-11-01,2020-11-30,Q14a,with_children_and_adults,1
+Client Doesn't Know/Client Refused,4,all_persons,2020-11-01,2020-11-30,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,4,all_persons,2020-11-01,2020-11-30,Q14a,unknown_household_type,0
+Data Not Collected,18,all_persons,2020-11-01,2020-11-30,Q14a,without_children,14
+Data Not Collected,18,all_persons,2020-11-01,2020-11-30,Q14a,with_children_and_adults,4
+Data Not Collected,18,all_persons,2020-11-01,2020-11-30,Q14a,with_only_children,0
+Data Not Collected,18,all_persons,2020-11-01,2020-11-30,Q14a,unknown_household_type,0
+Yes,251,all_persons,2020-12-01,2020-12-31,Q14a,without_children,202
+Yes,251,all_persons,2020-12-01,2020-12-31,Q14a,with_children_and_adults,49
+Yes,251,all_persons,2020-12-01,2020-12-31,Q14a,with_only_children,0
+Yes,251,all_persons,2020-12-01,2020-12-31,Q14a,unknown_household_type,0
+No,685,all_persons,2020-12-01,2020-12-31,Q14a,without_children,564
+No,685,all_persons,2020-12-01,2020-12-31,Q14a,with_children_and_adults,117
+No,685,all_persons,2020-12-01,2020-12-31,Q14a,with_only_children,0
+No,685,all_persons,2020-12-01,2020-12-31,Q14a,unknown_household_type,4
+Client Doesn't Know/Client Refused,3,all_persons,2020-12-01,2020-12-31,Q14a,without_children,3
+Client Doesn't Know/Client Refused,3,all_persons,2020-12-01,2020-12-31,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,3,all_persons,2020-12-01,2020-12-31,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,3,all_persons,2020-12-01,2020-12-31,Q14a,unknown_household_type,0
+Data Not Collected,15,all_persons,2020-12-01,2020-12-31,Q14a,without_children,10
+Data Not Collected,15,all_persons,2020-12-01,2020-12-31,Q14a,with_children_and_adults,5
+Data Not Collected,15,all_persons,2020-12-01,2020-12-31,Q14a,with_only_children,0
+Data Not Collected,15,all_persons,2020-12-01,2020-12-31,Q14a,unknown_household_type,0
+Yes,259,all_persons,2021-01-01,2021-01-31,Q14a,without_children,210
+Yes,259,all_persons,2021-01-01,2021-01-31,Q14a,with_children_and_adults,48
+Yes,259,all_persons,2021-01-01,2021-01-31,Q14a,with_only_children,0
+Yes,259,all_persons,2021-01-01,2021-01-31,Q14a,unknown_household_type,1
+No,704,all_persons,2021-01-01,2021-01-31,Q14a,without_children,581
+No,704,all_persons,2021-01-01,2021-01-31,Q14a,with_children_and_adults,119
+No,704,all_persons,2021-01-01,2021-01-31,Q14a,with_only_children,0
+No,704,all_persons,2021-01-01,2021-01-31,Q14a,unknown_household_type,4
+Client Doesn't Know/Client Refused,3,all_persons,2021-01-01,2021-01-31,Q14a,without_children,3
+Client Doesn't Know/Client Refused,3,all_persons,2021-01-01,2021-01-31,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,3,all_persons,2021-01-01,2021-01-31,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,3,all_persons,2021-01-01,2021-01-31,Q14a,unknown_household_type,0
+Data Not Collected,17,all_persons,2021-01-01,2021-01-31,Q14a,without_children,12
+Data Not Collected,17,all_persons,2021-01-01,2021-01-31,Q14a,with_children_and_adults,5
+Data Not Collected,17,all_persons,2021-01-01,2021-01-31,Q14a,with_only_children,0
+Data Not Collected,17,all_persons,2021-01-01,2021-01-31,Q14a,unknown_household_type,0
+Yes,229,all_persons,2021-02-01,2021-02-28,Q14a,without_children,181
+Yes,229,all_persons,2021-02-01,2021-02-28,Q14a,with_children_and_adults,48
+Yes,229,all_persons,2021-02-01,2021-02-28,Q14a,with_only_children,0
+Yes,229,all_persons,2021-02-01,2021-02-28,Q14a,unknown_household_type,0
+No,683,all_persons,2021-02-01,2021-02-28,Q14a,without_children,568
+No,683,all_persons,2021-02-01,2021-02-28,Q14a,with_children_and_adults,111
+No,683,all_persons,2021-02-01,2021-02-28,Q14a,with_only_children,0
+No,683,all_persons,2021-02-01,2021-02-28,Q14a,unknown_household_type,4
+Client Doesn't Know/Client Refused,2,all_persons,2021-02-01,2021-02-28,Q14a,without_children,2
+Client Doesn't Know/Client Refused,2,all_persons,2021-02-01,2021-02-28,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,2,all_persons,2021-02-01,2021-02-28,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,2,all_persons,2021-02-01,2021-02-28,Q14a,unknown_household_type,0
+Data Not Collected,16,all_persons,2021-02-01,2021-02-28,Q14a,without_children,11
+Data Not Collected,16,all_persons,2021-02-01,2021-02-28,Q14a,with_children_and_adults,5
+Data Not Collected,16,all_persons,2021-02-01,2021-02-28,Q14a,with_only_children,0
+Data Not Collected,16,all_persons,2021-02-01,2021-02-28,Q14a,unknown_household_type,0
+Yes,212,all_persons,2021-03-01,2021-03-31,Q14a,without_children,167
+Yes,212,all_persons,2021-03-01,2021-03-31,Q14a,with_children_and_adults,45
+Yes,212,all_persons,2021-03-01,2021-03-31,Q14a,with_only_children,0
+Yes,212,all_persons,2021-03-01,2021-03-31,Q14a,unknown_household_type,0
+No,693,all_persons,2021-03-01,2021-03-31,Q14a,without_children,583
+No,693,all_persons,2021-03-01,2021-03-31,Q14a,with_children_and_adults,106
+No,693,all_persons,2021-03-01,2021-03-31,Q14a,with_only_children,0
+No,693,all_persons,2021-03-01,2021-03-31,Q14a,unknown_household_type,4
+Client Doesn't Know/Client Refused,3,all_persons,2021-03-01,2021-03-31,Q14a,without_children,2
+Client Doesn't Know/Client Refused,3,all_persons,2021-03-01,2021-03-31,Q14a,with_children_and_adults,1
+Client Doesn't Know/Client Refused,3,all_persons,2021-03-01,2021-03-31,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,3,all_persons,2021-03-01,2021-03-31,Q14a,unknown_household_type,0
+Data Not Collected,18,all_persons,2021-03-01,2021-03-31,Q14a,without_children,12
+Data Not Collected,18,all_persons,2021-03-01,2021-03-31,Q14a,with_children_and_adults,6
+Data Not Collected,18,all_persons,2021-03-01,2021-03-31,Q14a,with_only_children,0
+Data Not Collected,18,all_persons,2021-03-01,2021-03-31,Q14a,unknown_household_type,0
+Yes,202,all_persons,2021-04-01,2021-04-30,Q14a,without_children,159
+Yes,202,all_persons,2021-04-01,2021-04-30,Q14a,with_children_and_adults,43
+Yes,202,all_persons,2021-04-01,2021-04-30,Q14a,with_only_children,0
+Yes,202,all_persons,2021-04-01,2021-04-30,Q14a,unknown_household_type,0
+No,671,all_persons,2021-04-01,2021-04-30,Q14a,without_children,563
+No,671,all_persons,2021-04-01,2021-04-30,Q14a,with_children_and_adults,104
+No,671,all_persons,2021-04-01,2021-04-30,Q14a,with_only_children,0
+No,671,all_persons,2021-04-01,2021-04-30,Q14a,unknown_household_type,4
+Client Doesn't Know/Client Refused,4,all_persons,2021-04-01,2021-04-30,Q14a,without_children,3
+Client Doesn't Know/Client Refused,4,all_persons,2021-04-01,2021-04-30,Q14a,with_children_and_adults,1
+Client Doesn't Know/Client Refused,4,all_persons,2021-04-01,2021-04-30,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,4,all_persons,2021-04-01,2021-04-30,Q14a,unknown_household_type,0
+Data Not Collected,19,all_persons,2021-04-01,2021-04-30,Q14a,without_children,14
+Data Not Collected,19,all_persons,2021-04-01,2021-04-30,Q14a,with_children_and_adults,5
+Data Not Collected,19,all_persons,2021-04-01,2021-04-30,Q14a,with_only_children,0
+Data Not Collected,19,all_persons,2021-04-01,2021-04-30,Q14a,unknown_household_type,0
+Yes,191,all_persons,2021-05-01,2021-05-31,Q14a,without_children,148
+Yes,191,all_persons,2021-05-01,2021-05-31,Q14a,with_children_and_adults,43
+Yes,191,all_persons,2021-05-01,2021-05-31,Q14a,with_only_children,0
+Yes,191,all_persons,2021-05-01,2021-05-31,Q14a,unknown_household_type,0
+No,652,all_persons,2021-05-01,2021-05-31,Q14a,without_children,549
+No,652,all_persons,2021-05-01,2021-05-31,Q14a,with_children_and_adults,98
+No,652,all_persons,2021-05-01,2021-05-31,Q14a,with_only_children,1
+No,652,all_persons,2021-05-01,2021-05-31,Q14a,unknown_household_type,4
+Client Doesn't Know/Client Refused,5,all_persons,2021-05-01,2021-05-31,Q14a,without_children,4
+Client Doesn't Know/Client Refused,5,all_persons,2021-05-01,2021-05-31,Q14a,with_children_and_adults,1
+Client Doesn't Know/Client Refused,5,all_persons,2021-05-01,2021-05-31,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,5,all_persons,2021-05-01,2021-05-31,Q14a,unknown_household_type,0
+Data Not Collected,17,all_persons,2021-05-01,2021-05-31,Q14a,without_children,11
+Data Not Collected,17,all_persons,2021-05-01,2021-05-31,Q14a,with_children_and_adults,6
+Data Not Collected,17,all_persons,2021-05-01,2021-05-31,Q14a,with_only_children,0
+Data Not Collected,17,all_persons,2021-05-01,2021-05-31,Q14a,unknown_household_type,0
+Yes,208,all_persons,2021-06-01,2021-06-30,Q14a,without_children,168
+Yes,208,all_persons,2021-06-01,2021-06-30,Q14a,with_children_and_adults,40
+Yes,208,all_persons,2021-06-01,2021-06-30,Q14a,with_only_children,0
+Yes,208,all_persons,2021-06-01,2021-06-30,Q14a,unknown_household_type,0
+No,679,all_persons,2021-06-01,2021-06-30,Q14a,without_children,574
+No,679,all_persons,2021-06-01,2021-06-30,Q14a,with_children_and_adults,102
+No,679,all_persons,2021-06-01,2021-06-30,Q14a,with_only_children,0
+No,679,all_persons,2021-06-01,2021-06-30,Q14a,unknown_household_type,3
+Client Doesn't Know/Client Refused,6,all_persons,2021-06-01,2021-06-30,Q14a,without_children,5
+Client Doesn't Know/Client Refused,6,all_persons,2021-06-01,2021-06-30,Q14a,with_children_and_adults,1
+Client Doesn't Know/Client Refused,6,all_persons,2021-06-01,2021-06-30,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,6,all_persons,2021-06-01,2021-06-30,Q14a,unknown_household_type,0
+Data Not Collected,14,all_persons,2021-06-01,2021-06-30,Q14a,without_children,9
+Data Not Collected,14,all_persons,2021-06-01,2021-06-30,Q14a,with_children_and_adults,5
+Data Not Collected,14,all_persons,2021-06-01,2021-06-30,Q14a,with_only_children,0
+Data Not Collected,14,all_persons,2021-06-01,2021-06-30,Q14a,unknown_household_type,0
+Yes,210,all_persons,2021-07-01,2021-07-31,Q14a,without_children,160
+Yes,210,all_persons,2021-07-01,2021-07-31,Q14a,with_children_and_adults,50
+Yes,210,all_persons,2021-07-01,2021-07-31,Q14a,with_only_children,0
+Yes,210,all_persons,2021-07-01,2021-07-31,Q14a,unknown_household_type,0
+No,692,all_persons,2021-07-01,2021-07-31,Q14a,without_children,575
+No,692,all_persons,2021-07-01,2021-07-31,Q14a,with_children_and_adults,114
+No,692,all_persons,2021-07-01,2021-07-31,Q14a,with_only_children,0
+No,692,all_persons,2021-07-01,2021-07-31,Q14a,unknown_household_type,3
+Client Doesn't Know/Client Refused,6,all_persons,2021-07-01,2021-07-31,Q14a,without_children,6
+Client Doesn't Know/Client Refused,6,all_persons,2021-07-01,2021-07-31,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,6,all_persons,2021-07-01,2021-07-31,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,6,all_persons,2021-07-01,2021-07-31,Q14a,unknown_household_type,0
+Data Not Collected,14,all_persons,2021-07-01,2021-07-31,Q14a,without_children,10
+Data Not Collected,14,all_persons,2021-07-01,2021-07-31,Q14a,with_children_and_adults,4
+Data Not Collected,14,all_persons,2021-07-01,2021-07-31,Q14a,with_only_children,0
+Data Not Collected,14,all_persons,2021-07-01,2021-07-31,Q14a,unknown_household_type,0
+Yes,238,all_persons,2021-08-01,2021-08-31,Q14a,without_children,175
+Yes,238,all_persons,2021-08-01,2021-08-31,Q14a,with_children_and_adults,63
+Yes,238,all_persons,2021-08-01,2021-08-31,Q14a,with_only_children,0
+Yes,238,all_persons,2021-08-01,2021-08-31,Q14a,unknown_household_type,0
+No,781,all_persons,2021-08-01,2021-08-31,Q14a,without_children,653
+No,781,all_persons,2021-08-01,2021-08-31,Q14a,with_children_and_adults,125
+No,781,all_persons,2021-08-01,2021-08-31,Q14a,with_only_children,0
+No,781,all_persons,2021-08-01,2021-08-31,Q14a,unknown_household_type,3
+Client Doesn't Know/Client Refused,6,all_persons,2021-08-01,2021-08-31,Q14a,without_children,6
+Client Doesn't Know/Client Refused,6,all_persons,2021-08-01,2021-08-31,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,6,all_persons,2021-08-01,2021-08-31,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,6,all_persons,2021-08-01,2021-08-31,Q14a,unknown_household_type,0
+Data Not Collected,20,all_persons,2021-08-01,2021-08-31,Q14a,without_children,15
+Data Not Collected,20,all_persons,2021-08-01,2021-08-31,Q14a,with_children_and_adults,5
+Data Not Collected,20,all_persons,2021-08-01,2021-08-31,Q14a,with_only_children,0
+Data Not Collected,20,all_persons,2021-08-01,2021-08-31,Q14a,unknown_household_type,0
+Yes,232,all_persons,2021-09-01,2021-09-30,Q14a,without_children,183
+Yes,232,all_persons,2021-09-01,2021-09-30,Q14a,with_children_and_adults,49
+Yes,232,all_persons,2021-09-01,2021-09-30,Q14a,with_only_children,0
+Yes,232,all_persons,2021-09-01,2021-09-30,Q14a,unknown_household_type,0
+No,838,all_persons,2021-09-01,2021-09-30,Q14a,without_children,680
+No,838,all_persons,2021-09-01,2021-09-30,Q14a,with_children_and_adults,155
+No,838,all_persons,2021-09-01,2021-09-30,Q14a,with_only_children,0
+No,838,all_persons,2021-09-01,2021-09-30,Q14a,unknown_household_type,3
+Client Doesn't Know/Client Refused,5,all_persons,2021-09-01,2021-09-30,Q14a,without_children,5
+Client Doesn't Know/Client Refused,5,all_persons,2021-09-01,2021-09-30,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,5,all_persons,2021-09-01,2021-09-30,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,5,all_persons,2021-09-01,2021-09-30,Q14a,unknown_household_type,0
+Data Not Collected,26,all_persons,2021-09-01,2021-09-30,Q14a,without_children,18
+Data Not Collected,26,all_persons,2021-09-01,2021-09-30,Q14a,with_children_and_adults,8
+Data Not Collected,26,all_persons,2021-09-01,2021-09-30,Q14a,with_only_children,0
+Data Not Collected,26,all_persons,2021-09-01,2021-09-30,Q14a,unknown_household_type,0
+Yes,246,all_persons,2021-10-01,2021-10-31,Q14a,without_children,190
+Yes,246,all_persons,2021-10-01,2021-10-31,Q14a,with_children_and_adults,56
+Yes,246,all_persons,2021-10-01,2021-10-31,Q14a,with_only_children,0
+Yes,246,all_persons,2021-10-01,2021-10-31,Q14a,unknown_household_type,0
+No,851,all_persons,2021-10-01,2021-10-31,Q14a,without_children,705
+No,851,all_persons,2021-10-01,2021-10-31,Q14a,with_children_and_adults,141
+No,851,all_persons,2021-10-01,2021-10-31,Q14a,with_only_children,1
+No,851,all_persons,2021-10-01,2021-10-31,Q14a,unknown_household_type,4
+Client Doesn't Know/Client Refused,6,all_persons,2021-10-01,2021-10-31,Q14a,without_children,6
+Client Doesn't Know/Client Refused,6,all_persons,2021-10-01,2021-10-31,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,6,all_persons,2021-10-01,2021-10-31,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,6,all_persons,2021-10-01,2021-10-31,Q14a,unknown_household_type,0
+Data Not Collected,42,all_persons,2021-10-01,2021-10-31,Q14a,without_children,28
+Data Not Collected,42,all_persons,2021-10-01,2021-10-31,Q14a,with_children_and_adults,12
+Data Not Collected,42,all_persons,2021-10-01,2021-10-31,Q14a,with_only_children,0
+Data Not Collected,42,all_persons,2021-10-01,2021-10-31,Q14a,unknown_household_type,2
+Yes,259,all_persons,2021-11-01,2021-11-30,Q14a,without_children,205
+Yes,259,all_persons,2021-11-01,2021-11-30,Q14a,with_children_and_adults,54
+Yes,259,all_persons,2021-11-01,2021-11-30,Q14a,with_only_children,0
+Yes,259,all_persons,2021-11-01,2021-11-30,Q14a,unknown_household_type,0
+No,900,all_persons,2021-11-01,2021-11-30,Q14a,without_children,744
+No,900,all_persons,2021-11-01,2021-11-30,Q14a,with_children_and_adults,152
+No,900,all_persons,2021-11-01,2021-11-30,Q14a,with_only_children,0
+No,900,all_persons,2021-11-01,2021-11-30,Q14a,unknown_household_type,4
+Client Doesn't Know/Client Refused,7,all_persons,2021-11-01,2021-11-30,Q14a,without_children,7
+Client Doesn't Know/Client Refused,7,all_persons,2021-11-01,2021-11-30,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,7,all_persons,2021-11-01,2021-11-30,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,7,all_persons,2021-11-01,2021-11-30,Q14a,unknown_household_type,0
+Data Not Collected,39,all_persons,2021-11-01,2021-11-30,Q14a,without_children,22
+Data Not Collected,39,all_persons,2021-11-01,2021-11-30,Q14a,with_children_and_adults,16
+Data Not Collected,39,all_persons,2021-11-01,2021-11-30,Q14a,with_only_children,0
+Data Not Collected,39,all_persons,2021-11-01,2021-11-30,Q14a,unknown_household_type,1
+Yes,277,all_persons,2021-12-01,2021-12-31,Q14a,without_children,215
+Yes,277,all_persons,2021-12-01,2021-12-31,Q14a,with_children_and_adults,62
+Yes,277,all_persons,2021-12-01,2021-12-31,Q14a,with_only_children,0
+Yes,277,all_persons,2021-12-01,2021-12-31,Q14a,unknown_household_type,0
+No,967,all_persons,2021-12-01,2021-12-31,Q14a,without_children,792
+No,967,all_persons,2021-12-01,2021-12-31,Q14a,with_children_and_adults,171
+No,967,all_persons,2021-12-01,2021-12-31,Q14a,with_only_children,0
+No,967,all_persons,2021-12-01,2021-12-31,Q14a,unknown_household_type,4
+Client Doesn't Know/Client Refused,11,all_persons,2021-12-01,2021-12-31,Q14a,without_children,9
+Client Doesn't Know/Client Refused,11,all_persons,2021-12-01,2021-12-31,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,11,all_persons,2021-12-01,2021-12-31,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,11,all_persons,2021-12-01,2021-12-31,Q14a,unknown_household_type,2
+Data Not Collected,44,all_persons,2021-12-01,2021-12-31,Q14a,without_children,26
+Data Not Collected,44,all_persons,2021-12-01,2021-12-31,Q14a,with_children_and_adults,16
+Data Not Collected,44,all_persons,2021-12-01,2021-12-31,Q14a,with_only_children,0
+Data Not Collected,44,all_persons,2021-12-01,2021-12-31,Q14a,unknown_household_type,2
+Yes,282,all_persons,2022-01-01,2022-01-31,Q14a,without_children,225
+Yes,282,all_persons,2022-01-01,2022-01-31,Q14a,with_children_and_adults,57
+Yes,282,all_persons,2022-01-01,2022-01-31,Q14a,with_only_children,0
+Yes,282,all_persons,2022-01-01,2022-01-31,Q14a,unknown_household_type,0
+No,964,all_persons,2022-01-01,2022-01-31,Q14a,without_children,791
+No,964,all_persons,2022-01-01,2022-01-31,Q14a,with_children_and_adults,169
+No,964,all_persons,2022-01-01,2022-01-31,Q14a,with_only_children,0
+No,964,all_persons,2022-01-01,2022-01-31,Q14a,unknown_household_type,4
+Client Doesn't Know/Client Refused,10,all_persons,2022-01-01,2022-01-31,Q14a,without_children,9
+Client Doesn't Know/Client Refused,10,all_persons,2022-01-01,2022-01-31,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,10,all_persons,2022-01-01,2022-01-31,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,10,all_persons,2022-01-01,2022-01-31,Q14a,unknown_household_type,1
+Data Not Collected,43,all_persons,2022-01-01,2022-01-31,Q14a,without_children,24
+Data Not Collected,43,all_persons,2022-01-01,2022-01-31,Q14a,with_children_and_adults,16
+Data Not Collected,43,all_persons,2022-01-01,2022-01-31,Q14a,with_only_children,0
+Data Not Collected,43,all_persons,2022-01-01,2022-01-31,Q14a,unknown_household_type,3
+Yes,284,all_persons,2022-02-01,2022-02-28,Q14a,without_children,226
+Yes,284,all_persons,2022-02-01,2022-02-28,Q14a,with_children_and_adults,58
+Yes,284,all_persons,2022-02-01,2022-02-28,Q14a,with_only_children,0
+Yes,284,all_persons,2022-02-01,2022-02-28,Q14a,unknown_household_type,0
+No,982,all_persons,2022-02-01,2022-02-28,Q14a,without_children,801
+No,982,all_persons,2022-02-01,2022-02-28,Q14a,with_children_and_adults,176
+No,982,all_persons,2022-02-01,2022-02-28,Q14a,with_only_children,0
+No,982,all_persons,2022-02-01,2022-02-28,Q14a,unknown_household_type,5
+Client Doesn't Know/Client Refused,10,all_persons,2022-02-01,2022-02-28,Q14a,without_children,10
+Client Doesn't Know/Client Refused,10,all_persons,2022-02-01,2022-02-28,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,10,all_persons,2022-02-01,2022-02-28,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,10,all_persons,2022-02-01,2022-02-28,Q14a,unknown_household_type,0
+Data Not Collected,48,all_persons,2022-02-01,2022-02-28,Q14a,without_children,25
+Data Not Collected,48,all_persons,2022-02-01,2022-02-28,Q14a,with_children_and_adults,20
+Data Not Collected,48,all_persons,2022-02-01,2022-02-28,Q14a,with_only_children,0
+Data Not Collected,48,all_persons,2022-02-01,2022-02-28,Q14a,unknown_household_type,3
+Yes,312,all_persons,2022-03-01,2022-03-31,Q14a,without_children,242
+Yes,312,all_persons,2022-03-01,2022-03-31,Q14a,with_children_and_adults,69
+Yes,312,all_persons,2022-03-01,2022-03-31,Q14a,with_only_children,0
+Yes,312,all_persons,2022-03-01,2022-03-31,Q14a,unknown_household_type,1
+No,1042,all_persons,2022-03-01,2022-03-31,Q14a,without_children,842
+No,1042,all_persons,2022-03-01,2022-03-31,Q14a,with_children_and_adults,194
+No,1042,all_persons,2022-03-01,2022-03-31,Q14a,with_only_children,0
+No,1042,all_persons,2022-03-01,2022-03-31,Q14a,unknown_household_type,6
+Client Doesn't Know/Client Refused,9,all_persons,2022-03-01,2022-03-31,Q14a,without_children,9
+Client Doesn't Know/Client Refused,9,all_persons,2022-03-01,2022-03-31,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,9,all_persons,2022-03-01,2022-03-31,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,9,all_persons,2022-03-01,2022-03-31,Q14a,unknown_household_type,0
+Data Not Collected,58,all_persons,2022-03-01,2022-03-31,Q14a,without_children,32
+Data Not Collected,58,all_persons,2022-03-01,2022-03-31,Q14a,with_children_and_adults,22
+Data Not Collected,58,all_persons,2022-03-01,2022-03-31,Q14a,with_only_children,0
+Data Not Collected,58,all_persons,2022-03-01,2022-03-31,Q14a,unknown_household_type,4
+Yes,313,all_persons,2022-04-01,2022-04-30,Q14a,without_children,251
+Yes,313,all_persons,2022-04-01,2022-04-30,Q14a,with_children_and_adults,62
+Yes,313,all_persons,2022-04-01,2022-04-30,Q14a,with_only_children,0
+Yes,313,all_persons,2022-04-01,2022-04-30,Q14a,unknown_household_type,0
+No,1049,all_persons,2022-04-01,2022-04-30,Q14a,without_children,842
+No,1049,all_persons,2022-04-01,2022-04-30,Q14a,with_children_and_adults,202
+No,1049,all_persons,2022-04-01,2022-04-30,Q14a,with_only_children,0
+No,1049,all_persons,2022-04-01,2022-04-30,Q14a,unknown_household_type,5
+Client Doesn't Know/Client Refused,8,all_persons,2022-04-01,2022-04-30,Q14a,without_children,8
+Client Doesn't Know/Client Refused,8,all_persons,2022-04-01,2022-04-30,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,8,all_persons,2022-04-01,2022-04-30,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,8,all_persons,2022-04-01,2022-04-30,Q14a,unknown_household_type,0
+Data Not Collected,66,all_persons,2022-04-01,2022-04-30,Q14a,without_children,38
+Data Not Collected,66,all_persons,2022-04-01,2022-04-30,Q14a,with_children_and_adults,26
+Data Not Collected,66,all_persons,2022-04-01,2022-04-30,Q14a,with_only_children,0
+Data Not Collected,66,all_persons,2022-04-01,2022-04-30,Q14a,unknown_household_type,2
+Yes,315,all_persons,2022-05-01,2022-05-31,Q14a,without_children,249
+Yes,315,all_persons,2022-05-01,2022-05-31,Q14a,with_children_and_adults,66
+Yes,315,all_persons,2022-05-01,2022-05-31,Q14a,with_only_children,0
+Yes,315,all_persons,2022-05-01,2022-05-31,Q14a,unknown_household_type,0
+No,1035,all_persons,2022-05-01,2022-05-31,Q14a,without_children,829
+No,1035,all_persons,2022-05-01,2022-05-31,Q14a,with_children_and_adults,201
+No,1035,all_persons,2022-05-01,2022-05-31,Q14a,with_only_children,0
+No,1035,all_persons,2022-05-01,2022-05-31,Q14a,unknown_household_type,5
+Client Doesn't Know/Client Refused,8,all_persons,2022-05-01,2022-05-31,Q14a,without_children,8
+Client Doesn't Know/Client Refused,8,all_persons,2022-05-01,2022-05-31,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,8,all_persons,2022-05-01,2022-05-31,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,8,all_persons,2022-05-01,2022-05-31,Q14a,unknown_household_type,0
+Data Not Collected,79,all_persons,2022-05-01,2022-05-31,Q14a,without_children,32
+Data Not Collected,79,all_persons,2022-05-01,2022-05-31,Q14a,with_children_and_adults,45
+Data Not Collected,79,all_persons,2022-05-01,2022-05-31,Q14a,with_only_children,0
+Data Not Collected,79,all_persons,2022-05-01,2022-05-31,Q14a,unknown_household_type,2
+Yes,346,all_persons,2022-06-01,2022-06-30,Q14a,without_children,274
+Yes,346,all_persons,2022-06-01,2022-06-30,Q14a,with_children_and_adults,72
+Yes,346,all_persons,2022-06-01,2022-06-30,Q14a,with_only_children,0
+Yes,346,all_persons,2022-06-01,2022-06-30,Q14a,unknown_household_type,0
+No,1068,all_persons,2022-06-01,2022-06-30,Q14a,without_children,851
+No,1068,all_persons,2022-06-01,2022-06-30,Q14a,with_children_and_adults,211
+No,1068,all_persons,2022-06-01,2022-06-30,Q14a,with_only_children,0
+No,1068,all_persons,2022-06-01,2022-06-30,Q14a,unknown_household_type,6
+Client Doesn't Know/Client Refused,9,all_persons,2022-06-01,2022-06-30,Q14a,without_children,9
+Client Doesn't Know/Client Refused,9,all_persons,2022-06-01,2022-06-30,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,9,all_persons,2022-06-01,2022-06-30,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,9,all_persons,2022-06-01,2022-06-30,Q14a,unknown_household_type,0
+Data Not Collected,66,all_persons,2022-06-01,2022-06-30,Q14a,without_children,32
+Data Not Collected,66,all_persons,2022-06-01,2022-06-30,Q14a,with_children_and_adults,32
+Data Not Collected,66,all_persons,2022-06-01,2022-06-30,Q14a,with_only_children,0
+Data Not Collected,66,all_persons,2022-06-01,2022-06-30,Q14a,unknown_household_type,2
+Yes,322,all_persons,2022-07-01,2022-07-31,Q14a,without_children,256
+Yes,322,all_persons,2022-07-01,2022-07-31,Q14a,with_children_and_adults,66
+Yes,322,all_persons,2022-07-01,2022-07-31,Q14a,with_only_children,0
+Yes,322,all_persons,2022-07-01,2022-07-31,Q14a,unknown_household_type,0
+No,1036,all_persons,2022-07-01,2022-07-31,Q14a,without_children,827
+No,1036,all_persons,2022-07-01,2022-07-31,Q14a,with_children_and_adults,203
+No,1036,all_persons,2022-07-01,2022-07-31,Q14a,with_only_children,0
+No,1036,all_persons,2022-07-01,2022-07-31,Q14a,unknown_household_type,6
+Client Doesn't Know/Client Refused,10,all_persons,2022-07-01,2022-07-31,Q14a,without_children,10
+Client Doesn't Know/Client Refused,10,all_persons,2022-07-01,2022-07-31,Q14a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,10,all_persons,2022-07-01,2022-07-31,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,10,all_persons,2022-07-01,2022-07-31,Q14a,unknown_household_type,0
+Data Not Collected,79,all_persons,2022-07-01,2022-07-31,Q14a,without_children,40
+Data Not Collected,79,all_persons,2022-07-01,2022-07-31,Q14a,with_children_and_adults,35
+Data Not Collected,79,all_persons,2022-07-01,2022-07-31,Q14a,with_only_children,0
+Data Not Collected,79,all_persons,2022-07-01,2022-07-31,Q14a,unknown_household_type,4
+Yes,342,all_persons,2022-08-01,2022-08-31,Q14a,without_children,260
+Yes,342,all_persons,2022-08-01,2022-08-31,Q14a,with_children_and_adults,82
+Yes,342,all_persons,2022-08-01,2022-08-31,Q14a,with_only_children,0
+Yes,342,all_persons,2022-08-01,2022-08-31,Q14a,unknown_household_type,0
+No,1055,all_persons,2022-08-01,2022-08-31,Q14a,without_children,837
+No,1055,all_persons,2022-08-01,2022-08-31,Q14a,with_children_and_adults,211
+No,1055,all_persons,2022-08-01,2022-08-31,Q14a,with_only_children,0
+No,1055,all_persons,2022-08-01,2022-08-31,Q14a,unknown_household_type,7
+Client Doesn't Know/Client Refused,10,all_persons,2022-08-01,2022-08-31,Q14a,without_children,9
+Client Doesn't Know/Client Refused,10,all_persons,2022-08-01,2022-08-31,Q14a,with_children_and_adults,1
+Client Doesn't Know/Client Refused,10,all_persons,2022-08-01,2022-08-31,Q14a,with_only_children,0
+Client Doesn't Know/Client Refused,10,all_persons,2022-08-01,2022-08-31,Q14a,unknown_household_type,0
+Data Not Collected,82,all_persons,2022-08-01,2022-08-31,Q14a,without_children,39
+Data Not Collected,82,all_persons,2022-08-01,2022-08-31,Q14a,with_children_and_adults,38
+Data Not Collected,82,all_persons,2022-08-01,2022-08-31,Q14a,with_only_children,0
+Data Not Collected,82,all_persons,2022-08-01,2022-08-31,Q14a,unknown_household_type,5

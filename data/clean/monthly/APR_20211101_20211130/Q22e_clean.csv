@@ -1,0 +1,53 @@
+time_prior_to_housing,total,population,start_date,end_date,question,household_type,count
+7 days or less,157,all_persons,2021-11-01,2021-11-30,Q22e,without_children,103
+7 days or less,157,all_persons,2021-11-01,2021-11-30,Q22e,with_children_and_adults,54
+7 days or less,157,all_persons,2021-11-01,2021-11-30,Q22e,with_only_children,0
+7 days or less,157,all_persons,2021-11-01,2021-11-30,Q22e,unknown_household_type,0
+8 to 14 days,29,all_persons,2021-11-01,2021-11-30,Q22e,without_children,16
+8 to 14 days,29,all_persons,2021-11-01,2021-11-30,Q22e,with_children_and_adults,13
+8 to 14 days,29,all_persons,2021-11-01,2021-11-30,Q22e,with_only_children,0
+8 to 14 days,29,all_persons,2021-11-01,2021-11-30,Q22e,unknown_household_type,0
+15 to 21 days,23,all_persons,2021-11-01,2021-11-30,Q22e,without_children,15
+15 to 21 days,23,all_persons,2021-11-01,2021-11-30,Q22e,with_children_and_adults,8
+15 to 21 days,23,all_persons,2021-11-01,2021-11-30,Q22e,with_only_children,0
+15 to 21 days,23,all_persons,2021-11-01,2021-11-30,Q22e,unknown_household_type,0
+22 to 30 days,15,all_persons,2021-11-01,2021-11-30,Q22e,without_children,11
+22 to 30 days,15,all_persons,2021-11-01,2021-11-30,Q22e,with_children_and_adults,4
+22 to 30 days,15,all_persons,2021-11-01,2021-11-30,Q22e,with_only_children,0
+22 to 30 days,15,all_persons,2021-11-01,2021-11-30,Q22e,unknown_household_type,0
+31 to 60 days,27,all_persons,2021-11-01,2021-11-30,Q22e,without_children,22
+31 to 60 days,27,all_persons,2021-11-01,2021-11-30,Q22e,with_children_and_adults,5
+31 to 60 days,27,all_persons,2021-11-01,2021-11-30,Q22e,with_only_children,0
+31 to 60 days,27,all_persons,2021-11-01,2021-11-30,Q22e,unknown_household_type,0
+61 to 180 days,104,all_persons,2021-11-01,2021-11-30,Q22e,without_children,70
+61 to 180 days,104,all_persons,2021-11-01,2021-11-30,Q22e,with_children_and_adults,34
+61 to 180 days,104,all_persons,2021-11-01,2021-11-30,Q22e,with_only_children,0
+61 to 180 days,104,all_persons,2021-11-01,2021-11-30,Q22e,unknown_household_type,0
+181 to 365 days,52,all_persons,2021-11-01,2021-11-30,Q22e,without_children,43
+181 to 365 days,52,all_persons,2021-11-01,2021-11-30,Q22e,with_children_and_adults,9
+181 to 365 days,52,all_persons,2021-11-01,2021-11-30,Q22e,with_only_children,0
+181 to 365 days,52,all_persons,2021-11-01,2021-11-30,Q22e,unknown_household_type,0
+366-730 days (1-2 years),51,all_persons,2021-11-01,2021-11-30,Q22e,without_children,51
+366-730 days (1-2 years),51,all_persons,2021-11-01,2021-11-30,Q22e,with_children_and_adults,0
+366-730 days (1-2 years),51,all_persons,2021-11-01,2021-11-30,Q22e,with_only_children,0
+366-730 days (1-2 years),51,all_persons,2021-11-01,2021-11-30,Q22e,unknown_household_type,0
+731 days or more,103,all_persons,2021-11-01,2021-11-30,Q22e,without_children,88
+731 days or more,103,all_persons,2021-11-01,2021-11-30,Q22e,with_children_and_adults,15
+731 days or more,103,all_persons,2021-11-01,2021-11-30,Q22e,with_only_children,0
+731 days or more,103,all_persons,2021-11-01,2021-11-30,Q22e,unknown_household_type,0
+Total (persons moved into housing),561,all_persons,2021-11-01,2021-11-30,Q22e,without_children,419
+Total (persons moved into housing),561,all_persons,2021-11-01,2021-11-30,Q22e,with_children_and_adults,142
+Total (persons moved into housing),561,all_persons,2021-11-01,2021-11-30,Q22e,with_only_children,0
+Total (persons moved into housing),561,all_persons,2021-11-01,2021-11-30,Q22e,unknown_household_type,0
+Not yet moved into housing,32,all_persons,2021-11-01,2021-11-30,Q22e,without_children,20
+Not yet moved into housing,32,all_persons,2021-11-01,2021-11-30,Q22e,with_children_and_adults,12
+Not yet moved into housing,32,all_persons,2021-11-01,2021-11-30,Q22e,with_only_children,0
+Not yet moved into housing,32,all_persons,2021-11-01,2021-11-30,Q22e,unknown_household_type,0
+Data not collected,47,all_persons,2021-11-01,2021-11-30,Q22e,without_children,30
+Data not collected,47,all_persons,2021-11-01,2021-11-30,Q22e,with_children_and_adults,16
+Data not collected,47,all_persons,2021-11-01,2021-11-30,Q22e,with_only_children,1
+Data not collected,47,all_persons,2021-11-01,2021-11-30,Q22e,unknown_household_type,0
+Total persons,640,all_persons,2021-11-01,2021-11-30,Q22e,without_children,469
+Total persons,640,all_persons,2021-11-01,2021-11-30,Q22e,with_children_and_adults,170
+Total persons,640,all_persons,2021-11-01,2021-11-30,Q22e,with_only_children,1
+Total persons,640,all_persons,2021-11-01,2021-11-30,Q22e,unknown_household_type,0

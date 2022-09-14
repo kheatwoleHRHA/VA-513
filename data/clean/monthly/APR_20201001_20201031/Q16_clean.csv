@@ -1,0 +1,40 @@
+income_range,population,start_date,end_date,question,status,count
+No Income,adults,2020-10-01,2020-10-31,Q16,income_at_start,347
+No Income,adults,2020-10-01,2020-10-31,Q16,income_at_latest_annual_assessment_for_stayers,11
+No Income,adults,2020-10-01,2020-10-31,Q16,income_at_exit_for_leavers,61
+$1 -  $150,adults,2020-10-01,2020-10-31,Q16,income_at_start,2
+$1 -  $150,adults,2020-10-01,2020-10-31,Q16,income_at_latest_annual_assessment_for_stayers,0
+$1 -  $150,adults,2020-10-01,2020-10-31,Q16,income_at_exit_for_leavers,1
+$151 - $250,adults,2020-10-01,2020-10-31,Q16,income_at_start,8
+$151 - $250,adults,2020-10-01,2020-10-31,Q16,income_at_latest_annual_assessment_for_stayers,0
+$151 - $250,adults,2020-10-01,2020-10-31,Q16,income_at_exit_for_leavers,2
+$251 - $500,adults,2020-10-01,2020-10-31,Q16,income_at_start,19
+$251 - $500,adults,2020-10-01,2020-10-31,Q16,income_at_latest_annual_assessment_for_stayers,2
+$251 - $500,adults,2020-10-01,2020-10-31,Q16,income_at_exit_for_leavers,2
+$501 - $1000,adults,2020-10-01,2020-10-31,Q16,income_at_start,141
+$501 - $1000,adults,2020-10-01,2020-10-31,Q16,income_at_latest_annual_assessment_for_stayers,19
+$501 - $1000,adults,2020-10-01,2020-10-31,Q16,income_at_exit_for_leavers,31
+$1001 - $1500,adults,2020-10-01,2020-10-31,Q16,income_at_start,76
+$1001 - $1500,adults,2020-10-01,2020-10-31,Q16,income_at_latest_annual_assessment_for_stayers,13
+$1001 - $1500,adults,2020-10-01,2020-10-31,Q16,income_at_exit_for_leavers,10
+$1501 - $2000,adults,2020-10-01,2020-10-31,Q16,income_at_start,63
+$1501 - $2000,adults,2020-10-01,2020-10-31,Q16,income_at_latest_annual_assessment_for_stayers,6
+$1501 - $2000,adults,2020-10-01,2020-10-31,Q16,income_at_exit_for_leavers,7
+$2001+,adults,2020-10-01,2020-10-31,Q16,income_at_start,60
+$2001+,adults,2020-10-01,2020-10-31,Q16,income_at_latest_annual_assessment_for_stayers,4
+$2001+,adults,2020-10-01,2020-10-31,Q16,income_at_exit_for_leavers,10
+Client Doesn't Know/Client Refused,adults,2020-10-01,2020-10-31,Q16,income_at_start,1
+Client Doesn't Know/Client Refused,adults,2020-10-01,2020-10-31,Q16,income_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,adults,2020-10-01,2020-10-31,Q16,income_at_exit_for_leavers,0
+Data Not Collected,adults,2020-10-01,2020-10-31,Q16,income_at_start,151
+Data Not Collected,adults,2020-10-01,2020-10-31,Q16,income_at_latest_annual_assessment_for_stayers,6
+Data Not Collected,adults,2020-10-01,2020-10-31,Q16,income_at_exit_for_leavers,65
+Number of Adult Stayers not yet Required to Have an Annual Assessment,adults,2020-10-01,2020-10-31,Q16,income_at_start,0
+Number of Adult Stayers not yet Required to Have an Annual Assessment,adults,2020-10-01,2020-10-31,Q16,income_at_latest_annual_assessment_for_stayers,384
+Number of Adult Stayers not yet Required to Have an Annual Assessment,adults,2020-10-01,2020-10-31,Q16,income_at_exit_for_leavers,0
+Number of Adult Stayers without Required Annual Assessment,adults,2020-10-01,2020-10-31,Q16,income_at_start,0
+Number of Adult Stayers without Required Annual Assessment,adults,2020-10-01,2020-10-31,Q16,income_at_latest_annual_assessment_for_stayers,234
+Number of Adult Stayers without Required Annual Assessment,adults,2020-10-01,2020-10-31,Q16,income_at_exit_for_leavers,0
+Total Adults,adults,2020-10-01,2020-10-31,Q16,income_at_start,868
+Total Adults,adults,2020-10-01,2020-10-31,Q16,income_at_latest_annual_assessment_for_stayers,679
+Total Adults,adults,2020-10-01,2020-10-31,Q16,income_at_exit_for_leavers,189

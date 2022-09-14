@@ -1,0 +1,109 @@
+living_situation,total,population,start_date,end_date,question,category,household_type,count
+"Emergency shelter, including hotel or motel paid for with emergency shelter voucher",101,all_persons,2018-04-01,2018-04-30,Q15,Homeless Situations,without_children,76
+"Emergency shelter, including hotel or motel paid for with emergency shelter voucher",101,all_persons,2018-04-01,2018-04-30,Q15,Homeless Situations,with_children_and_adults,25
+"Emergency shelter, including hotel or motel paid for with emergency shelter voucher",101,all_persons,2018-04-01,2018-04-30,Q15,Homeless Situations,with_only_children,0
+"Emergency shelter, including hotel or motel paid for with emergency shelter voucher",101,all_persons,2018-04-01,2018-04-30,Q15,Homeless Situations,unknown_household_type,0
+Transitional housing for homeless persons (including homeless youth),1,all_persons,2018-04-01,2018-04-30,Q15,NA,without_children,1
+Transitional housing for homeless persons (including homeless youth),1,all_persons,2018-04-01,2018-04-30,Q15,NA,with_children_and_adults,0
+Transitional housing for homeless persons (including homeless youth),1,all_persons,2018-04-01,2018-04-30,Q15,NA,with_only_children,0
+Transitional housing for homeless persons (including homeless youth),1,all_persons,2018-04-01,2018-04-30,Q15,NA,unknown_household_type,0
+Place not meant for human habitation,73,all_persons,2018-04-01,2018-04-30,Q15,NA,without_children,60
+Place not meant for human habitation,73,all_persons,2018-04-01,2018-04-30,Q15,NA,with_children_and_adults,13
+Place not meant for human habitation,73,all_persons,2018-04-01,2018-04-30,Q15,NA,with_only_children,0
+Place not meant for human habitation,73,all_persons,2018-04-01,2018-04-30,Q15,NA,unknown_household_type,0
+Safe Haven,0,all_persons,2018-04-01,2018-04-30,Q15,NA,without_children,0
+Safe Haven,0,all_persons,2018-04-01,2018-04-30,Q15,NA,with_children_and_adults,0
+Safe Haven,0,all_persons,2018-04-01,2018-04-30,Q15,NA,with_only_children,0
+Safe Haven,0,all_persons,2018-04-01,2018-04-30,Q15,NA,unknown_household_type,0
+Host Home,0,all_persons,2018-04-01,2018-04-30,Q15,NA,without_children,0
+Host Home,0,all_persons,2018-04-01,2018-04-30,Q15,NA,with_children_and_adults,0
+Host Home,0,all_persons,2018-04-01,2018-04-30,Q15,NA,with_only_children,0
+Host Home,0,all_persons,2018-04-01,2018-04-30,Q15,NA,unknown_household_type,0
+Psychiatric hospital or other psychiatric facility,0,all_persons,2018-04-01,2018-04-30,Q15,Institutional Settings,without_children,0
+Psychiatric hospital or other psychiatric facility,0,all_persons,2018-04-01,2018-04-30,Q15,Institutional Settings,with_children_and_adults,0
+Psychiatric hospital or other psychiatric facility,0,all_persons,2018-04-01,2018-04-30,Q15,Institutional Settings,with_only_children,0
+Psychiatric hospital or other psychiatric facility,0,all_persons,2018-04-01,2018-04-30,Q15,Institutional Settings,unknown_household_type,0
+Substance abuse treatment facility or detox center,2,all_persons,2018-04-01,2018-04-30,Q15,NA,without_children,2
+Substance abuse treatment facility or detox center,2,all_persons,2018-04-01,2018-04-30,Q15,NA,with_children_and_adults,0
+Substance abuse treatment facility or detox center,2,all_persons,2018-04-01,2018-04-30,Q15,NA,with_only_children,0
+Substance abuse treatment facility or detox center,2,all_persons,2018-04-01,2018-04-30,Q15,NA,unknown_household_type,0
+Hospital or other residential non-psychiatric medical facility,4,all_persons,2018-04-01,2018-04-30,Q15,NA,without_children,4
+Hospital or other residential non-psychiatric medical facility,4,all_persons,2018-04-01,2018-04-30,Q15,NA,with_children_and_adults,0
+Hospital or other residential non-psychiatric medical facility,4,all_persons,2018-04-01,2018-04-30,Q15,NA,with_only_children,0
+Hospital or other residential non-psychiatric medical facility,4,all_persons,2018-04-01,2018-04-30,Q15,NA,unknown_household_type,0
+"Jail, prison or juvenile detention facility",8,all_persons,2018-04-01,2018-04-30,Q15,NA,without_children,8
+"Jail, prison or juvenile detention facility",8,all_persons,2018-04-01,2018-04-30,Q15,NA,with_children_and_adults,0
+"Jail, prison or juvenile detention facility",8,all_persons,2018-04-01,2018-04-30,Q15,NA,with_only_children,0
+"Jail, prison or juvenile detention facility",8,all_persons,2018-04-01,2018-04-30,Q15,NA,unknown_household_type,0
+Foster care home or foster care group home,0,all_persons,2018-04-01,2018-04-30,Q15,NA,without_children,0
+Foster care home or foster care group home,0,all_persons,2018-04-01,2018-04-30,Q15,NA,with_children_and_adults,0
+Foster care home or foster care group home,0,all_persons,2018-04-01,2018-04-30,Q15,NA,with_only_children,0
+Foster care home or foster care group home,0,all_persons,2018-04-01,2018-04-30,Q15,NA,unknown_household_type,0
+Long-term care facility or nursing home,1,all_persons,2018-04-01,2018-04-30,Q15,NA,without_children,1
+Long-term care facility or nursing home,1,all_persons,2018-04-01,2018-04-30,Q15,NA,with_children_and_adults,0
+Long-term care facility or nursing home,1,all_persons,2018-04-01,2018-04-30,Q15,NA,with_only_children,0
+Long-term care facility or nursing home,1,all_persons,2018-04-01,2018-04-30,Q15,NA,unknown_household_type,0
+Residential project or halfway house with no homeless criteria,1,all_persons,2018-04-01,2018-04-30,Q15,NA,without_children,1
+Residential project or halfway house with no homeless criteria,1,all_persons,2018-04-01,2018-04-30,Q15,NA,with_children_and_adults,0
+Residential project or halfway house with no homeless criteria,1,all_persons,2018-04-01,2018-04-30,Q15,NA,with_only_children,0
+Residential project or halfway house with no homeless criteria,1,all_persons,2018-04-01,2018-04-30,Q15,NA,unknown_household_type,0
+Permanent housing (other than RRH) for formerly homeless persons,1,all_persons,2018-04-01,2018-04-30,Q15,Other Locations,without_children,1
+Permanent housing (other than RRH) for formerly homeless persons,1,all_persons,2018-04-01,2018-04-30,Q15,Other Locations,with_children_and_adults,0
+Permanent housing (other than RRH) for formerly homeless persons,1,all_persons,2018-04-01,2018-04-30,Q15,Other Locations,with_only_children,0
+Permanent housing (other than RRH) for formerly homeless persons,1,all_persons,2018-04-01,2018-04-30,Q15,Other Locations,unknown_household_type,0
+"Owned by client, no ongoing housing subsidy",4,all_persons,2018-04-01,2018-04-30,Q15,NA,without_children,4
+"Owned by client, no ongoing housing subsidy",4,all_persons,2018-04-01,2018-04-30,Q15,NA,with_children_and_adults,0
+"Owned by client, no ongoing housing subsidy",4,all_persons,2018-04-01,2018-04-30,Q15,NA,with_only_children,0
+"Owned by client, no ongoing housing subsidy",4,all_persons,2018-04-01,2018-04-30,Q15,NA,unknown_household_type,0
+"Owned by client, with ongoing housing subsidy",0,all_persons,2018-04-01,2018-04-30,Q15,NA,without_children,0
+"Owned by client, with ongoing housing subsidy",0,all_persons,2018-04-01,2018-04-30,Q15,NA,with_children_and_adults,0
+"Owned by client, with ongoing housing subsidy",0,all_persons,2018-04-01,2018-04-30,Q15,NA,with_only_children,0
+"Owned by client, with ongoing housing subsidy",0,all_persons,2018-04-01,2018-04-30,Q15,NA,unknown_household_type,0
+"Rental by client, with RRH or equivalent subsidy",0,all_persons,2018-04-01,2018-04-30,Q15,NA,without_children,0
+"Rental by client, with RRH or equivalent subsidy",0,all_persons,2018-04-01,2018-04-30,Q15,NA,with_children_and_adults,0
+"Rental by client, with RRH or equivalent subsidy",0,all_persons,2018-04-01,2018-04-30,Q15,NA,with_only_children,0
+"Rental by client, with RRH or equivalent subsidy",0,all_persons,2018-04-01,2018-04-30,Q15,NA,unknown_household_type,0
+"Rental by client, with HCV voucher (tenant or project based)",0,all_persons,2018-04-01,2018-04-30,Q15,NA,without_children,0
+"Rental by client, with HCV voucher (tenant or project based)",0,all_persons,2018-04-01,2018-04-30,Q15,NA,with_children_and_adults,0
+"Rental by client, with HCV voucher (tenant or project based)",0,all_persons,2018-04-01,2018-04-30,Q15,NA,with_only_children,0
+"Rental by client, with HCV voucher (tenant or project based)",0,all_persons,2018-04-01,2018-04-30,Q15,NA,unknown_household_type,0
+Rental by client in a public housing unit,0,all_persons,2018-04-01,2018-04-30,Q15,NA,without_children,0
+Rental by client in a public housing unit,0,all_persons,2018-04-01,2018-04-30,Q15,NA,with_children_and_adults,0
+Rental by client in a public housing unit,0,all_persons,2018-04-01,2018-04-30,Q15,NA,with_only_children,0
+Rental by client in a public housing unit,0,all_persons,2018-04-01,2018-04-30,Q15,NA,unknown_household_type,0
+"Rental by client, no ongoing housing subsidy",93,all_persons,2018-04-01,2018-04-30,Q15,NA,without_children,77
+"Rental by client, no ongoing housing subsidy",93,all_persons,2018-04-01,2018-04-30,Q15,NA,with_children_and_adults,16
+"Rental by client, no ongoing housing subsidy",93,all_persons,2018-04-01,2018-04-30,Q15,NA,with_only_children,0
+"Rental by client, no ongoing housing subsidy",93,all_persons,2018-04-01,2018-04-30,Q15,NA,unknown_household_type,0
+"Rental by client, with VASH housing subsidy",0,all_persons,2018-04-01,2018-04-30,Q15,NA,without_children,0
+"Rental by client, with VASH housing subsidy",0,all_persons,2018-04-01,2018-04-30,Q15,NA,with_children_and_adults,0
+"Rental by client, with VASH housing subsidy",0,all_persons,2018-04-01,2018-04-30,Q15,NA,with_only_children,0
+"Rental by client, with VASH housing subsidy",0,all_persons,2018-04-01,2018-04-30,Q15,NA,unknown_household_type,0
+"Rental by client, with GPD TIP housing subsidy",0,all_persons,2018-04-01,2018-04-30,Q15,NA,without_children,0
+"Rental by client, with GPD TIP housing subsidy",0,all_persons,2018-04-01,2018-04-30,Q15,NA,with_children_and_adults,0
+"Rental by client, with GPD TIP housing subsidy",0,all_persons,2018-04-01,2018-04-30,Q15,NA,with_only_children,0
+"Rental by client, with GPD TIP housing subsidy",0,all_persons,2018-04-01,2018-04-30,Q15,NA,unknown_household_type,0
+"Rental by client, with other housing subsidy (including RRH)",3,all_persons,2018-04-01,2018-04-30,Q15,NA,without_children,3
+"Rental by client, with other housing subsidy (including RRH)",3,all_persons,2018-04-01,2018-04-30,Q15,NA,with_children_and_adults,0
+"Rental by client, with other housing subsidy (including RRH)",3,all_persons,2018-04-01,2018-04-30,Q15,NA,with_only_children,0
+"Rental by client, with other housing subsidy (including RRH)",3,all_persons,2018-04-01,2018-04-30,Q15,NA,unknown_household_type,0
+Hotel or motel paid for without emergency shelter voucher,26,all_persons,2018-04-01,2018-04-30,Q15,NA,without_children,16
+Hotel or motel paid for without emergency shelter voucher,26,all_persons,2018-04-01,2018-04-30,Q15,NA,with_children_and_adults,10
+Hotel or motel paid for without emergency shelter voucher,26,all_persons,2018-04-01,2018-04-30,Q15,NA,with_only_children,0
+Hotel or motel paid for without emergency shelter voucher,26,all_persons,2018-04-01,2018-04-30,Q15,NA,unknown_household_type,0
+"Staying or living in a friend''s room, apartment or house",36,all_persons,2018-04-01,2018-04-30,Q15,NA,without_children,28
+"Staying or living in a friend''s room, apartment or house",36,all_persons,2018-04-01,2018-04-30,Q15,NA,with_children_and_adults,8
+"Staying or living in a friend''s room, apartment or house",36,all_persons,2018-04-01,2018-04-30,Q15,NA,with_only_children,0
+"Staying or living in a friend''s room, apartment or house",36,all_persons,2018-04-01,2018-04-30,Q15,NA,unknown_household_type,0
+"Staying or living in a family member''s room, apartment or house",39,all_persons,2018-04-01,2018-04-30,Q15,NA,without_children,24
+"Staying or living in a family member''s room, apartment or house",39,all_persons,2018-04-01,2018-04-30,Q15,NA,with_children_and_adults,14
+"Staying or living in a family member''s room, apartment or house",39,all_persons,2018-04-01,2018-04-30,Q15,NA,with_only_children,1
+"Staying or living in a family member''s room, apartment or house",39,all_persons,2018-04-01,2018-04-30,Q15,NA,unknown_household_type,0
+Client Doesn''t Know/Client Refused,1,all_persons,2018-04-01,2018-04-30,Q15,NA,without_children,1
+Client Doesn''t Know/Client Refused,1,all_persons,2018-04-01,2018-04-30,Q15,NA,with_children_and_adults,0
+Client Doesn''t Know/Client Refused,1,all_persons,2018-04-01,2018-04-30,Q15,NA,with_only_children,0
+Client Doesn''t Know/Client Refused,1,all_persons,2018-04-01,2018-04-30,Q15,NA,unknown_household_type,0
+Data not collected,10,all_persons,2018-04-01,2018-04-30,Q15,NA,without_children,8
+Data not collected,10,all_persons,2018-04-01,2018-04-30,Q15,NA,with_children_and_adults,1
+Data not collected,10,all_persons,2018-04-01,2018-04-30,Q15,NA,with_only_children,0
+Data not collected,10,all_persons,2018-04-01,2018-04-30,Q15,NA,unknown_household_type,1

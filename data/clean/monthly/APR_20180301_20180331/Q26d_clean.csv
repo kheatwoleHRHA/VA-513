@@ -1,0 +1,37 @@
+age_group,total,population,start_date,end_date,question,household_type,count
+0 - 17,9,chronically_homeless,2018-03-01,2018-03-31,Q26d,without_children,0
+0 - 17,9,chronically_homeless,2018-03-01,2018-03-31,Q26d,with_children_and_adults,8
+0 - 17,9,chronically_homeless,2018-03-01,2018-03-31,Q26d,with_only_children,1
+0 - 17,9,chronically_homeless,2018-03-01,2018-03-31,Q26d,unknown_household_type,0
+18 - 24,1,chronically_homeless,2018-03-01,2018-03-31,Q26d,without_children,1
+18 - 24,1,chronically_homeless,2018-03-01,2018-03-31,Q26d,with_children_and_adults,0
+18 - 24,1,chronically_homeless,2018-03-01,2018-03-31,Q26d,with_only_children,0
+18 - 24,1,chronically_homeless,2018-03-01,2018-03-31,Q26d,unknown_household_type,0
+25 - 34,11,chronically_homeless,2018-03-01,2018-03-31,Q26d,without_children,8
+25 - 34,11,chronically_homeless,2018-03-01,2018-03-31,Q26d,with_children_and_adults,3
+25 - 34,11,chronically_homeless,2018-03-01,2018-03-31,Q26d,with_only_children,0
+25 - 34,11,chronically_homeless,2018-03-01,2018-03-31,Q26d,unknown_household_type,0
+35 - 44,10,chronically_homeless,2018-03-01,2018-03-31,Q26d,without_children,9
+35 - 44,10,chronically_homeless,2018-03-01,2018-03-31,Q26d,with_children_and_adults,1
+35 - 44,10,chronically_homeless,2018-03-01,2018-03-31,Q26d,with_only_children,0
+35 - 44,10,chronically_homeless,2018-03-01,2018-03-31,Q26d,unknown_household_type,0
+45 - 54,17,chronically_homeless,2018-03-01,2018-03-31,Q26d,without_children,16
+45 - 54,17,chronically_homeless,2018-03-01,2018-03-31,Q26d,with_children_and_adults,1
+45 - 54,17,chronically_homeless,2018-03-01,2018-03-31,Q26d,with_only_children,0
+45 - 54,17,chronically_homeless,2018-03-01,2018-03-31,Q26d,unknown_household_type,0
+55 - 61,25,chronically_homeless,2018-03-01,2018-03-31,Q26d,without_children,24
+55 - 61,25,chronically_homeless,2018-03-01,2018-03-31,Q26d,with_children_and_adults,1
+55 - 61,25,chronically_homeless,2018-03-01,2018-03-31,Q26d,with_only_children,0
+55 - 61,25,chronically_homeless,2018-03-01,2018-03-31,Q26d,unknown_household_type,0
+62 +,9,chronically_homeless,2018-03-01,2018-03-31,Q26d,without_children,9
+62 +,9,chronically_homeless,2018-03-01,2018-03-31,Q26d,with_children_and_adults,0
+62 +,9,chronically_homeless,2018-03-01,2018-03-31,Q26d,with_only_children,0
+62 +,9,chronically_homeless,2018-03-01,2018-03-31,Q26d,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,chronically_homeless,2018-03-01,2018-03-31,Q26d,without_children,0
+Client Doesn't Know/Client Refused,0,chronically_homeless,2018-03-01,2018-03-31,Q26d,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,chronically_homeless,2018-03-01,2018-03-31,Q26d,with_only_children,0
+Client Doesn't Know/Client Refused,0,chronically_homeless,2018-03-01,2018-03-31,Q26d,unknown_household_type,0
+Data Not Collected,0,chronically_homeless,2018-03-01,2018-03-31,Q26d,without_children,0
+Data Not Collected,0,chronically_homeless,2018-03-01,2018-03-31,Q26d,with_children_and_adults,0
+Data Not Collected,0,chronically_homeless,2018-03-01,2018-03-31,Q26d,with_only_children,0
+Data Not Collected,0,chronically_homeless,2018-03-01,2018-03-31,Q26d,unknown_household_type,0

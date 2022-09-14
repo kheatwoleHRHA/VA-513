@@ -1,0 +1,22 @@
+gender_identity,total,population,start_date,end_date,question,household_type,count
+Male,19,veterans,2016-05-01,2016-05-31,Q25c,without_children,18
+Male,19,veterans,2016-05-01,2016-05-31,Q25c,with_children_and_adults,1
+Male,19,veterans,2016-05-01,2016-05-31,Q25c,unknown_household_type,0
+Female,1,veterans,2016-05-01,2016-05-31,Q25c,without_children,0
+Female,1,veterans,2016-05-01,2016-05-31,Q25c,with_children_and_adults,1
+Female,1,veterans,2016-05-01,2016-05-31,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2016-05-01,2016-05-31,Q25c,without_children,0
+No Single Gender,0,veterans,2016-05-01,2016-05-31,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2016-05-01,2016-05-31,Q25c,unknown_household_type,0
+Questioning,0,veterans,2016-05-01,2016-05-31,Q25c,without_children,0
+Questioning,0,veterans,2016-05-01,2016-05-31,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2016-05-01,2016-05-31,Q25c,unknown_household_type,0
+Transgender,0,veterans,2016-05-01,2016-05-31,Q25c,without_children,0
+Transgender,0,veterans,2016-05-01,2016-05-31,Q25c,with_children_and_adults,0
+Transgender,0,veterans,2016-05-01,2016-05-31,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2016-05-01,2016-05-31,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2016-05-01,2016-05-31,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2016-05-01,2016-05-31,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2016-05-01,2016-05-31,Q25c,without_children,0
+Data Not Collected,0,veterans,2016-05-01,2016-05-31,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2016-05-01,2016-05-31,Q25c,unknown_household_type,0

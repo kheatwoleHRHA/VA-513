@@ -1,0 +1,1975 @@
+gender_identity,total,population,start_date,end_date,question,household_type,count
+Male,15,veterans,2014-11-01,2014-11-30,Q25c,without_children,15
+Male,15,veterans,2014-11-01,2014-11-30,Q25c,with_children_and_adults,0
+Male,15,veterans,2014-11-01,2014-11-30,Q25c,unknown_household_type,0
+Female,2,veterans,2014-11-01,2014-11-30,Q25c,without_children,1
+Female,2,veterans,2014-11-01,2014-11-30,Q25c,with_children_and_adults,1
+Female,2,veterans,2014-11-01,2014-11-30,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2014-11-01,2014-11-30,Q25c,without_children,0
+No Single Gender,0,veterans,2014-11-01,2014-11-30,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2014-11-01,2014-11-30,Q25c,unknown_household_type,0
+Questioning,0,veterans,2014-11-01,2014-11-30,Q25c,without_children,0
+Questioning,0,veterans,2014-11-01,2014-11-30,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2014-11-01,2014-11-30,Q25c,unknown_household_type,0
+Transgender,0,veterans,2014-11-01,2014-11-30,Q25c,without_children,0
+Transgender,0,veterans,2014-11-01,2014-11-30,Q25c,with_children_and_adults,0
+Transgender,0,veterans,2014-11-01,2014-11-30,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2014-11-01,2014-11-30,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2014-11-01,2014-11-30,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2014-11-01,2014-11-30,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2014-11-01,2014-11-30,Q25c,without_children,0
+Data Not Collected,0,veterans,2014-11-01,2014-11-30,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2014-11-01,2014-11-30,Q25c,unknown_household_type,0
+Male,18,veterans,2014-12-01,2014-12-31,Q25c,without_children,18
+Male,18,veterans,2014-12-01,2014-12-31,Q25c,with_children_and_adults,0
+Male,18,veterans,2014-12-01,2014-12-31,Q25c,unknown_household_type,0
+Female,1,veterans,2014-12-01,2014-12-31,Q25c,without_children,0
+Female,1,veterans,2014-12-01,2014-12-31,Q25c,with_children_and_adults,1
+Female,1,veterans,2014-12-01,2014-12-31,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2014-12-01,2014-12-31,Q25c,without_children,0
+No Single Gender,0,veterans,2014-12-01,2014-12-31,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2014-12-01,2014-12-31,Q25c,unknown_household_type,0
+Questioning,0,veterans,2014-12-01,2014-12-31,Q25c,without_children,0
+Questioning,0,veterans,2014-12-01,2014-12-31,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2014-12-01,2014-12-31,Q25c,unknown_household_type,0
+Transgender,0,veterans,2014-12-01,2014-12-31,Q25c,without_children,0
+Transgender,0,veterans,2014-12-01,2014-12-31,Q25c,with_children_and_adults,0
+Transgender,0,veterans,2014-12-01,2014-12-31,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2014-12-01,2014-12-31,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2014-12-01,2014-12-31,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2014-12-01,2014-12-31,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2014-12-01,2014-12-31,Q25c,without_children,0
+Data Not Collected,0,veterans,2014-12-01,2014-12-31,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2014-12-01,2014-12-31,Q25c,unknown_household_type,0
+Male,17,veterans,2015-01-01,2015-01-31,Q25c,without_children,16
+Male,17,veterans,2015-01-01,2015-01-31,Q25c,with_children_and_adults,1
+Male,17,veterans,2015-01-01,2015-01-31,Q25c,unknown_household_type,0
+Female,2,veterans,2015-01-01,2015-01-31,Q25c,without_children,1
+Female,2,veterans,2015-01-01,2015-01-31,Q25c,with_children_and_adults,1
+Female,2,veterans,2015-01-01,2015-01-31,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2015-01-01,2015-01-31,Q25c,without_children,0
+No Single Gender,0,veterans,2015-01-01,2015-01-31,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2015-01-01,2015-01-31,Q25c,unknown_household_type,0
+Questioning,0,veterans,2015-01-01,2015-01-31,Q25c,without_children,0
+Questioning,0,veterans,2015-01-01,2015-01-31,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2015-01-01,2015-01-31,Q25c,unknown_household_type,0
+Transgender,0,veterans,2015-01-01,2015-01-31,Q25c,without_children,0
+Transgender,0,veterans,2015-01-01,2015-01-31,Q25c,with_children_and_adults,0
+Transgender,0,veterans,2015-01-01,2015-01-31,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2015-01-01,2015-01-31,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2015-01-01,2015-01-31,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2015-01-01,2015-01-31,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2015-01-01,2015-01-31,Q25c,without_children,0
+Data Not Collected,0,veterans,2015-01-01,2015-01-31,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2015-01-01,2015-01-31,Q25c,unknown_household_type,0
+Male,15,veterans,2015-02-01,2015-02-28,Q25c,without_children,15
+Male,15,veterans,2015-02-01,2015-02-28,Q25c,with_children_and_adults,0
+Male,15,veterans,2015-02-01,2015-02-28,Q25c,unknown_household_type,0
+Female,1,veterans,2015-02-01,2015-02-28,Q25c,without_children,1
+Female,1,veterans,2015-02-01,2015-02-28,Q25c,with_children_and_adults,0
+Female,1,veterans,2015-02-01,2015-02-28,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2015-02-01,2015-02-28,Q25c,without_children,0
+No Single Gender,0,veterans,2015-02-01,2015-02-28,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2015-02-01,2015-02-28,Q25c,unknown_household_type,0
+Questioning,0,veterans,2015-02-01,2015-02-28,Q25c,without_children,0
+Questioning,0,veterans,2015-02-01,2015-02-28,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2015-02-01,2015-02-28,Q25c,unknown_household_type,0
+Transgender,0,veterans,2015-02-01,2015-02-28,Q25c,without_children,0
+Transgender,0,veterans,2015-02-01,2015-02-28,Q25c,with_children_and_adults,0
+Transgender,0,veterans,2015-02-01,2015-02-28,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2015-02-01,2015-02-28,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2015-02-01,2015-02-28,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2015-02-01,2015-02-28,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2015-02-01,2015-02-28,Q25c,without_children,0
+Data Not Collected,0,veterans,2015-02-01,2015-02-28,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2015-02-01,2015-02-28,Q25c,unknown_household_type,0
+Male,22,veterans,2015-03-01,2015-03-31,Q25c,without_children,22
+Male,22,veterans,2015-03-01,2015-03-31,Q25c,with_children_and_adults,0
+Male,22,veterans,2015-03-01,2015-03-31,Q25c,unknown_household_type,0
+Female,0,veterans,2015-03-01,2015-03-31,Q25c,without_children,0
+Female,0,veterans,2015-03-01,2015-03-31,Q25c,with_children_and_adults,0
+Female,0,veterans,2015-03-01,2015-03-31,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2015-03-01,2015-03-31,Q25c,without_children,0
+No Single Gender,0,veterans,2015-03-01,2015-03-31,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2015-03-01,2015-03-31,Q25c,unknown_household_type,0
+Questioning,0,veterans,2015-03-01,2015-03-31,Q25c,without_children,0
+Questioning,0,veterans,2015-03-01,2015-03-31,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2015-03-01,2015-03-31,Q25c,unknown_household_type,0
+Transgender,0,veterans,2015-03-01,2015-03-31,Q25c,without_children,0
+Transgender,0,veterans,2015-03-01,2015-03-31,Q25c,with_children_and_adults,0
+Transgender,0,veterans,2015-03-01,2015-03-31,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2015-03-01,2015-03-31,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2015-03-01,2015-03-31,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2015-03-01,2015-03-31,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2015-03-01,2015-03-31,Q25c,without_children,0
+Data Not Collected,0,veterans,2015-03-01,2015-03-31,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2015-03-01,2015-03-31,Q25c,unknown_household_type,0
+Male,17,veterans,2015-04-01,2015-04-30,Q25c,without_children,17
+Male,17,veterans,2015-04-01,2015-04-30,Q25c,with_children_and_adults,0
+Male,17,veterans,2015-04-01,2015-04-30,Q25c,unknown_household_type,0
+Female,4,veterans,2015-04-01,2015-04-30,Q25c,without_children,3
+Female,4,veterans,2015-04-01,2015-04-30,Q25c,with_children_and_adults,1
+Female,4,veterans,2015-04-01,2015-04-30,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2015-04-01,2015-04-30,Q25c,without_children,0
+No Single Gender,0,veterans,2015-04-01,2015-04-30,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2015-04-01,2015-04-30,Q25c,unknown_household_type,0
+Questioning,0,veterans,2015-04-01,2015-04-30,Q25c,without_children,0
+Questioning,0,veterans,2015-04-01,2015-04-30,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2015-04-01,2015-04-30,Q25c,unknown_household_type,0
+Transgender,0,veterans,2015-04-01,2015-04-30,Q25c,without_children,0
+Transgender,0,veterans,2015-04-01,2015-04-30,Q25c,with_children_and_adults,0
+Transgender,0,veterans,2015-04-01,2015-04-30,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2015-04-01,2015-04-30,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2015-04-01,2015-04-30,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2015-04-01,2015-04-30,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2015-04-01,2015-04-30,Q25c,without_children,0
+Data Not Collected,0,veterans,2015-04-01,2015-04-30,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2015-04-01,2015-04-30,Q25c,unknown_household_type,0
+Male,5,veterans,2015-05-01,2015-05-31,Q25c,without_children,5
+Male,5,veterans,2015-05-01,2015-05-31,Q25c,with_children_and_adults,0
+Male,5,veterans,2015-05-01,2015-05-31,Q25c,unknown_household_type,0
+Female,1,veterans,2015-05-01,2015-05-31,Q25c,without_children,1
+Female,1,veterans,2015-05-01,2015-05-31,Q25c,with_children_and_adults,0
+Female,1,veterans,2015-05-01,2015-05-31,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2015-05-01,2015-05-31,Q25c,without_children,0
+No Single Gender,0,veterans,2015-05-01,2015-05-31,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2015-05-01,2015-05-31,Q25c,unknown_household_type,0
+Questioning,0,veterans,2015-05-01,2015-05-31,Q25c,without_children,0
+Questioning,0,veterans,2015-05-01,2015-05-31,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2015-05-01,2015-05-31,Q25c,unknown_household_type,0
+Transgender,0,veterans,2015-05-01,2015-05-31,Q25c,without_children,0
+Transgender,0,veterans,2015-05-01,2015-05-31,Q25c,with_children_and_adults,0
+Transgender,0,veterans,2015-05-01,2015-05-31,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2015-05-01,2015-05-31,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2015-05-01,2015-05-31,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2015-05-01,2015-05-31,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2015-05-01,2015-05-31,Q25c,without_children,0
+Data Not Collected,0,veterans,2015-05-01,2015-05-31,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2015-05-01,2015-05-31,Q25c,unknown_household_type,0
+Male,7,veterans,2015-06-01,2015-06-30,Q25c,without_children,6
+Male,7,veterans,2015-06-01,2015-06-30,Q25c,with_children_and_adults,1
+Male,7,veterans,2015-06-01,2015-06-30,Q25c,unknown_household_type,0
+Female,3,veterans,2015-06-01,2015-06-30,Q25c,without_children,1
+Female,3,veterans,2015-06-01,2015-06-30,Q25c,with_children_and_adults,2
+Female,3,veterans,2015-06-01,2015-06-30,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2015-06-01,2015-06-30,Q25c,without_children,0
+No Single Gender,0,veterans,2015-06-01,2015-06-30,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2015-06-01,2015-06-30,Q25c,unknown_household_type,0
+Questioning,0,veterans,2015-06-01,2015-06-30,Q25c,without_children,0
+Questioning,0,veterans,2015-06-01,2015-06-30,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2015-06-01,2015-06-30,Q25c,unknown_household_type,0
+Transgender,0,veterans,2015-06-01,2015-06-30,Q25c,without_children,0
+Transgender,0,veterans,2015-06-01,2015-06-30,Q25c,with_children_and_adults,0
+Transgender,0,veterans,2015-06-01,2015-06-30,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2015-06-01,2015-06-30,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2015-06-01,2015-06-30,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2015-06-01,2015-06-30,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2015-06-01,2015-06-30,Q25c,without_children,0
+Data Not Collected,0,veterans,2015-06-01,2015-06-30,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2015-06-01,2015-06-30,Q25c,unknown_household_type,0
+Male,11,veterans,2015-07-01,2015-07-31,Q25c,without_children,9
+Male,11,veterans,2015-07-01,2015-07-31,Q25c,with_children_and_adults,2
+Male,11,veterans,2015-07-01,2015-07-31,Q25c,unknown_household_type,0
+Female,2,veterans,2015-07-01,2015-07-31,Q25c,without_children,1
+Female,2,veterans,2015-07-01,2015-07-31,Q25c,with_children_and_adults,1
+Female,2,veterans,2015-07-01,2015-07-31,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2015-07-01,2015-07-31,Q25c,without_children,0
+No Single Gender,0,veterans,2015-07-01,2015-07-31,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2015-07-01,2015-07-31,Q25c,unknown_household_type,0
+Questioning,0,veterans,2015-07-01,2015-07-31,Q25c,without_children,0
+Questioning,0,veterans,2015-07-01,2015-07-31,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2015-07-01,2015-07-31,Q25c,unknown_household_type,0
+Transgender,0,veterans,2015-07-01,2015-07-31,Q25c,without_children,0
+Transgender,0,veterans,2015-07-01,2015-07-31,Q25c,with_children_and_adults,0
+Transgender,0,veterans,2015-07-01,2015-07-31,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2015-07-01,2015-07-31,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2015-07-01,2015-07-31,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2015-07-01,2015-07-31,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2015-07-01,2015-07-31,Q25c,without_children,0
+Data Not Collected,0,veterans,2015-07-01,2015-07-31,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2015-07-01,2015-07-31,Q25c,unknown_household_type,0
+Male,10,veterans,2015-08-01,2015-08-31,Q25c,without_children,8
+Male,10,veterans,2015-08-01,2015-08-31,Q25c,with_children_and_adults,2
+Male,10,veterans,2015-08-01,2015-08-31,Q25c,unknown_household_type,0
+Female,2,veterans,2015-08-01,2015-08-31,Q25c,without_children,1
+Female,2,veterans,2015-08-01,2015-08-31,Q25c,with_children_and_adults,1
+Female,2,veterans,2015-08-01,2015-08-31,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2015-08-01,2015-08-31,Q25c,without_children,0
+No Single Gender,0,veterans,2015-08-01,2015-08-31,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2015-08-01,2015-08-31,Q25c,unknown_household_type,0
+Questioning,0,veterans,2015-08-01,2015-08-31,Q25c,without_children,0
+Questioning,0,veterans,2015-08-01,2015-08-31,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2015-08-01,2015-08-31,Q25c,unknown_household_type,0
+Transgender,0,veterans,2015-08-01,2015-08-31,Q25c,without_children,0
+Transgender,0,veterans,2015-08-01,2015-08-31,Q25c,with_children_and_adults,0
+Transgender,0,veterans,2015-08-01,2015-08-31,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2015-08-01,2015-08-31,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2015-08-01,2015-08-31,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2015-08-01,2015-08-31,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2015-08-01,2015-08-31,Q25c,without_children,0
+Data Not Collected,0,veterans,2015-08-01,2015-08-31,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2015-08-01,2015-08-31,Q25c,unknown_household_type,0
+Male,11,veterans,2015-09-01,2015-09-30,Q25c,without_children,8
+Male,11,veterans,2015-09-01,2015-09-30,Q25c,with_children_and_adults,3
+Male,11,veterans,2015-09-01,2015-09-30,Q25c,unknown_household_type,0
+Female,3,veterans,2015-09-01,2015-09-30,Q25c,without_children,1
+Female,3,veterans,2015-09-01,2015-09-30,Q25c,with_children_and_adults,2
+Female,3,veterans,2015-09-01,2015-09-30,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2015-09-01,2015-09-30,Q25c,without_children,0
+No Single Gender,0,veterans,2015-09-01,2015-09-30,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2015-09-01,2015-09-30,Q25c,unknown_household_type,0
+Questioning,0,veterans,2015-09-01,2015-09-30,Q25c,without_children,0
+Questioning,0,veterans,2015-09-01,2015-09-30,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2015-09-01,2015-09-30,Q25c,unknown_household_type,0
+Transgender,0,veterans,2015-09-01,2015-09-30,Q25c,without_children,0
+Transgender,0,veterans,2015-09-01,2015-09-30,Q25c,with_children_and_adults,0
+Transgender,0,veterans,2015-09-01,2015-09-30,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2015-09-01,2015-09-30,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2015-09-01,2015-09-30,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2015-09-01,2015-09-30,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2015-09-01,2015-09-30,Q25c,without_children,0
+Data Not Collected,0,veterans,2015-09-01,2015-09-30,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2015-09-01,2015-09-30,Q25c,unknown_household_type,0
+Male,11,veterans,2015-10-01,2015-10-31,Q25c,without_children,9
+Male,11,veterans,2015-10-01,2015-10-31,Q25c,with_children_and_adults,2
+Male,11,veterans,2015-10-01,2015-10-31,Q25c,unknown_household_type,0
+Female,2,veterans,2015-10-01,2015-10-31,Q25c,without_children,0
+Female,2,veterans,2015-10-01,2015-10-31,Q25c,with_children_and_adults,2
+Female,2,veterans,2015-10-01,2015-10-31,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2015-10-01,2015-10-31,Q25c,without_children,0
+No Single Gender,0,veterans,2015-10-01,2015-10-31,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2015-10-01,2015-10-31,Q25c,unknown_household_type,0
+Questioning,0,veterans,2015-10-01,2015-10-31,Q25c,without_children,0
+Questioning,0,veterans,2015-10-01,2015-10-31,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2015-10-01,2015-10-31,Q25c,unknown_household_type,0
+Transgender,0,veterans,2015-10-01,2015-10-31,Q25c,without_children,0
+Transgender,0,veterans,2015-10-01,2015-10-31,Q25c,with_children_and_adults,0
+Transgender,0,veterans,2015-10-01,2015-10-31,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2015-10-01,2015-10-31,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2015-10-01,2015-10-31,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2015-10-01,2015-10-31,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2015-10-01,2015-10-31,Q25c,without_children,0
+Data Not Collected,0,veterans,2015-10-01,2015-10-31,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2015-10-01,2015-10-31,Q25c,unknown_household_type,0
+Male,14,veterans,2015-11-01,2015-11-30,Q25c,without_children,13
+Male,14,veterans,2015-11-01,2015-11-30,Q25c,with_children_and_adults,1
+Male,14,veterans,2015-11-01,2015-11-30,Q25c,unknown_household_type,0
+Female,2,veterans,2015-11-01,2015-11-30,Q25c,without_children,0
+Female,2,veterans,2015-11-01,2015-11-30,Q25c,with_children_and_adults,2
+Female,2,veterans,2015-11-01,2015-11-30,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2015-11-01,2015-11-30,Q25c,without_children,0
+No Single Gender,0,veterans,2015-11-01,2015-11-30,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2015-11-01,2015-11-30,Q25c,unknown_household_type,0
+Questioning,0,veterans,2015-11-01,2015-11-30,Q25c,without_children,0
+Questioning,0,veterans,2015-11-01,2015-11-30,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2015-11-01,2015-11-30,Q25c,unknown_household_type,0
+Transgender,0,veterans,2015-11-01,2015-11-30,Q25c,without_children,0
+Transgender,0,veterans,2015-11-01,2015-11-30,Q25c,with_children_and_adults,0
+Transgender,0,veterans,2015-11-01,2015-11-30,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2015-11-01,2015-11-30,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2015-11-01,2015-11-30,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2015-11-01,2015-11-30,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2015-11-01,2015-11-30,Q25c,without_children,0
+Data Not Collected,0,veterans,2015-11-01,2015-11-30,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2015-11-01,2015-11-30,Q25c,unknown_household_type,0
+Male,14,veterans,2015-12-01,2015-12-31,Q25c,without_children,13
+Male,14,veterans,2015-12-01,2015-12-31,Q25c,with_children_and_adults,1
+Male,14,veterans,2015-12-01,2015-12-31,Q25c,unknown_household_type,0
+Female,2,veterans,2015-12-01,2015-12-31,Q25c,without_children,0
+Female,2,veterans,2015-12-01,2015-12-31,Q25c,with_children_and_adults,2
+Female,2,veterans,2015-12-01,2015-12-31,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2015-12-01,2015-12-31,Q25c,without_children,0
+No Single Gender,0,veterans,2015-12-01,2015-12-31,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2015-12-01,2015-12-31,Q25c,unknown_household_type,0
+Questioning,0,veterans,2015-12-01,2015-12-31,Q25c,without_children,0
+Questioning,0,veterans,2015-12-01,2015-12-31,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2015-12-01,2015-12-31,Q25c,unknown_household_type,0
+Transgender,0,veterans,2015-12-01,2015-12-31,Q25c,without_children,0
+Transgender,0,veterans,2015-12-01,2015-12-31,Q25c,with_children_and_adults,0
+Transgender,0,veterans,2015-12-01,2015-12-31,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2015-12-01,2015-12-31,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2015-12-01,2015-12-31,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2015-12-01,2015-12-31,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2015-12-01,2015-12-31,Q25c,without_children,0
+Data Not Collected,0,veterans,2015-12-01,2015-12-31,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2015-12-01,2015-12-31,Q25c,unknown_household_type,0
+Male,17,veterans,2016-01-01,2016-01-31,Q25c,without_children,16
+Male,17,veterans,2016-01-01,2016-01-31,Q25c,with_children_and_adults,1
+Male,17,veterans,2016-01-01,2016-01-31,Q25c,unknown_household_type,0
+Female,0,veterans,2016-01-01,2016-01-31,Q25c,without_children,0
+Female,0,veterans,2016-01-01,2016-01-31,Q25c,with_children_and_adults,0
+Female,0,veterans,2016-01-01,2016-01-31,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2016-01-01,2016-01-31,Q25c,without_children,0
+No Single Gender,0,veterans,2016-01-01,2016-01-31,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2016-01-01,2016-01-31,Q25c,unknown_household_type,0
+Questioning,0,veterans,2016-01-01,2016-01-31,Q25c,without_children,0
+Questioning,0,veterans,2016-01-01,2016-01-31,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2016-01-01,2016-01-31,Q25c,unknown_household_type,0
+Transgender,0,veterans,2016-01-01,2016-01-31,Q25c,without_children,0
+Transgender,0,veterans,2016-01-01,2016-01-31,Q25c,with_children_and_adults,0
+Transgender,0,veterans,2016-01-01,2016-01-31,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2016-01-01,2016-01-31,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2016-01-01,2016-01-31,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2016-01-01,2016-01-31,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2016-01-01,2016-01-31,Q25c,without_children,0
+Data Not Collected,0,veterans,2016-01-01,2016-01-31,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2016-01-01,2016-01-31,Q25c,unknown_household_type,0
+Male,18,veterans,2016-02-01,2016-02-29,Q25c,without_children,15
+Male,18,veterans,2016-02-01,2016-02-29,Q25c,with_children_and_adults,3
+Male,18,veterans,2016-02-01,2016-02-29,Q25c,unknown_household_type,0
+Female,1,veterans,2016-02-01,2016-02-29,Q25c,without_children,1
+Female,1,veterans,2016-02-01,2016-02-29,Q25c,with_children_and_adults,0
+Female,1,veterans,2016-02-01,2016-02-29,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2016-02-01,2016-02-29,Q25c,without_children,0
+No Single Gender,0,veterans,2016-02-01,2016-02-29,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2016-02-01,2016-02-29,Q25c,unknown_household_type,0
+Questioning,0,veterans,2016-02-01,2016-02-29,Q25c,without_children,0
+Questioning,0,veterans,2016-02-01,2016-02-29,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2016-02-01,2016-02-29,Q25c,unknown_household_type,0
+Transgender,0,veterans,2016-02-01,2016-02-29,Q25c,without_children,0
+Transgender,0,veterans,2016-02-01,2016-02-29,Q25c,with_children_and_adults,0
+Transgender,0,veterans,2016-02-01,2016-02-29,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2016-02-01,2016-02-29,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2016-02-01,2016-02-29,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2016-02-01,2016-02-29,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2016-02-01,2016-02-29,Q25c,without_children,0
+Data Not Collected,0,veterans,2016-02-01,2016-02-29,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2016-02-01,2016-02-29,Q25c,unknown_household_type,0
+Male,24,veterans,2016-03-01,2016-03-31,Q25c,without_children,21
+Male,24,veterans,2016-03-01,2016-03-31,Q25c,with_children_and_adults,3
+Male,24,veterans,2016-03-01,2016-03-31,Q25c,unknown_household_type,0
+Female,1,veterans,2016-03-01,2016-03-31,Q25c,without_children,1
+Female,1,veterans,2016-03-01,2016-03-31,Q25c,with_children_and_adults,0
+Female,1,veterans,2016-03-01,2016-03-31,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2016-03-01,2016-03-31,Q25c,without_children,0
+No Single Gender,0,veterans,2016-03-01,2016-03-31,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2016-03-01,2016-03-31,Q25c,unknown_household_type,0
+Questioning,0,veterans,2016-03-01,2016-03-31,Q25c,without_children,0
+Questioning,0,veterans,2016-03-01,2016-03-31,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2016-03-01,2016-03-31,Q25c,unknown_household_type,0
+Transgender,0,veterans,2016-03-01,2016-03-31,Q25c,without_children,0
+Transgender,0,veterans,2016-03-01,2016-03-31,Q25c,with_children_and_adults,0
+Transgender,0,veterans,2016-03-01,2016-03-31,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2016-03-01,2016-03-31,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2016-03-01,2016-03-31,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2016-03-01,2016-03-31,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2016-03-01,2016-03-31,Q25c,without_children,0
+Data Not Collected,0,veterans,2016-03-01,2016-03-31,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2016-03-01,2016-03-31,Q25c,unknown_household_type,0
+Male,21,veterans,2016-04-01,2016-04-30,Q25c,without_children,19
+Male,21,veterans,2016-04-01,2016-04-30,Q25c,with_children_and_adults,2
+Male,21,veterans,2016-04-01,2016-04-30,Q25c,unknown_household_type,0
+Female,1,veterans,2016-04-01,2016-04-30,Q25c,without_children,0
+Female,1,veterans,2016-04-01,2016-04-30,Q25c,with_children_and_adults,1
+Female,1,veterans,2016-04-01,2016-04-30,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2016-04-01,2016-04-30,Q25c,without_children,0
+No Single Gender,0,veterans,2016-04-01,2016-04-30,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2016-04-01,2016-04-30,Q25c,unknown_household_type,0
+Questioning,0,veterans,2016-04-01,2016-04-30,Q25c,without_children,0
+Questioning,0,veterans,2016-04-01,2016-04-30,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2016-04-01,2016-04-30,Q25c,unknown_household_type,0
+Transgender,0,veterans,2016-04-01,2016-04-30,Q25c,without_children,0
+Transgender,0,veterans,2016-04-01,2016-04-30,Q25c,with_children_and_adults,0
+Transgender,0,veterans,2016-04-01,2016-04-30,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2016-04-01,2016-04-30,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2016-04-01,2016-04-30,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2016-04-01,2016-04-30,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2016-04-01,2016-04-30,Q25c,without_children,0
+Data Not Collected,0,veterans,2016-04-01,2016-04-30,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2016-04-01,2016-04-30,Q25c,unknown_household_type,0
+Male,19,veterans,2016-05-01,2016-05-31,Q25c,without_children,18
+Male,19,veterans,2016-05-01,2016-05-31,Q25c,with_children_and_adults,1
+Male,19,veterans,2016-05-01,2016-05-31,Q25c,unknown_household_type,0
+Female,1,veterans,2016-05-01,2016-05-31,Q25c,without_children,0
+Female,1,veterans,2016-05-01,2016-05-31,Q25c,with_children_and_adults,1
+Female,1,veterans,2016-05-01,2016-05-31,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2016-05-01,2016-05-31,Q25c,without_children,0
+No Single Gender,0,veterans,2016-05-01,2016-05-31,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2016-05-01,2016-05-31,Q25c,unknown_household_type,0
+Questioning,0,veterans,2016-05-01,2016-05-31,Q25c,without_children,0
+Questioning,0,veterans,2016-05-01,2016-05-31,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2016-05-01,2016-05-31,Q25c,unknown_household_type,0
+Transgender,0,veterans,2016-05-01,2016-05-31,Q25c,without_children,0
+Transgender,0,veterans,2016-05-01,2016-05-31,Q25c,with_children_and_adults,0
+Transgender,0,veterans,2016-05-01,2016-05-31,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2016-05-01,2016-05-31,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2016-05-01,2016-05-31,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2016-05-01,2016-05-31,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2016-05-01,2016-05-31,Q25c,without_children,0
+Data Not Collected,0,veterans,2016-05-01,2016-05-31,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2016-05-01,2016-05-31,Q25c,unknown_household_type,0
+Male,20,veterans,2016-06-01,2016-06-30,Q25c,without_children,20
+Male,20,veterans,2016-06-01,2016-06-30,Q25c,with_children_and_adults,0
+Male,20,veterans,2016-06-01,2016-06-30,Q25c,unknown_household_type,0
+Female,2,veterans,2016-06-01,2016-06-30,Q25c,without_children,0
+Female,2,veterans,2016-06-01,2016-06-30,Q25c,with_children_and_adults,2
+Female,2,veterans,2016-06-01,2016-06-30,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2016-06-01,2016-06-30,Q25c,without_children,0
+No Single Gender,0,veterans,2016-06-01,2016-06-30,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2016-06-01,2016-06-30,Q25c,unknown_household_type,0
+Questioning,0,veterans,2016-06-01,2016-06-30,Q25c,without_children,0
+Questioning,0,veterans,2016-06-01,2016-06-30,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2016-06-01,2016-06-30,Q25c,unknown_household_type,0
+Transgender,0,veterans,2016-06-01,2016-06-30,Q25c,without_children,0
+Transgender,0,veterans,2016-06-01,2016-06-30,Q25c,with_children_and_adults,0
+Transgender,0,veterans,2016-06-01,2016-06-30,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2016-06-01,2016-06-30,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2016-06-01,2016-06-30,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2016-06-01,2016-06-30,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2016-06-01,2016-06-30,Q25c,without_children,0
+Data Not Collected,0,veterans,2016-06-01,2016-06-30,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2016-06-01,2016-06-30,Q25c,unknown_household_type,0
+Male,21,veterans,2016-07-01,2016-07-31,Q25c,without_children,20
+Male,21,veterans,2016-07-01,2016-07-31,Q25c,with_children_and_adults,1
+Male,21,veterans,2016-07-01,2016-07-31,Q25c,unknown_household_type,0
+Female,1,veterans,2016-07-01,2016-07-31,Q25c,without_children,0
+Female,1,veterans,2016-07-01,2016-07-31,Q25c,with_children_and_adults,1
+Female,1,veterans,2016-07-01,2016-07-31,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2016-07-01,2016-07-31,Q25c,without_children,0
+No Single Gender,0,veterans,2016-07-01,2016-07-31,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2016-07-01,2016-07-31,Q25c,unknown_household_type,0
+Questioning,0,veterans,2016-07-01,2016-07-31,Q25c,without_children,0
+Questioning,0,veterans,2016-07-01,2016-07-31,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2016-07-01,2016-07-31,Q25c,unknown_household_type,0
+Transgender,0,veterans,2016-07-01,2016-07-31,Q25c,without_children,0
+Transgender,0,veterans,2016-07-01,2016-07-31,Q25c,with_children_and_adults,0
+Transgender,0,veterans,2016-07-01,2016-07-31,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2016-07-01,2016-07-31,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2016-07-01,2016-07-31,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2016-07-01,2016-07-31,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2016-07-01,2016-07-31,Q25c,without_children,0
+Data Not Collected,0,veterans,2016-07-01,2016-07-31,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2016-07-01,2016-07-31,Q25c,unknown_household_type,0
+Male,28,veterans,2016-08-01,2016-08-31,Q25c,without_children,26
+Male,28,veterans,2016-08-01,2016-08-31,Q25c,with_children_and_adults,2
+Male,28,veterans,2016-08-01,2016-08-31,Q25c,unknown_household_type,0
+Female,1,veterans,2016-08-01,2016-08-31,Q25c,without_children,1
+Female,1,veterans,2016-08-01,2016-08-31,Q25c,with_children_and_adults,0
+Female,1,veterans,2016-08-01,2016-08-31,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2016-08-01,2016-08-31,Q25c,without_children,0
+No Single Gender,0,veterans,2016-08-01,2016-08-31,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2016-08-01,2016-08-31,Q25c,unknown_household_type,0
+Questioning,0,veterans,2016-08-01,2016-08-31,Q25c,without_children,0
+Questioning,0,veterans,2016-08-01,2016-08-31,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2016-08-01,2016-08-31,Q25c,unknown_household_type,0
+Transgender,0,veterans,2016-08-01,2016-08-31,Q25c,without_children,0
+Transgender,0,veterans,2016-08-01,2016-08-31,Q25c,with_children_and_adults,0
+Transgender,0,veterans,2016-08-01,2016-08-31,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2016-08-01,2016-08-31,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2016-08-01,2016-08-31,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2016-08-01,2016-08-31,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2016-08-01,2016-08-31,Q25c,without_children,0
+Data Not Collected,0,veterans,2016-08-01,2016-08-31,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2016-08-01,2016-08-31,Q25c,unknown_household_type,0
+Male,26,veterans,2016-09-01,2016-09-30,Q25c,without_children,23
+Male,26,veterans,2016-09-01,2016-09-30,Q25c,with_children_and_adults,3
+Male,26,veterans,2016-09-01,2016-09-30,Q25c,unknown_household_type,0
+Female,1,veterans,2016-09-01,2016-09-30,Q25c,without_children,1
+Female,1,veterans,2016-09-01,2016-09-30,Q25c,with_children_and_adults,0
+Female,1,veterans,2016-09-01,2016-09-30,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2016-09-01,2016-09-30,Q25c,without_children,0
+No Single Gender,0,veterans,2016-09-01,2016-09-30,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2016-09-01,2016-09-30,Q25c,unknown_household_type,0
+Questioning,0,veterans,2016-09-01,2016-09-30,Q25c,without_children,0
+Questioning,0,veterans,2016-09-01,2016-09-30,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2016-09-01,2016-09-30,Q25c,unknown_household_type,0
+Transgender,0,veterans,2016-09-01,2016-09-30,Q25c,without_children,0
+Transgender,0,veterans,2016-09-01,2016-09-30,Q25c,with_children_and_adults,0
+Transgender,0,veterans,2016-09-01,2016-09-30,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2016-09-01,2016-09-30,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2016-09-01,2016-09-30,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2016-09-01,2016-09-30,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2016-09-01,2016-09-30,Q25c,without_children,0
+Data Not Collected,0,veterans,2016-09-01,2016-09-30,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2016-09-01,2016-09-30,Q25c,unknown_household_type,0
+Male,26,veterans,2016-10-01,2016-10-31,Q25c,without_children,22
+Male,26,veterans,2016-10-01,2016-10-31,Q25c,with_children_and_adults,4
+Male,26,veterans,2016-10-01,2016-10-31,Q25c,unknown_household_type,0
+Female,0,veterans,2016-10-01,2016-10-31,Q25c,without_children,0
+Female,0,veterans,2016-10-01,2016-10-31,Q25c,with_children_and_adults,0
+Female,0,veterans,2016-10-01,2016-10-31,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2016-10-01,2016-10-31,Q25c,without_children,0
+No Single Gender,0,veterans,2016-10-01,2016-10-31,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2016-10-01,2016-10-31,Q25c,unknown_household_type,0
+Questioning,0,veterans,2016-10-01,2016-10-31,Q25c,without_children,0
+Questioning,0,veterans,2016-10-01,2016-10-31,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2016-10-01,2016-10-31,Q25c,unknown_household_type,0
+Transgender,0,veterans,2016-10-01,2016-10-31,Q25c,without_children,0
+Transgender,0,veterans,2016-10-01,2016-10-31,Q25c,with_children_and_adults,0
+Transgender,0,veterans,2016-10-01,2016-10-31,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2016-10-01,2016-10-31,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2016-10-01,2016-10-31,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2016-10-01,2016-10-31,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2016-10-01,2016-10-31,Q25c,without_children,0
+Data Not Collected,0,veterans,2016-10-01,2016-10-31,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2016-10-01,2016-10-31,Q25c,unknown_household_type,0
+Male,27,veterans,2016-11-01,2016-11-30,Q25c,without_children,25
+Male,27,veterans,2016-11-01,2016-11-30,Q25c,with_children_and_adults,2
+Male,27,veterans,2016-11-01,2016-11-30,Q25c,unknown_household_type,0
+Female,0,veterans,2016-11-01,2016-11-30,Q25c,without_children,0
+Female,0,veterans,2016-11-01,2016-11-30,Q25c,with_children_and_adults,0
+Female,0,veterans,2016-11-01,2016-11-30,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2016-11-01,2016-11-30,Q25c,without_children,0
+No Single Gender,0,veterans,2016-11-01,2016-11-30,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2016-11-01,2016-11-30,Q25c,unknown_household_type,0
+Questioning,0,veterans,2016-11-01,2016-11-30,Q25c,without_children,0
+Questioning,0,veterans,2016-11-01,2016-11-30,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2016-11-01,2016-11-30,Q25c,unknown_household_type,0
+Transgender,0,veterans,2016-11-01,2016-11-30,Q25c,without_children,0
+Transgender,0,veterans,2016-11-01,2016-11-30,Q25c,with_children_and_adults,0
+Transgender,0,veterans,2016-11-01,2016-11-30,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2016-11-01,2016-11-30,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2016-11-01,2016-11-30,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2016-11-01,2016-11-30,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2016-11-01,2016-11-30,Q25c,without_children,0
+Data Not Collected,0,veterans,2016-11-01,2016-11-30,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2016-11-01,2016-11-30,Q25c,unknown_household_type,0
+Male,23,veterans,2016-12-01,2016-12-31,Q25c,without_children,22
+Male,23,veterans,2016-12-01,2016-12-31,Q25c,with_children_and_adults,1
+Male,23,veterans,2016-12-01,2016-12-31,Q25c,unknown_household_type,0
+Female,1,veterans,2016-12-01,2016-12-31,Q25c,without_children,1
+Female,1,veterans,2016-12-01,2016-12-31,Q25c,with_children_and_adults,0
+Female,1,veterans,2016-12-01,2016-12-31,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2016-12-01,2016-12-31,Q25c,without_children,0
+No Single Gender,0,veterans,2016-12-01,2016-12-31,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2016-12-01,2016-12-31,Q25c,unknown_household_type,0
+Questioning,0,veterans,2016-12-01,2016-12-31,Q25c,without_children,0
+Questioning,0,veterans,2016-12-01,2016-12-31,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2016-12-01,2016-12-31,Q25c,unknown_household_type,0
+Transgender,0,veterans,2016-12-01,2016-12-31,Q25c,without_children,0
+Transgender,0,veterans,2016-12-01,2016-12-31,Q25c,with_children_and_adults,0
+Transgender,0,veterans,2016-12-01,2016-12-31,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2016-12-01,2016-12-31,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2016-12-01,2016-12-31,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2016-12-01,2016-12-31,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2016-12-01,2016-12-31,Q25c,without_children,0
+Data Not Collected,0,veterans,2016-12-01,2016-12-31,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2016-12-01,2016-12-31,Q25c,unknown_household_type,0
+Male,24,veterans,2017-01-01,2017-01-31,Q25c,without_children,24
+Male,24,veterans,2017-01-01,2017-01-31,Q25c,with_children_and_adults,0
+Male,24,veterans,2017-01-01,2017-01-31,Q25c,unknown_household_type,0
+Female,0,veterans,2017-01-01,2017-01-31,Q25c,without_children,0
+Female,0,veterans,2017-01-01,2017-01-31,Q25c,with_children_and_adults,0
+Female,0,veterans,2017-01-01,2017-01-31,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2017-01-01,2017-01-31,Q25c,without_children,0
+No Single Gender,0,veterans,2017-01-01,2017-01-31,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2017-01-01,2017-01-31,Q25c,unknown_household_type,0
+Questioning,0,veterans,2017-01-01,2017-01-31,Q25c,without_children,0
+Questioning,0,veterans,2017-01-01,2017-01-31,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2017-01-01,2017-01-31,Q25c,unknown_household_type,0
+Transgender,0,veterans,2017-01-01,2017-01-31,Q25c,without_children,0
+Transgender,0,veterans,2017-01-01,2017-01-31,Q25c,with_children_and_adults,0
+Transgender,0,veterans,2017-01-01,2017-01-31,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2017-01-01,2017-01-31,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2017-01-01,2017-01-31,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2017-01-01,2017-01-31,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2017-01-01,2017-01-31,Q25c,without_children,0
+Data Not Collected,0,veterans,2017-01-01,2017-01-31,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2017-01-01,2017-01-31,Q25c,unknown_household_type,0
+Male,27,veterans,2017-02-01,2017-02-28,Q25c,without_children,27
+Male,27,veterans,2017-02-01,2017-02-28,Q25c,with_children_and_adults,0
+Male,27,veterans,2017-02-01,2017-02-28,Q25c,unknown_household_type,0
+Female,1,veterans,2017-02-01,2017-02-28,Q25c,without_children,1
+Female,1,veterans,2017-02-01,2017-02-28,Q25c,with_children_and_adults,0
+Female,1,veterans,2017-02-01,2017-02-28,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2017-02-01,2017-02-28,Q25c,without_children,0
+No Single Gender,0,veterans,2017-02-01,2017-02-28,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2017-02-01,2017-02-28,Q25c,unknown_household_type,0
+Questioning,0,veterans,2017-02-01,2017-02-28,Q25c,without_children,0
+Questioning,0,veterans,2017-02-01,2017-02-28,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2017-02-01,2017-02-28,Q25c,unknown_household_type,0
+Transgender,0,veterans,2017-02-01,2017-02-28,Q25c,without_children,0
+Transgender,0,veterans,2017-02-01,2017-02-28,Q25c,with_children_and_adults,0
+Transgender,0,veterans,2017-02-01,2017-02-28,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2017-02-01,2017-02-28,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2017-02-01,2017-02-28,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2017-02-01,2017-02-28,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2017-02-01,2017-02-28,Q25c,without_children,0
+Data Not Collected,0,veterans,2017-02-01,2017-02-28,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2017-02-01,2017-02-28,Q25c,unknown_household_type,0
+Male,23,veterans,2017-03-01,2017-03-31,Q25c,without_children,23
+Male,23,veterans,2017-03-01,2017-03-31,Q25c,with_children_and_adults,0
+Male,23,veterans,2017-03-01,2017-03-31,Q25c,unknown_household_type,0
+Female,2,veterans,2017-03-01,2017-03-31,Q25c,without_children,1
+Female,2,veterans,2017-03-01,2017-03-31,Q25c,with_children_and_adults,1
+Female,2,veterans,2017-03-01,2017-03-31,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2017-03-01,2017-03-31,Q25c,without_children,0
+No Single Gender,0,veterans,2017-03-01,2017-03-31,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2017-03-01,2017-03-31,Q25c,unknown_household_type,0
+Questioning,0,veterans,2017-03-01,2017-03-31,Q25c,without_children,0
+Questioning,0,veterans,2017-03-01,2017-03-31,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2017-03-01,2017-03-31,Q25c,unknown_household_type,0
+Transgender,0,veterans,2017-03-01,2017-03-31,Q25c,without_children,0
+Transgender,0,veterans,2017-03-01,2017-03-31,Q25c,with_children_and_adults,0
+Transgender,0,veterans,2017-03-01,2017-03-31,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2017-03-01,2017-03-31,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2017-03-01,2017-03-31,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2017-03-01,2017-03-31,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2017-03-01,2017-03-31,Q25c,without_children,0
+Data Not Collected,0,veterans,2017-03-01,2017-03-31,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2017-03-01,2017-03-31,Q25c,unknown_household_type,0
+Male,20,veterans,2017-04-01,2017-04-30,Q25c,without_children,20
+Male,20,veterans,2017-04-01,2017-04-30,Q25c,with_children_and_adults,0
+Male,20,veterans,2017-04-01,2017-04-30,Q25c,unknown_household_type,0
+Female,1,veterans,2017-04-01,2017-04-30,Q25c,without_children,0
+Female,1,veterans,2017-04-01,2017-04-30,Q25c,with_children_and_adults,1
+Female,1,veterans,2017-04-01,2017-04-30,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2017-04-01,2017-04-30,Q25c,without_children,0
+No Single Gender,0,veterans,2017-04-01,2017-04-30,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2017-04-01,2017-04-30,Q25c,unknown_household_type,0
+Questioning,0,veterans,2017-04-01,2017-04-30,Q25c,without_children,0
+Questioning,0,veterans,2017-04-01,2017-04-30,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2017-04-01,2017-04-30,Q25c,unknown_household_type,0
+Transgender,0,veterans,2017-04-01,2017-04-30,Q25c,without_children,0
+Transgender,0,veterans,2017-04-01,2017-04-30,Q25c,with_children_and_adults,0
+Transgender,0,veterans,2017-04-01,2017-04-30,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2017-04-01,2017-04-30,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2017-04-01,2017-04-30,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2017-04-01,2017-04-30,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2017-04-01,2017-04-30,Q25c,without_children,0
+Data Not Collected,0,veterans,2017-04-01,2017-04-30,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2017-04-01,2017-04-30,Q25c,unknown_household_type,0
+Male,19,veterans,2017-05-01,2017-05-31,Q25c,without_children,19
+Male,19,veterans,2017-05-01,2017-05-31,Q25c,with_children_and_adults,0
+Male,19,veterans,2017-05-01,2017-05-31,Q25c,unknown_household_type,0
+Female,1,veterans,2017-05-01,2017-05-31,Q25c,without_children,1
+Female,1,veterans,2017-05-01,2017-05-31,Q25c,with_children_and_adults,0
+Female,1,veterans,2017-05-01,2017-05-31,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2017-05-01,2017-05-31,Q25c,without_children,0
+No Single Gender,0,veterans,2017-05-01,2017-05-31,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2017-05-01,2017-05-31,Q25c,unknown_household_type,0
+Questioning,0,veterans,2017-05-01,2017-05-31,Q25c,without_children,0
+Questioning,0,veterans,2017-05-01,2017-05-31,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2017-05-01,2017-05-31,Q25c,unknown_household_type,0
+Transgender,0,veterans,2017-05-01,2017-05-31,Q25c,without_children,0
+Transgender,0,veterans,2017-05-01,2017-05-31,Q25c,with_children_and_adults,0
+Transgender,0,veterans,2017-05-01,2017-05-31,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2017-05-01,2017-05-31,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2017-05-01,2017-05-31,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2017-05-01,2017-05-31,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2017-05-01,2017-05-31,Q25c,without_children,0
+Data Not Collected,0,veterans,2017-05-01,2017-05-31,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2017-05-01,2017-05-31,Q25c,unknown_household_type,0
+Male,18,veterans,2017-06-01,2017-06-30,Q25c,without_children,17
+Male,18,veterans,2017-06-01,2017-06-30,Q25c,with_children_and_adults,1
+Male,18,veterans,2017-06-01,2017-06-30,Q25c,unknown_household_type,0
+Female,2,veterans,2017-06-01,2017-06-30,Q25c,without_children,2
+Female,2,veterans,2017-06-01,2017-06-30,Q25c,with_children_and_adults,0
+Female,2,veterans,2017-06-01,2017-06-30,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2017-06-01,2017-06-30,Q25c,without_children,0
+No Single Gender,0,veterans,2017-06-01,2017-06-30,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2017-06-01,2017-06-30,Q25c,unknown_household_type,0
+Questioning,0,veterans,2017-06-01,2017-06-30,Q25c,without_children,0
+Questioning,0,veterans,2017-06-01,2017-06-30,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2017-06-01,2017-06-30,Q25c,unknown_household_type,0
+Transgender,0,veterans,2017-06-01,2017-06-30,Q25c,without_children,0
+Transgender,0,veterans,2017-06-01,2017-06-30,Q25c,with_children_and_adults,0
+Transgender,0,veterans,2017-06-01,2017-06-30,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2017-06-01,2017-06-30,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2017-06-01,2017-06-30,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2017-06-01,2017-06-30,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2017-06-01,2017-06-30,Q25c,without_children,0
+Data Not Collected,0,veterans,2017-06-01,2017-06-30,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2017-06-01,2017-06-30,Q25c,unknown_household_type,0
+Male,18,veterans,2017-07-01,2017-07-31,Q25c,without_children,17
+Male,18,veterans,2017-07-01,2017-07-31,Q25c,with_children_and_adults,1
+Male,18,veterans,2017-07-01,2017-07-31,Q25c,unknown_household_type,0
+Female,2,veterans,2017-07-01,2017-07-31,Q25c,without_children,2
+Female,2,veterans,2017-07-01,2017-07-31,Q25c,with_children_and_adults,0
+Female,2,veterans,2017-07-01,2017-07-31,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2017-07-01,2017-07-31,Q25c,without_children,0
+No Single Gender,0,veterans,2017-07-01,2017-07-31,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2017-07-01,2017-07-31,Q25c,unknown_household_type,0
+Questioning,0,veterans,2017-07-01,2017-07-31,Q25c,without_children,0
+Questioning,0,veterans,2017-07-01,2017-07-31,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2017-07-01,2017-07-31,Q25c,unknown_household_type,0
+Transgender,0,veterans,2017-07-01,2017-07-31,Q25c,without_children,0
+Transgender,0,veterans,2017-07-01,2017-07-31,Q25c,with_children_and_adults,0
+Transgender,0,veterans,2017-07-01,2017-07-31,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2017-07-01,2017-07-31,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2017-07-01,2017-07-31,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2017-07-01,2017-07-31,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2017-07-01,2017-07-31,Q25c,without_children,0
+Data Not Collected,0,veterans,2017-07-01,2017-07-31,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2017-07-01,2017-07-31,Q25c,unknown_household_type,0
+Male,23,veterans,2017-08-01,2017-08-31,Q25c,without_children,21
+Male,23,veterans,2017-08-01,2017-08-31,Q25c,with_children_and_adults,2
+Male,23,veterans,2017-08-01,2017-08-31,Q25c,unknown_household_type,0
+Female,5,veterans,2017-08-01,2017-08-31,Q25c,without_children,2
+Female,5,veterans,2017-08-01,2017-08-31,Q25c,with_children_and_adults,3
+Female,5,veterans,2017-08-01,2017-08-31,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2017-08-01,2017-08-31,Q25c,without_children,0
+No Single Gender,0,veterans,2017-08-01,2017-08-31,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2017-08-01,2017-08-31,Q25c,unknown_household_type,0
+Questioning,0,veterans,2017-08-01,2017-08-31,Q25c,without_children,0
+Questioning,0,veterans,2017-08-01,2017-08-31,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2017-08-01,2017-08-31,Q25c,unknown_household_type,0
+Transgender,0,veterans,2017-08-01,2017-08-31,Q25c,without_children,0
+Transgender,0,veterans,2017-08-01,2017-08-31,Q25c,with_children_and_adults,0
+Transgender,0,veterans,2017-08-01,2017-08-31,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2017-08-01,2017-08-31,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2017-08-01,2017-08-31,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2017-08-01,2017-08-31,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2017-08-01,2017-08-31,Q25c,without_children,0
+Data Not Collected,0,veterans,2017-08-01,2017-08-31,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2017-08-01,2017-08-31,Q25c,unknown_household_type,0
+Male,25,veterans,2017-09-01,2017-09-30,Q25c,without_children,22
+Male,25,veterans,2017-09-01,2017-09-30,Q25c,with_children_and_adults,3
+Male,25,veterans,2017-09-01,2017-09-30,Q25c,unknown_household_type,0
+Female,5,veterans,2017-09-01,2017-09-30,Q25c,without_children,1
+Female,5,veterans,2017-09-01,2017-09-30,Q25c,with_children_and_adults,4
+Female,5,veterans,2017-09-01,2017-09-30,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2017-09-01,2017-09-30,Q25c,without_children,0
+No Single Gender,0,veterans,2017-09-01,2017-09-30,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2017-09-01,2017-09-30,Q25c,unknown_household_type,0
+Questioning,0,veterans,2017-09-01,2017-09-30,Q25c,without_children,0
+Questioning,0,veterans,2017-09-01,2017-09-30,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2017-09-01,2017-09-30,Q25c,unknown_household_type,0
+Transgender,0,veterans,2017-09-01,2017-09-30,Q25c,without_children,0
+Transgender,0,veterans,2017-09-01,2017-09-30,Q25c,with_children_and_adults,0
+Transgender,0,veterans,2017-09-01,2017-09-30,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2017-09-01,2017-09-30,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2017-09-01,2017-09-30,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2017-09-01,2017-09-30,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2017-09-01,2017-09-30,Q25c,without_children,0
+Data Not Collected,0,veterans,2017-09-01,2017-09-30,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2017-09-01,2017-09-30,Q25c,unknown_household_type,0
+Male,25,veterans,2017-10-01,2017-10-31,Q25c,without_children,22
+Male,25,veterans,2017-10-01,2017-10-31,Q25c,with_children_and_adults,3
+Male,25,veterans,2017-10-01,2017-10-31,Q25c,unknown_household_type,0
+Female,6,veterans,2017-10-01,2017-10-31,Q25c,without_children,1
+Female,6,veterans,2017-10-01,2017-10-31,Q25c,with_children_and_adults,5
+Female,6,veterans,2017-10-01,2017-10-31,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2017-10-01,2017-10-31,Q25c,without_children,0
+No Single Gender,0,veterans,2017-10-01,2017-10-31,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2017-10-01,2017-10-31,Q25c,unknown_household_type,0
+Questioning,0,veterans,2017-10-01,2017-10-31,Q25c,without_children,0
+Questioning,0,veterans,2017-10-01,2017-10-31,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2017-10-01,2017-10-31,Q25c,unknown_household_type,0
+Transgender,0,veterans,2017-10-01,2017-10-31,Q25c,without_children,0
+Transgender,0,veterans,2017-10-01,2017-10-31,Q25c,with_children_and_adults,0
+Transgender,0,veterans,2017-10-01,2017-10-31,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2017-10-01,2017-10-31,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2017-10-01,2017-10-31,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2017-10-01,2017-10-31,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2017-10-01,2017-10-31,Q25c,without_children,0
+Data Not Collected,0,veterans,2017-10-01,2017-10-31,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2017-10-01,2017-10-31,Q25c,unknown_household_type,0
+Male,30,veterans,2017-11-01,2017-11-30,Q25c,without_children,29
+Male,30,veterans,2017-11-01,2017-11-30,Q25c,with_children_and_adults,1
+Male,30,veterans,2017-11-01,2017-11-30,Q25c,unknown_household_type,0
+Female,5,veterans,2017-11-01,2017-11-30,Q25c,without_children,1
+Female,5,veterans,2017-11-01,2017-11-30,Q25c,with_children_and_adults,4
+Female,5,veterans,2017-11-01,2017-11-30,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2017-11-01,2017-11-30,Q25c,without_children,0
+No Single Gender,0,veterans,2017-11-01,2017-11-30,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2017-11-01,2017-11-30,Q25c,unknown_household_type,0
+Questioning,0,veterans,2017-11-01,2017-11-30,Q25c,without_children,0
+Questioning,0,veterans,2017-11-01,2017-11-30,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2017-11-01,2017-11-30,Q25c,unknown_household_type,0
+Transgender,0,veterans,2017-11-01,2017-11-30,Q25c,without_children,0
+Transgender,0,veterans,2017-11-01,2017-11-30,Q25c,with_children_and_adults,0
+Transgender,0,veterans,2017-11-01,2017-11-30,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2017-11-01,2017-11-30,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2017-11-01,2017-11-30,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2017-11-01,2017-11-30,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2017-11-01,2017-11-30,Q25c,without_children,0
+Data Not Collected,0,veterans,2017-11-01,2017-11-30,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2017-11-01,2017-11-30,Q25c,unknown_household_type,0
+Male,25,veterans,2017-12-01,2017-12-31,Q25c,without_children,24
+Male,25,veterans,2017-12-01,2017-12-31,Q25c,with_children_and_adults,1
+Male,25,veterans,2017-12-01,2017-12-31,Q25c,unknown_household_type,0
+Female,3,veterans,2017-12-01,2017-12-31,Q25c,without_children,0
+Female,3,veterans,2017-12-01,2017-12-31,Q25c,with_children_and_adults,3
+Female,3,veterans,2017-12-01,2017-12-31,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2017-12-01,2017-12-31,Q25c,without_children,0
+No Single Gender,0,veterans,2017-12-01,2017-12-31,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2017-12-01,2017-12-31,Q25c,unknown_household_type,0
+Questioning,0,veterans,2017-12-01,2017-12-31,Q25c,without_children,0
+Questioning,0,veterans,2017-12-01,2017-12-31,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2017-12-01,2017-12-31,Q25c,unknown_household_type,0
+Transgender,0,veterans,2017-12-01,2017-12-31,Q25c,without_children,0
+Transgender,0,veterans,2017-12-01,2017-12-31,Q25c,with_children_and_adults,0
+Transgender,0,veterans,2017-12-01,2017-12-31,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2017-12-01,2017-12-31,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2017-12-01,2017-12-31,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2017-12-01,2017-12-31,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2017-12-01,2017-12-31,Q25c,without_children,0
+Data Not Collected,0,veterans,2017-12-01,2017-12-31,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2017-12-01,2017-12-31,Q25c,unknown_household_type,0
+Male,30,veterans,2018-01-01,2018-01-31,Q25c,without_children,30
+Male,30,veterans,2018-01-01,2018-01-31,Q25c,with_children_and_adults,0
+Male,30,veterans,2018-01-01,2018-01-31,Q25c,unknown_household_type,0
+Female,5,veterans,2018-01-01,2018-01-31,Q25c,without_children,3
+Female,5,veterans,2018-01-01,2018-01-31,Q25c,with_children_and_adults,2
+Female,5,veterans,2018-01-01,2018-01-31,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2018-01-01,2018-01-31,Q25c,without_children,0
+No Single Gender,0,veterans,2018-01-01,2018-01-31,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2018-01-01,2018-01-31,Q25c,unknown_household_type,0
+Questioning,0,veterans,2018-01-01,2018-01-31,Q25c,without_children,0
+Questioning,0,veterans,2018-01-01,2018-01-31,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2018-01-01,2018-01-31,Q25c,unknown_household_type,0
+Transgender,0,veterans,2018-01-01,2018-01-31,Q25c,without_children,0
+Transgender,0,veterans,2018-01-01,2018-01-31,Q25c,with_children_and_adults,0
+Transgender,0,veterans,2018-01-01,2018-01-31,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2018-01-01,2018-01-31,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2018-01-01,2018-01-31,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2018-01-01,2018-01-31,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2018-01-01,2018-01-31,Q25c,without_children,0
+Data Not Collected,0,veterans,2018-01-01,2018-01-31,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2018-01-01,2018-01-31,Q25c,unknown_household_type,0
+Male,31,veterans,2018-02-01,2018-02-28,Q25c,without_children,31
+Male,31,veterans,2018-02-01,2018-02-28,Q25c,with_children_and_adults,0
+Male,31,veterans,2018-02-01,2018-02-28,Q25c,unknown_household_type,0
+Female,2,veterans,2018-02-01,2018-02-28,Q25c,without_children,2
+Female,2,veterans,2018-02-01,2018-02-28,Q25c,with_children_and_adults,0
+Female,2,veterans,2018-02-01,2018-02-28,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2018-02-01,2018-02-28,Q25c,without_children,0
+No Single Gender,0,veterans,2018-02-01,2018-02-28,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2018-02-01,2018-02-28,Q25c,unknown_household_type,0
+Questioning,0,veterans,2018-02-01,2018-02-28,Q25c,without_children,0
+Questioning,0,veterans,2018-02-01,2018-02-28,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2018-02-01,2018-02-28,Q25c,unknown_household_type,0
+Transgender,0,veterans,2018-02-01,2018-02-28,Q25c,without_children,0
+Transgender,0,veterans,2018-02-01,2018-02-28,Q25c,with_children_and_adults,0
+Transgender,0,veterans,2018-02-01,2018-02-28,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2018-02-01,2018-02-28,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2018-02-01,2018-02-28,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2018-02-01,2018-02-28,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2018-02-01,2018-02-28,Q25c,without_children,0
+Data Not Collected,0,veterans,2018-02-01,2018-02-28,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2018-02-01,2018-02-28,Q25c,unknown_household_type,0
+Male,31,veterans,2018-03-01,2018-03-31,Q25c,without_children,31
+Male,31,veterans,2018-03-01,2018-03-31,Q25c,with_children_and_adults,0
+Male,31,veterans,2018-03-01,2018-03-31,Q25c,unknown_household_type,0
+Female,2,veterans,2018-03-01,2018-03-31,Q25c,without_children,2
+Female,2,veterans,2018-03-01,2018-03-31,Q25c,with_children_and_adults,0
+Female,2,veterans,2018-03-01,2018-03-31,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2018-03-01,2018-03-31,Q25c,without_children,0
+No Single Gender,0,veterans,2018-03-01,2018-03-31,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2018-03-01,2018-03-31,Q25c,unknown_household_type,0
+Questioning,0,veterans,2018-03-01,2018-03-31,Q25c,without_children,0
+Questioning,0,veterans,2018-03-01,2018-03-31,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2018-03-01,2018-03-31,Q25c,unknown_household_type,0
+Transgender,0,veterans,2018-03-01,2018-03-31,Q25c,without_children,0
+Transgender,0,veterans,2018-03-01,2018-03-31,Q25c,with_children_and_adults,0
+Transgender,0,veterans,2018-03-01,2018-03-31,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2018-03-01,2018-03-31,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2018-03-01,2018-03-31,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2018-03-01,2018-03-31,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2018-03-01,2018-03-31,Q25c,without_children,0
+Data Not Collected,0,veterans,2018-03-01,2018-03-31,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2018-03-01,2018-03-31,Q25c,unknown_household_type,0
+Male,31,veterans,2018-04-01,2018-04-30,Q25c,without_children,31
+Male,31,veterans,2018-04-01,2018-04-30,Q25c,with_children_and_adults,0
+Male,31,veterans,2018-04-01,2018-04-30,Q25c,unknown_household_type,0
+Female,0,veterans,2018-04-01,2018-04-30,Q25c,without_children,0
+Female,0,veterans,2018-04-01,2018-04-30,Q25c,with_children_and_adults,0
+Female,0,veterans,2018-04-01,2018-04-30,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2018-04-01,2018-04-30,Q25c,without_children,0
+No Single Gender,0,veterans,2018-04-01,2018-04-30,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2018-04-01,2018-04-30,Q25c,unknown_household_type,0
+Questioning,0,veterans,2018-04-01,2018-04-30,Q25c,without_children,0
+Questioning,0,veterans,2018-04-01,2018-04-30,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2018-04-01,2018-04-30,Q25c,unknown_household_type,0
+Transgender,0,veterans,2018-04-01,2018-04-30,Q25c,without_children,0
+Transgender,0,veterans,2018-04-01,2018-04-30,Q25c,with_children_and_adults,0
+Transgender,0,veterans,2018-04-01,2018-04-30,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2018-04-01,2018-04-30,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2018-04-01,2018-04-30,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2018-04-01,2018-04-30,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2018-04-01,2018-04-30,Q25c,without_children,0
+Data Not Collected,0,veterans,2018-04-01,2018-04-30,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2018-04-01,2018-04-30,Q25c,unknown_household_type,0
+Male,23,veterans,2018-05-01,2018-05-31,Q25c,without_children,23
+Male,23,veterans,2018-05-01,2018-05-31,Q25c,with_children_and_adults,0
+Male,23,veterans,2018-05-01,2018-05-31,Q25c,unknown_household_type,0
+Female,0,veterans,2018-05-01,2018-05-31,Q25c,without_children,0
+Female,0,veterans,2018-05-01,2018-05-31,Q25c,with_children_and_adults,0
+Female,0,veterans,2018-05-01,2018-05-31,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2018-05-01,2018-05-31,Q25c,without_children,0
+No Single Gender,0,veterans,2018-05-01,2018-05-31,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2018-05-01,2018-05-31,Q25c,unknown_household_type,0
+Questioning,0,veterans,2018-05-01,2018-05-31,Q25c,without_children,0
+Questioning,0,veterans,2018-05-01,2018-05-31,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2018-05-01,2018-05-31,Q25c,unknown_household_type,0
+Transgender,0,veterans,2018-05-01,2018-05-31,Q25c,without_children,0
+Transgender,0,veterans,2018-05-01,2018-05-31,Q25c,with_children_and_adults,0
+Transgender,0,veterans,2018-05-01,2018-05-31,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2018-05-01,2018-05-31,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2018-05-01,2018-05-31,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2018-05-01,2018-05-31,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2018-05-01,2018-05-31,Q25c,without_children,0
+Data Not Collected,0,veterans,2018-05-01,2018-05-31,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2018-05-01,2018-05-31,Q25c,unknown_household_type,0
+Male,23,veterans,2018-06-01,2018-06-30,Q25c,without_children,23
+Male,23,veterans,2018-06-01,2018-06-30,Q25c,with_children_and_adults,0
+Male,23,veterans,2018-06-01,2018-06-30,Q25c,unknown_household_type,0
+Female,1,veterans,2018-06-01,2018-06-30,Q25c,without_children,1
+Female,1,veterans,2018-06-01,2018-06-30,Q25c,with_children_and_adults,0
+Female,1,veterans,2018-06-01,2018-06-30,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2018-06-01,2018-06-30,Q25c,without_children,0
+No Single Gender,0,veterans,2018-06-01,2018-06-30,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2018-06-01,2018-06-30,Q25c,unknown_household_type,0
+Questioning,0,veterans,2018-06-01,2018-06-30,Q25c,without_children,0
+Questioning,0,veterans,2018-06-01,2018-06-30,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2018-06-01,2018-06-30,Q25c,unknown_household_type,0
+Transgender,0,veterans,2018-06-01,2018-06-30,Q25c,without_children,0
+Transgender,0,veterans,2018-06-01,2018-06-30,Q25c,with_children_and_adults,0
+Transgender,0,veterans,2018-06-01,2018-06-30,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2018-06-01,2018-06-30,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2018-06-01,2018-06-30,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2018-06-01,2018-06-30,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2018-06-01,2018-06-30,Q25c,without_children,0
+Data Not Collected,0,veterans,2018-06-01,2018-06-30,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2018-06-01,2018-06-30,Q25c,unknown_household_type,0
+Male,22,veterans,2018-07-01,2018-07-31,Q25c,without_children,22
+Male,22,veterans,2018-07-01,2018-07-31,Q25c,with_children_and_adults,0
+Male,22,veterans,2018-07-01,2018-07-31,Q25c,unknown_household_type,0
+Female,1,veterans,2018-07-01,2018-07-31,Q25c,without_children,1
+Female,1,veterans,2018-07-01,2018-07-31,Q25c,with_children_and_adults,0
+Female,1,veterans,2018-07-01,2018-07-31,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2018-07-01,2018-07-31,Q25c,without_children,0
+No Single Gender,0,veterans,2018-07-01,2018-07-31,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2018-07-01,2018-07-31,Q25c,unknown_household_type,0
+Questioning,0,veterans,2018-07-01,2018-07-31,Q25c,without_children,0
+Questioning,0,veterans,2018-07-01,2018-07-31,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2018-07-01,2018-07-31,Q25c,unknown_household_type,0
+Transgender,0,veterans,2018-07-01,2018-07-31,Q25c,without_children,0
+Transgender,0,veterans,2018-07-01,2018-07-31,Q25c,with_children_and_adults,0
+Transgender,0,veterans,2018-07-01,2018-07-31,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2018-07-01,2018-07-31,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2018-07-01,2018-07-31,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2018-07-01,2018-07-31,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2018-07-01,2018-07-31,Q25c,without_children,0
+Data Not Collected,0,veterans,2018-07-01,2018-07-31,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2018-07-01,2018-07-31,Q25c,unknown_household_type,0
+Male,20,veterans,2018-08-01,2018-08-31,Q25c,without_children,20
+Male,20,veterans,2018-08-01,2018-08-31,Q25c,with_children_and_adults,0
+Male,20,veterans,2018-08-01,2018-08-31,Q25c,unknown_household_type,0
+Female,2,veterans,2018-08-01,2018-08-31,Q25c,without_children,2
+Female,2,veterans,2018-08-01,2018-08-31,Q25c,with_children_and_adults,0
+Female,2,veterans,2018-08-01,2018-08-31,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2018-08-01,2018-08-31,Q25c,without_children,0
+No Single Gender,0,veterans,2018-08-01,2018-08-31,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2018-08-01,2018-08-31,Q25c,unknown_household_type,0
+Questioning,0,veterans,2018-08-01,2018-08-31,Q25c,without_children,0
+Questioning,0,veterans,2018-08-01,2018-08-31,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2018-08-01,2018-08-31,Q25c,unknown_household_type,0
+Transgender,0,veterans,2018-08-01,2018-08-31,Q25c,without_children,0
+Transgender,0,veterans,2018-08-01,2018-08-31,Q25c,with_children_and_adults,0
+Transgender,0,veterans,2018-08-01,2018-08-31,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2018-08-01,2018-08-31,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2018-08-01,2018-08-31,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2018-08-01,2018-08-31,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2018-08-01,2018-08-31,Q25c,without_children,0
+Data Not Collected,0,veterans,2018-08-01,2018-08-31,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2018-08-01,2018-08-31,Q25c,unknown_household_type,0
+Male,21,veterans,2018-09-01,2018-09-30,Q25c,without_children,21
+Male,21,veterans,2018-09-01,2018-09-30,Q25c,with_children_and_adults,0
+Male,21,veterans,2018-09-01,2018-09-30,Q25c,unknown_household_type,0
+Female,2,veterans,2018-09-01,2018-09-30,Q25c,without_children,1
+Female,2,veterans,2018-09-01,2018-09-30,Q25c,with_children_and_adults,1
+Female,2,veterans,2018-09-01,2018-09-30,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2018-09-01,2018-09-30,Q25c,without_children,0
+No Single Gender,0,veterans,2018-09-01,2018-09-30,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2018-09-01,2018-09-30,Q25c,unknown_household_type,0
+Questioning,0,veterans,2018-09-01,2018-09-30,Q25c,without_children,0
+Questioning,0,veterans,2018-09-01,2018-09-30,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2018-09-01,2018-09-30,Q25c,unknown_household_type,0
+Transgender,0,veterans,2018-09-01,2018-09-30,Q25c,without_children,0
+Transgender,0,veterans,2018-09-01,2018-09-30,Q25c,with_children_and_adults,0
+Transgender,0,veterans,2018-09-01,2018-09-30,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2018-09-01,2018-09-30,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2018-09-01,2018-09-30,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2018-09-01,2018-09-30,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2018-09-01,2018-09-30,Q25c,without_children,0
+Data Not Collected,0,veterans,2018-09-01,2018-09-30,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2018-09-01,2018-09-30,Q25c,unknown_household_type,0
+Male,24,veterans,2018-10-01,2018-10-31,Q25c,without_children,22
+Male,24,veterans,2018-10-01,2018-10-31,Q25c,with_children_and_adults,2
+Male,24,veterans,2018-10-01,2018-10-31,Q25c,unknown_household_type,0
+Female,3,veterans,2018-10-01,2018-10-31,Q25c,without_children,1
+Female,3,veterans,2018-10-01,2018-10-31,Q25c,with_children_and_adults,2
+Female,3,veterans,2018-10-01,2018-10-31,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2018-10-01,2018-10-31,Q25c,without_children,0
+No Single Gender,0,veterans,2018-10-01,2018-10-31,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2018-10-01,2018-10-31,Q25c,unknown_household_type,0
+Questioning,0,veterans,2018-10-01,2018-10-31,Q25c,without_children,0
+Questioning,0,veterans,2018-10-01,2018-10-31,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2018-10-01,2018-10-31,Q25c,unknown_household_type,0
+Transgender,0,veterans,2018-10-01,2018-10-31,Q25c,without_children,0
+Transgender,0,veterans,2018-10-01,2018-10-31,Q25c,with_children_and_adults,0
+Transgender,0,veterans,2018-10-01,2018-10-31,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2018-10-01,2018-10-31,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2018-10-01,2018-10-31,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2018-10-01,2018-10-31,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2018-10-01,2018-10-31,Q25c,without_children,0
+Data Not Collected,0,veterans,2018-10-01,2018-10-31,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2018-10-01,2018-10-31,Q25c,unknown_household_type,0
+Male,27,veterans,2018-11-01,2018-11-30,Q25c,without_children,26
+Male,27,veterans,2018-11-01,2018-11-30,Q25c,with_children_and_adults,1
+Male,27,veterans,2018-11-01,2018-11-30,Q25c,unknown_household_type,0
+Female,3,veterans,2018-11-01,2018-11-30,Q25c,without_children,1
+Female,3,veterans,2018-11-01,2018-11-30,Q25c,with_children_and_adults,2
+Female,3,veterans,2018-11-01,2018-11-30,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2018-11-01,2018-11-30,Q25c,without_children,0
+No Single Gender,0,veterans,2018-11-01,2018-11-30,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2018-11-01,2018-11-30,Q25c,unknown_household_type,0
+Questioning,0,veterans,2018-11-01,2018-11-30,Q25c,without_children,0
+Questioning,0,veterans,2018-11-01,2018-11-30,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2018-11-01,2018-11-30,Q25c,unknown_household_type,0
+Transgender,0,veterans,2018-11-01,2018-11-30,Q25c,without_children,0
+Transgender,0,veterans,2018-11-01,2018-11-30,Q25c,with_children_and_adults,0
+Transgender,0,veterans,2018-11-01,2018-11-30,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2018-11-01,2018-11-30,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2018-11-01,2018-11-30,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2018-11-01,2018-11-30,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2018-11-01,2018-11-30,Q25c,without_children,0
+Data Not Collected,0,veterans,2018-11-01,2018-11-30,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2018-11-01,2018-11-30,Q25c,unknown_household_type,0
+Male,37,veterans,2018-12-01,2018-12-31,Q25c,without_children,35
+Male,37,veterans,2018-12-01,2018-12-31,Q25c,with_children_and_adults,2
+Male,37,veterans,2018-12-01,2018-12-31,Q25c,unknown_household_type,0
+Female,3,veterans,2018-12-01,2018-12-31,Q25c,without_children,1
+Female,3,veterans,2018-12-01,2018-12-31,Q25c,with_children_and_adults,2
+Female,3,veterans,2018-12-01,2018-12-31,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2018-12-01,2018-12-31,Q25c,without_children,0
+No Single Gender,0,veterans,2018-12-01,2018-12-31,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2018-12-01,2018-12-31,Q25c,unknown_household_type,0
+Questioning,0,veterans,2018-12-01,2018-12-31,Q25c,without_children,0
+Questioning,0,veterans,2018-12-01,2018-12-31,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2018-12-01,2018-12-31,Q25c,unknown_household_type,0
+Transgender,0,veterans,2018-12-01,2018-12-31,Q25c,without_children,0
+Transgender,0,veterans,2018-12-01,2018-12-31,Q25c,with_children_and_adults,0
+Transgender,0,veterans,2018-12-01,2018-12-31,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2018-12-01,2018-12-31,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2018-12-01,2018-12-31,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2018-12-01,2018-12-31,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2018-12-01,2018-12-31,Q25c,without_children,0
+Data Not Collected,0,veterans,2018-12-01,2018-12-31,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2018-12-01,2018-12-31,Q25c,unknown_household_type,0
+Male,41,veterans,2019-01-01,2019-01-31,Q25c,without_children,39
+Male,41,veterans,2019-01-01,2019-01-31,Q25c,with_children_and_adults,2
+Male,41,veterans,2019-01-01,2019-01-31,Q25c,unknown_household_type,0
+Female,3,veterans,2019-01-01,2019-01-31,Q25c,without_children,1
+Female,3,veterans,2019-01-01,2019-01-31,Q25c,with_children_and_adults,2
+Female,3,veterans,2019-01-01,2019-01-31,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2019-01-01,2019-01-31,Q25c,without_children,0
+No Single Gender,0,veterans,2019-01-01,2019-01-31,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2019-01-01,2019-01-31,Q25c,unknown_household_type,0
+Questioning,0,veterans,2019-01-01,2019-01-31,Q25c,without_children,0
+Questioning,0,veterans,2019-01-01,2019-01-31,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2019-01-01,2019-01-31,Q25c,unknown_household_type,0
+Transgender,0,veterans,2019-01-01,2019-01-31,Q25c,without_children,0
+Transgender,0,veterans,2019-01-01,2019-01-31,Q25c,with_children_and_adults,0
+Transgender,0,veterans,2019-01-01,2019-01-31,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2019-01-01,2019-01-31,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2019-01-01,2019-01-31,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2019-01-01,2019-01-31,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2019-01-01,2019-01-31,Q25c,without_children,0
+Data Not Collected,0,veterans,2019-01-01,2019-01-31,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2019-01-01,2019-01-31,Q25c,unknown_household_type,0
+Male,38,veterans,2019-02-01,2019-02-28,Q25c,without_children,36
+Male,38,veterans,2019-02-01,2019-02-28,Q25c,with_children_and_adults,2
+Male,38,veterans,2019-02-01,2019-02-28,Q25c,unknown_household_type,0
+Female,4,veterans,2019-02-01,2019-02-28,Q25c,without_children,2
+Female,4,veterans,2019-02-01,2019-02-28,Q25c,with_children_and_adults,2
+Female,4,veterans,2019-02-01,2019-02-28,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2019-02-01,2019-02-28,Q25c,without_children,0
+No Single Gender,0,veterans,2019-02-01,2019-02-28,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2019-02-01,2019-02-28,Q25c,unknown_household_type,0
+Questioning,0,veterans,2019-02-01,2019-02-28,Q25c,without_children,0
+Questioning,0,veterans,2019-02-01,2019-02-28,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2019-02-01,2019-02-28,Q25c,unknown_household_type,0
+Transgender,0,veterans,2019-02-01,2019-02-28,Q25c,without_children,0
+Transgender,0,veterans,2019-02-01,2019-02-28,Q25c,with_children_and_adults,0
+Transgender,0,veterans,2019-02-01,2019-02-28,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2019-02-01,2019-02-28,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2019-02-01,2019-02-28,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2019-02-01,2019-02-28,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2019-02-01,2019-02-28,Q25c,without_children,0
+Data Not Collected,0,veterans,2019-02-01,2019-02-28,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2019-02-01,2019-02-28,Q25c,unknown_household_type,0
+Male,37,veterans,2019-03-01,2019-03-31,Q25c,without_children,36
+Male,37,veterans,2019-03-01,2019-03-31,Q25c,with_children_and_adults,1
+Male,37,veterans,2019-03-01,2019-03-31,Q25c,unknown_household_type,0
+Female,6,veterans,2019-03-01,2019-03-31,Q25c,without_children,3
+Female,6,veterans,2019-03-01,2019-03-31,Q25c,with_children_and_adults,3
+Female,6,veterans,2019-03-01,2019-03-31,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2019-03-01,2019-03-31,Q25c,without_children,0
+No Single Gender,0,veterans,2019-03-01,2019-03-31,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2019-03-01,2019-03-31,Q25c,unknown_household_type,0
+Questioning,0,veterans,2019-03-01,2019-03-31,Q25c,without_children,0
+Questioning,0,veterans,2019-03-01,2019-03-31,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2019-03-01,2019-03-31,Q25c,unknown_household_type,0
+Transgender,0,veterans,2019-03-01,2019-03-31,Q25c,without_children,0
+Transgender,0,veterans,2019-03-01,2019-03-31,Q25c,with_children_and_adults,0
+Transgender,0,veterans,2019-03-01,2019-03-31,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2019-03-01,2019-03-31,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2019-03-01,2019-03-31,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2019-03-01,2019-03-31,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2019-03-01,2019-03-31,Q25c,without_children,0
+Data Not Collected,0,veterans,2019-03-01,2019-03-31,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2019-03-01,2019-03-31,Q25c,unknown_household_type,0
+Male,36,veterans,2019-04-01,2019-04-30,Q25c,without_children,35
+Male,36,veterans,2019-04-01,2019-04-30,Q25c,with_children_and_adults,1
+Male,36,veterans,2019-04-01,2019-04-30,Q25c,unknown_household_type,0
+Female,14,veterans,2019-04-01,2019-04-30,Q25c,without_children,11
+Female,14,veterans,2019-04-01,2019-04-30,Q25c,with_children_and_adults,3
+Female,14,veterans,2019-04-01,2019-04-30,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2019-04-01,2019-04-30,Q25c,without_children,0
+No Single Gender,0,veterans,2019-04-01,2019-04-30,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2019-04-01,2019-04-30,Q25c,unknown_household_type,0
+Questioning,0,veterans,2019-04-01,2019-04-30,Q25c,without_children,0
+Questioning,0,veterans,2019-04-01,2019-04-30,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2019-04-01,2019-04-30,Q25c,unknown_household_type,0
+Transgender,1,veterans,2019-04-01,2019-04-30,Q25c,without_children,1
+Transgender,1,veterans,2019-04-01,2019-04-30,Q25c,with_children_and_adults,0
+Transgender,1,veterans,2019-04-01,2019-04-30,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2019-04-01,2019-04-30,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2019-04-01,2019-04-30,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2019-04-01,2019-04-30,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2019-04-01,2019-04-30,Q25c,without_children,0
+Data Not Collected,0,veterans,2019-04-01,2019-04-30,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2019-04-01,2019-04-30,Q25c,unknown_household_type,0
+Male,36,veterans,2019-05-01,2019-05-31,Q25c,without_children,35
+Male,36,veterans,2019-05-01,2019-05-31,Q25c,with_children_and_adults,1
+Male,36,veterans,2019-05-01,2019-05-31,Q25c,unknown_household_type,0
+Female,6,veterans,2019-05-01,2019-05-31,Q25c,without_children,3
+Female,6,veterans,2019-05-01,2019-05-31,Q25c,with_children_and_adults,3
+Female,6,veterans,2019-05-01,2019-05-31,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2019-05-01,2019-05-31,Q25c,without_children,0
+No Single Gender,0,veterans,2019-05-01,2019-05-31,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2019-05-01,2019-05-31,Q25c,unknown_household_type,0
+Questioning,0,veterans,2019-05-01,2019-05-31,Q25c,without_children,0
+Questioning,0,veterans,2019-05-01,2019-05-31,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2019-05-01,2019-05-31,Q25c,unknown_household_type,0
+Transgender,0,veterans,2019-05-01,2019-05-31,Q25c,without_children,0
+Transgender,0,veterans,2019-05-01,2019-05-31,Q25c,with_children_and_adults,0
+Transgender,0,veterans,2019-05-01,2019-05-31,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2019-05-01,2019-05-31,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2019-05-01,2019-05-31,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2019-05-01,2019-05-31,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2019-05-01,2019-05-31,Q25c,without_children,0
+Data Not Collected,0,veterans,2019-05-01,2019-05-31,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2019-05-01,2019-05-31,Q25c,unknown_household_type,0
+Male,32,veterans,2019-06-01,2019-06-30,Q25c,without_children,31
+Male,32,veterans,2019-06-01,2019-06-30,Q25c,with_children_and_adults,1
+Male,32,veterans,2019-06-01,2019-06-30,Q25c,unknown_household_type,0
+Female,7,veterans,2019-06-01,2019-06-30,Q25c,without_children,4
+Female,7,veterans,2019-06-01,2019-06-30,Q25c,with_children_and_adults,3
+Female,7,veterans,2019-06-01,2019-06-30,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2019-06-01,2019-06-30,Q25c,without_children,0
+No Single Gender,0,veterans,2019-06-01,2019-06-30,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2019-06-01,2019-06-30,Q25c,unknown_household_type,0
+Questioning,0,veterans,2019-06-01,2019-06-30,Q25c,without_children,0
+Questioning,0,veterans,2019-06-01,2019-06-30,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2019-06-01,2019-06-30,Q25c,unknown_household_type,0
+Transgender,0,veterans,2019-06-01,2019-06-30,Q25c,without_children,0
+Transgender,0,veterans,2019-06-01,2019-06-30,Q25c,with_children_and_adults,0
+Transgender,0,veterans,2019-06-01,2019-06-30,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2019-06-01,2019-06-30,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2019-06-01,2019-06-30,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2019-06-01,2019-06-30,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2019-06-01,2019-06-30,Q25c,without_children,0
+Data Not Collected,0,veterans,2019-06-01,2019-06-30,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2019-06-01,2019-06-30,Q25c,unknown_household_type,0
+Male,32,veterans,2019-07-01,2019-07-31,Q25c,without_children,30
+Male,32,veterans,2019-07-01,2019-07-31,Q25c,with_children_and_adults,2
+Male,32,veterans,2019-07-01,2019-07-31,Q25c,unknown_household_type,0
+Female,10,veterans,2019-07-01,2019-07-31,Q25c,without_children,6
+Female,10,veterans,2019-07-01,2019-07-31,Q25c,with_children_and_adults,3
+Female,10,veterans,2019-07-01,2019-07-31,Q25c,unknown_household_type,1
+No Single Gender,0,veterans,2019-07-01,2019-07-31,Q25c,without_children,0
+No Single Gender,0,veterans,2019-07-01,2019-07-31,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2019-07-01,2019-07-31,Q25c,unknown_household_type,0
+Questioning,0,veterans,2019-07-01,2019-07-31,Q25c,without_children,0
+Questioning,0,veterans,2019-07-01,2019-07-31,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2019-07-01,2019-07-31,Q25c,unknown_household_type,0
+Transgender,0,veterans,2019-07-01,2019-07-31,Q25c,without_children,0
+Transgender,0,veterans,2019-07-01,2019-07-31,Q25c,with_children_and_adults,0
+Transgender,0,veterans,2019-07-01,2019-07-31,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2019-07-01,2019-07-31,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2019-07-01,2019-07-31,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2019-07-01,2019-07-31,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2019-07-01,2019-07-31,Q25c,without_children,0
+Data Not Collected,0,veterans,2019-07-01,2019-07-31,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2019-07-01,2019-07-31,Q25c,unknown_household_type,0
+Male,34,veterans,2019-08-01,2019-08-31,Q25c,without_children,34
+Male,34,veterans,2019-08-01,2019-08-31,Q25c,with_children_and_adults,0
+Male,34,veterans,2019-08-01,2019-08-31,Q25c,unknown_household_type,0
+Female,8,veterans,2019-08-01,2019-08-31,Q25c,without_children,3
+Female,8,veterans,2019-08-01,2019-08-31,Q25c,with_children_and_adults,4
+Female,8,veterans,2019-08-01,2019-08-31,Q25c,unknown_household_type,1
+No Single Gender,0,veterans,2019-08-01,2019-08-31,Q25c,without_children,0
+No Single Gender,0,veterans,2019-08-01,2019-08-31,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2019-08-01,2019-08-31,Q25c,unknown_household_type,0
+Questioning,0,veterans,2019-08-01,2019-08-31,Q25c,without_children,0
+Questioning,0,veterans,2019-08-01,2019-08-31,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2019-08-01,2019-08-31,Q25c,unknown_household_type,0
+Transgender,1,veterans,2019-08-01,2019-08-31,Q25c,without_children,1
+Transgender,1,veterans,2019-08-01,2019-08-31,Q25c,with_children_and_adults,0
+Transgender,1,veterans,2019-08-01,2019-08-31,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2019-08-01,2019-08-31,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2019-08-01,2019-08-31,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2019-08-01,2019-08-31,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2019-08-01,2019-08-31,Q25c,without_children,0
+Data Not Collected,0,veterans,2019-08-01,2019-08-31,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2019-08-01,2019-08-31,Q25c,unknown_household_type,0
+Male,31,veterans,2019-09-01,2019-09-30,Q25c,without_children,31
+Male,31,veterans,2019-09-01,2019-09-30,Q25c,with_children_and_adults,0
+Male,31,veterans,2019-09-01,2019-09-30,Q25c,unknown_household_type,0
+Female,7,veterans,2019-09-01,2019-09-30,Q25c,without_children,3
+Female,7,veterans,2019-09-01,2019-09-30,Q25c,with_children_and_adults,3
+Female,7,veterans,2019-09-01,2019-09-30,Q25c,unknown_household_type,1
+No Single Gender,0,veterans,2019-09-01,2019-09-30,Q25c,without_children,0
+No Single Gender,0,veterans,2019-09-01,2019-09-30,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2019-09-01,2019-09-30,Q25c,unknown_household_type,0
+Questioning,0,veterans,2019-09-01,2019-09-30,Q25c,without_children,0
+Questioning,0,veterans,2019-09-01,2019-09-30,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2019-09-01,2019-09-30,Q25c,unknown_household_type,0
+Transgender,0,veterans,2019-09-01,2019-09-30,Q25c,without_children,0
+Transgender,0,veterans,2019-09-01,2019-09-30,Q25c,with_children_and_adults,0
+Transgender,0,veterans,2019-09-01,2019-09-30,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2019-09-01,2019-09-30,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2019-09-01,2019-09-30,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2019-09-01,2019-09-30,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2019-09-01,2019-09-30,Q25c,without_children,0
+Data Not Collected,0,veterans,2019-09-01,2019-09-30,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2019-09-01,2019-09-30,Q25c,unknown_household_type,0
+Male,37,veterans,2019-10-01,2019-10-31,Q25c,without_children,36
+Male,37,veterans,2019-10-01,2019-10-31,Q25c,with_children_and_adults,1
+Male,37,veterans,2019-10-01,2019-10-31,Q25c,unknown_household_type,0
+Female,7,veterans,2019-10-01,2019-10-31,Q25c,without_children,3
+Female,7,veterans,2019-10-01,2019-10-31,Q25c,with_children_and_adults,3
+Female,7,veterans,2019-10-01,2019-10-31,Q25c,unknown_household_type,1
+No Single Gender,0,veterans,2019-10-01,2019-10-31,Q25c,without_children,0
+No Single Gender,0,veterans,2019-10-01,2019-10-31,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2019-10-01,2019-10-31,Q25c,unknown_household_type,0
+Questioning,0,veterans,2019-10-01,2019-10-31,Q25c,without_children,0
+Questioning,0,veterans,2019-10-01,2019-10-31,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2019-10-01,2019-10-31,Q25c,unknown_household_type,0
+Transgender,0,veterans,2019-10-01,2019-10-31,Q25c,without_children,0
+Transgender,0,veterans,2019-10-01,2019-10-31,Q25c,with_children_and_adults,0
+Transgender,0,veterans,2019-10-01,2019-10-31,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2019-10-01,2019-10-31,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2019-10-01,2019-10-31,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2019-10-01,2019-10-31,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2019-10-01,2019-10-31,Q25c,without_children,0
+Data Not Collected,0,veterans,2019-10-01,2019-10-31,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2019-10-01,2019-10-31,Q25c,unknown_household_type,0
+Male,38,veterans,2019-11-01,2019-11-30,Q25c,without_children,36
+Male,38,veterans,2019-11-01,2019-11-30,Q25c,with_children_and_adults,2
+Male,38,veterans,2019-11-01,2019-11-30,Q25c,unknown_household_type,0
+Female,5,veterans,2019-11-01,2019-11-30,Q25c,without_children,1
+Female,5,veterans,2019-11-01,2019-11-30,Q25c,with_children_and_adults,3
+Female,5,veterans,2019-11-01,2019-11-30,Q25c,unknown_household_type,1
+No Single Gender,0,veterans,2019-11-01,2019-11-30,Q25c,without_children,0
+No Single Gender,0,veterans,2019-11-01,2019-11-30,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2019-11-01,2019-11-30,Q25c,unknown_household_type,0
+Questioning,0,veterans,2019-11-01,2019-11-30,Q25c,without_children,0
+Questioning,0,veterans,2019-11-01,2019-11-30,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2019-11-01,2019-11-30,Q25c,unknown_household_type,0
+Transgender,0,veterans,2019-11-01,2019-11-30,Q25c,without_children,0
+Transgender,0,veterans,2019-11-01,2019-11-30,Q25c,with_children_and_adults,0
+Transgender,0,veterans,2019-11-01,2019-11-30,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2019-11-01,2019-11-30,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2019-11-01,2019-11-30,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2019-11-01,2019-11-30,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2019-11-01,2019-11-30,Q25c,without_children,0
+Data Not Collected,0,veterans,2019-11-01,2019-11-30,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2019-11-01,2019-11-30,Q25c,unknown_household_type,0
+Male,44,veterans,2019-12-01,2019-12-31,Q25c,without_children,41
+Male,44,veterans,2019-12-01,2019-12-31,Q25c,with_children_and_adults,3
+Male,44,veterans,2019-12-01,2019-12-31,Q25c,unknown_household_type,0
+Female,4,veterans,2019-12-01,2019-12-31,Q25c,without_children,1
+Female,4,veterans,2019-12-01,2019-12-31,Q25c,with_children_and_adults,2
+Female,4,veterans,2019-12-01,2019-12-31,Q25c,unknown_household_type,1
+No Single Gender,0,veterans,2019-12-01,2019-12-31,Q25c,without_children,0
+No Single Gender,0,veterans,2019-12-01,2019-12-31,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2019-12-01,2019-12-31,Q25c,unknown_household_type,0
+Questioning,0,veterans,2019-12-01,2019-12-31,Q25c,without_children,0
+Questioning,0,veterans,2019-12-01,2019-12-31,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2019-12-01,2019-12-31,Q25c,unknown_household_type,0
+Transgender,0,veterans,2019-12-01,2019-12-31,Q25c,without_children,0
+Transgender,0,veterans,2019-12-01,2019-12-31,Q25c,with_children_and_adults,0
+Transgender,0,veterans,2019-12-01,2019-12-31,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2019-12-01,2019-12-31,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2019-12-01,2019-12-31,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2019-12-01,2019-12-31,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2019-12-01,2019-12-31,Q25c,without_children,0
+Data Not Collected,0,veterans,2019-12-01,2019-12-31,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2019-12-01,2019-12-31,Q25c,unknown_household_type,0
+Male,42,veterans,2020-01-01,2020-01-31,Q25c,without_children,41
+Male,42,veterans,2020-01-01,2020-01-31,Q25c,with_children_and_adults,1
+Male,42,veterans,2020-01-01,2020-01-31,Q25c,unknown_household_type,0
+Female,7,veterans,2020-01-01,2020-01-31,Q25c,without_children,2
+Female,7,veterans,2020-01-01,2020-01-31,Q25c,with_children_and_adults,4
+Female,7,veterans,2020-01-01,2020-01-31,Q25c,unknown_household_type,1
+No Single Gender,0,veterans,2020-01-01,2020-01-31,Q25c,without_children,0
+No Single Gender,0,veterans,2020-01-01,2020-01-31,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2020-01-01,2020-01-31,Q25c,unknown_household_type,0
+Questioning,0,veterans,2020-01-01,2020-01-31,Q25c,without_children,0
+Questioning,0,veterans,2020-01-01,2020-01-31,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2020-01-01,2020-01-31,Q25c,unknown_household_type,0
+Transgender,0,veterans,2020-01-01,2020-01-31,Q25c,without_children,0
+Transgender,0,veterans,2020-01-01,2020-01-31,Q25c,with_children_and_adults,0
+Transgender,0,veterans,2020-01-01,2020-01-31,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2020-01-01,2020-01-31,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2020-01-01,2020-01-31,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2020-01-01,2020-01-31,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2020-01-01,2020-01-31,Q25c,without_children,0
+Data Not Collected,0,veterans,2020-01-01,2020-01-31,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2020-01-01,2020-01-31,Q25c,unknown_household_type,0
+Male,48,veterans,2020-02-01,2020-02-29,Q25c,without_children,47
+Male,48,veterans,2020-02-01,2020-02-29,Q25c,with_children_and_adults,1
+Male,48,veterans,2020-02-01,2020-02-29,Q25c,unknown_household_type,0
+Female,4,veterans,2020-02-01,2020-02-29,Q25c,without_children,1
+Female,4,veterans,2020-02-01,2020-02-29,Q25c,with_children_and_adults,2
+Female,4,veterans,2020-02-01,2020-02-29,Q25c,unknown_household_type,1
+No Single Gender,0,veterans,2020-02-01,2020-02-29,Q25c,without_children,0
+No Single Gender,0,veterans,2020-02-01,2020-02-29,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2020-02-01,2020-02-29,Q25c,unknown_household_type,0
+Questioning,0,veterans,2020-02-01,2020-02-29,Q25c,without_children,0
+Questioning,0,veterans,2020-02-01,2020-02-29,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2020-02-01,2020-02-29,Q25c,unknown_household_type,0
+Transgender,1,veterans,2020-02-01,2020-02-29,Q25c,without_children,1
+Transgender,1,veterans,2020-02-01,2020-02-29,Q25c,with_children_and_adults,0
+Transgender,1,veterans,2020-02-01,2020-02-29,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2020-02-01,2020-02-29,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2020-02-01,2020-02-29,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2020-02-01,2020-02-29,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2020-02-01,2020-02-29,Q25c,without_children,0
+Data Not Collected,0,veterans,2020-02-01,2020-02-29,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2020-02-01,2020-02-29,Q25c,unknown_household_type,0
+Male,45,veterans,2020-03-01,2020-03-31,Q25c,without_children,44
+Male,45,veterans,2020-03-01,2020-03-31,Q25c,with_children_and_adults,1
+Male,45,veterans,2020-03-01,2020-03-31,Q25c,unknown_household_type,0
+Female,4,veterans,2020-03-01,2020-03-31,Q25c,without_children,1
+Female,4,veterans,2020-03-01,2020-03-31,Q25c,with_children_and_adults,2
+Female,4,veterans,2020-03-01,2020-03-31,Q25c,unknown_household_type,1
+No Single Gender,0,veterans,2020-03-01,2020-03-31,Q25c,without_children,0
+No Single Gender,0,veterans,2020-03-01,2020-03-31,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2020-03-01,2020-03-31,Q25c,unknown_household_type,0
+Questioning,0,veterans,2020-03-01,2020-03-31,Q25c,without_children,0
+Questioning,0,veterans,2020-03-01,2020-03-31,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2020-03-01,2020-03-31,Q25c,unknown_household_type,0
+Transgender,0,veterans,2020-03-01,2020-03-31,Q25c,without_children,0
+Transgender,0,veterans,2020-03-01,2020-03-31,Q25c,with_children_and_adults,0
+Transgender,0,veterans,2020-03-01,2020-03-31,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2020-03-01,2020-03-31,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2020-03-01,2020-03-31,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2020-03-01,2020-03-31,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2020-03-01,2020-03-31,Q25c,without_children,0
+Data Not Collected,0,veterans,2020-03-01,2020-03-31,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2020-03-01,2020-03-31,Q25c,unknown_household_type,0
+Male,42,veterans,2020-04-01,2020-04-30,Q25c,without_children,42
+Male,42,veterans,2020-04-01,2020-04-30,Q25c,with_children_and_adults,0
+Male,42,veterans,2020-04-01,2020-04-30,Q25c,unknown_household_type,0
+Female,5,veterans,2020-04-01,2020-04-30,Q25c,without_children,2
+Female,5,veterans,2020-04-01,2020-04-30,Q25c,with_children_and_adults,2
+Female,5,veterans,2020-04-01,2020-04-30,Q25c,unknown_household_type,1
+No Single Gender,0,veterans,2020-04-01,2020-04-30,Q25c,without_children,0
+No Single Gender,0,veterans,2020-04-01,2020-04-30,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2020-04-01,2020-04-30,Q25c,unknown_household_type,0
+Questioning,0,veterans,2020-04-01,2020-04-30,Q25c,without_children,0
+Questioning,0,veterans,2020-04-01,2020-04-30,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2020-04-01,2020-04-30,Q25c,unknown_household_type,0
+Transgender,1,veterans,2020-04-01,2020-04-30,Q25c,without_children,1
+Transgender,1,veterans,2020-04-01,2020-04-30,Q25c,with_children_and_adults,0
+Transgender,1,veterans,2020-04-01,2020-04-30,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2020-04-01,2020-04-30,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2020-04-01,2020-04-30,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2020-04-01,2020-04-30,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2020-04-01,2020-04-30,Q25c,without_children,0
+Data Not Collected,0,veterans,2020-04-01,2020-04-30,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2020-04-01,2020-04-30,Q25c,unknown_household_type,0
+Male,46,veterans,2020-05-01,2020-05-31,Q25c,without_children,46
+Male,46,veterans,2020-05-01,2020-05-31,Q25c,with_children_and_adults,0
+Male,46,veterans,2020-05-01,2020-05-31,Q25c,unknown_household_type,0
+Female,4,veterans,2020-05-01,2020-05-31,Q25c,without_children,2
+Female,4,veterans,2020-05-01,2020-05-31,Q25c,with_children_and_adults,2
+Female,4,veterans,2020-05-01,2020-05-31,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2020-05-01,2020-05-31,Q25c,without_children,0
+No Single Gender,0,veterans,2020-05-01,2020-05-31,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2020-05-01,2020-05-31,Q25c,unknown_household_type,0
+Questioning,0,veterans,2020-05-01,2020-05-31,Q25c,without_children,0
+Questioning,0,veterans,2020-05-01,2020-05-31,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2020-05-01,2020-05-31,Q25c,unknown_household_type,0
+Transgender,1,veterans,2020-05-01,2020-05-31,Q25c,without_children,1
+Transgender,1,veterans,2020-05-01,2020-05-31,Q25c,with_children_and_adults,0
+Transgender,1,veterans,2020-05-01,2020-05-31,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2020-05-01,2020-05-31,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2020-05-01,2020-05-31,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2020-05-01,2020-05-31,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2020-05-01,2020-05-31,Q25c,without_children,0
+Data Not Collected,0,veterans,2020-05-01,2020-05-31,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2020-05-01,2020-05-31,Q25c,unknown_household_type,0
+Male,47,veterans,2020-06-01,2020-06-30,Q25c,without_children,47
+Male,47,veterans,2020-06-01,2020-06-30,Q25c,with_children_and_adults,0
+Male,47,veterans,2020-06-01,2020-06-30,Q25c,unknown_household_type,0
+Female,4,veterans,2020-06-01,2020-06-30,Q25c,without_children,2
+Female,4,veterans,2020-06-01,2020-06-30,Q25c,with_children_and_adults,2
+Female,4,veterans,2020-06-01,2020-06-30,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2020-06-01,2020-06-30,Q25c,without_children,0
+No Single Gender,0,veterans,2020-06-01,2020-06-30,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2020-06-01,2020-06-30,Q25c,unknown_household_type,0
+Questioning,0,veterans,2020-06-01,2020-06-30,Q25c,without_children,0
+Questioning,0,veterans,2020-06-01,2020-06-30,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2020-06-01,2020-06-30,Q25c,unknown_household_type,0
+Transgender,1,veterans,2020-06-01,2020-06-30,Q25c,without_children,1
+Transgender,1,veterans,2020-06-01,2020-06-30,Q25c,with_children_and_adults,0
+Transgender,1,veterans,2020-06-01,2020-06-30,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2020-06-01,2020-06-30,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2020-06-01,2020-06-30,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2020-06-01,2020-06-30,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2020-06-01,2020-06-30,Q25c,without_children,0
+Data Not Collected,0,veterans,2020-06-01,2020-06-30,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2020-06-01,2020-06-30,Q25c,unknown_household_type,0
+Male,44,veterans,2020-07-01,2020-07-31,Q25c,without_children,44
+Male,44,veterans,2020-07-01,2020-07-31,Q25c,with_children_and_adults,0
+Male,44,veterans,2020-07-01,2020-07-31,Q25c,unknown_household_type,0
+Female,5,veterans,2020-07-01,2020-07-31,Q25c,without_children,3
+Female,5,veterans,2020-07-01,2020-07-31,Q25c,with_children_and_adults,2
+Female,5,veterans,2020-07-01,2020-07-31,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2020-07-01,2020-07-31,Q25c,without_children,0
+No Single Gender,0,veterans,2020-07-01,2020-07-31,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2020-07-01,2020-07-31,Q25c,unknown_household_type,0
+Questioning,0,veterans,2020-07-01,2020-07-31,Q25c,without_children,0
+Questioning,0,veterans,2020-07-01,2020-07-31,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2020-07-01,2020-07-31,Q25c,unknown_household_type,0
+Transgender,0,veterans,2020-07-01,2020-07-31,Q25c,without_children,0
+Transgender,0,veterans,2020-07-01,2020-07-31,Q25c,with_children_and_adults,0
+Transgender,0,veterans,2020-07-01,2020-07-31,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2020-07-01,2020-07-31,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2020-07-01,2020-07-31,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2020-07-01,2020-07-31,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2020-07-01,2020-07-31,Q25c,without_children,0
+Data Not Collected,0,veterans,2020-07-01,2020-07-31,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2020-07-01,2020-07-31,Q25c,unknown_household_type,0
+Male,39,veterans,2020-08-01,2020-08-31,Q25c,without_children,38
+Male,39,veterans,2020-08-01,2020-08-31,Q25c,with_children_and_adults,1
+Male,39,veterans,2020-08-01,2020-08-31,Q25c,unknown_household_type,0
+Female,6,veterans,2020-08-01,2020-08-31,Q25c,without_children,4
+Female,6,veterans,2020-08-01,2020-08-31,Q25c,with_children_and_adults,2
+Female,6,veterans,2020-08-01,2020-08-31,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2020-08-01,2020-08-31,Q25c,without_children,0
+No Single Gender,0,veterans,2020-08-01,2020-08-31,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2020-08-01,2020-08-31,Q25c,unknown_household_type,0
+Questioning,0,veterans,2020-08-01,2020-08-31,Q25c,without_children,0
+Questioning,0,veterans,2020-08-01,2020-08-31,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2020-08-01,2020-08-31,Q25c,unknown_household_type,0
+Transgender,0,veterans,2020-08-01,2020-08-31,Q25c,without_children,0
+Transgender,0,veterans,2020-08-01,2020-08-31,Q25c,with_children_and_adults,0
+Transgender,0,veterans,2020-08-01,2020-08-31,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2020-08-01,2020-08-31,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2020-08-01,2020-08-31,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2020-08-01,2020-08-31,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2020-08-01,2020-08-31,Q25c,without_children,0
+Data Not Collected,0,veterans,2020-08-01,2020-08-31,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2020-08-01,2020-08-31,Q25c,unknown_household_type,0
+Male,43,veterans,2020-09-01,2020-09-30,Q25c,without_children,43
+Male,43,veterans,2020-09-01,2020-09-30,Q25c,with_children_and_adults,0
+Male,43,veterans,2020-09-01,2020-09-30,Q25c,unknown_household_type,0
+Female,5,veterans,2020-09-01,2020-09-30,Q25c,without_children,3
+Female,5,veterans,2020-09-01,2020-09-30,Q25c,with_children_and_adults,2
+Female,5,veterans,2020-09-01,2020-09-30,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2020-09-01,2020-09-30,Q25c,without_children,0
+No Single Gender,0,veterans,2020-09-01,2020-09-30,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2020-09-01,2020-09-30,Q25c,unknown_household_type,0
+Questioning,0,veterans,2020-09-01,2020-09-30,Q25c,without_children,0
+Questioning,0,veterans,2020-09-01,2020-09-30,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2020-09-01,2020-09-30,Q25c,unknown_household_type,0
+Transgender,1,veterans,2020-09-01,2020-09-30,Q25c,without_children,1
+Transgender,1,veterans,2020-09-01,2020-09-30,Q25c,with_children_and_adults,0
+Transgender,1,veterans,2020-09-01,2020-09-30,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2020-09-01,2020-09-30,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2020-09-01,2020-09-30,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2020-09-01,2020-09-30,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2020-09-01,2020-09-30,Q25c,without_children,0
+Data Not Collected,0,veterans,2020-09-01,2020-09-30,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2020-09-01,2020-09-30,Q25c,unknown_household_type,0
+Male,46,veterans,2020-10-01,2020-10-31,Q25c,without_children,46
+Male,46,veterans,2020-10-01,2020-10-31,Q25c,with_children_and_adults,0
+Male,46,veterans,2020-10-01,2020-10-31,Q25c,unknown_household_type,0
+Female,7,veterans,2020-10-01,2020-10-31,Q25c,without_children,3
+Female,7,veterans,2020-10-01,2020-10-31,Q25c,with_children_and_adults,4
+Female,7,veterans,2020-10-01,2020-10-31,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2020-10-01,2020-10-31,Q25c,without_children,0
+No Single Gender,0,veterans,2020-10-01,2020-10-31,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2020-10-01,2020-10-31,Q25c,unknown_household_type,0
+Questioning,0,veterans,2020-10-01,2020-10-31,Q25c,without_children,0
+Questioning,0,veterans,2020-10-01,2020-10-31,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2020-10-01,2020-10-31,Q25c,unknown_household_type,0
+Transgender,2,veterans,2020-10-01,2020-10-31,Q25c,without_children,2
+Transgender,2,veterans,2020-10-01,2020-10-31,Q25c,with_children_and_adults,0
+Transgender,2,veterans,2020-10-01,2020-10-31,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2020-10-01,2020-10-31,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2020-10-01,2020-10-31,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2020-10-01,2020-10-31,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2020-10-01,2020-10-31,Q25c,without_children,0
+Data Not Collected,0,veterans,2020-10-01,2020-10-31,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2020-10-01,2020-10-31,Q25c,unknown_household_type,0
+Male,44,veterans,2020-11-01,2020-11-30,Q25c,without_children,44
+Male,44,veterans,2020-11-01,2020-11-30,Q25c,with_children_and_adults,0
+Male,44,veterans,2020-11-01,2020-11-30,Q25c,unknown_household_type,0
+Female,8,veterans,2020-11-01,2020-11-30,Q25c,without_children,5
+Female,8,veterans,2020-11-01,2020-11-30,Q25c,with_children_and_adults,3
+Female,8,veterans,2020-11-01,2020-11-30,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2020-11-01,2020-11-30,Q25c,without_children,0
+No Single Gender,0,veterans,2020-11-01,2020-11-30,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2020-11-01,2020-11-30,Q25c,unknown_household_type,0
+Questioning,0,veterans,2020-11-01,2020-11-30,Q25c,without_children,0
+Questioning,0,veterans,2020-11-01,2020-11-30,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2020-11-01,2020-11-30,Q25c,unknown_household_type,0
+Transgender,1,veterans,2020-11-01,2020-11-30,Q25c,without_children,1
+Transgender,1,veterans,2020-11-01,2020-11-30,Q25c,with_children_and_adults,0
+Transgender,1,veterans,2020-11-01,2020-11-30,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2020-11-01,2020-11-30,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2020-11-01,2020-11-30,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2020-11-01,2020-11-30,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2020-11-01,2020-11-30,Q25c,without_children,0
+Data Not Collected,0,veterans,2020-11-01,2020-11-30,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2020-11-01,2020-11-30,Q25c,unknown_household_type,0
+Male,45,veterans,2020-12-01,2020-12-31,Q25c,without_children,45
+Male,45,veterans,2020-12-01,2020-12-31,Q25c,with_children_and_adults,0
+Male,45,veterans,2020-12-01,2020-12-31,Q25c,unknown_household_type,0
+Female,7,veterans,2020-12-01,2020-12-31,Q25c,without_children,4
+Female,7,veterans,2020-12-01,2020-12-31,Q25c,with_children_and_adults,3
+Female,7,veterans,2020-12-01,2020-12-31,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2020-12-01,2020-12-31,Q25c,without_children,0
+No Single Gender,0,veterans,2020-12-01,2020-12-31,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2020-12-01,2020-12-31,Q25c,unknown_household_type,0
+Questioning,0,veterans,2020-12-01,2020-12-31,Q25c,without_children,0
+Questioning,0,veterans,2020-12-01,2020-12-31,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2020-12-01,2020-12-31,Q25c,unknown_household_type,0
+Transgender,2,veterans,2020-12-01,2020-12-31,Q25c,without_children,2
+Transgender,2,veterans,2020-12-01,2020-12-31,Q25c,with_children_and_adults,0
+Transgender,2,veterans,2020-12-01,2020-12-31,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2020-12-01,2020-12-31,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2020-12-01,2020-12-31,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2020-12-01,2020-12-31,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2020-12-01,2020-12-31,Q25c,without_children,0
+Data Not Collected,0,veterans,2020-12-01,2020-12-31,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2020-12-01,2020-12-31,Q25c,unknown_household_type,0
+Male,47,veterans,2021-01-01,2021-01-31,Q25c,without_children,47
+Male,47,veterans,2021-01-01,2021-01-31,Q25c,with_children_and_adults,0
+Male,47,veterans,2021-01-01,2021-01-31,Q25c,unknown_household_type,0
+Female,6,veterans,2021-01-01,2021-01-31,Q25c,without_children,5
+Female,6,veterans,2021-01-01,2021-01-31,Q25c,with_children_and_adults,1
+Female,6,veterans,2021-01-01,2021-01-31,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2021-01-01,2021-01-31,Q25c,without_children,0
+No Single Gender,0,veterans,2021-01-01,2021-01-31,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2021-01-01,2021-01-31,Q25c,unknown_household_type,0
+Questioning,0,veterans,2021-01-01,2021-01-31,Q25c,without_children,0
+Questioning,0,veterans,2021-01-01,2021-01-31,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2021-01-01,2021-01-31,Q25c,unknown_household_type,0
+Transgender,2,veterans,2021-01-01,2021-01-31,Q25c,without_children,2
+Transgender,2,veterans,2021-01-01,2021-01-31,Q25c,with_children_and_adults,0
+Transgender,2,veterans,2021-01-01,2021-01-31,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2021-01-01,2021-01-31,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2021-01-01,2021-01-31,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2021-01-01,2021-01-31,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2021-01-01,2021-01-31,Q25c,without_children,0
+Data Not Collected,0,veterans,2021-01-01,2021-01-31,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2021-01-01,2021-01-31,Q25c,unknown_household_type,0
+Male,44,veterans,2021-02-01,2021-02-28,Q25c,without_children,43
+Male,44,veterans,2021-02-01,2021-02-28,Q25c,with_children_and_adults,1
+Male,44,veterans,2021-02-01,2021-02-28,Q25c,unknown_household_type,0
+Female,4,veterans,2021-02-01,2021-02-28,Q25c,without_children,3
+Female,4,veterans,2021-02-01,2021-02-28,Q25c,with_children_and_adults,1
+Female,4,veterans,2021-02-01,2021-02-28,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2021-02-01,2021-02-28,Q25c,without_children,0
+No Single Gender,0,veterans,2021-02-01,2021-02-28,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2021-02-01,2021-02-28,Q25c,unknown_household_type,0
+Questioning,0,veterans,2021-02-01,2021-02-28,Q25c,without_children,0
+Questioning,0,veterans,2021-02-01,2021-02-28,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2021-02-01,2021-02-28,Q25c,unknown_household_type,0
+Transgender,2,veterans,2021-02-01,2021-02-28,Q25c,without_children,2
+Transgender,2,veterans,2021-02-01,2021-02-28,Q25c,with_children_and_adults,0
+Transgender,2,veterans,2021-02-01,2021-02-28,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2021-02-01,2021-02-28,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2021-02-01,2021-02-28,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2021-02-01,2021-02-28,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2021-02-01,2021-02-28,Q25c,without_children,0
+Data Not Collected,0,veterans,2021-02-01,2021-02-28,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2021-02-01,2021-02-28,Q25c,unknown_household_type,0
+Male,47,veterans,2021-03-01,2021-03-31,Q25c,without_children,46
+Male,47,veterans,2021-03-01,2021-03-31,Q25c,with_children_and_adults,1
+Male,47,veterans,2021-03-01,2021-03-31,Q25c,unknown_household_type,0
+Female,4,veterans,2021-03-01,2021-03-31,Q25c,without_children,3
+Female,4,veterans,2021-03-01,2021-03-31,Q25c,with_children_and_adults,1
+Female,4,veterans,2021-03-01,2021-03-31,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2021-03-01,2021-03-31,Q25c,without_children,0
+No Single Gender,0,veterans,2021-03-01,2021-03-31,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2021-03-01,2021-03-31,Q25c,unknown_household_type,0
+Questioning,0,veterans,2021-03-01,2021-03-31,Q25c,without_children,0
+Questioning,0,veterans,2021-03-01,2021-03-31,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2021-03-01,2021-03-31,Q25c,unknown_household_type,0
+Transgender,2,veterans,2021-03-01,2021-03-31,Q25c,without_children,2
+Transgender,2,veterans,2021-03-01,2021-03-31,Q25c,with_children_and_adults,0
+Transgender,2,veterans,2021-03-01,2021-03-31,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2021-03-01,2021-03-31,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2021-03-01,2021-03-31,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2021-03-01,2021-03-31,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2021-03-01,2021-03-31,Q25c,without_children,0
+Data Not Collected,0,veterans,2021-03-01,2021-03-31,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2021-03-01,2021-03-31,Q25c,unknown_household_type,0
+Male,45,veterans,2021-04-01,2021-04-30,Q25c,without_children,44
+Male,45,veterans,2021-04-01,2021-04-30,Q25c,with_children_and_adults,1
+Male,45,veterans,2021-04-01,2021-04-30,Q25c,unknown_household_type,0
+Female,5,veterans,2021-04-01,2021-04-30,Q25c,without_children,4
+Female,5,veterans,2021-04-01,2021-04-30,Q25c,with_children_and_adults,1
+Female,5,veterans,2021-04-01,2021-04-30,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2021-04-01,2021-04-30,Q25c,without_children,0
+No Single Gender,0,veterans,2021-04-01,2021-04-30,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2021-04-01,2021-04-30,Q25c,unknown_household_type,0
+Questioning,0,veterans,2021-04-01,2021-04-30,Q25c,without_children,0
+Questioning,0,veterans,2021-04-01,2021-04-30,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2021-04-01,2021-04-30,Q25c,unknown_household_type,0
+Transgender,2,veterans,2021-04-01,2021-04-30,Q25c,without_children,2
+Transgender,2,veterans,2021-04-01,2021-04-30,Q25c,with_children_and_adults,0
+Transgender,2,veterans,2021-04-01,2021-04-30,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2021-04-01,2021-04-30,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2021-04-01,2021-04-30,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2021-04-01,2021-04-30,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2021-04-01,2021-04-30,Q25c,without_children,0
+Data Not Collected,0,veterans,2021-04-01,2021-04-30,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2021-04-01,2021-04-30,Q25c,unknown_household_type,0
+Male,49,veterans,2021-05-01,2021-05-31,Q25c,without_children,48
+Male,49,veterans,2021-05-01,2021-05-31,Q25c,with_children_and_adults,1
+Male,49,veterans,2021-05-01,2021-05-31,Q25c,unknown_household_type,0
+Female,4,veterans,2021-05-01,2021-05-31,Q25c,without_children,4
+Female,4,veterans,2021-05-01,2021-05-31,Q25c,with_children_and_adults,0
+Female,4,veterans,2021-05-01,2021-05-31,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2021-05-01,2021-05-31,Q25c,without_children,0
+No Single Gender,0,veterans,2021-05-01,2021-05-31,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2021-05-01,2021-05-31,Q25c,unknown_household_type,0
+Questioning,0,veterans,2021-05-01,2021-05-31,Q25c,without_children,0
+Questioning,0,veterans,2021-05-01,2021-05-31,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2021-05-01,2021-05-31,Q25c,unknown_household_type,0
+Transgender,2,veterans,2021-05-01,2021-05-31,Q25c,without_children,2
+Transgender,2,veterans,2021-05-01,2021-05-31,Q25c,with_children_and_adults,0
+Transgender,2,veterans,2021-05-01,2021-05-31,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2021-05-01,2021-05-31,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2021-05-01,2021-05-31,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2021-05-01,2021-05-31,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2021-05-01,2021-05-31,Q25c,without_children,0
+Data Not Collected,0,veterans,2021-05-01,2021-05-31,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2021-05-01,2021-05-31,Q25c,unknown_household_type,0
+Male,49,veterans,2021-06-01,2021-06-30,Q25c,without_children,48
+Male,49,veterans,2021-06-01,2021-06-30,Q25c,with_children_and_adults,1
+Male,49,veterans,2021-06-01,2021-06-30,Q25c,unknown_household_type,0
+Female,4,veterans,2021-06-01,2021-06-30,Q25c,without_children,4
+Female,4,veterans,2021-06-01,2021-06-30,Q25c,with_children_and_adults,0
+Female,4,veterans,2021-06-01,2021-06-30,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2021-06-01,2021-06-30,Q25c,without_children,0
+No Single Gender,0,veterans,2021-06-01,2021-06-30,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2021-06-01,2021-06-30,Q25c,unknown_household_type,0
+Questioning,0,veterans,2021-06-01,2021-06-30,Q25c,without_children,0
+Questioning,0,veterans,2021-06-01,2021-06-30,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2021-06-01,2021-06-30,Q25c,unknown_household_type,0
+Transgender,2,veterans,2021-06-01,2021-06-30,Q25c,without_children,2
+Transgender,2,veterans,2021-06-01,2021-06-30,Q25c,with_children_and_adults,0
+Transgender,2,veterans,2021-06-01,2021-06-30,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2021-06-01,2021-06-30,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2021-06-01,2021-06-30,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2021-06-01,2021-06-30,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2021-06-01,2021-06-30,Q25c,without_children,0
+Data Not Collected,0,veterans,2021-06-01,2021-06-30,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2021-06-01,2021-06-30,Q25c,unknown_household_type,0
+Male,50,veterans,2021-07-01,2021-07-31,Q25c,without_children,50
+Male,50,veterans,2021-07-01,2021-07-31,Q25c,with_children_and_adults,0
+Male,50,veterans,2021-07-01,2021-07-31,Q25c,unknown_household_type,0
+Female,4,veterans,2021-07-01,2021-07-31,Q25c,without_children,4
+Female,4,veterans,2021-07-01,2021-07-31,Q25c,with_children_and_adults,0
+Female,4,veterans,2021-07-01,2021-07-31,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2021-07-01,2021-07-31,Q25c,without_children,0
+No Single Gender,0,veterans,2021-07-01,2021-07-31,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2021-07-01,2021-07-31,Q25c,unknown_household_type,0
+Questioning,0,veterans,2021-07-01,2021-07-31,Q25c,without_children,0
+Questioning,0,veterans,2021-07-01,2021-07-31,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2021-07-01,2021-07-31,Q25c,unknown_household_type,0
+Transgender,1,veterans,2021-07-01,2021-07-31,Q25c,without_children,1
+Transgender,1,veterans,2021-07-01,2021-07-31,Q25c,with_children_and_adults,0
+Transgender,1,veterans,2021-07-01,2021-07-31,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2021-07-01,2021-07-31,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2021-07-01,2021-07-31,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2021-07-01,2021-07-31,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2021-07-01,2021-07-31,Q25c,without_children,0
+Data Not Collected,0,veterans,2021-07-01,2021-07-31,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2021-07-01,2021-07-31,Q25c,unknown_household_type,0
+Male,56,veterans,2021-08-01,2021-08-31,Q25c,without_children,56
+Male,56,veterans,2021-08-01,2021-08-31,Q25c,with_children_and_adults,0
+Male,56,veterans,2021-08-01,2021-08-31,Q25c,unknown_household_type,0
+Female,10,veterans,2021-08-01,2021-08-31,Q25c,without_children,9
+Female,10,veterans,2021-08-01,2021-08-31,Q25c,with_children_and_adults,1
+Female,10,veterans,2021-08-01,2021-08-31,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2021-08-01,2021-08-31,Q25c,without_children,0
+No Single Gender,0,veterans,2021-08-01,2021-08-31,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2021-08-01,2021-08-31,Q25c,unknown_household_type,0
+Questioning,0,veterans,2021-08-01,2021-08-31,Q25c,without_children,0
+Questioning,0,veterans,2021-08-01,2021-08-31,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2021-08-01,2021-08-31,Q25c,unknown_household_type,0
+Transgender,1,veterans,2021-08-01,2021-08-31,Q25c,without_children,1
+Transgender,1,veterans,2021-08-01,2021-08-31,Q25c,with_children_and_adults,0
+Transgender,1,veterans,2021-08-01,2021-08-31,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2021-08-01,2021-08-31,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2021-08-01,2021-08-31,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2021-08-01,2021-08-31,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2021-08-01,2021-08-31,Q25c,without_children,0
+Data Not Collected,0,veterans,2021-08-01,2021-08-31,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2021-08-01,2021-08-31,Q25c,unknown_household_type,0
+Male,62,veterans,2021-09-01,2021-09-30,Q25c,without_children,62
+Male,62,veterans,2021-09-01,2021-09-30,Q25c,with_children_and_adults,0
+Male,62,veterans,2021-09-01,2021-09-30,Q25c,unknown_household_type,0
+Female,13,veterans,2021-09-01,2021-09-30,Q25c,without_children,8
+Female,13,veterans,2021-09-01,2021-09-30,Q25c,with_children_and_adults,5
+Female,13,veterans,2021-09-01,2021-09-30,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2021-09-01,2021-09-30,Q25c,without_children,0
+No Single Gender,0,veterans,2021-09-01,2021-09-30,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2021-09-01,2021-09-30,Q25c,unknown_household_type,0
+Questioning,0,veterans,2021-09-01,2021-09-30,Q25c,without_children,0
+Questioning,0,veterans,2021-09-01,2021-09-30,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2021-09-01,2021-09-30,Q25c,unknown_household_type,0
+Transgender,1,veterans,2021-09-01,2021-09-30,Q25c,without_children,1
+Transgender,1,veterans,2021-09-01,2021-09-30,Q25c,with_children_and_adults,0
+Transgender,1,veterans,2021-09-01,2021-09-30,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2021-09-01,2021-09-30,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2021-09-01,2021-09-30,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2021-09-01,2021-09-30,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2021-09-01,2021-09-30,Q25c,without_children,0
+Data Not Collected,0,veterans,2021-09-01,2021-09-30,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2021-09-01,2021-09-30,Q25c,unknown_household_type,0
+Male,59,veterans,2021-10-01,2021-10-31,Q25c,without_children,59
+Male,59,veterans,2021-10-01,2021-10-31,Q25c,with_children_and_adults,0
+Male,59,veterans,2021-10-01,2021-10-31,Q25c,unknown_household_type,0
+Female,10,veterans,2021-10-01,2021-10-31,Q25c,without_children,8
+Female,10,veterans,2021-10-01,2021-10-31,Q25c,with_children_and_adults,2
+Female,10,veterans,2021-10-01,2021-10-31,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2021-10-01,2021-10-31,Q25c,without_children,0
+No Single Gender,0,veterans,2021-10-01,2021-10-31,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2021-10-01,2021-10-31,Q25c,unknown_household_type,0
+Questioning,0,veterans,2021-10-01,2021-10-31,Q25c,without_children,0
+Questioning,0,veterans,2021-10-01,2021-10-31,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2021-10-01,2021-10-31,Q25c,unknown_household_type,0
+Transgender,1,veterans,2021-10-01,2021-10-31,Q25c,without_children,1
+Transgender,1,veterans,2021-10-01,2021-10-31,Q25c,with_children_and_adults,0
+Transgender,1,veterans,2021-10-01,2021-10-31,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2021-10-01,2021-10-31,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2021-10-01,2021-10-31,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2021-10-01,2021-10-31,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2021-10-01,2021-10-31,Q25c,without_children,0
+Data Not Collected,0,veterans,2021-10-01,2021-10-31,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2021-10-01,2021-10-31,Q25c,unknown_household_type,0
+Male,63,veterans,2021-11-01,2021-11-30,Q25c,without_children,62
+Male,63,veterans,2021-11-01,2021-11-30,Q25c,with_children_and_adults,1
+Male,63,veterans,2021-11-01,2021-11-30,Q25c,unknown_household_type,0
+Female,10,veterans,2021-11-01,2021-11-30,Q25c,without_children,7
+Female,10,veterans,2021-11-01,2021-11-30,Q25c,with_children_and_adults,3
+Female,10,veterans,2021-11-01,2021-11-30,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2021-11-01,2021-11-30,Q25c,without_children,0
+No Single Gender,0,veterans,2021-11-01,2021-11-30,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2021-11-01,2021-11-30,Q25c,unknown_household_type,0
+Questioning,0,veterans,2021-11-01,2021-11-30,Q25c,without_children,0
+Questioning,0,veterans,2021-11-01,2021-11-30,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2021-11-01,2021-11-30,Q25c,unknown_household_type,0
+Transgender,1,veterans,2021-11-01,2021-11-30,Q25c,without_children,1
+Transgender,1,veterans,2021-11-01,2021-11-30,Q25c,with_children_and_adults,0
+Transgender,1,veterans,2021-11-01,2021-11-30,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2021-11-01,2021-11-30,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2021-11-01,2021-11-30,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2021-11-01,2021-11-30,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2021-11-01,2021-11-30,Q25c,without_children,0
+Data Not Collected,0,veterans,2021-11-01,2021-11-30,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2021-11-01,2021-11-30,Q25c,unknown_household_type,0
+Male,62,veterans,2021-12-01,2021-12-31,Q25c,without_children,62
+Male,62,veterans,2021-12-01,2021-12-31,Q25c,with_children_and_adults,0
+Male,62,veterans,2021-12-01,2021-12-31,Q25c,unknown_household_type,0
+Female,13,veterans,2021-12-01,2021-12-31,Q25c,without_children,8
+Female,13,veterans,2021-12-01,2021-12-31,Q25c,with_children_and_adults,5
+Female,13,veterans,2021-12-01,2021-12-31,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2021-12-01,2021-12-31,Q25c,without_children,0
+No Single Gender,0,veterans,2021-12-01,2021-12-31,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2021-12-01,2021-12-31,Q25c,unknown_household_type,0
+Questioning,0,veterans,2021-12-01,2021-12-31,Q25c,without_children,0
+Questioning,0,veterans,2021-12-01,2021-12-31,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2021-12-01,2021-12-31,Q25c,unknown_household_type,0
+Transgender,1,veterans,2021-12-01,2021-12-31,Q25c,without_children,1
+Transgender,1,veterans,2021-12-01,2021-12-31,Q25c,with_children_and_adults,0
+Transgender,1,veterans,2021-12-01,2021-12-31,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2021-12-01,2021-12-31,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2021-12-01,2021-12-31,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2021-12-01,2021-12-31,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2021-12-01,2021-12-31,Q25c,without_children,0
+Data Not Collected,0,veterans,2021-12-01,2021-12-31,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2021-12-01,2021-12-31,Q25c,unknown_household_type,0
+Male,66,veterans,2022-01-01,2022-01-31,Q25c,without_children,66
+Male,66,veterans,2022-01-01,2022-01-31,Q25c,with_children_and_adults,0
+Male,66,veterans,2022-01-01,2022-01-31,Q25c,unknown_household_type,0
+Female,13,veterans,2022-01-01,2022-01-31,Q25c,without_children,9
+Female,13,veterans,2022-01-01,2022-01-31,Q25c,with_children_and_adults,4
+Female,13,veterans,2022-01-01,2022-01-31,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2022-01-01,2022-01-31,Q25c,without_children,0
+No Single Gender,0,veterans,2022-01-01,2022-01-31,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2022-01-01,2022-01-31,Q25c,unknown_household_type,0
+Questioning,0,veterans,2022-01-01,2022-01-31,Q25c,without_children,0
+Questioning,0,veterans,2022-01-01,2022-01-31,Q25c,with_children_and_adults,0
+Questioning,0,veterans,2022-01-01,2022-01-31,Q25c,unknown_household_type,0
+Transgender,1,veterans,2022-01-01,2022-01-31,Q25c,without_children,1
+Transgender,1,veterans,2022-01-01,2022-01-31,Q25c,with_children_and_adults,0
+Transgender,1,veterans,2022-01-01,2022-01-31,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2022-01-01,2022-01-31,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2022-01-01,2022-01-31,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2022-01-01,2022-01-31,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2022-01-01,2022-01-31,Q25c,without_children,0
+Data Not Collected,0,veterans,2022-01-01,2022-01-31,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2022-01-01,2022-01-31,Q25c,unknown_household_type,0
+Male,63,veterans,2022-02-01,2022-02-28,Q25c,without_children,63
+Male,63,veterans,2022-02-01,2022-02-28,Q25c,with_children_and_adults,0
+Male,63,veterans,2022-02-01,2022-02-28,Q25c,unknown_household_type,0
+Female,9,veterans,2022-02-01,2022-02-28,Q25c,without_children,5
+Female,9,veterans,2022-02-01,2022-02-28,Q25c,with_children_and_adults,4
+Female,9,veterans,2022-02-01,2022-02-28,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2022-02-01,2022-02-28,Q25c,without_children,0
+No Single Gender,0,veterans,2022-02-01,2022-02-28,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2022-02-01,2022-02-28,Q25c,unknown_household_type,0
+Questioning,1,veterans,2022-02-01,2022-02-28,Q25c,without_children,1
+Questioning,1,veterans,2022-02-01,2022-02-28,Q25c,with_children_and_adults,0
+Questioning,1,veterans,2022-02-01,2022-02-28,Q25c,unknown_household_type,0
+Transgender,1,veterans,2022-02-01,2022-02-28,Q25c,without_children,1
+Transgender,1,veterans,2022-02-01,2022-02-28,Q25c,with_children_and_adults,0
+Transgender,1,veterans,2022-02-01,2022-02-28,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2022-02-01,2022-02-28,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2022-02-01,2022-02-28,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2022-02-01,2022-02-28,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2022-02-01,2022-02-28,Q25c,without_children,0
+Data Not Collected,0,veterans,2022-02-01,2022-02-28,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2022-02-01,2022-02-28,Q25c,unknown_household_type,0
+Male,68,veterans,2022-03-01,2022-03-31,Q25c,without_children,68
+Male,68,veterans,2022-03-01,2022-03-31,Q25c,with_children_and_adults,0
+Male,68,veterans,2022-03-01,2022-03-31,Q25c,unknown_household_type,0
+Female,13,veterans,2022-03-01,2022-03-31,Q25c,without_children,8
+Female,13,veterans,2022-03-01,2022-03-31,Q25c,with_children_and_adults,5
+Female,13,veterans,2022-03-01,2022-03-31,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2022-03-01,2022-03-31,Q25c,without_children,0
+No Single Gender,0,veterans,2022-03-01,2022-03-31,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2022-03-01,2022-03-31,Q25c,unknown_household_type,0
+Questioning,1,veterans,2022-03-01,2022-03-31,Q25c,without_children,1
+Questioning,1,veterans,2022-03-01,2022-03-31,Q25c,with_children_and_adults,0
+Questioning,1,veterans,2022-03-01,2022-03-31,Q25c,unknown_household_type,0
+Transgender,1,veterans,2022-03-01,2022-03-31,Q25c,without_children,1
+Transgender,1,veterans,2022-03-01,2022-03-31,Q25c,with_children_and_adults,0
+Transgender,1,veterans,2022-03-01,2022-03-31,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2022-03-01,2022-03-31,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2022-03-01,2022-03-31,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2022-03-01,2022-03-31,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2022-03-01,2022-03-31,Q25c,without_children,0
+Data Not Collected,0,veterans,2022-03-01,2022-03-31,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2022-03-01,2022-03-31,Q25c,unknown_household_type,0
+Male,68,veterans,2022-04-01,2022-04-30,Q25c,without_children,68
+Male,68,veterans,2022-04-01,2022-04-30,Q25c,with_children_and_adults,0
+Male,68,veterans,2022-04-01,2022-04-30,Q25c,unknown_household_type,0
+Female,9,veterans,2022-04-01,2022-04-30,Q25c,without_children,7
+Female,9,veterans,2022-04-01,2022-04-30,Q25c,with_children_and_adults,2
+Female,9,veterans,2022-04-01,2022-04-30,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2022-04-01,2022-04-30,Q25c,without_children,0
+No Single Gender,0,veterans,2022-04-01,2022-04-30,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2022-04-01,2022-04-30,Q25c,unknown_household_type,0
+Questioning,1,veterans,2022-04-01,2022-04-30,Q25c,without_children,1
+Questioning,1,veterans,2022-04-01,2022-04-30,Q25c,with_children_and_adults,0
+Questioning,1,veterans,2022-04-01,2022-04-30,Q25c,unknown_household_type,0
+Transgender,1,veterans,2022-04-01,2022-04-30,Q25c,without_children,1
+Transgender,1,veterans,2022-04-01,2022-04-30,Q25c,with_children_and_adults,0
+Transgender,1,veterans,2022-04-01,2022-04-30,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2022-04-01,2022-04-30,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2022-04-01,2022-04-30,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2022-04-01,2022-04-30,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2022-04-01,2022-04-30,Q25c,without_children,0
+Data Not Collected,0,veterans,2022-04-01,2022-04-30,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2022-04-01,2022-04-30,Q25c,unknown_household_type,0
+Male,71,veterans,2022-05-01,2022-05-31,Q25c,without_children,71
+Male,71,veterans,2022-05-01,2022-05-31,Q25c,with_children_and_adults,0
+Male,71,veterans,2022-05-01,2022-05-31,Q25c,unknown_household_type,0
+Female,11,veterans,2022-05-01,2022-05-31,Q25c,without_children,7
+Female,11,veterans,2022-05-01,2022-05-31,Q25c,with_children_and_adults,4
+Female,11,veterans,2022-05-01,2022-05-31,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2022-05-01,2022-05-31,Q25c,without_children,0
+No Single Gender,0,veterans,2022-05-01,2022-05-31,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2022-05-01,2022-05-31,Q25c,unknown_household_type,0
+Questioning,1,veterans,2022-05-01,2022-05-31,Q25c,without_children,1
+Questioning,1,veterans,2022-05-01,2022-05-31,Q25c,with_children_and_adults,0
+Questioning,1,veterans,2022-05-01,2022-05-31,Q25c,unknown_household_type,0
+Transgender,1,veterans,2022-05-01,2022-05-31,Q25c,without_children,1
+Transgender,1,veterans,2022-05-01,2022-05-31,Q25c,with_children_and_adults,0
+Transgender,1,veterans,2022-05-01,2022-05-31,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2022-05-01,2022-05-31,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2022-05-01,2022-05-31,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2022-05-01,2022-05-31,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2022-05-01,2022-05-31,Q25c,without_children,0
+Data Not Collected,0,veterans,2022-05-01,2022-05-31,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2022-05-01,2022-05-31,Q25c,unknown_household_type,0
+Male,75,veterans,2022-06-01,2022-06-30,Q25c,without_children,72
+Male,75,veterans,2022-06-01,2022-06-30,Q25c,with_children_and_adults,3
+Male,75,veterans,2022-06-01,2022-06-30,Q25c,unknown_household_type,0
+Female,11,veterans,2022-06-01,2022-06-30,Q25c,without_children,7
+Female,11,veterans,2022-06-01,2022-06-30,Q25c,with_children_and_adults,4
+Female,11,veterans,2022-06-01,2022-06-30,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2022-06-01,2022-06-30,Q25c,without_children,0
+No Single Gender,0,veterans,2022-06-01,2022-06-30,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2022-06-01,2022-06-30,Q25c,unknown_household_type,0
+Questioning,1,veterans,2022-06-01,2022-06-30,Q25c,without_children,1
+Questioning,1,veterans,2022-06-01,2022-06-30,Q25c,with_children_and_adults,0
+Questioning,1,veterans,2022-06-01,2022-06-30,Q25c,unknown_household_type,0
+Transgender,1,veterans,2022-06-01,2022-06-30,Q25c,without_children,1
+Transgender,1,veterans,2022-06-01,2022-06-30,Q25c,with_children_and_adults,0
+Transgender,1,veterans,2022-06-01,2022-06-30,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2022-06-01,2022-06-30,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2022-06-01,2022-06-30,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2022-06-01,2022-06-30,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2022-06-01,2022-06-30,Q25c,without_children,0
+Data Not Collected,0,veterans,2022-06-01,2022-06-30,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2022-06-01,2022-06-30,Q25c,unknown_household_type,0
+Male,74,veterans,2022-07-01,2022-07-31,Q25c,without_children,72
+Male,74,veterans,2022-07-01,2022-07-31,Q25c,with_children_and_adults,2
+Male,74,veterans,2022-07-01,2022-07-31,Q25c,unknown_household_type,0
+Female,12,veterans,2022-07-01,2022-07-31,Q25c,without_children,8
+Female,12,veterans,2022-07-01,2022-07-31,Q25c,with_children_and_adults,4
+Female,12,veterans,2022-07-01,2022-07-31,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2022-07-01,2022-07-31,Q25c,without_children,0
+No Single Gender,0,veterans,2022-07-01,2022-07-31,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2022-07-01,2022-07-31,Q25c,unknown_household_type,0
+Questioning,1,veterans,2022-07-01,2022-07-31,Q25c,without_children,1
+Questioning,1,veterans,2022-07-01,2022-07-31,Q25c,with_children_and_adults,0
+Questioning,1,veterans,2022-07-01,2022-07-31,Q25c,unknown_household_type,0
+Transgender,1,veterans,2022-07-01,2022-07-31,Q25c,without_children,1
+Transgender,1,veterans,2022-07-01,2022-07-31,Q25c,with_children_and_adults,0
+Transgender,1,veterans,2022-07-01,2022-07-31,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2022-07-01,2022-07-31,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2022-07-01,2022-07-31,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2022-07-01,2022-07-31,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2022-07-01,2022-07-31,Q25c,without_children,0
+Data Not Collected,0,veterans,2022-07-01,2022-07-31,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2022-07-01,2022-07-31,Q25c,unknown_household_type,0
+Male,75,veterans,2022-08-01,2022-08-31,Q25c,without_children,73
+Male,75,veterans,2022-08-01,2022-08-31,Q25c,with_children_and_adults,2
+Male,75,veterans,2022-08-01,2022-08-31,Q25c,unknown_household_type,0
+Female,16,veterans,2022-08-01,2022-08-31,Q25c,without_children,9
+Female,16,veterans,2022-08-01,2022-08-31,Q25c,with_children_and_adults,7
+Female,16,veterans,2022-08-01,2022-08-31,Q25c,unknown_household_type,0
+No Single Gender,0,veterans,2022-08-01,2022-08-31,Q25c,without_children,0
+No Single Gender,0,veterans,2022-08-01,2022-08-31,Q25c,with_children_and_adults,0
+No Single Gender,0,veterans,2022-08-01,2022-08-31,Q25c,unknown_household_type,0
+Questioning,1,veterans,2022-08-01,2022-08-31,Q25c,without_children,1
+Questioning,1,veterans,2022-08-01,2022-08-31,Q25c,with_children_and_adults,0
+Questioning,1,veterans,2022-08-01,2022-08-31,Q25c,unknown_household_type,0
+Transgender,1,veterans,2022-08-01,2022-08-31,Q25c,without_children,1
+Transgender,1,veterans,2022-08-01,2022-08-31,Q25c,with_children_and_adults,0
+Transgender,1,veterans,2022-08-01,2022-08-31,Q25c,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,veterans,2022-08-01,2022-08-31,Q25c,without_children,0
+Client Doesn't Know/Client Refused,0,veterans,2022-08-01,2022-08-31,Q25c,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,veterans,2022-08-01,2022-08-31,Q25c,unknown_household_type,0
+Data Not Collected,0,veterans,2022-08-01,2022-08-31,Q25c,without_children,0
+Data Not Collected,0,veterans,2022-08-01,2022-08-31,Q25c,with_children_and_adults,0
+Data Not Collected,0,veterans,2022-08-01,2022-08-31,Q25c,unknown_household_type,0

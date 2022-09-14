@@ -1,0 +1,34 @@
+number_of_youth_by_income_category,population,start_date,end_date,question,status,count
+"Youth with Only Earned Income (ie.e, Employment Income)",youth,2019-01-01,2019-01-31,Q27h,number_of_youth_at_start,17
+"Youth with Only Earned Income (ie.e, Employment Income)",youth,2019-01-01,2019-01-31,Q27h,number_of_youth_at_annual_assessment_stayers,0
+"Youth with Only Earned Income (ie.e, Employment Income)",youth,2019-01-01,2019-01-31,Q27h,number_of_youth_at_exit_leavers,10
+Youth with Only Other Income,youth,2019-01-01,2019-01-31,Q27h,number_of_youth_at_start,8
+Youth with Only Other Income,youth,2019-01-01,2019-01-31,Q27h,number_of_youth_at_annual_assessment_stayers,0
+Youth with Only Other Income,youth,2019-01-01,2019-01-31,Q27h,number_of_youth_at_exit_leavers,2
+Youth with Both Earned and Other Income,youth,2019-01-01,2019-01-31,Q27h,number_of_youth_at_start,1
+Youth with Both Earned and Other Income,youth,2019-01-01,2019-01-31,Q27h,number_of_youth_at_annual_assessment_stayers,0
+Youth with Both Earned and Other Income,youth,2019-01-01,2019-01-31,Q27h,number_of_youth_at_exit_leavers,0
+Youth with No Income,youth,2019-01-01,2019-01-31,Q27h,number_of_youth_at_start,30
+Youth with No Income,youth,2019-01-01,2019-01-31,Q27h,number_of_youth_at_annual_assessment_stayers,0
+Youth with No Income,youth,2019-01-01,2019-01-31,Q27h,number_of_youth_at_exit_leavers,5
+Youth with Client Doesn't Know/Client Refused Income Information,youth,2019-01-01,2019-01-31,Q27h,number_of_youth_at_start,0
+Youth with Client Doesn't Know/Client Refused Income Information,youth,2019-01-01,2019-01-31,Q27h,number_of_youth_at_annual_assessment_stayers,0
+Youth with Client Doesn't Know/Client Refused Income Information,youth,2019-01-01,2019-01-31,Q27h,number_of_youth_at_exit_leavers,0
+Youth with Missing Income Information,youth,2019-01-01,2019-01-31,Q27h,number_of_youth_at_start,1
+Youth with Missing Income Information,youth,2019-01-01,2019-01-31,Q27h,number_of_youth_at_annual_assessment_stayers,0
+Youth with Missing Income Information,youth,2019-01-01,2019-01-31,Q27h,number_of_youth_at_exit_leavers,0
+Number of Youth Stayers not yet Required to Have an Annual Assessment,youth,2019-01-01,2019-01-31,Q27h,number_of_youth_at_start,0
+Number of Youth Stayers not yet Required to Have an Annual Assessment,youth,2019-01-01,2019-01-31,Q27h,number_of_youth_at_annual_assessment_stayers,33
+Number of Youth Stayers not yet Required to Have an Annual Assessment,youth,2019-01-01,2019-01-31,Q27h,number_of_youth_at_exit_leavers,0
+Number of Youth Stayers without Required Annual Assessment,youth,2019-01-01,2019-01-31,Q27h,number_of_youth_at_start,0
+Number of Youth Stayers without Required Annual Assessment,youth,2019-01-01,2019-01-31,Q27h,number_of_youth_at_annual_assessment_stayers,7
+Number of Youth Stayers without Required Annual Assessment,youth,2019-01-01,2019-01-31,Q27h,number_of_youth_at_exit_leavers,0
+Total Youth,youth,2019-01-01,2019-01-31,Q27h,number_of_youth_at_start,57
+Total Youth,youth,2019-01-01,2019-01-31,Q27h,number_of_youth_at_annual_assessment_stayers,40
+Total Youth,youth,2019-01-01,2019-01-31,Q27h,number_of_youth_at_exit_leavers,17
+1 or More Source of Income,youth,2019-01-01,2019-01-31,Q27h,number_of_youth_at_start,29
+1 or More Source of Income,youth,2019-01-01,2019-01-31,Q27h,number_of_youth_at_annual_assessment_stayers,0
+1 or More Source of Income,youth,2019-01-01,2019-01-31,Q27h,number_of_youth_at_exit_leavers,12
+Youth with Income Information at Start and Annual Assessment/Exit,youth,2019-01-01,2019-01-31,Q27h,number_of_youth_at_start,0
+Youth with Income Information at Start and Annual Assessment/Exit,youth,2019-01-01,2019-01-31,Q27h,number_of_youth_at_annual_assessment_stayers,0
+Youth with Income Information at Start and Annual Assessment/Exit,youth,2019-01-01,2019-01-31,Q27h,number_of_youth_at_exit_leavers,0

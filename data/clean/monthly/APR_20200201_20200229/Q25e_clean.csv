@@ -1,0 +1,25 @@
+conditions,population,start_date,end_date,question,status,count
+Mental Health Disorder,veterans,2020-02-01,2020-02-29,Q25e,conditions_at_start,16
+Mental Health Disorder,veterans,2020-02-01,2020-02-29,Q25e,conditions_at_latest_assessment_for_stayers,13
+Mental Health Disorder,veterans,2020-02-01,2020-02-29,Q25e,conditions_at_exit_for_leavers,3
+Alcohol Use Disorder,veterans,2020-02-01,2020-02-29,Q25e,conditions_at_start,6
+Alcohol Use Disorder,veterans,2020-02-01,2020-02-29,Q25e,conditions_at_latest_assessment_for_stayers,6
+Alcohol Use Disorder,veterans,2020-02-01,2020-02-29,Q25e,conditions_at_exit_for_leavers,0
+Drug Use Disorder,veterans,2020-02-01,2020-02-29,Q25e,conditions_at_start,3
+Drug Use Disorder,veterans,2020-02-01,2020-02-29,Q25e,conditions_at_latest_assessment_for_stayers,2
+Drug Use Disorder,veterans,2020-02-01,2020-02-29,Q25e,conditions_at_exit_for_leavers,1
+Both Alcohol and Drug Use Disorders,veterans,2020-02-01,2020-02-29,Q25e,conditions_at_start,6
+Both Alcohol and Drug Use Disorders,veterans,2020-02-01,2020-02-29,Q25e,conditions_at_latest_assessment_for_stayers,5
+Both Alcohol and Drug Use Disorders,veterans,2020-02-01,2020-02-29,Q25e,conditions_at_exit_for_leavers,1
+Chronic Health Condition,veterans,2020-02-01,2020-02-29,Q25e,conditions_at_start,13
+Chronic Health Condition,veterans,2020-02-01,2020-02-29,Q25e,conditions_at_latest_assessment_for_stayers,11
+Chronic Health Condition,veterans,2020-02-01,2020-02-29,Q25e,conditions_at_exit_for_leavers,2
+HIV/AIDS,veterans,2020-02-01,2020-02-29,Q25e,conditions_at_start,3
+HIV/AIDS,veterans,2020-02-01,2020-02-29,Q25e,conditions_at_latest_assessment_for_stayers,3
+HIV/AIDS,veterans,2020-02-01,2020-02-29,Q25e,conditions_at_exit_for_leavers,0
+Development Disability,veterans,2020-02-01,2020-02-29,Q25e,conditions_at_start,3
+Development Disability,veterans,2020-02-01,2020-02-29,Q25e,conditions_at_latest_assessment_for_stayers,4
+Development Disability,veterans,2020-02-01,2020-02-29,Q25e,conditions_at_exit_for_leavers,0
+Physical Disability,veterans,2020-02-01,2020-02-29,Q25e,conditions_at_start,16
+Physical Disability,veterans,2020-02-01,2020-02-29,Q25e,conditions_at_latest_assessment_for_stayers,13
+Physical Disability,veterans,2020-02-01,2020-02-29,Q25e,conditions_at_exit_for_leavers,3

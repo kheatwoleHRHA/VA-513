@@ -1,0 +1,40 @@
+income_range,population,start_date,end_date,question,status,count
+No Income,adults,2018-12-01,2018-12-31,Q16,income_at_start,189
+No Income,adults,2018-12-01,2018-12-31,Q16,income_at_latest_annual_assessment_for_stayers,8
+No Income,adults,2018-12-01,2018-12-31,Q16,income_at_exit_for_leavers,65
+$1 -  $150,adults,2018-12-01,2018-12-31,Q16,income_at_start,6
+$1 -  $150,adults,2018-12-01,2018-12-31,Q16,income_at_latest_annual_assessment_for_stayers,0
+$1 -  $150,adults,2018-12-01,2018-12-31,Q16,income_at_exit_for_leavers,2
+$151 - $250,adults,2018-12-01,2018-12-31,Q16,income_at_start,11
+$151 - $250,adults,2018-12-01,2018-12-31,Q16,income_at_latest_annual_assessment_for_stayers,0
+$151 - $250,adults,2018-12-01,2018-12-31,Q16,income_at_exit_for_leavers,3
+$251 - $500,adults,2018-12-01,2018-12-31,Q16,income_at_start,17
+$251 - $500,adults,2018-12-01,2018-12-31,Q16,income_at_latest_annual_assessment_for_stayers,1
+$251 - $500,adults,2018-12-01,2018-12-31,Q16,income_at_exit_for_leavers,3
+$501 - $1000,adults,2018-12-01,2018-12-31,Q16,income_at_start,95
+$501 - $1000,adults,2018-12-01,2018-12-31,Q16,income_at_latest_annual_assessment_for_stayers,15
+$501 - $1000,adults,2018-12-01,2018-12-31,Q16,income_at_exit_for_leavers,34
+$1001 - $1500,adults,2018-12-01,2018-12-31,Q16,income_at_start,59
+$1001 - $1500,adults,2018-12-01,2018-12-31,Q16,income_at_latest_annual_assessment_for_stayers,14
+$1001 - $1500,adults,2018-12-01,2018-12-31,Q16,income_at_exit_for_leavers,15
+$1501 - $2000,adults,2018-12-01,2018-12-31,Q16,income_at_start,49
+$1501 - $2000,adults,2018-12-01,2018-12-31,Q16,income_at_latest_annual_assessment_for_stayers,7
+$1501 - $2000,adults,2018-12-01,2018-12-31,Q16,income_at_exit_for_leavers,13
+$2001+,adults,2018-12-01,2018-12-31,Q16,income_at_start,35
+$2001+,adults,2018-12-01,2018-12-31,Q16,income_at_latest_annual_assessment_for_stayers,5
+$2001+,adults,2018-12-01,2018-12-31,Q16,income_at_exit_for_leavers,10
+Client Doesn't Know/Client Refused,adults,2018-12-01,2018-12-31,Q16,income_at_start,2
+Client Doesn't Know/Client Refused,adults,2018-12-01,2018-12-31,Q16,income_at_latest_annual_assessment_for_stayers,0
+Client Doesn't Know/Client Refused,adults,2018-12-01,2018-12-31,Q16,income_at_exit_for_leavers,2
+Data Not Collected,adults,2018-12-01,2018-12-31,Q16,income_at_start,73
+Data Not Collected,adults,2018-12-01,2018-12-31,Q16,income_at_latest_annual_assessment_for_stayers,3
+Data Not Collected,adults,2018-12-01,2018-12-31,Q16,income_at_exit_for_leavers,26
+Number of Adult Stayers not yet Required to Have an Annual Assessment,adults,2018-12-01,2018-12-31,Q16,income_at_start,0
+Number of Adult Stayers not yet Required to Have an Annual Assessment,adults,2018-12-01,2018-12-31,Q16,income_at_latest_annual_assessment_for_stayers,255
+Number of Adult Stayers not yet Required to Have an Annual Assessment,adults,2018-12-01,2018-12-31,Q16,income_at_exit_for_leavers,0
+Number of Adult Stayers without Required Annual Assessment,adults,2018-12-01,2018-12-31,Q16,income_at_start,0
+Number of Adult Stayers without Required Annual Assessment,adults,2018-12-01,2018-12-31,Q16,income_at_latest_annual_assessment_for_stayers,55
+Number of Adult Stayers without Required Annual Assessment,adults,2018-12-01,2018-12-31,Q16,income_at_exit_for_leavers,0
+Total Adults,adults,2018-12-01,2018-12-31,Q16,income_at_start,536
+Total Adults,adults,2018-12-01,2018-12-31,Q16,income_at_latest_annual_assessment_for_stayers,363
+Total Adults,adults,2018-12-01,2018-12-31,Q16,income_at_exit_for_leavers,173

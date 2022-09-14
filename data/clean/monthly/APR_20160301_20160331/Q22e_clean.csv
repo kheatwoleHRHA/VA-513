@@ -1,0 +1,53 @@
+time_prior_to_housing,total,population,start_date,end_date,question,household_type,count
+7 days or less,20,all_persons,2016-03-01,2016-03-31,Q22e,without_children,9
+7 days or less,20,all_persons,2016-03-01,2016-03-31,Q22e,with_children_and_adults,11
+7 days or less,20,all_persons,2016-03-01,2016-03-31,Q22e,with_only_children,0
+7 days or less,20,all_persons,2016-03-01,2016-03-31,Q22e,unknown_household_type,0
+8 to 14 days,2,all_persons,2016-03-01,2016-03-31,Q22e,without_children,2
+8 to 14 days,2,all_persons,2016-03-01,2016-03-31,Q22e,with_children_and_adults,0
+8 to 14 days,2,all_persons,2016-03-01,2016-03-31,Q22e,with_only_children,0
+8 to 14 days,2,all_persons,2016-03-01,2016-03-31,Q22e,unknown_household_type,0
+15 to 21 days,1,all_persons,2016-03-01,2016-03-31,Q22e,without_children,1
+15 to 21 days,1,all_persons,2016-03-01,2016-03-31,Q22e,with_children_and_adults,0
+15 to 21 days,1,all_persons,2016-03-01,2016-03-31,Q22e,with_only_children,0
+15 to 21 days,1,all_persons,2016-03-01,2016-03-31,Q22e,unknown_household_type,0
+22 to 30 days,4,all_persons,2016-03-01,2016-03-31,Q22e,without_children,2
+22 to 30 days,4,all_persons,2016-03-01,2016-03-31,Q22e,with_children_and_adults,2
+22 to 30 days,4,all_persons,2016-03-01,2016-03-31,Q22e,with_only_children,0
+22 to 30 days,4,all_persons,2016-03-01,2016-03-31,Q22e,unknown_household_type,0
+31 to 60 days,14,all_persons,2016-03-01,2016-03-31,Q22e,without_children,6
+31 to 60 days,14,all_persons,2016-03-01,2016-03-31,Q22e,with_children_and_adults,8
+31 to 60 days,14,all_persons,2016-03-01,2016-03-31,Q22e,with_only_children,0
+31 to 60 days,14,all_persons,2016-03-01,2016-03-31,Q22e,unknown_household_type,0
+61 to 180 days,45,all_persons,2016-03-01,2016-03-31,Q22e,without_children,28
+61 to 180 days,45,all_persons,2016-03-01,2016-03-31,Q22e,with_children_and_adults,17
+61 to 180 days,45,all_persons,2016-03-01,2016-03-31,Q22e,with_only_children,0
+61 to 180 days,45,all_persons,2016-03-01,2016-03-31,Q22e,unknown_household_type,0
+181 to 365 days,13,all_persons,2016-03-01,2016-03-31,Q22e,without_children,12
+181 to 365 days,13,all_persons,2016-03-01,2016-03-31,Q22e,with_children_and_adults,1
+181 to 365 days,13,all_persons,2016-03-01,2016-03-31,Q22e,with_only_children,0
+181 to 365 days,13,all_persons,2016-03-01,2016-03-31,Q22e,unknown_household_type,0
+366-730 days (1-2 years),27,all_persons,2016-03-01,2016-03-31,Q22e,without_children,24
+366-730 days (1-2 years),27,all_persons,2016-03-01,2016-03-31,Q22e,with_children_and_adults,3
+366-730 days (1-2 years),27,all_persons,2016-03-01,2016-03-31,Q22e,with_only_children,0
+366-730 days (1-2 years),27,all_persons,2016-03-01,2016-03-31,Q22e,unknown_household_type,0
+731 days or more,23,all_persons,2016-03-01,2016-03-31,Q22e,without_children,23
+731 days or more,23,all_persons,2016-03-01,2016-03-31,Q22e,with_children_and_adults,0
+731 days or more,23,all_persons,2016-03-01,2016-03-31,Q22e,with_only_children,0
+731 days or more,23,all_persons,2016-03-01,2016-03-31,Q22e,unknown_household_type,0
+Total (persons moved into housing),149,all_persons,2016-03-01,2016-03-31,Q22e,without_children,107
+Total (persons moved into housing),149,all_persons,2016-03-01,2016-03-31,Q22e,with_children_and_adults,42
+Total (persons moved into housing),149,all_persons,2016-03-01,2016-03-31,Q22e,with_only_children,0
+Total (persons moved into housing),149,all_persons,2016-03-01,2016-03-31,Q22e,unknown_household_type,0
+Not yet moved into housing,21,all_persons,2016-03-01,2016-03-31,Q22e,without_children,5
+Not yet moved into housing,21,all_persons,2016-03-01,2016-03-31,Q22e,with_children_and_adults,16
+Not yet moved into housing,21,all_persons,2016-03-01,2016-03-31,Q22e,with_only_children,0
+Not yet moved into housing,21,all_persons,2016-03-01,2016-03-31,Q22e,unknown_household_type,0
+Data not collected,116,all_persons,2016-03-01,2016-03-31,Q22e,without_children,79
+Data not collected,116,all_persons,2016-03-01,2016-03-31,Q22e,with_children_and_adults,37
+Data not collected,116,all_persons,2016-03-01,2016-03-31,Q22e,with_only_children,0
+Data not collected,116,all_persons,2016-03-01,2016-03-31,Q22e,unknown_household_type,0
+Total persons,286,all_persons,2016-03-01,2016-03-31,Q22e,without_children,191
+Total persons,286,all_persons,2016-03-01,2016-03-31,Q22e,with_children_and_adults,95
+Total persons,286,all_persons,2016-03-01,2016-03-31,Q22e,with_only_children,0
+Total persons,286,all_persons,2016-03-01,2016-03-31,Q22e,unknown_household_type,0

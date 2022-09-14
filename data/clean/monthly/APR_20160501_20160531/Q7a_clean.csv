@@ -1,0 +1,21 @@
+persons_served,total,population,start_date,end_date,question,household_type,count
+Adults,383,all_persons,2016-05-01,2016-05-31,Q7a,without_children,266
+Adults,383,all_persons,2016-05-01,2016-05-31,Q7a,with_children_and_adults,114
+Adults,383,all_persons,2016-05-01,2016-05-31,Q7a,with_only_children,0
+Adults,383,all_persons,2016-05-01,2016-05-31,Q7a,unknown_household_type,3
+Children,153,all_persons,2016-05-01,2016-05-31,Q7a,without_children,0
+Children,153,all_persons,2016-05-01,2016-05-31,Q7a,with_children_and_adults,144
+Children,153,all_persons,2016-05-01,2016-05-31,Q7a,with_only_children,9
+Children,153,all_persons,2016-05-01,2016-05-31,Q7a,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,all_persons,2016-05-01,2016-05-31,Q7a,without_children,0
+Client Doesn't Know/Client Refused,0,all_persons,2016-05-01,2016-05-31,Q7a,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,all_persons,2016-05-01,2016-05-31,Q7a,with_only_children,0
+Client Doesn't Know/Client Refused,0,all_persons,2016-05-01,2016-05-31,Q7a,unknown_household_type,0
+Data Not Collected,2,all_persons,2016-05-01,2016-05-31,Q7a,without_children,0
+Data Not Collected,2,all_persons,2016-05-01,2016-05-31,Q7a,with_children_and_adults,0
+Data Not Collected,2,all_persons,2016-05-01,2016-05-31,Q7a,with_only_children,0
+Data Not Collected,2,all_persons,2016-05-01,2016-05-31,Q7a,unknown_household_type,2
+For PSH and RRH - the total persons served who moved into housing,106,all_persons,2016-05-01,2016-05-31,Q7a,without_children,64
+For PSH and RRH - the total persons served who moved into housing,106,all_persons,2016-05-01,2016-05-31,Q7a,with_children_and_adults,42
+For PSH and RRH - the total persons served who moved into housing,106,all_persons,2016-05-01,2016-05-31,Q7a,with_only_children,0
+For PSH and RRH - the total persons served who moved into housing,106,all_persons,2016-05-01,2016-05-31,Q7a,unknown_household_type,0

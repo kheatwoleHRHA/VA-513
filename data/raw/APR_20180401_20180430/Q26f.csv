@@ -1,0 +1,10 @@
+Number of Chronically Homeless Persons By Income Category, "Number of Chronically Homeless Persons at Start" , "Number of Chronically Homeless Persons at Annual Assessment (Stayers)" , "Number of Chronically Homeless Persons at Exit (Leavers)"
+"""Chronically Homeless Persons with Only Earned Income (i.e., Employment Income)""",10,4,0
+"""Chronically Homeless Persons with Only Other Income""",34,16,4
+"""Chronically Homeless Persons with Both Earned and Other Income""",3,1,0
+"""Chronically Homeless Persons with No Income""",26,9,8
+"""Chronically Homeless Persons with Client Doesn't Know/Client Refused Income Information""",0,0,0
+"""Chronically Homeless Persons with Missing Income Information""",0,0,0
+"""Number of Chronically Homeless Persons not yet required to have an annual assessment""",0,27,0
+"""Number of Chronically Homeless Persons without required annual assessment""",0,4,0
+"""Total Chronically Homeless Persons""",73,61,12

@@ -1,0 +1,17 @@
+ethnicity,total,population,start_date,end_date,question,household_type,count
+Non-Hispanic/Non-Latin(a)(o)(x),1757,all_persons,2022-08-01,2022-08-31,Q12b,without_children,1056
+Non-Hispanic/Non-Latin(a)(o)(x),1757,all_persons,2022-08-01,2022-08-31,Q12b,with_children_and_adults,643
+Non-Hispanic/Non-Latin(a)(o)(x),1757,all_persons,2022-08-01,2022-08-31,Q12b,with_only_children,41
+Non-Hispanic/Non-Latin(a)(o)(x),1757,all_persons,2022-08-01,2022-08-31,Q12b,unknown_household_type,17
+Hispanic/Latin(a)(o)(x),205,all_persons,2022-08-01,2022-08-31,Q12b,without_children,68
+Hispanic/Latin(a)(o)(x),205,all_persons,2022-08-01,2022-08-31,Q12b,with_children_and_adults,131
+Hispanic/Latin(a)(o)(x),205,all_persons,2022-08-01,2022-08-31,Q12b,with_only_children,6
+Hispanic/Latin(a)(o)(x),205,all_persons,2022-08-01,2022-08-31,Q12b,unknown_household_type,0
+Client Doesn't Know/Client Refused,12,all_persons,2022-08-01,2022-08-31,Q12b,without_children,10
+Client Doesn't Know/Client Refused,12,all_persons,2022-08-01,2022-08-31,Q12b,with_children_and_adults,1
+Client Doesn't Know/Client Refused,12,all_persons,2022-08-01,2022-08-31,Q12b,with_only_children,0
+Client Doesn't Know/Client Refused,12,all_persons,2022-08-01,2022-08-31,Q12b,unknown_household_type,1
+Data Not Collected,28,all_persons,2022-08-01,2022-08-31,Q12b,without_children,11
+Data Not Collected,28,all_persons,2022-08-01,2022-08-31,Q12b,with_children_and_adults,6
+Data Not Collected,28,all_persons,2022-08-01,2022-08-31,Q12b,with_only_children,3
+Data Not Collected,28,all_persons,2022-08-01,2022-08-31,Q12b,unknown_household_type,8

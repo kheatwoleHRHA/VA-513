@@ -1,0 +1,17 @@
+ch_status_persons,total,population,start_date,end_date,question,household_type,count
+Chronically Homeless ,50,all_persons,2016-08-01,2016-08-31,Q26b,without_children,47
+Chronically Homeless ,50,all_persons,2016-08-01,2016-08-31,Q26b,with_children_and_adults,3
+Chronically Homeless ,50,all_persons,2016-08-01,2016-08-31,Q26b,with_only_children,0
+Chronically Homeless ,50,all_persons,2016-08-01,2016-08-31,Q26b,unknown_household_type,0
+Not Chronically Homeless,616,all_persons,2016-08-01,2016-08-31,Q26b,without_children,227
+Not Chronically Homeless,616,all_persons,2016-08-01,2016-08-31,Q26b,with_children_and_adults,383
+Not Chronically Homeless,616,all_persons,2016-08-01,2016-08-31,Q26b,with_only_children,5
+Not Chronically Homeless,616,all_persons,2016-08-01,2016-08-31,Q26b,unknown_household_type,1
+Client Doesn't Know/Client Refused,0,all_persons,2016-08-01,2016-08-31,Q26b,without_children,0
+Client Doesn't Know/Client Refused,0,all_persons,2016-08-01,2016-08-31,Q26b,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,all_persons,2016-08-01,2016-08-31,Q26b,with_only_children,0
+Client Doesn't Know/Client Refused,0,all_persons,2016-08-01,2016-08-31,Q26b,unknown_household_type,0
+Data Not Collected,39,all_persons,2016-08-01,2016-08-31,Q26b,without_children,28
+Data Not Collected,39,all_persons,2016-08-01,2016-08-31,Q26b,with_children_and_adults,9
+Data Not Collected,39,all_persons,2016-08-01,2016-08-31,Q26b,with_only_children,0
+Data Not Collected,39,all_persons,2016-08-01,2016-08-31,Q26b,unknown_household_type,2

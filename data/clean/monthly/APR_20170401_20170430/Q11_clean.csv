@@ -1,0 +1,45 @@
+age_group,total,population,start_date,end_date,question,household_type,count
+Under 5,42,all_persons,2017-04-01,2017-04-30,Q11,without_children,0
+Under 5,42,all_persons,2017-04-01,2017-04-30,Q11,with_children_and_adults,39
+Under 5,42,all_persons,2017-04-01,2017-04-30,Q11,with_only_children,3
+Under 5,42,all_persons,2017-04-01,2017-04-30,Q11,unknown_household_type,0
+5 -  12,64,all_persons,2017-04-01,2017-04-30,Q11,without_children,0
+5 -  12,64,all_persons,2017-04-01,2017-04-30,Q11,with_children_and_adults,60
+5 -  12,64,all_persons,2017-04-01,2017-04-30,Q11,with_only_children,4
+5 -  12,64,all_persons,2017-04-01,2017-04-30,Q11,unknown_household_type,0
+13 - 17,18,all_persons,2017-04-01,2017-04-30,Q11,without_children,0
+13 - 17,18,all_persons,2017-04-01,2017-04-30,Q11,with_children_and_adults,15
+13 - 17,18,all_persons,2017-04-01,2017-04-30,Q11,with_only_children,3
+13 - 17,18,all_persons,2017-04-01,2017-04-30,Q11,unknown_household_type,0
+18 - 24,19,all_persons,2017-04-01,2017-04-30,Q11,without_children,8
+18 - 24,19,all_persons,2017-04-01,2017-04-30,Q11,with_children_and_adults,11
+18 - 24,19,all_persons,2017-04-01,2017-04-30,Q11,with_only_children,0
+18 - 24,19,all_persons,2017-04-01,2017-04-30,Q11,unknown_household_type,0
+25 - 34,85,all_persons,2017-04-01,2017-04-30,Q11,without_children,39
+25 - 34,85,all_persons,2017-04-01,2017-04-30,Q11,with_children_and_adults,46
+25 - 34,85,all_persons,2017-04-01,2017-04-30,Q11,with_only_children,0
+25 - 34,85,all_persons,2017-04-01,2017-04-30,Q11,unknown_household_type,0
+35 - 44,77,all_persons,2017-04-01,2017-04-30,Q11,without_children,59
+35 - 44,77,all_persons,2017-04-01,2017-04-30,Q11,with_children_and_adults,18
+35 - 44,77,all_persons,2017-04-01,2017-04-30,Q11,with_only_children,0
+35 - 44,77,all_persons,2017-04-01,2017-04-30,Q11,unknown_household_type,0
+45 - 54,112,all_persons,2017-04-01,2017-04-30,Q11,without_children,100
+45 - 54,112,all_persons,2017-04-01,2017-04-30,Q11,with_children_and_adults,11
+45 - 54,112,all_persons,2017-04-01,2017-04-30,Q11,with_only_children,0
+45 - 54,112,all_persons,2017-04-01,2017-04-30,Q11,unknown_household_type,1
+55 - 61,70,all_persons,2017-04-01,2017-04-30,Q11,without_children,68
+55 - 61,70,all_persons,2017-04-01,2017-04-30,Q11,with_children_and_adults,2
+55 - 61,70,all_persons,2017-04-01,2017-04-30,Q11,with_only_children,0
+55 - 61,70,all_persons,2017-04-01,2017-04-30,Q11,unknown_household_type,0
+62 +,43,all_persons,2017-04-01,2017-04-30,Q11,without_children,43
+62 +,43,all_persons,2017-04-01,2017-04-30,Q11,with_children_and_adults,0
+62 +,43,all_persons,2017-04-01,2017-04-30,Q11,with_only_children,0
+62 +,43,all_persons,2017-04-01,2017-04-30,Q11,unknown_household_type,0
+Client Doesn't Know/Client Refused,0,all_persons,2017-04-01,2017-04-30,Q11,without_children,0
+Client Doesn't Know/Client Refused,0,all_persons,2017-04-01,2017-04-30,Q11,with_children_and_adults,0
+Client Doesn't Know/Client Refused,0,all_persons,2017-04-01,2017-04-30,Q11,with_only_children,0
+Client Doesn't Know/Client Refused,0,all_persons,2017-04-01,2017-04-30,Q11,unknown_household_type,0
+Data Not Collected,2,all_persons,2017-04-01,2017-04-30,Q11,without_children,0
+Data Not Collected,2,all_persons,2017-04-01,2017-04-30,Q11,with_children_and_adults,0
+Data Not Collected,2,all_persons,2017-04-01,2017-04-30,Q11,with_only_children,0
+Data Not Collected,2,all_persons,2017-04-01,2017-04-30,Q11,unknown_household_type,2

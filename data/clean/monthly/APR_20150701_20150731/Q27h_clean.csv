@@ -1,0 +1,34 @@
+number_of_youth_by_income_category,population,start_date,end_date,question,status,count
+"Youth with Only Earned Income (ie.e, Employment Income)",youth,2015-07-01,2015-07-31,Q27h,number_of_youth_at_start,10
+"Youth with Only Earned Income (ie.e, Employment Income)",youth,2015-07-01,2015-07-31,Q27h,number_of_youth_at_annual_assessment_stayers,0
+"Youth with Only Earned Income (ie.e, Employment Income)",youth,2015-07-01,2015-07-31,Q27h,number_of_youth_at_exit_leavers,0
+Youth with Only Other Income,youth,2015-07-01,2015-07-31,Q27h,number_of_youth_at_start,1
+Youth with Only Other Income,youth,2015-07-01,2015-07-31,Q27h,number_of_youth_at_annual_assessment_stayers,0
+Youth with Only Other Income,youth,2015-07-01,2015-07-31,Q27h,number_of_youth_at_exit_leavers,1
+Youth with Both Earned and Other Income,youth,2015-07-01,2015-07-31,Q27h,number_of_youth_at_start,3
+Youth with Both Earned and Other Income,youth,2015-07-01,2015-07-31,Q27h,number_of_youth_at_annual_assessment_stayers,0
+Youth with Both Earned and Other Income,youth,2015-07-01,2015-07-31,Q27h,number_of_youth_at_exit_leavers,1
+Youth with No Income,youth,2015-07-01,2015-07-31,Q27h,number_of_youth_at_start,10
+Youth with No Income,youth,2015-07-01,2015-07-31,Q27h,number_of_youth_at_annual_assessment_stayers,0
+Youth with No Income,youth,2015-07-01,2015-07-31,Q27h,number_of_youth_at_exit_leavers,6
+Youth with Client Doesn't Know/Client Refused Income Information,youth,2015-07-01,2015-07-31,Q27h,number_of_youth_at_start,0
+Youth with Client Doesn't Know/Client Refused Income Information,youth,2015-07-01,2015-07-31,Q27h,number_of_youth_at_annual_assessment_stayers,0
+Youth with Client Doesn't Know/Client Refused Income Information,youth,2015-07-01,2015-07-31,Q27h,number_of_youth_at_exit_leavers,0
+Youth with Missing Income Information,youth,2015-07-01,2015-07-31,Q27h,number_of_youth_at_start,1
+Youth with Missing Income Information,youth,2015-07-01,2015-07-31,Q27h,number_of_youth_at_annual_assessment_stayers,0
+Youth with Missing Income Information,youth,2015-07-01,2015-07-31,Q27h,number_of_youth_at_exit_leavers,0
+Number of Youth Stayers not yet Required to Have an Annual Assessment,youth,2015-07-01,2015-07-31,Q27h,number_of_youth_at_start,0
+Number of Youth Stayers not yet Required to Have an Annual Assessment,youth,2015-07-01,2015-07-31,Q27h,number_of_youth_at_annual_assessment_stayers,15
+Number of Youth Stayers not yet Required to Have an Annual Assessment,youth,2015-07-01,2015-07-31,Q27h,number_of_youth_at_exit_leavers,0
+Number of Youth Stayers without Required Annual Assessment,youth,2015-07-01,2015-07-31,Q27h,number_of_youth_at_start,0
+Number of Youth Stayers without Required Annual Assessment,youth,2015-07-01,2015-07-31,Q27h,number_of_youth_at_annual_assessment_stayers,2
+Number of Youth Stayers without Required Annual Assessment,youth,2015-07-01,2015-07-31,Q27h,number_of_youth_at_exit_leavers,0
+Total Youth,youth,2015-07-01,2015-07-31,Q27h,number_of_youth_at_start,25
+Total Youth,youth,2015-07-01,2015-07-31,Q27h,number_of_youth_at_annual_assessment_stayers,17
+Total Youth,youth,2015-07-01,2015-07-31,Q27h,number_of_youth_at_exit_leavers,8
+1 or More Source of Income,youth,2015-07-01,2015-07-31,Q27h,number_of_youth_at_start,15
+1 or More Source of Income,youth,2015-07-01,2015-07-31,Q27h,number_of_youth_at_annual_assessment_stayers,0
+1 or More Source of Income,youth,2015-07-01,2015-07-31,Q27h,number_of_youth_at_exit_leavers,3
+Youth with Income Information at Start and Annual Assessment/Exit,youth,2015-07-01,2015-07-31,Q27h,number_of_youth_at_start,0
+Youth with Income Information at Start and Annual Assessment/Exit,youth,2015-07-01,2015-07-31,Q27h,number_of_youth_at_annual_assessment_stayers,0
+Youth with Income Information at Start and Annual Assessment/Exit,youth,2015-07-01,2015-07-31,Q27h,number_of_youth_at_exit_leavers,0

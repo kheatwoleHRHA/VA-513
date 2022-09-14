@@ -1,0 +1,5 @@
+data_element,error_count,percent_of_error_rate,population,start_date,end_date,question
+Destination (3.12),26,0.12,data_quality,2020-05-01,2020-05-31,Q6c
+Income and Sources (4.2) at Start,174,0.21,data_quality,2020-05-01,2020-05-31,Q6c
+Income and Sources (4.2) at Annual Assessment,172,0.76,data_quality,2020-05-01,2020-05-31,Q6c
+Income and Sources (4.2) at Exit,71,0.36,data_quality,2020-05-01,2020-05-31,Q6c
