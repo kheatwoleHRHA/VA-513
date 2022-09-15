@@ -1,25 +1,25 @@
 conditions,total,adults_in_hh_with_children_and_adults,children_in_hh_with_children_and_adults,population,start_date,end_date,question,household_type,count
-Mental Health Disorder,276,17,0,all_persons,2021-09-01,2021-09-30,Q13a1,without_children,259
-Mental Health Disorder,276,17,0,all_persons,2021-09-01,2021-09-30,Q13a1,with_only_children,0
-Mental Health Disorder,276,17,0,all_persons,2021-09-01,2021-09-30,Q13a1,unknown_household_type,0
-Alcohol Use Disorder,55,0,0,all_persons,2021-09-01,2021-09-30,Q13a1,without_children,55
-Alcohol Use Disorder,55,0,0,all_persons,2021-09-01,2021-09-30,Q13a1,with_only_children,0
-Alcohol Use Disorder,55,0,0,all_persons,2021-09-01,2021-09-30,Q13a1,unknown_household_type,0
-Drug Use Disorder,38,1,0,all_persons,2021-09-01,2021-09-30,Q13a1,without_children,37
-Drug Use Disorder,38,1,0,all_persons,2021-09-01,2021-09-30,Q13a1,with_only_children,0
-Drug Use Disorder,38,1,0,all_persons,2021-09-01,2021-09-30,Q13a1,unknown_household_type,0
-Both Alcohol and Drug Use Disorders,58,1,0,all_persons,2021-09-01,2021-09-30,Q13a1,without_children,57
-Both Alcohol and Drug Use Disorders,58,1,0,all_persons,2021-09-01,2021-09-30,Q13a1,with_only_children,0
-Both Alcohol and Drug Use Disorders,58,1,0,all_persons,2021-09-01,2021-09-30,Q13a1,unknown_household_type,0
-Chronic Health Condition,140,8,1,all_persons,2021-09-01,2021-09-30,Q13a1,without_children,131
-Chronic Health Condition,140,8,1,all_persons,2021-09-01,2021-09-30,Q13a1,with_only_children,0
-Chronic Health Condition,140,8,1,all_persons,2021-09-01,2021-09-30,Q13a1,unknown_household_type,0
-HIV/AIDS,100,7,0,all_persons,2021-09-01,2021-09-30,Q13a1,without_children,93
-HIV/AIDS,100,7,0,all_persons,2021-09-01,2021-09-30,Q13a1,with_only_children,0
-HIV/AIDS,100,7,0,all_persons,2021-09-01,2021-09-30,Q13a1,unknown_household_type,0
-Development Disability,55,1,8,all_persons,2021-09-01,2021-09-30,Q13a1,without_children,45
-Development Disability,55,1,8,all_persons,2021-09-01,2021-09-30,Q13a1,with_only_children,0
-Development Disability,55,1,8,all_persons,2021-09-01,2021-09-30,Q13a1,unknown_household_type,1
-Physical Disability,155,6,0,all_persons,2021-09-01,2021-09-30,Q13a1,without_children,149
-Physical Disability,155,6,0,all_persons,2021-09-01,2021-09-30,Q13a1,with_only_children,0
-Physical Disability,155,6,0,all_persons,2021-09-01,2021-09-30,Q13a1,unknown_household_type,0
+Mental Health Disorder,276,17,0,start,2021-09-01,2021-09-30,Q13a1,without_children,259
+Mental Health Disorder,276,17,0,start,2021-09-01,2021-09-30,Q13a1,with_only_children,0
+Mental Health Disorder,276,17,0,start,2021-09-01,2021-09-30,Q13a1,unknown_household_type,0
+Alcohol Use Disorder,55,0,0,start,2021-09-01,2021-09-30,Q13a1,without_children,55
+Alcohol Use Disorder,55,0,0,start,2021-09-01,2021-09-30,Q13a1,with_only_children,0
+Alcohol Use Disorder,55,0,0,start,2021-09-01,2021-09-30,Q13a1,unknown_household_type,0
+Drug Use Disorder,38,1,0,start,2021-09-01,2021-09-30,Q13a1,without_children,37
+Drug Use Disorder,38,1,0,start,2021-09-01,2021-09-30,Q13a1,with_only_children,0
+Drug Use Disorder,38,1,0,start,2021-09-01,2021-09-30,Q13a1,unknown_household_type,0
+Both Alcohol and Drug Use Disorders,58,1,0,start,2021-09-01,2021-09-30,Q13a1,without_children,57
+Both Alcohol and Drug Use Disorders,58,1,0,start,2021-09-01,2021-09-30,Q13a1,with_only_children,0
+Both Alcohol and Drug Use Disorders,58,1,0,start,2021-09-01,2021-09-30,Q13a1,unknown_household_type,0
+Chronic Health Condition,140,8,1,start,2021-09-01,2021-09-30,Q13a1,without_children,131
+Chronic Health Condition,140,8,1,start,2021-09-01,2021-09-30,Q13a1,with_only_children,0
+Chronic Health Condition,140,8,1,start,2021-09-01,2021-09-30,Q13a1,unknown_household_type,0
+HIV/AIDS,100,7,0,start,2021-09-01,2021-09-30,Q13a1,without_children,93
+HIV/AIDS,100,7,0,start,2021-09-01,2021-09-30,Q13a1,with_only_children,0
+HIV/AIDS,100,7,0,start,2021-09-01,2021-09-30,Q13a1,unknown_household_type,0
+Development Disability,55,1,8,start,2021-09-01,2021-09-30,Q13a1,without_children,45
+Development Disability,55,1,8,start,2021-09-01,2021-09-30,Q13a1,with_only_children,0
+Development Disability,55,1,8,start,2021-09-01,2021-09-30,Q13a1,unknown_household_type,1
+Physical Disability,155,6,0,start,2021-09-01,2021-09-30,Q13a1,without_children,149
+Physical Disability,155,6,0,start,2021-09-01,2021-09-30,Q13a1,with_only_children,0
+Physical Disability,155,6,0,start,2021-09-01,2021-09-30,Q13a1,unknown_household_type,0

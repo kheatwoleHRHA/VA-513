@@ -106,7 +106,7 @@ start_dates <- missing_starts
 end_dates <- missing_ends
 
 # Manual alternative to create custom date range:
-#start_dates <- seq(as.Date("2014-11-01"), as.Date("2017-12-31"), by="months")
+#start_dates <- seq(as.Date("2014-11-01"), as.Date("2022-08-31"), by="months")
 #end_dates <- ceiling_date(start_dates, "month") - days(1)
 
 
@@ -283,7 +283,7 @@ for (d in 1:length(start_dates)){
   
   # loop through and create unique filepaths for each question file
   filepaths <- NULL
-  for (i in 1:length(filenames)){
+  for (i in 1:length(names)){ 
     temp <- paste0(localpath, "raw/", report, "/", filenames[i])
     filepaths <- c(filepaths, temp)
   }

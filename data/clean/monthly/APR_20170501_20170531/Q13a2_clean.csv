@@ -1,22 +1,22 @@
 count_conditions,total,adults_in_hh_with_children_and_adults,children_in_hh_with_children_and_adults,population,start_date,end_date,question,household_type,count
-None,222,59,96,all_persons,2017-05-01,2017-05-31,Q13a2,without_children,59
-None,222,59,96,all_persons,2017-05-01,2017-05-31,Q13a2,with_only_children,8
-None,222,59,96,all_persons,2017-05-01,2017-05-31,Q13a2,unknown_household_type,0
-1 Condition,150,23,15,all_persons,2017-05-01,2017-05-31,Q13a2,without_children,112
-1 Condition,150,23,15,all_persons,2017-05-01,2017-05-31,Q13a2,with_only_children,0
-1 Condition,150,23,15,all_persons,2017-05-01,2017-05-31,Q13a2,unknown_household_type,0
-2 Conditions,73,10,3,all_persons,2017-05-01,2017-05-31,Q13a2,without_children,60
-2 Conditions,73,10,3,all_persons,2017-05-01,2017-05-31,Q13a2,with_only_children,0
-2 Conditions,73,10,3,all_persons,2017-05-01,2017-05-31,Q13a2,unknown_household_type,0
-3+ Conditions,37,2,0,all_persons,2017-05-01,2017-05-31,Q13a2,without_children,34
-3+ Conditions,37,2,0,all_persons,2017-05-01,2017-05-31,Q13a2,with_only_children,1
-3+ Conditions,37,2,0,all_persons,2017-05-01,2017-05-31,Q13a2,unknown_household_type,0
-Condition Unknown,1,0,0,all_persons,2017-05-01,2017-05-31,Q13a2,without_children,1
-Condition Unknown,1,0,0,all_persons,2017-05-01,2017-05-31,Q13a2,with_only_children,0
-Condition Unknown,1,0,0,all_persons,2017-05-01,2017-05-31,Q13a2,unknown_household_type,0
-Client Doesn't Know/Client Refused,1,0,0,all_persons,2017-05-01,2017-05-31,Q13a2,without_children,1
-Client Doesn't Know/Client Refused,1,0,0,all_persons,2017-05-01,2017-05-31,Q13a2,with_only_children,0
-Client Doesn't Know/Client Refused,1,0,0,all_persons,2017-05-01,2017-05-31,Q13a2,unknown_household_type,0
-Data Not Collected,19,2,6,all_persons,2017-05-01,2017-05-31,Q13a2,without_children,6
-Data Not Collected,19,2,6,all_persons,2017-05-01,2017-05-31,Q13a2,with_only_children,2
-Data Not Collected,19,2,6,all_persons,2017-05-01,2017-05-31,Q13a2,unknown_household_type,3
+None,222,59,96,start,2017-05-01,2017-05-31,Q13a2,without_children,59
+None,222,59,96,start,2017-05-01,2017-05-31,Q13a2,with_only_children,8
+None,222,59,96,start,2017-05-01,2017-05-31,Q13a2,unknown_household_type,0
+1 Condition,150,23,15,start,2017-05-01,2017-05-31,Q13a2,without_children,112
+1 Condition,150,23,15,start,2017-05-01,2017-05-31,Q13a2,with_only_children,0
+1 Condition,150,23,15,start,2017-05-01,2017-05-31,Q13a2,unknown_household_type,0
+2 Conditions,73,10,3,start,2017-05-01,2017-05-31,Q13a2,without_children,60
+2 Conditions,73,10,3,start,2017-05-01,2017-05-31,Q13a2,with_only_children,0
+2 Conditions,73,10,3,start,2017-05-01,2017-05-31,Q13a2,unknown_household_type,0
+3+ Conditions,37,2,0,start,2017-05-01,2017-05-31,Q13a2,without_children,34
+3+ Conditions,37,2,0,start,2017-05-01,2017-05-31,Q13a2,with_only_children,1
+3+ Conditions,37,2,0,start,2017-05-01,2017-05-31,Q13a2,unknown_household_type,0
+Condition Unknown,1,0,0,start,2017-05-01,2017-05-31,Q13a2,without_children,1
+Condition Unknown,1,0,0,start,2017-05-01,2017-05-31,Q13a2,with_only_children,0
+Condition Unknown,1,0,0,start,2017-05-01,2017-05-31,Q13a2,unknown_household_type,0
+Client Doesn't Know/Client Refused,1,0,0,start,2017-05-01,2017-05-31,Q13a2,without_children,1
+Client Doesn't Know/Client Refused,1,0,0,start,2017-05-01,2017-05-31,Q13a2,with_only_children,0
+Client Doesn't Know/Client Refused,1,0,0,start,2017-05-01,2017-05-31,Q13a2,unknown_household_type,0
+Data Not Collected,19,2,6,start,2017-05-01,2017-05-31,Q13a2,without_children,6
+Data Not Collected,19,2,6,start,2017-05-01,2017-05-31,Q13a2,with_only_children,2
+Data Not Collected,19,2,6,start,2017-05-01,2017-05-31,Q13a2,unknown_household_type,3

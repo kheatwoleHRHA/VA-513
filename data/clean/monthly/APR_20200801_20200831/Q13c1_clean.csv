@@ -1,25 +1,25 @@
 conditions,total,adults_in_hh_with_children_and_adults,children_in_hh_with_children_and_adults,population,start_date,end_date,question,household_type,count
-Mental Health Disorder,181,14,1,all_persons,2020-08-01,2020-08-31,Q13c1,without_children,166
-Mental Health Disorder,181,14,1,all_persons,2020-08-01,2020-08-31,Q13c1,with_only_children,0
-Mental Health Disorder,181,14,1,all_persons,2020-08-01,2020-08-31,Q13c1,unknown_household_type,0
-Alcohol Use Disorder,37,0,0,all_persons,2020-08-01,2020-08-31,Q13c1,without_children,37
-Alcohol Use Disorder,37,0,0,all_persons,2020-08-01,2020-08-31,Q13c1,with_only_children,0
-Alcohol Use Disorder,37,0,0,all_persons,2020-08-01,2020-08-31,Q13c1,unknown_household_type,0
-Drug Use Disorder,28,4,0,all_persons,2020-08-01,2020-08-31,Q13c1,without_children,24
-Drug Use Disorder,28,4,0,all_persons,2020-08-01,2020-08-31,Q13c1,with_only_children,0
-Drug Use Disorder,28,4,0,all_persons,2020-08-01,2020-08-31,Q13c1,unknown_household_type,0
-Both Alcohol and Drug Use Disorders,34,0,0,all_persons,2020-08-01,2020-08-31,Q13c1,without_children,34
-Both Alcohol and Drug Use Disorders,34,0,0,all_persons,2020-08-01,2020-08-31,Q13c1,with_only_children,0
-Both Alcohol and Drug Use Disorders,34,0,0,all_persons,2020-08-01,2020-08-31,Q13c1,unknown_household_type,0
-Chronic Health Condition,93,5,1,all_persons,2020-08-01,2020-08-31,Q13c1,without_children,87
-Chronic Health Condition,93,5,1,all_persons,2020-08-01,2020-08-31,Q13c1,with_only_children,0
-Chronic Health Condition,93,5,1,all_persons,2020-08-01,2020-08-31,Q13c1,unknown_household_type,0
-HIV/AIDS,97,7,0,all_persons,2020-08-01,2020-08-31,Q13c1,without_children,90
-HIV/AIDS,97,7,0,all_persons,2020-08-01,2020-08-31,Q13c1,with_only_children,0
-HIV/AIDS,97,7,0,all_persons,2020-08-01,2020-08-31,Q13c1,unknown_household_type,0
-Development Disability,49,3,11,all_persons,2020-08-01,2020-08-31,Q13c1,without_children,34
-Development Disability,49,3,11,all_persons,2020-08-01,2020-08-31,Q13c1,with_only_children,0
-Development Disability,49,3,11,all_persons,2020-08-01,2020-08-31,Q13c1,unknown_household_type,1
-Physical Disability,93,4,0,all_persons,2020-08-01,2020-08-31,Q13c1,without_children,89
-Physical Disability,93,4,0,all_persons,2020-08-01,2020-08-31,Q13c1,with_only_children,0
-Physical Disability,93,4,0,all_persons,2020-08-01,2020-08-31,Q13c1,unknown_household_type,0
+Mental Health Disorder,181,14,1,stayers,2020-08-01,2020-08-31,Q13c1,without_children,166
+Mental Health Disorder,181,14,1,stayers,2020-08-01,2020-08-31,Q13c1,with_only_children,0
+Mental Health Disorder,181,14,1,stayers,2020-08-01,2020-08-31,Q13c1,unknown_household_type,0
+Alcohol Use Disorder,37,0,0,stayers,2020-08-01,2020-08-31,Q13c1,without_children,37
+Alcohol Use Disorder,37,0,0,stayers,2020-08-01,2020-08-31,Q13c1,with_only_children,0
+Alcohol Use Disorder,37,0,0,stayers,2020-08-01,2020-08-31,Q13c1,unknown_household_type,0
+Drug Use Disorder,28,4,0,stayers,2020-08-01,2020-08-31,Q13c1,without_children,24
+Drug Use Disorder,28,4,0,stayers,2020-08-01,2020-08-31,Q13c1,with_only_children,0
+Drug Use Disorder,28,4,0,stayers,2020-08-01,2020-08-31,Q13c1,unknown_household_type,0
+Both Alcohol and Drug Use Disorders,34,0,0,stayers,2020-08-01,2020-08-31,Q13c1,without_children,34
+Both Alcohol and Drug Use Disorders,34,0,0,stayers,2020-08-01,2020-08-31,Q13c1,with_only_children,0
+Both Alcohol and Drug Use Disorders,34,0,0,stayers,2020-08-01,2020-08-31,Q13c1,unknown_household_type,0
+Chronic Health Condition,93,5,1,stayers,2020-08-01,2020-08-31,Q13c1,without_children,87
+Chronic Health Condition,93,5,1,stayers,2020-08-01,2020-08-31,Q13c1,with_only_children,0
+Chronic Health Condition,93,5,1,stayers,2020-08-01,2020-08-31,Q13c1,unknown_household_type,0
+HIV/AIDS,97,7,0,stayers,2020-08-01,2020-08-31,Q13c1,without_children,90
+HIV/AIDS,97,7,0,stayers,2020-08-01,2020-08-31,Q13c1,with_only_children,0
+HIV/AIDS,97,7,0,stayers,2020-08-01,2020-08-31,Q13c1,unknown_household_type,0
+Development Disability,49,3,11,stayers,2020-08-01,2020-08-31,Q13c1,without_children,34
+Development Disability,49,3,11,stayers,2020-08-01,2020-08-31,Q13c1,with_only_children,0
+Development Disability,49,3,11,stayers,2020-08-01,2020-08-31,Q13c1,unknown_household_type,1
+Physical Disability,93,4,0,stayers,2020-08-01,2020-08-31,Q13c1,without_children,89
+Physical Disability,93,4,0,stayers,2020-08-01,2020-08-31,Q13c1,with_only_children,0
+Physical Disability,93,4,0,stayers,2020-08-01,2020-08-31,Q13c1,unknown_household_type,0

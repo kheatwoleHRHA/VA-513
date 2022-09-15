@@ -19,7 +19,7 @@ setwd(localpath)
 
 # create desired date duration of historic data
 
-start_dates <- seq(as.Date("2020-01-01"), as.Date("2020-12-31"), by="months")
+start_dates <- seq(as.Date("2014-11-01"), as.Date("2022-08-01"), by="months")
 
 end_dates <- ceiling_date(start_dates, "month") - days(1)
 
@@ -28,7 +28,6 @@ dictionary <- read_xlsx(paste0(localpath, "APR_dictionary.xlsx"))
 names <- as.vector(dictionary$question)
 
 filenames <- c(paste0(names, "_clean.csv"))
-
 
 # loop each question through each date  #######
 for (i in 1:length(names)){

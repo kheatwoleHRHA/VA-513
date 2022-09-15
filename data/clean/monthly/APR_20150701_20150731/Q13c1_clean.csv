@@ -1,25 +1,25 @@
 conditions,total,adults_in_hh_with_children_and_adults,children_in_hh_with_children_and_adults,population,start_date,end_date,question,household_type,count
-Mental Health Disorder,83,11,5,all_persons,2015-07-01,2015-07-31,Q13c1,without_children,67
-Mental Health Disorder,83,11,5,all_persons,2015-07-01,2015-07-31,Q13c1,with_only_children,0
-Mental Health Disorder,83,11,5,all_persons,2015-07-01,2015-07-31,Q13c1,unknown_household_type,0
-Alcohol Use Disorder,14,0,0,all_persons,2015-07-01,2015-07-31,Q13c1,without_children,14
-Alcohol Use Disorder,14,0,0,all_persons,2015-07-01,2015-07-31,Q13c1,with_only_children,0
-Alcohol Use Disorder,14,0,0,all_persons,2015-07-01,2015-07-31,Q13c1,unknown_household_type,0
-Drug Use Disorder,4,2,0,all_persons,2015-07-01,2015-07-31,Q13c1,without_children,2
-Drug Use Disorder,4,2,0,all_persons,2015-07-01,2015-07-31,Q13c1,with_only_children,0
-Drug Use Disorder,4,2,0,all_persons,2015-07-01,2015-07-31,Q13c1,unknown_household_type,0
-Both Alcohol and Drug Use Disorders,13,0,0,all_persons,2015-07-01,2015-07-31,Q13c1,without_children,13
-Both Alcohol and Drug Use Disorders,13,0,0,all_persons,2015-07-01,2015-07-31,Q13c1,with_only_children,0
-Both Alcohol and Drug Use Disorders,13,0,0,all_persons,2015-07-01,2015-07-31,Q13c1,unknown_household_type,0
-Chronic Health Condition,39,6,2,all_persons,2015-07-01,2015-07-31,Q13c1,without_children,31
-Chronic Health Condition,39,6,2,all_persons,2015-07-01,2015-07-31,Q13c1,with_only_children,0
-Chronic Health Condition,39,6,2,all_persons,2015-07-01,2015-07-31,Q13c1,unknown_household_type,0
-HIV/AIDS,78,3,0,all_persons,2015-07-01,2015-07-31,Q13c1,without_children,75
-HIV/AIDS,78,3,0,all_persons,2015-07-01,2015-07-31,Q13c1,with_only_children,0
-HIV/AIDS,78,3,0,all_persons,2015-07-01,2015-07-31,Q13c1,unknown_household_type,0
-Development Disability,17,4,8,all_persons,2015-07-01,2015-07-31,Q13c1,without_children,5
-Development Disability,17,4,8,all_persons,2015-07-01,2015-07-31,Q13c1,with_only_children,0
-Development Disability,17,4,8,all_persons,2015-07-01,2015-07-31,Q13c1,unknown_household_type,0
-Physical Disability,42,5,3,all_persons,2015-07-01,2015-07-31,Q13c1,without_children,34
-Physical Disability,42,5,3,all_persons,2015-07-01,2015-07-31,Q13c1,with_only_children,0
-Physical Disability,42,5,3,all_persons,2015-07-01,2015-07-31,Q13c1,unknown_household_type,0
+Mental Health Disorder,83,11,5,stayers,2015-07-01,2015-07-31,Q13c1,without_children,67
+Mental Health Disorder,83,11,5,stayers,2015-07-01,2015-07-31,Q13c1,with_only_children,0
+Mental Health Disorder,83,11,5,stayers,2015-07-01,2015-07-31,Q13c1,unknown_household_type,0
+Alcohol Use Disorder,14,0,0,stayers,2015-07-01,2015-07-31,Q13c1,without_children,14
+Alcohol Use Disorder,14,0,0,stayers,2015-07-01,2015-07-31,Q13c1,with_only_children,0
+Alcohol Use Disorder,14,0,0,stayers,2015-07-01,2015-07-31,Q13c1,unknown_household_type,0
+Drug Use Disorder,4,2,0,stayers,2015-07-01,2015-07-31,Q13c1,without_children,2
+Drug Use Disorder,4,2,0,stayers,2015-07-01,2015-07-31,Q13c1,with_only_children,0
+Drug Use Disorder,4,2,0,stayers,2015-07-01,2015-07-31,Q13c1,unknown_household_type,0
+Both Alcohol and Drug Use Disorders,13,0,0,stayers,2015-07-01,2015-07-31,Q13c1,without_children,13
+Both Alcohol and Drug Use Disorders,13,0,0,stayers,2015-07-01,2015-07-31,Q13c1,with_only_children,0
+Both Alcohol and Drug Use Disorders,13,0,0,stayers,2015-07-01,2015-07-31,Q13c1,unknown_household_type,0
+Chronic Health Condition,39,6,2,stayers,2015-07-01,2015-07-31,Q13c1,without_children,31
+Chronic Health Condition,39,6,2,stayers,2015-07-01,2015-07-31,Q13c1,with_only_children,0
+Chronic Health Condition,39,6,2,stayers,2015-07-01,2015-07-31,Q13c1,unknown_household_type,0
+HIV/AIDS,78,3,0,stayers,2015-07-01,2015-07-31,Q13c1,without_children,75
+HIV/AIDS,78,3,0,stayers,2015-07-01,2015-07-31,Q13c1,with_only_children,0
+HIV/AIDS,78,3,0,stayers,2015-07-01,2015-07-31,Q13c1,unknown_household_type,0
+Development Disability,17,4,8,stayers,2015-07-01,2015-07-31,Q13c1,without_children,5
+Development Disability,17,4,8,stayers,2015-07-01,2015-07-31,Q13c1,with_only_children,0
+Development Disability,17,4,8,stayers,2015-07-01,2015-07-31,Q13c1,unknown_household_type,0
+Physical Disability,42,5,3,stayers,2015-07-01,2015-07-31,Q13c1,without_children,34
+Physical Disability,42,5,3,stayers,2015-07-01,2015-07-31,Q13c1,with_only_children,0
+Physical Disability,42,5,3,stayers,2015-07-01,2015-07-31,Q13c1,unknown_household_type,0

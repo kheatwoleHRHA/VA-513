@@ -1,25 +1,25 @@
 conditions,total,adults_in_hh_with_children_and_adults,children_in_hh_with_children_and_adults,population,start_date,end_date,question,household_type,count
-Mental Health Disorder,48,4,1,all_persons,2020-04-01,2020-04-30,Q13b1,without_children,43
-Mental Health Disorder,48,4,1,all_persons,2020-04-01,2020-04-30,Q13b1,with_only_children,0
-Mental Health Disorder,48,4,1,all_persons,2020-04-01,2020-04-30,Q13b1,unknown_household_type,0
-Alcohol Use Disorder,5,0,0,all_persons,2020-04-01,2020-04-30,Q13b1,without_children,5
-Alcohol Use Disorder,5,0,0,all_persons,2020-04-01,2020-04-30,Q13b1,with_only_children,0
-Alcohol Use Disorder,5,0,0,all_persons,2020-04-01,2020-04-30,Q13b1,unknown_household_type,0
-Drug Use Disorder,11,0,0,all_persons,2020-04-01,2020-04-30,Q13b1,without_children,11
-Drug Use Disorder,11,0,0,all_persons,2020-04-01,2020-04-30,Q13b1,with_only_children,0
-Drug Use Disorder,11,0,0,all_persons,2020-04-01,2020-04-30,Q13b1,unknown_household_type,0
-Both Alcohol and Drug Use Disorders,8,1,0,all_persons,2020-04-01,2020-04-30,Q13b1,without_children,7
-Both Alcohol and Drug Use Disorders,8,1,0,all_persons,2020-04-01,2020-04-30,Q13b1,with_only_children,0
-Both Alcohol and Drug Use Disorders,8,1,0,all_persons,2020-04-01,2020-04-30,Q13b1,unknown_household_type,0
-Chronic Health Condition,24,2,0,all_persons,2020-04-01,2020-04-30,Q13b1,without_children,22
-Chronic Health Condition,24,2,0,all_persons,2020-04-01,2020-04-30,Q13b1,with_only_children,0
-Chronic Health Condition,24,2,0,all_persons,2020-04-01,2020-04-30,Q13b1,unknown_household_type,0
-HIV/AIDS,9,1,0,all_persons,2020-04-01,2020-04-30,Q13b1,without_children,8
-HIV/AIDS,9,1,0,all_persons,2020-04-01,2020-04-30,Q13b1,with_only_children,0
-HIV/AIDS,9,1,0,all_persons,2020-04-01,2020-04-30,Q13b1,unknown_household_type,0
-Development Disability,15,1,2,all_persons,2020-04-01,2020-04-30,Q13b1,without_children,12
-Development Disability,15,1,2,all_persons,2020-04-01,2020-04-30,Q13b1,with_only_children,0
-Development Disability,15,1,2,all_persons,2020-04-01,2020-04-30,Q13b1,unknown_household_type,0
-Physical Disability,26,2,2,all_persons,2020-04-01,2020-04-30,Q13b1,without_children,22
-Physical Disability,26,2,2,all_persons,2020-04-01,2020-04-30,Q13b1,with_only_children,0
-Physical Disability,26,2,2,all_persons,2020-04-01,2020-04-30,Q13b1,unknown_household_type,0
+Mental Health Disorder,48,4,1,exit,2020-04-01,2020-04-30,Q13b1,without_children,43
+Mental Health Disorder,48,4,1,exit,2020-04-01,2020-04-30,Q13b1,with_only_children,0
+Mental Health Disorder,48,4,1,exit,2020-04-01,2020-04-30,Q13b1,unknown_household_type,0
+Alcohol Use Disorder,5,0,0,exit,2020-04-01,2020-04-30,Q13b1,without_children,5
+Alcohol Use Disorder,5,0,0,exit,2020-04-01,2020-04-30,Q13b1,with_only_children,0
+Alcohol Use Disorder,5,0,0,exit,2020-04-01,2020-04-30,Q13b1,unknown_household_type,0
+Drug Use Disorder,11,0,0,exit,2020-04-01,2020-04-30,Q13b1,without_children,11
+Drug Use Disorder,11,0,0,exit,2020-04-01,2020-04-30,Q13b1,with_only_children,0
+Drug Use Disorder,11,0,0,exit,2020-04-01,2020-04-30,Q13b1,unknown_household_type,0
+Both Alcohol and Drug Use Disorders,8,1,0,exit,2020-04-01,2020-04-30,Q13b1,without_children,7
+Both Alcohol and Drug Use Disorders,8,1,0,exit,2020-04-01,2020-04-30,Q13b1,with_only_children,0
+Both Alcohol and Drug Use Disorders,8,1,0,exit,2020-04-01,2020-04-30,Q13b1,unknown_household_type,0
+Chronic Health Condition,24,2,0,exit,2020-04-01,2020-04-30,Q13b1,without_children,22
+Chronic Health Condition,24,2,0,exit,2020-04-01,2020-04-30,Q13b1,with_only_children,0
+Chronic Health Condition,24,2,0,exit,2020-04-01,2020-04-30,Q13b1,unknown_household_type,0
+HIV/AIDS,9,1,0,exit,2020-04-01,2020-04-30,Q13b1,without_children,8
+HIV/AIDS,9,1,0,exit,2020-04-01,2020-04-30,Q13b1,with_only_children,0
+HIV/AIDS,9,1,0,exit,2020-04-01,2020-04-30,Q13b1,unknown_household_type,0
+Development Disability,15,1,2,exit,2020-04-01,2020-04-30,Q13b1,without_children,12
+Development Disability,15,1,2,exit,2020-04-01,2020-04-30,Q13b1,with_only_children,0
+Development Disability,15,1,2,exit,2020-04-01,2020-04-30,Q13b1,unknown_household_type,0
+Physical Disability,26,2,2,exit,2020-04-01,2020-04-30,Q13b1,without_children,22
+Physical Disability,26,2,2,exit,2020-04-01,2020-04-30,Q13b1,with_only_children,0
+Physical Disability,26,2,2,exit,2020-04-01,2020-04-30,Q13b1,unknown_household_type,0
