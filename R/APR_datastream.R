@@ -1,7 +1,14 @@
 
-# APR DATA CLEANING 
+# APR DATA CLEANING AND JOINING
 # Kaitlin Heatwole, kheatwole@harrisonburgrha.com
 # August 2022
+
+# ABOUT #######
+# TODO: Before running this code: 
+# download, unzip, appropriately name, and save all monthly folders in ./VA-513/data/raw/
+
+# This code is designed to automatically clean and join any missing months
+## to the existing time series dataset that runs from November 2014 to present.
 
 
 # PROCESS TO PARSE EACH Q: 
@@ -17,9 +24,21 @@
 # DONE: export clean CSVs
 # DONE: build system to stitch historic time periods together (2018-2022)
 # DONE: fix heading errors for 5a, 9a, and 9b
-# TODO: build system to add one month to existing dataset
-# TODO: clean and migrate code to github
-# TODO: add more historic data (2014-2017)
+# DONE: build system to add one month to existing dataset (see below)
+# DONE: clean and migrate code to github
+# DONE: add more historic data (2014-2017)
+
+# PROCESS TO UPDATE TIME SERIES########
+# DONE: define most recent end of month date 
+# DONE: Read file names in data/clean/over_time, read in data
+# DONE: extract last start date using max(date)
+# DONE: create strings with all missing start/end dates, if any
+# IF there were any missing dates:
+# DONE: (MANUAL) download and unzip missing months from HMIS
+# DONE: clean new months
+# DONE: join existing with new months IF there were any missing dates
+# DONE: write joined csvs with new end dates 
+# DONE: delete old end date files from over_time directory
 
 
 # SETUP ##########
@@ -35,9 +54,61 @@ localpath <- "C:/Users/kheatwole/Documents/HMIS/VA-513/data/"
 setwd(localpath)
 dictionary <- as_tibble(read_xlsx(paste0(localpath, "APR_dictionary.xlsx")))
 
-# create desired date duration of historic data
-start_dates <- seq(as.Date("2014-01-01"), as.Date("2017-12-31"), by="months")
-end_dates <- ceiling_date(start_dates, "month") - days(1)
+
+# GET EXISTING LONGITUDINAL DATA #####
+
+# read in all file names in the over_time directory (should be 72)
+filenames_timeseries <- list.files(paste0(localpath, "/clean/over_time"))
+
+# loop through and create unique filepaths for each time series file
+filepaths_timeseries <- NULL
+for (i in 1:length(filenames_timeseries)){
+  temp <- paste0(localpath, "/clean/over_time/", filenames_timeseries[i])
+  filepaths_timeseries <- c(filepaths_timeseries, temp)
+}
+
+# creates list of names to apply to time series objects
+names_timeseries <- str_match(filenames_timeseries,"APR_(.*?)_20")
+names_timeseries <- paste0(names_timeseries[,2], "_timeseries") # extracts result (second column) as a vector
+
+
+# loop through to read in each time series file and assign its name
+for (i in 1:length(filepaths_timeseries)) {
+  temp <- read_csv(filepaths_timeseries[i],
+                   col_names=T)
+  name <- names_timeseries[i]
+  assign(name, temp)
+  rm(temp, name)
+  
+}
+
+
+# IDENTIFY MISSING MONTHS ########
+# identify max date recorded in the time series and derive the next month to clean and import
+max_start <- as.Date(max(Q15_timeseries$start_date))
+next_start <- floor_date(max_start+months(1))
+most_recent <- floor_date(Sys.Date(), "month") - months(1) #  first day of previous month
+
+
+if(next_start>=most_recent){
+  stop("Time series is already up to date")
+}
+
+#begin conditional section only if updates are needed ######
+if (next_start<most_recent){ #this won't run if the files are up to date
+# create strings with all missing start/end dates (if any)
+
+  missing_starts <- seq(as.Date(next_start),as.Date(most_recent),by="month") # create series of missing starts
+  missing_ends <- ceiling_date(missing_starts, "month")- days(1) #derive series of missing ends
+
+# create desired date duration of data to clean
+start_dates <- missing_starts
+end_dates <- missing_ends
+
+# Manual alternative to create custom date range:
+#start_dates <- seq(as.Date("2014-11-01"), as.Date("2017-12-31"), by="months")
+#end_dates <- ceiling_date(start_dates, "month") - days(1)
+
 
 
 # FUNCTIONS ########
@@ -96,7 +167,7 @@ clean_Qs <- function(Q, name, start, end){
   if("with_children_only" %in% names(Q))(
     Q <- Q %>% rename("with_only_children" = with_children_only))
   
-  #REMOVE SUBTOTAL AND OTHER LINES
+  #REMOVE EMBEDDED SUBTOTAL AND OTHER LINES
   to_remove <- list("Subtotal" , "Total" , "Percentage")
   Q$delete <- apply(Q, 1, function(r) (any(r %in% to_remove)))  # there has to be a better way
   Q <- Q %>% filter(delete ==FALSE)%>% select(-delete)
@@ -199,6 +270,7 @@ pivot_crosstabs <- function(Q, name){
 # for now, do it manually, with standard naming convention for zipped folders (APR_startdate_enddate)
 
 # start of loop through each month ####
+
 for (d in 1:length(start_dates)){
   
   # create name of zipped file 
@@ -209,7 +281,7 @@ for (d in 1:length(start_dates)){
   # read in all file names in the month directory
   filenames <- list.files(paste0(localpath, "raw/", report))
   
-  # loop through and create unique filepaths for each file
+  # loop through and create unique filepaths for each question file
   filepaths <- NULL
   for (i in 1:length(filenames)){
     temp <- paste0(localpath, "raw/", report, "/", filenames[i])
@@ -259,7 +331,7 @@ for (d in 1:length(start_dates)){
 
   #save clean individual datasets ####
 
-    # create "clean" folder inside unzipped one
+    # create new date folder inside clean monthly data directory
   for (i in 1:length(names)){
   
     #check if folder name exists, then write new one if it doesn't
@@ -271,8 +343,73 @@ for (d in 1:length(start_dates)){
     # get and write each clean monthly file
     file <- get(names[i])
     write_csv(file, paste0(localpath, "clean/monthly/", report, "/", filename))
+    
+  
     }
-
+  
+  
+# read in as csv (to correct column type errors) and join to time series objects
+  for (i in 1:length(names)){
+    filename <- paste(names[i], "clean.csv", sep="_")
+    file <- read_csv(paste0(localpath, "clean/monthly/", report, "/", filename))
+    
+    # pull correct longitudinal data
+    file_long <- get(paste0(names[i], "_timeseries"))
+    
+    if(nrow(file)!=0){ # avoids error of joining empty Q4a months
+      # join new month to existing longitudinal dataset
+      file_long <- full_join(file_long, file)
+    
+      #assign it to its durable object in order to be available for the next month's loop
+      name_timeseries <- paste0(names[i], "_timeseries")
+      assign(name_timeseries, file_long)
+    }
+  }
+  
 } # end of loop for each month ######
 
 
+  # join relevant files #####
+  
+  # gender identity
+  Q10_timeseries <- full_join(Q10a_timeseries, Q10b_timeseries)
+  Q10_timeseries <- full_join(Q10_timeseries, Q10c_timeseries)
+  
+  # physical/mental health conditions
+  Q13_1_timeseries <- full_join(Q13a1_timeseries, Q13b1_timeseries)
+  Q13_1_timeseries <- full_join(Q13_1, Q13c1)
+  
+  # number of conditions
+  Q13_2_timeseries <- full_join(Q13a2_timeseries, Q13b2_timeseries)
+  Q13_2_timeseries <- full_join(Q13_2_timeseries, Q13c2_timeseries)
+  
+  
+  # export timeseries as new files
+  
+  
+  # save longitudinal files ######
+  for (i in 1:length(names_timeseries)){
+    name_timeseries <- names_timeseries[i] # name of question
+    Q <- get(name_timeseries)# actual data object
+    dates <- c(as.character(range(Q$start_date))) # date range in object
+    
+    new_filename <- paste0("APR_", #report
+                           name, "_",  # question
+                           substring(dates[1], 1,4), substring(dates[1], 6,7), "_", #starting month
+                           substring(dates[2], 1,4), substring(dates[2], 6,7),  # ending month
+                           ".csv"
+    )
+    write_csv(Q, paste0(localpath, "clean/over_time/", new_filename))
+  }
+  
+  # TODO: confirm that it worked before deleting old files!
+  # delete old files #########
+ # all_files <- list.files(paste0(localpath, "/clean/over_time"))# new and old listed in directory
+#  old_files <- all_files[!(all_files %in% filenames_timeseries)] # select all those not in the new time series
+#  
+#  for (i in 1:length(old_files)){
+#    old_filepaths <- paste0(localpath, "clean/over_time/", old_files[i])
+#      unlink(old_filepaths[i], recursive=T)
+#  }
+  
+}# end of conditional section to ingest, clean, join, and export missing months ######

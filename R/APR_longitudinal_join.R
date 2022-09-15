@@ -1,7 +1,11 @@
 
-# APR LONGITUDINAL COMBINING
+# APR CUSTOM LONGITUDINAL COMBINING
 # Kaitlin Heatwole, kheatwole@harrisonburgrha.com
 # August 2022
+
+# ABOUT #######
+# This script can be used to create a custom longitudinal time series.
+# it is NOT NEEDED for ongoing monthly updates. Those can be completed entirely in APR_datastream.R
 
 
 # SETUP ##########
@@ -9,14 +13,13 @@ library(tidyverse)
 library(lubridate)
 library(readxl)
 
-
 # set working directory and local path for file saving
 localpath <- "C:/Users/kheatwole/Documents/HMIS/VA-513/data/"
 setwd(localpath)
 
 # create desired date duration of historic data
 
-start_dates <- seq(as.Date("2014-11-01"), as.Date("2022-08-31"), by="months")
+start_dates <- seq(as.Date("2020-01-01"), as.Date("2020-12-31"), by="months")
 
 end_dates <- ceiling_date(start_dates, "month") - days(1)
 
