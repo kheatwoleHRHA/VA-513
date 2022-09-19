@@ -106,8 +106,8 @@ start_dates <- missing_starts
 end_dates <- missing_ends
 
 # Manual alternative to create custom date range:
-#start_dates <- seq(as.Date("2014-11-01"), as.Date("2022-08-31"), by="months")
-#end_dates <- ceiling_date(start_dates, "month") - days(1)
+start_dates <- seq(as.Date("2014-11-01"), as.Date("2022-08-01"), by="months")
+end_dates <- ceiling_date(start_dates, "month") - days(1)
 
 
 
@@ -198,26 +198,19 @@ clean_Qs <- function(Q, name, start, end){
 fix_subheadings <- function(Q){
   cats <- NULL
   for (r in 1:nrow(Q)){
-    line <- as.data.frame(Q[r,])
-    cat <- if_else(is.na(line[,2]), line[,1], NULL) # subheadings indicated by NAs in second column, with label in first
+    line <- as_data_frame(Q[r,])
+    cat <- if_else(is.na(line[[1,2]]), line[[1,1]], NULL) # subheadings indicated by NAs in second column, with label in first
     cats <- c(cats, cat)
-    
-  }
+    }
   
   # create  column of categories to populate with duplicates
-  cats <- as_data_frame(cats)%>% mutate(
-    category = value)
+  cats <- as_data_frame(cats)
   
   # assign previous value for every empty NA row 
-  #for (i in 1:nrow(cats)){
-    cats <- cats %>% mutate(
-      category = case_when(!is.na(category) ~ category,
-                           TRUE ~ lag(category)))
+    cats <- zoo::na.locf(cats) 
     
-  #}
-  
   #join categories to original data
-  Q$category <- cats$category
+  Q$category <- cats$value
   
   #remove subheading rows
   Q <- Q %>% filter(!is.na(Q[,2]))
@@ -271,6 +264,7 @@ pivot_crosstabs <- function(Q, name){
 
 # start of loop through each month ####
 
+
 for (d in 1:length(start_dates)){
   
   # create name of zipped file 
@@ -283,14 +277,14 @@ for (d in 1:length(start_dates)){
   
   # loop through and create unique filepaths for each question file
   filepaths <- NULL
-  for (i in 1:length(names)){ 
+  for (i in 1:length(filenames)){ 
     temp <- paste0(localpath, "raw/", report, "/", filenames[i])
     filepaths <- c(filepaths, temp)
   }
   
   # read in raw data ######
   names <- gsub(".csv", "", filenames) # creates list of names to apply to objects
-
+ 
   # loop through to read in each file and assign its name
   for (i in 1:length(filepaths)) {
     temp <- read_csv(filepaths[i],
@@ -349,7 +343,7 @@ for (d in 1:length(start_dates)){
   
   
 # read in as csv (to correct column type errors) and join to time series objects
-  for (i in 1:length(names)){
+ for (i in 1:length(names)){
     filename <- paste(names[i], "clean.csv", sep="_")
     file <- read_csv(paste0(localpath, "clean/monthly/", report, "/", filename))
     

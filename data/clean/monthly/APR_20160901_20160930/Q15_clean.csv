@@ -3,107 +3,107 @@ living_situation,total,population,start_date,end_date,question,category,househol
 "Emergency shelter, including hotel or motel paid for with emergency shelter voucher",113,all_persons,2016-09-01,2016-09-30,Q15,Homeless Situations,with_children_and_adults,38
 "Emergency shelter, including hotel or motel paid for with emergency shelter voucher",113,all_persons,2016-09-01,2016-09-30,Q15,Homeless Situations,with_only_children,0
 "Emergency shelter, including hotel or motel paid for with emergency shelter voucher",113,all_persons,2016-09-01,2016-09-30,Q15,Homeless Situations,unknown_household_type,0
-Transitional housing for homeless persons (including homeless youth),3,all_persons,2016-09-01,2016-09-30,Q15,NA,without_children,3
-Transitional housing for homeless persons (including homeless youth),3,all_persons,2016-09-01,2016-09-30,Q15,NA,with_children_and_adults,0
-Transitional housing for homeless persons (including homeless youth),3,all_persons,2016-09-01,2016-09-30,Q15,NA,with_only_children,0
-Transitional housing for homeless persons (including homeless youth),3,all_persons,2016-09-01,2016-09-30,Q15,NA,unknown_household_type,0
-Place not meant for human habitation,48,all_persons,2016-09-01,2016-09-30,Q15,NA,without_children,34
-Place not meant for human habitation,48,all_persons,2016-09-01,2016-09-30,Q15,NA,with_children_and_adults,14
-Place not meant for human habitation,48,all_persons,2016-09-01,2016-09-30,Q15,NA,with_only_children,0
-Place not meant for human habitation,48,all_persons,2016-09-01,2016-09-30,Q15,NA,unknown_household_type,0
-Safe Haven,0,all_persons,2016-09-01,2016-09-30,Q15,NA,without_children,0
-Safe Haven,0,all_persons,2016-09-01,2016-09-30,Q15,NA,with_children_and_adults,0
-Safe Haven,0,all_persons,2016-09-01,2016-09-30,Q15,NA,with_only_children,0
-Safe Haven,0,all_persons,2016-09-01,2016-09-30,Q15,NA,unknown_household_type,0
-Host Home,0,all_persons,2016-09-01,2016-09-30,Q15,NA,without_children,0
-Host Home,0,all_persons,2016-09-01,2016-09-30,Q15,NA,with_children_and_adults,0
-Host Home,0,all_persons,2016-09-01,2016-09-30,Q15,NA,with_only_children,0
-Host Home,0,all_persons,2016-09-01,2016-09-30,Q15,NA,unknown_household_type,0
+Transitional housing for homeless persons (including homeless youth),3,all_persons,2016-09-01,2016-09-30,Q15,Homeless Situations,without_children,3
+Transitional housing for homeless persons (including homeless youth),3,all_persons,2016-09-01,2016-09-30,Q15,Homeless Situations,with_children_and_adults,0
+Transitional housing for homeless persons (including homeless youth),3,all_persons,2016-09-01,2016-09-30,Q15,Homeless Situations,with_only_children,0
+Transitional housing for homeless persons (including homeless youth),3,all_persons,2016-09-01,2016-09-30,Q15,Homeless Situations,unknown_household_type,0
+Place not meant for human habitation,48,all_persons,2016-09-01,2016-09-30,Q15,Homeless Situations,without_children,34
+Place not meant for human habitation,48,all_persons,2016-09-01,2016-09-30,Q15,Homeless Situations,with_children_and_adults,14
+Place not meant for human habitation,48,all_persons,2016-09-01,2016-09-30,Q15,Homeless Situations,with_only_children,0
+Place not meant for human habitation,48,all_persons,2016-09-01,2016-09-30,Q15,Homeless Situations,unknown_household_type,0
+Safe Haven,0,all_persons,2016-09-01,2016-09-30,Q15,Homeless Situations,without_children,0
+Safe Haven,0,all_persons,2016-09-01,2016-09-30,Q15,Homeless Situations,with_children_and_adults,0
+Safe Haven,0,all_persons,2016-09-01,2016-09-30,Q15,Homeless Situations,with_only_children,0
+Safe Haven,0,all_persons,2016-09-01,2016-09-30,Q15,Homeless Situations,unknown_household_type,0
+Host Home,0,all_persons,2016-09-01,2016-09-30,Q15,Homeless Situations,without_children,0
+Host Home,0,all_persons,2016-09-01,2016-09-30,Q15,Homeless Situations,with_children_and_adults,0
+Host Home,0,all_persons,2016-09-01,2016-09-30,Q15,Homeless Situations,with_only_children,0
+Host Home,0,all_persons,2016-09-01,2016-09-30,Q15,Homeless Situations,unknown_household_type,0
 Psychiatric hospital or other psychiatric facility,0,all_persons,2016-09-01,2016-09-30,Q15,Institutional Settings,without_children,0
 Psychiatric hospital or other psychiatric facility,0,all_persons,2016-09-01,2016-09-30,Q15,Institutional Settings,with_children_and_adults,0
 Psychiatric hospital or other psychiatric facility,0,all_persons,2016-09-01,2016-09-30,Q15,Institutional Settings,with_only_children,0
 Psychiatric hospital or other psychiatric facility,0,all_persons,2016-09-01,2016-09-30,Q15,Institutional Settings,unknown_household_type,0
-Substance abuse treatment facility or detox center,1,all_persons,2016-09-01,2016-09-30,Q15,NA,without_children,1
-Substance abuse treatment facility or detox center,1,all_persons,2016-09-01,2016-09-30,Q15,NA,with_children_and_adults,0
-Substance abuse treatment facility or detox center,1,all_persons,2016-09-01,2016-09-30,Q15,NA,with_only_children,0
-Substance abuse treatment facility or detox center,1,all_persons,2016-09-01,2016-09-30,Q15,NA,unknown_household_type,0
-Hospital or other residential non-psychiatric medical facility,4,all_persons,2016-09-01,2016-09-30,Q15,NA,without_children,4
-Hospital or other residential non-psychiatric medical facility,4,all_persons,2016-09-01,2016-09-30,Q15,NA,with_children_and_adults,0
-Hospital or other residential non-psychiatric medical facility,4,all_persons,2016-09-01,2016-09-30,Q15,NA,with_only_children,0
-Hospital or other residential non-psychiatric medical facility,4,all_persons,2016-09-01,2016-09-30,Q15,NA,unknown_household_type,0
-"Jail, prison or juvenile detention facility",9,all_persons,2016-09-01,2016-09-30,Q15,NA,without_children,8
-"Jail, prison or juvenile detention facility",9,all_persons,2016-09-01,2016-09-30,Q15,NA,with_children_and_adults,1
-"Jail, prison or juvenile detention facility",9,all_persons,2016-09-01,2016-09-30,Q15,NA,with_only_children,0
-"Jail, prison or juvenile detention facility",9,all_persons,2016-09-01,2016-09-30,Q15,NA,unknown_household_type,0
-Foster care home or foster care group home,1,all_persons,2016-09-01,2016-09-30,Q15,NA,without_children,1
-Foster care home or foster care group home,1,all_persons,2016-09-01,2016-09-30,Q15,NA,with_children_and_adults,0
-Foster care home or foster care group home,1,all_persons,2016-09-01,2016-09-30,Q15,NA,with_only_children,0
-Foster care home or foster care group home,1,all_persons,2016-09-01,2016-09-30,Q15,NA,unknown_household_type,0
-Long-term care facility or nursing home,0,all_persons,2016-09-01,2016-09-30,Q15,NA,without_children,0
-Long-term care facility or nursing home,0,all_persons,2016-09-01,2016-09-30,Q15,NA,with_children_and_adults,0
-Long-term care facility or nursing home,0,all_persons,2016-09-01,2016-09-30,Q15,NA,with_only_children,0
-Long-term care facility or nursing home,0,all_persons,2016-09-01,2016-09-30,Q15,NA,unknown_household_type,0
-Residential project or halfway house with no homeless criteria,1,all_persons,2016-09-01,2016-09-30,Q15,NA,without_children,1
-Residential project or halfway house with no homeless criteria,1,all_persons,2016-09-01,2016-09-30,Q15,NA,with_children_and_adults,0
-Residential project or halfway house with no homeless criteria,1,all_persons,2016-09-01,2016-09-30,Q15,NA,with_only_children,0
-Residential project or halfway house with no homeless criteria,1,all_persons,2016-09-01,2016-09-30,Q15,NA,unknown_household_type,0
+Substance abuse treatment facility or detox center,1,all_persons,2016-09-01,2016-09-30,Q15,Institutional Settings,without_children,1
+Substance abuse treatment facility or detox center,1,all_persons,2016-09-01,2016-09-30,Q15,Institutional Settings,with_children_and_adults,0
+Substance abuse treatment facility or detox center,1,all_persons,2016-09-01,2016-09-30,Q15,Institutional Settings,with_only_children,0
+Substance abuse treatment facility or detox center,1,all_persons,2016-09-01,2016-09-30,Q15,Institutional Settings,unknown_household_type,0
+Hospital or other residential non-psychiatric medical facility,4,all_persons,2016-09-01,2016-09-30,Q15,Institutional Settings,without_children,4
+Hospital or other residential non-psychiatric medical facility,4,all_persons,2016-09-01,2016-09-30,Q15,Institutional Settings,with_children_and_adults,0
+Hospital or other residential non-psychiatric medical facility,4,all_persons,2016-09-01,2016-09-30,Q15,Institutional Settings,with_only_children,0
+Hospital or other residential non-psychiatric medical facility,4,all_persons,2016-09-01,2016-09-30,Q15,Institutional Settings,unknown_household_type,0
+"Jail, prison or juvenile detention facility",9,all_persons,2016-09-01,2016-09-30,Q15,Institutional Settings,without_children,8
+"Jail, prison or juvenile detention facility",9,all_persons,2016-09-01,2016-09-30,Q15,Institutional Settings,with_children_and_adults,1
+"Jail, prison or juvenile detention facility",9,all_persons,2016-09-01,2016-09-30,Q15,Institutional Settings,with_only_children,0
+"Jail, prison or juvenile detention facility",9,all_persons,2016-09-01,2016-09-30,Q15,Institutional Settings,unknown_household_type,0
+Foster care home or foster care group home,1,all_persons,2016-09-01,2016-09-30,Q15,Institutional Settings,without_children,1
+Foster care home or foster care group home,1,all_persons,2016-09-01,2016-09-30,Q15,Institutional Settings,with_children_and_adults,0
+Foster care home or foster care group home,1,all_persons,2016-09-01,2016-09-30,Q15,Institutional Settings,with_only_children,0
+Foster care home or foster care group home,1,all_persons,2016-09-01,2016-09-30,Q15,Institutional Settings,unknown_household_type,0
+Long-term care facility or nursing home,0,all_persons,2016-09-01,2016-09-30,Q15,Institutional Settings,without_children,0
+Long-term care facility or nursing home,0,all_persons,2016-09-01,2016-09-30,Q15,Institutional Settings,with_children_and_adults,0
+Long-term care facility or nursing home,0,all_persons,2016-09-01,2016-09-30,Q15,Institutional Settings,with_only_children,0
+Long-term care facility or nursing home,0,all_persons,2016-09-01,2016-09-30,Q15,Institutional Settings,unknown_household_type,0
+Residential project or halfway house with no homeless criteria,1,all_persons,2016-09-01,2016-09-30,Q15,Institutional Settings,without_children,1
+Residential project or halfway house with no homeless criteria,1,all_persons,2016-09-01,2016-09-30,Q15,Institutional Settings,with_children_and_adults,0
+Residential project or halfway house with no homeless criteria,1,all_persons,2016-09-01,2016-09-30,Q15,Institutional Settings,with_only_children,0
+Residential project or halfway house with no homeless criteria,1,all_persons,2016-09-01,2016-09-30,Q15,Institutional Settings,unknown_household_type,0
 Permanent housing (other than RRH) for formerly homeless persons,2,all_persons,2016-09-01,2016-09-30,Q15,Other Locations,without_children,2
 Permanent housing (other than RRH) for formerly homeless persons,2,all_persons,2016-09-01,2016-09-30,Q15,Other Locations,with_children_and_adults,0
 Permanent housing (other than RRH) for formerly homeless persons,2,all_persons,2016-09-01,2016-09-30,Q15,Other Locations,with_only_children,0
 Permanent housing (other than RRH) for formerly homeless persons,2,all_persons,2016-09-01,2016-09-30,Q15,Other Locations,unknown_household_type,0
-"Owned by client, no ongoing housing subsidy",18,all_persons,2016-09-01,2016-09-30,Q15,NA,without_children,11
-"Owned by client, no ongoing housing subsidy",18,all_persons,2016-09-01,2016-09-30,Q15,NA,with_children_and_adults,7
-"Owned by client, no ongoing housing subsidy",18,all_persons,2016-09-01,2016-09-30,Q15,NA,with_only_children,0
-"Owned by client, no ongoing housing subsidy",18,all_persons,2016-09-01,2016-09-30,Q15,NA,unknown_household_type,0
-"Owned by client, with ongoing housing subsidy",0,all_persons,2016-09-01,2016-09-30,Q15,NA,without_children,0
-"Owned by client, with ongoing housing subsidy",0,all_persons,2016-09-01,2016-09-30,Q15,NA,with_children_and_adults,0
-"Owned by client, with ongoing housing subsidy",0,all_persons,2016-09-01,2016-09-30,Q15,NA,with_only_children,0
-"Owned by client, with ongoing housing subsidy",0,all_persons,2016-09-01,2016-09-30,Q15,NA,unknown_household_type,0
-"Rental by client, with RRH or equivalent subsidy",0,all_persons,2016-09-01,2016-09-30,Q15,NA,without_children,0
-"Rental by client, with RRH or equivalent subsidy",0,all_persons,2016-09-01,2016-09-30,Q15,NA,with_children_and_adults,0
-"Rental by client, with RRH or equivalent subsidy",0,all_persons,2016-09-01,2016-09-30,Q15,NA,with_only_children,0
-"Rental by client, with RRH or equivalent subsidy",0,all_persons,2016-09-01,2016-09-30,Q15,NA,unknown_household_type,0
-"Rental by client, with HCV voucher (tenant or project based)",0,all_persons,2016-09-01,2016-09-30,Q15,NA,without_children,0
-"Rental by client, with HCV voucher (tenant or project based)",0,all_persons,2016-09-01,2016-09-30,Q15,NA,with_children_and_adults,0
-"Rental by client, with HCV voucher (tenant or project based)",0,all_persons,2016-09-01,2016-09-30,Q15,NA,with_only_children,0
-"Rental by client, with HCV voucher (tenant or project based)",0,all_persons,2016-09-01,2016-09-30,Q15,NA,unknown_household_type,0
-Rental by client in a public housing unit,0,all_persons,2016-09-01,2016-09-30,Q15,NA,without_children,0
-Rental by client in a public housing unit,0,all_persons,2016-09-01,2016-09-30,Q15,NA,with_children_and_adults,0
-Rental by client in a public housing unit,0,all_persons,2016-09-01,2016-09-30,Q15,NA,with_only_children,0
-Rental by client in a public housing unit,0,all_persons,2016-09-01,2016-09-30,Q15,NA,unknown_household_type,0
-"Rental by client, no ongoing housing subsidy",156,all_persons,2016-09-01,2016-09-30,Q15,NA,without_children,95
-"Rental by client, no ongoing housing subsidy",156,all_persons,2016-09-01,2016-09-30,Q15,NA,with_children_and_adults,61
-"Rental by client, no ongoing housing subsidy",156,all_persons,2016-09-01,2016-09-30,Q15,NA,with_only_children,0
-"Rental by client, no ongoing housing subsidy",156,all_persons,2016-09-01,2016-09-30,Q15,NA,unknown_household_type,0
-"Rental by client, with VASH housing subsidy",0,all_persons,2016-09-01,2016-09-30,Q15,NA,without_children,0
-"Rental by client, with VASH housing subsidy",0,all_persons,2016-09-01,2016-09-30,Q15,NA,with_children_and_adults,0
-"Rental by client, with VASH housing subsidy",0,all_persons,2016-09-01,2016-09-30,Q15,NA,with_only_children,0
-"Rental by client, with VASH housing subsidy",0,all_persons,2016-09-01,2016-09-30,Q15,NA,unknown_household_type,0
-"Rental by client, with GPD TIP housing subsidy",1,all_persons,2016-09-01,2016-09-30,Q15,NA,without_children,1
-"Rental by client, with GPD TIP housing subsidy",1,all_persons,2016-09-01,2016-09-30,Q15,NA,with_children_and_adults,0
-"Rental by client, with GPD TIP housing subsidy",1,all_persons,2016-09-01,2016-09-30,Q15,NA,with_only_children,0
-"Rental by client, with GPD TIP housing subsidy",1,all_persons,2016-09-01,2016-09-30,Q15,NA,unknown_household_type,0
-"Rental by client, with other housing subsidy (including RRH)",7,all_persons,2016-09-01,2016-09-30,Q15,NA,without_children,2
-"Rental by client, with other housing subsidy (including RRH)",7,all_persons,2016-09-01,2016-09-30,Q15,NA,with_children_and_adults,5
-"Rental by client, with other housing subsidy (including RRH)",7,all_persons,2016-09-01,2016-09-30,Q15,NA,with_only_children,0
-"Rental by client, with other housing subsidy (including RRH)",7,all_persons,2016-09-01,2016-09-30,Q15,NA,unknown_household_type,0
-Hotel or motel paid for without emergency shelter voucher,34,all_persons,2016-09-01,2016-09-30,Q15,NA,without_children,15
-Hotel or motel paid for without emergency shelter voucher,34,all_persons,2016-09-01,2016-09-30,Q15,NA,with_children_and_adults,19
-Hotel or motel paid for without emergency shelter voucher,34,all_persons,2016-09-01,2016-09-30,Q15,NA,with_only_children,0
-Hotel or motel paid for without emergency shelter voucher,34,all_persons,2016-09-01,2016-09-30,Q15,NA,unknown_household_type,0
-"Staying or living in a friend''s room, apartment or house",24,all_persons,2016-09-01,2016-09-30,Q15,NA,without_children,14
-"Staying or living in a friend''s room, apartment or house",24,all_persons,2016-09-01,2016-09-30,Q15,NA,with_children_and_adults,10
-"Staying or living in a friend''s room, apartment or house",24,all_persons,2016-09-01,2016-09-30,Q15,NA,with_only_children,0
-"Staying or living in a friend''s room, apartment or house",24,all_persons,2016-09-01,2016-09-30,Q15,NA,unknown_household_type,0
-"Staying or living in a family member''s room, apartment or house",46,all_persons,2016-09-01,2016-09-30,Q15,NA,without_children,19
-"Staying or living in a family member''s room, apartment or house",46,all_persons,2016-09-01,2016-09-30,Q15,NA,with_children_and_adults,27
-"Staying or living in a family member''s room, apartment or house",46,all_persons,2016-09-01,2016-09-30,Q15,NA,with_only_children,0
-"Staying or living in a family member''s room, apartment or house",46,all_persons,2016-09-01,2016-09-30,Q15,NA,unknown_household_type,0
-Client Doesn''t Know/Client Refused,0,all_persons,2016-09-01,2016-09-30,Q15,NA,without_children,0
-Client Doesn''t Know/Client Refused,0,all_persons,2016-09-01,2016-09-30,Q15,NA,with_children_and_adults,0
-Client Doesn''t Know/Client Refused,0,all_persons,2016-09-01,2016-09-30,Q15,NA,with_only_children,0
-Client Doesn''t Know/Client Refused,0,all_persons,2016-09-01,2016-09-30,Q15,NA,unknown_household_type,0
-Data not collected,10,all_persons,2016-09-01,2016-09-30,Q15,NA,without_children,7
-Data not collected,10,all_persons,2016-09-01,2016-09-30,Q15,NA,with_children_and_adults,2
-Data not collected,10,all_persons,2016-09-01,2016-09-30,Q15,NA,with_only_children,0
-Data not collected,10,all_persons,2016-09-01,2016-09-30,Q15,NA,unknown_household_type,1
+"Owned by client, no ongoing housing subsidy",18,all_persons,2016-09-01,2016-09-30,Q15,Other Locations,without_children,11
+"Owned by client, no ongoing housing subsidy",18,all_persons,2016-09-01,2016-09-30,Q15,Other Locations,with_children_and_adults,7
+"Owned by client, no ongoing housing subsidy",18,all_persons,2016-09-01,2016-09-30,Q15,Other Locations,with_only_children,0
+"Owned by client, no ongoing housing subsidy",18,all_persons,2016-09-01,2016-09-30,Q15,Other Locations,unknown_household_type,0
+"Owned by client, with ongoing housing subsidy",0,all_persons,2016-09-01,2016-09-30,Q15,Other Locations,without_children,0
+"Owned by client, with ongoing housing subsidy",0,all_persons,2016-09-01,2016-09-30,Q15,Other Locations,with_children_and_adults,0
+"Owned by client, with ongoing housing subsidy",0,all_persons,2016-09-01,2016-09-30,Q15,Other Locations,with_only_children,0
+"Owned by client, with ongoing housing subsidy",0,all_persons,2016-09-01,2016-09-30,Q15,Other Locations,unknown_household_type,0
+"Rental by client, with RRH or equivalent subsidy",0,all_persons,2016-09-01,2016-09-30,Q15,Other Locations,without_children,0
+"Rental by client, with RRH or equivalent subsidy",0,all_persons,2016-09-01,2016-09-30,Q15,Other Locations,with_children_and_adults,0
+"Rental by client, with RRH or equivalent subsidy",0,all_persons,2016-09-01,2016-09-30,Q15,Other Locations,with_only_children,0
+"Rental by client, with RRH or equivalent subsidy",0,all_persons,2016-09-01,2016-09-30,Q15,Other Locations,unknown_household_type,0
+"Rental by client, with HCV voucher (tenant or project based)",0,all_persons,2016-09-01,2016-09-30,Q15,Other Locations,without_children,0
+"Rental by client, with HCV voucher (tenant or project based)",0,all_persons,2016-09-01,2016-09-30,Q15,Other Locations,with_children_and_adults,0
+"Rental by client, with HCV voucher (tenant or project based)",0,all_persons,2016-09-01,2016-09-30,Q15,Other Locations,with_only_children,0
+"Rental by client, with HCV voucher (tenant or project based)",0,all_persons,2016-09-01,2016-09-30,Q15,Other Locations,unknown_household_type,0
+Rental by client in a public housing unit,0,all_persons,2016-09-01,2016-09-30,Q15,Other Locations,without_children,0
+Rental by client in a public housing unit,0,all_persons,2016-09-01,2016-09-30,Q15,Other Locations,with_children_and_adults,0
+Rental by client in a public housing unit,0,all_persons,2016-09-01,2016-09-30,Q15,Other Locations,with_only_children,0
+Rental by client in a public housing unit,0,all_persons,2016-09-01,2016-09-30,Q15,Other Locations,unknown_household_type,0
+"Rental by client, no ongoing housing subsidy",156,all_persons,2016-09-01,2016-09-30,Q15,Other Locations,without_children,95
+"Rental by client, no ongoing housing subsidy",156,all_persons,2016-09-01,2016-09-30,Q15,Other Locations,with_children_and_adults,61
+"Rental by client, no ongoing housing subsidy",156,all_persons,2016-09-01,2016-09-30,Q15,Other Locations,with_only_children,0
+"Rental by client, no ongoing housing subsidy",156,all_persons,2016-09-01,2016-09-30,Q15,Other Locations,unknown_household_type,0
+"Rental by client, with VASH housing subsidy",0,all_persons,2016-09-01,2016-09-30,Q15,Other Locations,without_children,0
+"Rental by client, with VASH housing subsidy",0,all_persons,2016-09-01,2016-09-30,Q15,Other Locations,with_children_and_adults,0
+"Rental by client, with VASH housing subsidy",0,all_persons,2016-09-01,2016-09-30,Q15,Other Locations,with_only_children,0
+"Rental by client, with VASH housing subsidy",0,all_persons,2016-09-01,2016-09-30,Q15,Other Locations,unknown_household_type,0
+"Rental by client, with GPD TIP housing subsidy",1,all_persons,2016-09-01,2016-09-30,Q15,Other Locations,without_children,1
+"Rental by client, with GPD TIP housing subsidy",1,all_persons,2016-09-01,2016-09-30,Q15,Other Locations,with_children_and_adults,0
+"Rental by client, with GPD TIP housing subsidy",1,all_persons,2016-09-01,2016-09-30,Q15,Other Locations,with_only_children,0
+"Rental by client, with GPD TIP housing subsidy",1,all_persons,2016-09-01,2016-09-30,Q15,Other Locations,unknown_household_type,0
+"Rental by client, with other housing subsidy (including RRH)",7,all_persons,2016-09-01,2016-09-30,Q15,Other Locations,without_children,2
+"Rental by client, with other housing subsidy (including RRH)",7,all_persons,2016-09-01,2016-09-30,Q15,Other Locations,with_children_and_adults,5
+"Rental by client, with other housing subsidy (including RRH)",7,all_persons,2016-09-01,2016-09-30,Q15,Other Locations,with_only_children,0
+"Rental by client, with other housing subsidy (including RRH)",7,all_persons,2016-09-01,2016-09-30,Q15,Other Locations,unknown_household_type,0
+Hotel or motel paid for without emergency shelter voucher,34,all_persons,2016-09-01,2016-09-30,Q15,Other Locations,without_children,15
+Hotel or motel paid for without emergency shelter voucher,34,all_persons,2016-09-01,2016-09-30,Q15,Other Locations,with_children_and_adults,19
+Hotel or motel paid for without emergency shelter voucher,34,all_persons,2016-09-01,2016-09-30,Q15,Other Locations,with_only_children,0
+Hotel or motel paid for without emergency shelter voucher,34,all_persons,2016-09-01,2016-09-30,Q15,Other Locations,unknown_household_type,0
+"Staying or living in a friend''s room, apartment or house",24,all_persons,2016-09-01,2016-09-30,Q15,Other Locations,without_children,14
+"Staying or living in a friend''s room, apartment or house",24,all_persons,2016-09-01,2016-09-30,Q15,Other Locations,with_children_and_adults,10
+"Staying or living in a friend''s room, apartment or house",24,all_persons,2016-09-01,2016-09-30,Q15,Other Locations,with_only_children,0
+"Staying or living in a friend''s room, apartment or house",24,all_persons,2016-09-01,2016-09-30,Q15,Other Locations,unknown_household_type,0
+"Staying or living in a family member''s room, apartment or house",46,all_persons,2016-09-01,2016-09-30,Q15,Other Locations,without_children,19
+"Staying or living in a family member''s room, apartment or house",46,all_persons,2016-09-01,2016-09-30,Q15,Other Locations,with_children_and_adults,27
+"Staying or living in a family member''s room, apartment or house",46,all_persons,2016-09-01,2016-09-30,Q15,Other Locations,with_only_children,0
+"Staying or living in a family member''s room, apartment or house",46,all_persons,2016-09-01,2016-09-30,Q15,Other Locations,unknown_household_type,0
+Client Doesn''t Know/Client Refused,0,all_persons,2016-09-01,2016-09-30,Q15,Other Locations,without_children,0
+Client Doesn''t Know/Client Refused,0,all_persons,2016-09-01,2016-09-30,Q15,Other Locations,with_children_and_adults,0
+Client Doesn''t Know/Client Refused,0,all_persons,2016-09-01,2016-09-30,Q15,Other Locations,with_only_children,0
+Client Doesn''t Know/Client Refused,0,all_persons,2016-09-01,2016-09-30,Q15,Other Locations,unknown_household_type,0
+Data not collected,10,all_persons,2016-09-01,2016-09-30,Q15,Other Locations,without_children,7
+Data not collected,10,all_persons,2016-09-01,2016-09-30,Q15,Other Locations,with_children_and_adults,2
+Data not collected,10,all_persons,2016-09-01,2016-09-30,Q15,Other Locations,with_only_children,0
+Data not collected,10,all_persons,2016-09-01,2016-09-30,Q15,Other Locations,unknown_household_type,1

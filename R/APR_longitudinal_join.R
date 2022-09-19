@@ -25,6 +25,7 @@ end_dates <- ceiling_date(start_dates, "month") - days(1)
 
 # read in dictionary and extract vector of filenames
 dictionary <- read_xlsx(paste0(localpath, "APR_dictionary.xlsx"))
+
 names <- as.vector(dictionary$question)
 
 filenames <- c(paste0(names, "_clean.csv"))

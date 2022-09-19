@@ -3,107 +3,107 @@ living_situation,total,population,start_date,end_date,question,category,househol
 "Emergency shelter, including hotel or motel paid for with emergency shelter voucher",147,all_persons,2021-03-01,2021-03-31,Q15,Homeless Situations,with_children_and_adults,23
 "Emergency shelter, including hotel or motel paid for with emergency shelter voucher",147,all_persons,2021-03-01,2021-03-31,Q15,Homeless Situations,with_only_children,0
 "Emergency shelter, including hotel or motel paid for with emergency shelter voucher",147,all_persons,2021-03-01,2021-03-31,Q15,Homeless Situations,unknown_household_type,0
-Transitional housing for homeless persons (including homeless youth),2,all_persons,2021-03-01,2021-03-31,Q15,NA,without_children,2
-Transitional housing for homeless persons (including homeless youth),2,all_persons,2021-03-01,2021-03-31,Q15,NA,with_children_and_adults,0
-Transitional housing for homeless persons (including homeless youth),2,all_persons,2021-03-01,2021-03-31,Q15,NA,with_only_children,0
-Transitional housing for homeless persons (including homeless youth),2,all_persons,2021-03-01,2021-03-31,Q15,NA,unknown_household_type,0
-Place not meant for human habitation,204,all_persons,2021-03-01,2021-03-31,Q15,NA,without_children,193
-Place not meant for human habitation,204,all_persons,2021-03-01,2021-03-31,Q15,NA,with_children_and_adults,11
-Place not meant for human habitation,204,all_persons,2021-03-01,2021-03-31,Q15,NA,with_only_children,0
-Place not meant for human habitation,204,all_persons,2021-03-01,2021-03-31,Q15,NA,unknown_household_type,0
-Safe Haven,2,all_persons,2021-03-01,2021-03-31,Q15,NA,without_children,0
-Safe Haven,2,all_persons,2021-03-01,2021-03-31,Q15,NA,with_children_and_adults,2
-Safe Haven,2,all_persons,2021-03-01,2021-03-31,Q15,NA,with_only_children,0
-Safe Haven,2,all_persons,2021-03-01,2021-03-31,Q15,NA,unknown_household_type,0
-Host Home,1,all_persons,2021-03-01,2021-03-31,Q15,NA,without_children,1
-Host Home,1,all_persons,2021-03-01,2021-03-31,Q15,NA,with_children_and_adults,0
-Host Home,1,all_persons,2021-03-01,2021-03-31,Q15,NA,with_only_children,0
-Host Home,1,all_persons,2021-03-01,2021-03-31,Q15,NA,unknown_household_type,0
+Transitional housing for homeless persons (including homeless youth),2,all_persons,2021-03-01,2021-03-31,Q15,Homeless Situations,without_children,2
+Transitional housing for homeless persons (including homeless youth),2,all_persons,2021-03-01,2021-03-31,Q15,Homeless Situations,with_children_and_adults,0
+Transitional housing for homeless persons (including homeless youth),2,all_persons,2021-03-01,2021-03-31,Q15,Homeless Situations,with_only_children,0
+Transitional housing for homeless persons (including homeless youth),2,all_persons,2021-03-01,2021-03-31,Q15,Homeless Situations,unknown_household_type,0
+Place not meant for human habitation,204,all_persons,2021-03-01,2021-03-31,Q15,Homeless Situations,without_children,193
+Place not meant for human habitation,204,all_persons,2021-03-01,2021-03-31,Q15,Homeless Situations,with_children_and_adults,11
+Place not meant for human habitation,204,all_persons,2021-03-01,2021-03-31,Q15,Homeless Situations,with_only_children,0
+Place not meant for human habitation,204,all_persons,2021-03-01,2021-03-31,Q15,Homeless Situations,unknown_household_type,0
+Safe Haven,2,all_persons,2021-03-01,2021-03-31,Q15,Homeless Situations,without_children,0
+Safe Haven,2,all_persons,2021-03-01,2021-03-31,Q15,Homeless Situations,with_children_and_adults,2
+Safe Haven,2,all_persons,2021-03-01,2021-03-31,Q15,Homeless Situations,with_only_children,0
+Safe Haven,2,all_persons,2021-03-01,2021-03-31,Q15,Homeless Situations,unknown_household_type,0
+Host Home,1,all_persons,2021-03-01,2021-03-31,Q15,Homeless Situations,without_children,1
+Host Home,1,all_persons,2021-03-01,2021-03-31,Q15,Homeless Situations,with_children_and_adults,0
+Host Home,1,all_persons,2021-03-01,2021-03-31,Q15,Homeless Situations,with_only_children,0
+Host Home,1,all_persons,2021-03-01,2021-03-31,Q15,Homeless Situations,unknown_household_type,0
 Psychiatric hospital or other psychiatric facility,6,all_persons,2021-03-01,2021-03-31,Q15,Institutional Settings,without_children,6
 Psychiatric hospital or other psychiatric facility,6,all_persons,2021-03-01,2021-03-31,Q15,Institutional Settings,with_children_and_adults,0
 Psychiatric hospital or other psychiatric facility,6,all_persons,2021-03-01,2021-03-31,Q15,Institutional Settings,with_only_children,0
 Psychiatric hospital or other psychiatric facility,6,all_persons,2021-03-01,2021-03-31,Q15,Institutional Settings,unknown_household_type,0
-Substance abuse treatment facility or detox center,5,all_persons,2021-03-01,2021-03-31,Q15,NA,without_children,5
-Substance abuse treatment facility or detox center,5,all_persons,2021-03-01,2021-03-31,Q15,NA,with_children_and_adults,0
-Substance abuse treatment facility or detox center,5,all_persons,2021-03-01,2021-03-31,Q15,NA,with_only_children,0
-Substance abuse treatment facility or detox center,5,all_persons,2021-03-01,2021-03-31,Q15,NA,unknown_household_type,0
-Hospital or other residential non-psychiatric medical facility,23,all_persons,2021-03-01,2021-03-31,Q15,NA,without_children,23
-Hospital or other residential non-psychiatric medical facility,23,all_persons,2021-03-01,2021-03-31,Q15,NA,with_children_and_adults,0
-Hospital or other residential non-psychiatric medical facility,23,all_persons,2021-03-01,2021-03-31,Q15,NA,with_only_children,0
-Hospital or other residential non-psychiatric medical facility,23,all_persons,2021-03-01,2021-03-31,Q15,NA,unknown_household_type,0
-"Jail, prison or juvenile detention facility",27,all_persons,2021-03-01,2021-03-31,Q15,NA,without_children,27
-"Jail, prison or juvenile detention facility",27,all_persons,2021-03-01,2021-03-31,Q15,NA,with_children_and_adults,0
-"Jail, prison or juvenile detention facility",27,all_persons,2021-03-01,2021-03-31,Q15,NA,with_only_children,0
-"Jail, prison or juvenile detention facility",27,all_persons,2021-03-01,2021-03-31,Q15,NA,unknown_household_type,0
-Foster care home or foster care group home,1,all_persons,2021-03-01,2021-03-31,Q15,NA,without_children,1
-Foster care home or foster care group home,1,all_persons,2021-03-01,2021-03-31,Q15,NA,with_children_and_adults,0
-Foster care home or foster care group home,1,all_persons,2021-03-01,2021-03-31,Q15,NA,with_only_children,0
-Foster care home or foster care group home,1,all_persons,2021-03-01,2021-03-31,Q15,NA,unknown_household_type,0
-Long-term care facility or nursing home,0,all_persons,2021-03-01,2021-03-31,Q15,NA,without_children,0
-Long-term care facility or nursing home,0,all_persons,2021-03-01,2021-03-31,Q15,NA,with_children_and_adults,0
-Long-term care facility or nursing home,0,all_persons,2021-03-01,2021-03-31,Q15,NA,with_only_children,0
-Long-term care facility or nursing home,0,all_persons,2021-03-01,2021-03-31,Q15,NA,unknown_household_type,0
-Residential project or halfway house with no homeless criteria,1,all_persons,2021-03-01,2021-03-31,Q15,NA,without_children,1
-Residential project or halfway house with no homeless criteria,1,all_persons,2021-03-01,2021-03-31,Q15,NA,with_children_and_adults,0
-Residential project or halfway house with no homeless criteria,1,all_persons,2021-03-01,2021-03-31,Q15,NA,with_only_children,0
-Residential project or halfway house with no homeless criteria,1,all_persons,2021-03-01,2021-03-31,Q15,NA,unknown_household_type,0
+Substance abuse treatment facility or detox center,5,all_persons,2021-03-01,2021-03-31,Q15,Institutional Settings,without_children,5
+Substance abuse treatment facility or detox center,5,all_persons,2021-03-01,2021-03-31,Q15,Institutional Settings,with_children_and_adults,0
+Substance abuse treatment facility or detox center,5,all_persons,2021-03-01,2021-03-31,Q15,Institutional Settings,with_only_children,0
+Substance abuse treatment facility or detox center,5,all_persons,2021-03-01,2021-03-31,Q15,Institutional Settings,unknown_household_type,0
+Hospital or other residential non-psychiatric medical facility,23,all_persons,2021-03-01,2021-03-31,Q15,Institutional Settings,without_children,23
+Hospital or other residential non-psychiatric medical facility,23,all_persons,2021-03-01,2021-03-31,Q15,Institutional Settings,with_children_and_adults,0
+Hospital or other residential non-psychiatric medical facility,23,all_persons,2021-03-01,2021-03-31,Q15,Institutional Settings,with_only_children,0
+Hospital or other residential non-psychiatric medical facility,23,all_persons,2021-03-01,2021-03-31,Q15,Institutional Settings,unknown_household_type,0
+"Jail, prison or juvenile detention facility",27,all_persons,2021-03-01,2021-03-31,Q15,Institutional Settings,without_children,27
+"Jail, prison or juvenile detention facility",27,all_persons,2021-03-01,2021-03-31,Q15,Institutional Settings,with_children_and_adults,0
+"Jail, prison or juvenile detention facility",27,all_persons,2021-03-01,2021-03-31,Q15,Institutional Settings,with_only_children,0
+"Jail, prison or juvenile detention facility",27,all_persons,2021-03-01,2021-03-31,Q15,Institutional Settings,unknown_household_type,0
+Foster care home or foster care group home,1,all_persons,2021-03-01,2021-03-31,Q15,Institutional Settings,without_children,1
+Foster care home or foster care group home,1,all_persons,2021-03-01,2021-03-31,Q15,Institutional Settings,with_children_and_adults,0
+Foster care home or foster care group home,1,all_persons,2021-03-01,2021-03-31,Q15,Institutional Settings,with_only_children,0
+Foster care home or foster care group home,1,all_persons,2021-03-01,2021-03-31,Q15,Institutional Settings,unknown_household_type,0
+Long-term care facility or nursing home,0,all_persons,2021-03-01,2021-03-31,Q15,Institutional Settings,without_children,0
+Long-term care facility or nursing home,0,all_persons,2021-03-01,2021-03-31,Q15,Institutional Settings,with_children_and_adults,0
+Long-term care facility or nursing home,0,all_persons,2021-03-01,2021-03-31,Q15,Institutional Settings,with_only_children,0
+Long-term care facility or nursing home,0,all_persons,2021-03-01,2021-03-31,Q15,Institutional Settings,unknown_household_type,0
+Residential project or halfway house with no homeless criteria,1,all_persons,2021-03-01,2021-03-31,Q15,Institutional Settings,without_children,1
+Residential project or halfway house with no homeless criteria,1,all_persons,2021-03-01,2021-03-31,Q15,Institutional Settings,with_children_and_adults,0
+Residential project or halfway house with no homeless criteria,1,all_persons,2021-03-01,2021-03-31,Q15,Institutional Settings,with_only_children,0
+Residential project or halfway house with no homeless criteria,1,all_persons,2021-03-01,2021-03-31,Q15,Institutional Settings,unknown_household_type,0
 Permanent housing (other than RRH) for formerly homeless persons,0,all_persons,2021-03-01,2021-03-31,Q15,Other Locations,without_children,0
 Permanent housing (other than RRH) for formerly homeless persons,0,all_persons,2021-03-01,2021-03-31,Q15,Other Locations,with_children_and_adults,0
 Permanent housing (other than RRH) for formerly homeless persons,0,all_persons,2021-03-01,2021-03-31,Q15,Other Locations,with_only_children,0
 Permanent housing (other than RRH) for formerly homeless persons,0,all_persons,2021-03-01,2021-03-31,Q15,Other Locations,unknown_household_type,0
-"Owned by client, no ongoing housing subsidy",5,all_persons,2021-03-01,2021-03-31,Q15,NA,without_children,5
-"Owned by client, no ongoing housing subsidy",5,all_persons,2021-03-01,2021-03-31,Q15,NA,with_children_and_adults,0
-"Owned by client, no ongoing housing subsidy",5,all_persons,2021-03-01,2021-03-31,Q15,NA,with_only_children,0
-"Owned by client, no ongoing housing subsidy",5,all_persons,2021-03-01,2021-03-31,Q15,NA,unknown_household_type,0
-"Owned by client, with ongoing housing subsidy",0,all_persons,2021-03-01,2021-03-31,Q15,NA,without_children,0
-"Owned by client, with ongoing housing subsidy",0,all_persons,2021-03-01,2021-03-31,Q15,NA,with_children_and_adults,0
-"Owned by client, with ongoing housing subsidy",0,all_persons,2021-03-01,2021-03-31,Q15,NA,with_only_children,0
-"Owned by client, with ongoing housing subsidy",0,all_persons,2021-03-01,2021-03-31,Q15,NA,unknown_household_type,0
-"Rental by client, with RRH or equivalent subsidy",1,all_persons,2021-03-01,2021-03-31,Q15,NA,without_children,1
-"Rental by client, with RRH or equivalent subsidy",1,all_persons,2021-03-01,2021-03-31,Q15,NA,with_children_and_adults,0
-"Rental by client, with RRH or equivalent subsidy",1,all_persons,2021-03-01,2021-03-31,Q15,NA,with_only_children,0
-"Rental by client, with RRH or equivalent subsidy",1,all_persons,2021-03-01,2021-03-31,Q15,NA,unknown_household_type,0
-"Rental by client, with HCV voucher (tenant or project based)",2,all_persons,2021-03-01,2021-03-31,Q15,NA,without_children,1
-"Rental by client, with HCV voucher (tenant or project based)",2,all_persons,2021-03-01,2021-03-31,Q15,NA,with_children_and_adults,1
-"Rental by client, with HCV voucher (tenant or project based)",2,all_persons,2021-03-01,2021-03-31,Q15,NA,with_only_children,0
-"Rental by client, with HCV voucher (tenant or project based)",2,all_persons,2021-03-01,2021-03-31,Q15,NA,unknown_household_type,0
-Rental by client in a public housing unit,0,all_persons,2021-03-01,2021-03-31,Q15,NA,without_children,0
-Rental by client in a public housing unit,0,all_persons,2021-03-01,2021-03-31,Q15,NA,with_children_and_adults,0
-Rental by client in a public housing unit,0,all_persons,2021-03-01,2021-03-31,Q15,NA,with_only_children,0
-Rental by client in a public housing unit,0,all_persons,2021-03-01,2021-03-31,Q15,NA,unknown_household_type,0
-"Rental by client, no ongoing housing subsidy",175,all_persons,2021-03-01,2021-03-31,Q15,NA,without_children,125
-"Rental by client, no ongoing housing subsidy",175,all_persons,2021-03-01,2021-03-31,Q15,NA,with_children_and_adults,47
-"Rental by client, no ongoing housing subsidy",175,all_persons,2021-03-01,2021-03-31,Q15,NA,with_only_children,0
-"Rental by client, no ongoing housing subsidy",175,all_persons,2021-03-01,2021-03-31,Q15,NA,unknown_household_type,3
-"Rental by client, with VASH housing subsidy",1,all_persons,2021-03-01,2021-03-31,Q15,NA,without_children,1
-"Rental by client, with VASH housing subsidy",1,all_persons,2021-03-01,2021-03-31,Q15,NA,with_children_and_adults,0
-"Rental by client, with VASH housing subsidy",1,all_persons,2021-03-01,2021-03-31,Q15,NA,with_only_children,0
-"Rental by client, with VASH housing subsidy",1,all_persons,2021-03-01,2021-03-31,Q15,NA,unknown_household_type,0
-"Rental by client, with GPD TIP housing subsidy",1,all_persons,2021-03-01,2021-03-31,Q15,NA,without_children,1
-"Rental by client, with GPD TIP housing subsidy",1,all_persons,2021-03-01,2021-03-31,Q15,NA,with_children_and_adults,0
-"Rental by client, with GPD TIP housing subsidy",1,all_persons,2021-03-01,2021-03-31,Q15,NA,with_only_children,0
-"Rental by client, with GPD TIP housing subsidy",1,all_persons,2021-03-01,2021-03-31,Q15,NA,unknown_household_type,0
-"Rental by client, with other housing subsidy (including RRH)",7,all_persons,2021-03-01,2021-03-31,Q15,NA,without_children,6
-"Rental by client, with other housing subsidy (including RRH)",7,all_persons,2021-03-01,2021-03-31,Q15,NA,with_children_and_adults,1
-"Rental by client, with other housing subsidy (including RRH)",7,all_persons,2021-03-01,2021-03-31,Q15,NA,with_only_children,0
-"Rental by client, with other housing subsidy (including RRH)",7,all_persons,2021-03-01,2021-03-31,Q15,NA,unknown_household_type,0
-Hotel or motel paid for without emergency shelter voucher,94,all_persons,2021-03-01,2021-03-31,Q15,NA,without_children,76
-Hotel or motel paid for without emergency shelter voucher,94,all_persons,2021-03-01,2021-03-31,Q15,NA,with_children_and_adults,17
-Hotel or motel paid for without emergency shelter voucher,94,all_persons,2021-03-01,2021-03-31,Q15,NA,with_only_children,0
-Hotel or motel paid for without emergency shelter voucher,94,all_persons,2021-03-01,2021-03-31,Q15,NA,unknown_household_type,1
-"Staying or living in a friend''s room, apartment or house",84,all_persons,2021-03-01,2021-03-31,Q15,NA,without_children,68
-"Staying or living in a friend''s room, apartment or house",84,all_persons,2021-03-01,2021-03-31,Q15,NA,with_children_and_adults,16
-"Staying or living in a friend''s room, apartment or house",84,all_persons,2021-03-01,2021-03-31,Q15,NA,with_only_children,0
-"Staying or living in a friend''s room, apartment or house",84,all_persons,2021-03-01,2021-03-31,Q15,NA,unknown_household_type,0
-"Staying or living in a family member''s room, apartment or house",112,all_persons,2021-03-01,2021-03-31,Q15,NA,without_children,79
-"Staying or living in a family member''s room, apartment or house",112,all_persons,2021-03-01,2021-03-31,Q15,NA,with_children_and_adults,33
-"Staying or living in a family member''s room, apartment or house",112,all_persons,2021-03-01,2021-03-31,Q15,NA,with_only_children,0
-"Staying or living in a family member''s room, apartment or house",112,all_persons,2021-03-01,2021-03-31,Q15,NA,unknown_household_type,0
-Client Doesn''t Know/Client Refused,4,all_persons,2021-03-01,2021-03-31,Q15,NA,without_children,4
-Client Doesn''t Know/Client Refused,4,all_persons,2021-03-01,2021-03-31,Q15,NA,with_children_and_adults,0
-Client Doesn''t Know/Client Refused,4,all_persons,2021-03-01,2021-03-31,Q15,NA,with_only_children,0
-Client Doesn''t Know/Client Refused,4,all_persons,2021-03-01,2021-03-31,Q15,NA,unknown_household_type,0
-Data not collected,21,all_persons,2021-03-01,2021-03-31,Q15,NA,without_children,14
-Data not collected,21,all_persons,2021-03-01,2021-03-31,Q15,NA,with_children_and_adults,7
-Data not collected,21,all_persons,2021-03-01,2021-03-31,Q15,NA,with_only_children,0
-Data not collected,21,all_persons,2021-03-01,2021-03-31,Q15,NA,unknown_household_type,0
+"Owned by client, no ongoing housing subsidy",5,all_persons,2021-03-01,2021-03-31,Q15,Other Locations,without_children,5
+"Owned by client, no ongoing housing subsidy",5,all_persons,2021-03-01,2021-03-31,Q15,Other Locations,with_children_and_adults,0
+"Owned by client, no ongoing housing subsidy",5,all_persons,2021-03-01,2021-03-31,Q15,Other Locations,with_only_children,0
+"Owned by client, no ongoing housing subsidy",5,all_persons,2021-03-01,2021-03-31,Q15,Other Locations,unknown_household_type,0
+"Owned by client, with ongoing housing subsidy",0,all_persons,2021-03-01,2021-03-31,Q15,Other Locations,without_children,0
+"Owned by client, with ongoing housing subsidy",0,all_persons,2021-03-01,2021-03-31,Q15,Other Locations,with_children_and_adults,0
+"Owned by client, with ongoing housing subsidy",0,all_persons,2021-03-01,2021-03-31,Q15,Other Locations,with_only_children,0
+"Owned by client, with ongoing housing subsidy",0,all_persons,2021-03-01,2021-03-31,Q15,Other Locations,unknown_household_type,0
+"Rental by client, with RRH or equivalent subsidy",1,all_persons,2021-03-01,2021-03-31,Q15,Other Locations,without_children,1
+"Rental by client, with RRH or equivalent subsidy",1,all_persons,2021-03-01,2021-03-31,Q15,Other Locations,with_children_and_adults,0
+"Rental by client, with RRH or equivalent subsidy",1,all_persons,2021-03-01,2021-03-31,Q15,Other Locations,with_only_children,0
+"Rental by client, with RRH or equivalent subsidy",1,all_persons,2021-03-01,2021-03-31,Q15,Other Locations,unknown_household_type,0
+"Rental by client, with HCV voucher (tenant or project based)",2,all_persons,2021-03-01,2021-03-31,Q15,Other Locations,without_children,1
+"Rental by client, with HCV voucher (tenant or project based)",2,all_persons,2021-03-01,2021-03-31,Q15,Other Locations,with_children_and_adults,1
+"Rental by client, with HCV voucher (tenant or project based)",2,all_persons,2021-03-01,2021-03-31,Q15,Other Locations,with_only_children,0
+"Rental by client, with HCV voucher (tenant or project based)",2,all_persons,2021-03-01,2021-03-31,Q15,Other Locations,unknown_household_type,0
+Rental by client in a public housing unit,0,all_persons,2021-03-01,2021-03-31,Q15,Other Locations,without_children,0
+Rental by client in a public housing unit,0,all_persons,2021-03-01,2021-03-31,Q15,Other Locations,with_children_and_adults,0
+Rental by client in a public housing unit,0,all_persons,2021-03-01,2021-03-31,Q15,Other Locations,with_only_children,0
+Rental by client in a public housing unit,0,all_persons,2021-03-01,2021-03-31,Q15,Other Locations,unknown_household_type,0
+"Rental by client, no ongoing housing subsidy",175,all_persons,2021-03-01,2021-03-31,Q15,Other Locations,without_children,125
+"Rental by client, no ongoing housing subsidy",175,all_persons,2021-03-01,2021-03-31,Q15,Other Locations,with_children_and_adults,47
+"Rental by client, no ongoing housing subsidy",175,all_persons,2021-03-01,2021-03-31,Q15,Other Locations,with_only_children,0
+"Rental by client, no ongoing housing subsidy",175,all_persons,2021-03-01,2021-03-31,Q15,Other Locations,unknown_household_type,3
+"Rental by client, with VASH housing subsidy",1,all_persons,2021-03-01,2021-03-31,Q15,Other Locations,without_children,1
+"Rental by client, with VASH housing subsidy",1,all_persons,2021-03-01,2021-03-31,Q15,Other Locations,with_children_and_adults,0
+"Rental by client, with VASH housing subsidy",1,all_persons,2021-03-01,2021-03-31,Q15,Other Locations,with_only_children,0
+"Rental by client, with VASH housing subsidy",1,all_persons,2021-03-01,2021-03-31,Q15,Other Locations,unknown_household_type,0
+"Rental by client, with GPD TIP housing subsidy",1,all_persons,2021-03-01,2021-03-31,Q15,Other Locations,without_children,1
+"Rental by client, with GPD TIP housing subsidy",1,all_persons,2021-03-01,2021-03-31,Q15,Other Locations,with_children_and_adults,0
+"Rental by client, with GPD TIP housing subsidy",1,all_persons,2021-03-01,2021-03-31,Q15,Other Locations,with_only_children,0
+"Rental by client, with GPD TIP housing subsidy",1,all_persons,2021-03-01,2021-03-31,Q15,Other Locations,unknown_household_type,0
+"Rental by client, with other housing subsidy (including RRH)",7,all_persons,2021-03-01,2021-03-31,Q15,Other Locations,without_children,6
+"Rental by client, with other housing subsidy (including RRH)",7,all_persons,2021-03-01,2021-03-31,Q15,Other Locations,with_children_and_adults,1
+"Rental by client, with other housing subsidy (including RRH)",7,all_persons,2021-03-01,2021-03-31,Q15,Other Locations,with_only_children,0
+"Rental by client, with other housing subsidy (including RRH)",7,all_persons,2021-03-01,2021-03-31,Q15,Other Locations,unknown_household_type,0
+Hotel or motel paid for without emergency shelter voucher,94,all_persons,2021-03-01,2021-03-31,Q15,Other Locations,without_children,76
+Hotel or motel paid for without emergency shelter voucher,94,all_persons,2021-03-01,2021-03-31,Q15,Other Locations,with_children_and_adults,17
+Hotel or motel paid for without emergency shelter voucher,94,all_persons,2021-03-01,2021-03-31,Q15,Other Locations,with_only_children,0
+Hotel or motel paid for without emergency shelter voucher,94,all_persons,2021-03-01,2021-03-31,Q15,Other Locations,unknown_household_type,1
+"Staying or living in a friend''s room, apartment or house",84,all_persons,2021-03-01,2021-03-31,Q15,Other Locations,without_children,68
+"Staying or living in a friend''s room, apartment or house",84,all_persons,2021-03-01,2021-03-31,Q15,Other Locations,with_children_and_adults,16
+"Staying or living in a friend''s room, apartment or house",84,all_persons,2021-03-01,2021-03-31,Q15,Other Locations,with_only_children,0
+"Staying or living in a friend''s room, apartment or house",84,all_persons,2021-03-01,2021-03-31,Q15,Other Locations,unknown_household_type,0
+"Staying or living in a family member''s room, apartment or house",112,all_persons,2021-03-01,2021-03-31,Q15,Other Locations,without_children,79
+"Staying or living in a family member''s room, apartment or house",112,all_persons,2021-03-01,2021-03-31,Q15,Other Locations,with_children_and_adults,33
+"Staying or living in a family member''s room, apartment or house",112,all_persons,2021-03-01,2021-03-31,Q15,Other Locations,with_only_children,0
+"Staying or living in a family member''s room, apartment or house",112,all_persons,2021-03-01,2021-03-31,Q15,Other Locations,unknown_household_type,0
+Client Doesn''t Know/Client Refused,4,all_persons,2021-03-01,2021-03-31,Q15,Other Locations,without_children,4
+Client Doesn''t Know/Client Refused,4,all_persons,2021-03-01,2021-03-31,Q15,Other Locations,with_children_and_adults,0
+Client Doesn''t Know/Client Refused,4,all_persons,2021-03-01,2021-03-31,Q15,Other Locations,with_only_children,0
+Client Doesn''t Know/Client Refused,4,all_persons,2021-03-01,2021-03-31,Q15,Other Locations,unknown_household_type,0
+Data not collected,21,all_persons,2021-03-01,2021-03-31,Q15,Other Locations,without_children,14
+Data not collected,21,all_persons,2021-03-01,2021-03-31,Q15,Other Locations,with_children_and_adults,7
+Data not collected,21,all_persons,2021-03-01,2021-03-31,Q15,Other Locations,with_only_children,0
+Data not collected,21,all_persons,2021-03-01,2021-03-31,Q15,Other Locations,unknown_household_type,0
